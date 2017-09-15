@@ -1,5 +1,5 @@
-baseurl: http://haruute0.github.io
+baseurl: http://haruute0.github.io/hugo-ucosp/
 disablePathToLower: true
 languageCode: en-us
-title: My New Hugo Site
-...
+title: UCOSP
+theme: "blackburn"
