@@ -4,7 +4,7 @@ install:
   - go get -v github.com/gohugoio/hugo
 
 script:
-  - hugo --theme=heater-hugo-master
+  - hugo --theme=heather-hugo-master
   - touch public/.nojekyll
   
 deploy:
