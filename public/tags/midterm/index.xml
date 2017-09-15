@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midterm on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/midterm/</link>
+    <description>Recent content in Midterm on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2010 03:37:11 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/midterm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blake&amp;#039;s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/03/blakes-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 03:37:11 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/03/blakes-midterm-report/</guid>
+      <description>&lt;p&gt;As contrasted with some of my students, I&amp;#8217;m fairly happy with the amount of coding work they&amp;#8217;ve gotten done. I think this is largely because I had more realistic expectations coming in to the course. After 15 years in industry I&amp;#8217;ve come to realize that there&amp;#8217;s a whole lot more to fixing bugs than fixing the bug, and the other stuff is what takes the time. Stuff like figuring out what&amp;#8217;s going wrong, and how the code fits together, writing tests, getting it reviewed, fixing the things the reviewer points out, getting it committed, and (hopefully) writing up their weekly status reports.&lt;/p&gt;
+
+&lt;p&gt;So, yeah, most of the students seem on track to get their bugs committed by the end of the term, and I&amp;#8217;m pretty happy with that. The only thing I could ask for is more communication. Even though I&amp;#8217;ve been getting more email and seeing more questions in IRC recently, I would also like to see some blog posts so that other people can take advantage of the things the current crop of students are learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chris Van &amp;#8211; Midway Update</title>
+      <link>http://haruute0.github.io/2009-2010/basie/2010/03/chris-van-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 03:25:02 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/basie/2010/03/chris-van-midway-update/</guid>
+      <description>&lt;p&gt;Working on Basie has been a blast! And the team, they&amp;#8217;re really a first-class bunch. Well, to quote Greg, Basie has seen a &amp;ldquo;flurry of activity&amp;rdquo; in the recent weeks as we prepared to debut Basie 0.6. We have all done tremendous work fixing many outstanding bugs, discovering new issues and solutions, refactoring a bunch of code, and redesigning the interface.&lt;/p&gt;
+
+&lt;p&gt;These past few months I&amp;#8217;ve worked mostly on fixing old issues and redesigning the Dashboard. Now that we&amp;#8217;ve pushed Basie 0.6 out the door, I&amp;#8217;ve begun working on a migration tool to import data from Trac. And I&amp;#8217;d say I am very much on track. 🙂&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m glad I discovered how amazingly useful a tool like ReviewBoard can be. And status reports and weekly IRC meetings have certainly been helpful to see where we all stand, where our priorities should be, etc.&lt;/p&gt;
+
+&lt;p&gt;Though we&amp;#8217;re only halfway through the term, I&amp;#8217;m excited to see all the new additions come together soon for our 0.7 release.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joseph&amp;#039;s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/josephs-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 00:59:43 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/josephs-midterm-report/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+
+&lt;p&gt;Things are going slower than expected. I thought I would be able to get so much more done. The first few weeks were spent on my first changelist. My expectation was to be done with the first week &lt;a href=&#34;http://en.wikipedia.org/wiki/Hofstadter&#39;s_law&#34;&gt;[8]&lt;/a&gt;. I have learned tons about Ruby, Rails, Rails plugins and javascript. I am currently working on replaced the AJAX pagination with serverside pagination on the submissions page. Afterwards, I will be working on the detailed view for the submissions page. One thing I need to do better on is participating in the codereviews on the reviewboard. Even though I may not be the most experienced developer on the Markus team, I will learn something by writing a codereview. This will help in learning anything I&amp;#8217;ve missed about the Markus system. I believe that my knowledge of the Markus database is the weakest at this point.&lt;/p&gt;
+
+&lt;p&gt;Things I have learned:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby and Rails&lt;/li&gt;
+&lt;li&gt;Shoulda &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mocha reminds me of mocking JUnit tests in Java &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&#34;&gt;[3]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;will_paginate: an elegant plugin for performing pagination &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;[4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;keeping state with in URL when doing AJAX calls &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;neat tricks with javascript &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Word Press and Blogging: I have blogging fever. I cannot stop blogging about everything I have learned. I just hope someday a stranger will comment on how helpful it was.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things I have completed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;when the Markus webserver boots up, it verifies that the settings inside the configuration file located at: &lt;markus_root&gt;/config/environments/&lt;env&gt;.rb are valid. For instance, if the password validation script is not executable, a message will be printed to the console and the webserver will stop starting up.&lt;/li&gt;
+&lt;li&gt;got the AJAX calls from ahrefs to to save state into the URL &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;implemented a mock submissions page that used serverside pagination to compare the performance with AJAX pagination&lt;/li&gt;
+&lt;li&gt;since the performance was similar, Markus has decided to go with the serverside pagination because of all the loops we would have to jump through to get the AJAX pagination to work with the back button and bookmarks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things I am working on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;switching from AJAX pagination to serverside pagination so that bookmarks and the back button will work again&lt;/li&gt;
+&lt;li&gt;encountered a large speed bump dealing with nested forms&lt;/li&gt;
+&lt;li&gt;going to blog about the work around after I have verified that it works&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things to work on in the future:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;verifying that the serverside pagination has not changed the behaviour of the submissions page&lt;/li&gt;
+&lt;li&gt;detailed view for the marker&amp;#8217;s or admin&amp;#8217;s submissions page&lt;/li&gt;
+&lt;li&gt;cleaning up the serverside pagination code to take advantage of the conciseness of will_paginate &lt;a href=&#34;http://railscasts.com/episodes/51-will-paginate&#34;&gt;[7]&lt;/a&gt;. This will involve implementing a custom link render so that the submissions page&amp;#8217;s UI does not change. The links generated by will_paginate looks like: &amp;#8220;Previous Page 1 2 3 4 5 6 7 Next Page&amp;#8221;. The links on the submissions page looks different.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;[1] &amp;#8211; Nested Contexts &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] &amp;#8211; Mocking Modules with Mocha &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] &amp;#8211; Weird Behaviour of Mocha- &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4] &amp;#8211; Will Paginate and Markus &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5] &amp;#8211; Rails, AJAX, Back Buttons, and Bookmarks &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6] &amp;#8211; Setting the URL Using Javascript &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&#34;&gt;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[7] &amp;#8211; will_paginate &amp;#8211; &lt;a href=&#34;http://railscasts.com/episodes/51-will-paginate&#34;&gt;http://railscasts.com/episodes/51-will-paginate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8] &amp;#8211; Hofstadter&amp;#8217;s law &amp;#8211; &lt;a href=&#34;http://en.wikipedia.org/wiki/Hofstadter&#39;s_law&#34;&gt;http://en.wikipedia.org/wiki/Hofstadter&amp;#8217;s_law&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[](&lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Victoria Mui – Midway Update</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/02/victoria-mui-%E2%80%93-midway-update/</link>
+      <pubDate>Sun, 28 Feb 2010 23:46:44 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/02/victoria-mui-%E2%80%93-midway-update/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Expectations, Status &amp;amp; Progress&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Coming into this UCOSP project course, my ultimate goal was to be able to utilize the human-computer interaction (HCI) and user experience (UX) design knowledge that I’ve acquired from both school and work to enhance the usability of MarkUs.  Through this experience, I’m hoping to solidify my understanding of various usability concepts and familiarize myself with more projects out there.&lt;/p&gt;
+
+&lt;p&gt;Up until now, I feel that I’m on track with the work that I’m doing with MarkUs.  I’ve been spending most of my time redesigning and reorganizing a lot of features and functionality MarkUs currently offers.  There’s no better way to do this than to keep prototyping and getting user feedback through usability sessions.  Because of my full-time position, I have not been able to collect as much usability feedback that I’d like to in person.  But I’ve found that running these designs by the team is often just as helpful.  But most importantly, having a supportive supervisor to help collect the user feedback certainly helps me since I am working remotely most of the time.&lt;/p&gt;
+
+&lt;p&gt;In short, I think I’ve stayed on track because: I have already redesigned quite a few views; and have made various suggestions to the overall MarkUs interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Things I’ve learned thus far&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the past, I’ve done very little usability work for web-based applications, and I’m also very new to designing interfaces from scratch.  Thanks to my team, I’ve learned quite a few things about designing web interfaces in particular.  For example, small things like screen resolution will have a huge impact on the usability and presentation of the entire user interface.  So it’s certainly something that needs to be considered early in the design cycle, and kept in mind at all times.&lt;/p&gt;
+
+&lt;p&gt;Another key thing that I’ve learned up until now is the prototyping tool, OmniGraffle.  Instead of seeing the tool as being a burden, it has now saved a significant amount of my time.  For example, I am now more comfortable using new canvases and layers in my prototypes wherever I see fit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the remainder of the course, I plan to continue working on the UI of MarkUs.  I focused on the &lt;em&gt;Grader Assignment&lt;/em&gt; and &lt;em&gt;Group Formation&lt;/em&gt; views for the first half of the term, but those have now been addressed.  Next, I am planning to tackle the &lt;em&gt;Properties&lt;/em&gt; view – our goal is to make the &lt;em&gt;Properties&lt;/em&gt; view intuitive to not just regular users, but also those that are using MarkUs for the first time.  New designs for the MarkUs &lt;em&gt;Dashboard&lt;/em&gt; are also to come.&lt;/p&gt;
+
+&lt;p&gt;I’d also like to maintain the good communication and coordination we’ve had as a team in the weeks to come.&lt;/p&gt;
+
+&lt;p&gt;I’ve had an awesome time working with the team, and I’m looking forward to the rest of the term!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

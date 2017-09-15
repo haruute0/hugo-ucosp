@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basie on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/basie/</link>
+    <description>Recent content in Basie on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2009 16:09:18 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/basie/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[thumbUp, thumbDown].map{&amp;#124;thumb&amp;#124; thumb&#43;&#43;}</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2009/11/thumbup-thumbdown-mapthumb-thumb/</link>
+      <pubDate>Tue, 24 Nov 2009 16:09:18 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2009/11/thumbup-thumbdown-mapthumb-thumb/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ThumbUp: &lt;em&gt;peer reviews&lt;/em&gt;&lt;/strong&gt;. Peer reviews, at least for the Basie team, was certainly a new type of experience in software development. It promoted communication between the team, getting into each other&amp;#8217;s code, writing code that is good enough for others to look at, and then still getting feedback on how to improve it. It creates a better &lt;em&gt;&amp;#8220;team&amp;#8221;&lt;/em&gt; feeling, than simply having a group of people commit to the same source code repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ThumbDown: &lt;em&gt;peer reviews&lt;/em&gt;&lt;/strong&gt;. As good as they were, peer reviews also left a lot more to be desired. It is certainly a different experience now, than at the beginning of the term when most new members on the project were intimidated to both comment on other people&amp;#8217;s code or even have their code be looked at by someone else. I think in the future, it might be a good idea to force the students to break some comfort zones sooner. I would have also liked to see more back&amp;amp;forth &lt;em&gt;discussion&lt;/em&gt; of design/performance considerations, rather than one-sided comments on the use of language&amp;#8217;s style guidelines.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

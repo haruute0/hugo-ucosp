@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thunderbird on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/thunderbird/</link>
+    <description>Recent content in Thunderbird on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2010 04:01:42 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/thunderbird/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thunderbird Update</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/03/thunderbird-update/</link>
+      <pubDate>Wed, 10 Mar 2010 04:01:42 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/03/thunderbird-update/</guid>
+      <description>&lt;p&gt;Some quick updates from the Thunderbird team for weeks starting February 22nd and March 1st. (This is a point-form summary; see &lt;a href=&#34;https://wiki.mozilla.org/Thunderbird/Students/StatusUpdates&#34;&gt;https://wiki.mozilla.org/Thunderbird/Students/StatusUpdates&lt;/a&gt; for each week&amp;#8217;s full report.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tim (Bug: Windows 7 overlay icons &amp;#8211; &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=515907&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=515907&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wrote a short guide on Mozilla&amp;#8217;s patch development process&lt;/li&gt;
+&lt;li&gt;Corrected a few issues related to incorrect usage of data types in his XPCOM component&lt;/li&gt;
+&lt;li&gt;Submitted a patch&lt;/li&gt;
+&lt;li&gt;Investigated test frameworks appropriate for testing his Windows 7 overlay icons implementation &amp;#8211; this is tricky because Mozilla has A LOT of test frameworks. It turns out that Tim needed to do mochitests and although these are tests for Thunderbird, they have to be run from Firefox.&lt;/li&gt;
+&lt;li&gt;Plans to submit test cases this week (week of March 8th)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Kefu Zhao (Bug: automatically determine &amp;#8220;From&amp;#8221; address for &amp;#8220;reply to list&amp;#8221; &amp;#8211; &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?461669&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=461669&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Working on retrieving the raw headers of an e-mail (still in-progress)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Wei Xian Woo (Bug: improved session storage and restoration in Thunderbird &amp;#8211; &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=408338&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=408338&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Received feedback about my first patch from Blake and made the suggested changes&lt;/li&gt;
+&lt;li&gt;Improved some test cases and added a new one&lt;/li&gt;
+&lt;li&gt;Made additional changes to the session store manager to make intentions more clear&lt;/li&gt;
+&lt;li&gt;Submitted revised first patch for review&lt;/li&gt;
+&lt;li&gt;Brainstormed ideas for implementing support for persisting session state for other window types (right now, we only persist session state for the main Thunderbird windows aka the 3-pane windows).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Everyone else&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Still happily working on their respective bugs. Recap of what they are working on:
+
+&lt;ul&gt;
+&lt;li&gt;Zach Church &amp;#8211; &amp;#8220;reopen last closed tab&amp;#8221; (&lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=504122&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=504122&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Marcel Guzman &amp;#8211; interactive status bar/Activity Manager (&lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=476487&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=476487&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Lindauson Hazell &amp;#8211; all message related functions should go through default controller code (&lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=495815&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=495815&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Evan Stratford &amp;#8211; vCard import (&lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=79709&#34;&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=79709&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evan&amp;#039;s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/03/evans-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 20:25:50 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/03/evans-midterm-report/</guid>
+      <description>&lt;p&gt;For many of the same reasons raised below, I haven&amp;#8217;t been as productive as I had expected; in particular, this has largely resulted from the intersection between front-heavy term workloads and the various bureaucratic demands of graduation/full-time employment.&lt;/p&gt;
+
+&lt;p&gt;That said, I finally posted my vCard import patch for review this past week, along with some modifications as suggested by Standard8. This patch involves roughly 800 lines of code in the middle of the complex multi-threaded wonder that is Address Book; it even comes complete with xpcshell-based tests (which pass!) and should hopefully be ready for commit some time within the next two weeks or so.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m setting these goals for the next 5-6 weeks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;implement vCard export;&lt;/li&gt;
+&lt;li&gt;submit patches for review on at least four separate Address Book bugs (including vCard import/export);&lt;/li&gt;
+&lt;li&gt;commit at least one patch;&lt;/li&gt;
+&lt;li&gt;be available at least 10 hours a week on #maildev and #education;&lt;/li&gt;
+&lt;li&gt;catch up on my weekly status updates.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first goal is a natural continuation of vCard import; with import/export functionality, I imagine most users will find their vCard-related needs met. The next two goals are meant as a very rough quantity requirement &amp;#8211; although quantity and quality do not necessarily correlate, I&amp;#8217;d like to have enough of the former to justify four months of part-time development. The final two goals are aimed at personal development; I could definitely benefit from further improvement in communication/collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blake&amp;#039;s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/03/blakes-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 03:37:11 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/03/blakes-midterm-report/</guid>
+      <description>&lt;p&gt;As contrasted with some of my students, I&amp;#8217;m fairly happy with the amount of coding work they&amp;#8217;ve gotten done. I think this is largely because I had more realistic expectations coming in to the course. After 15 years in industry I&amp;#8217;ve come to realize that there&amp;#8217;s a whole lot more to fixing bugs than fixing the bug, and the other stuff is what takes the time. Stuff like figuring out what&amp;#8217;s going wrong, and how the code fits together, writing tests, getting it reviewed, fixing the things the reviewer points out, getting it committed, and (hopefully) writing up their weekly status reports.&lt;/p&gt;
+
+&lt;p&gt;So, yeah, most of the students seem on track to get their bugs committed by the end of the term, and I&amp;#8217;m pretty happy with that. The only thing I could ask for is more communication. Even though I&amp;#8217;ve been getting more email and seeing more questions in IRC recently, I would also like to see some blog posts so that other people can take advantage of the things the current crop of students are learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marcel&amp;#039;s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/03/marcels-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 08:41:58 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/03/marcels-midterm-report/</guid>
+      <description>&lt;p&gt;I have to say I&amp;#8217;m disappointed with my progress so far &amp;#8211; not so much in terms of understanding the code and bug fixing, but more in terms of turning my lines working code into accepted patches (and all the communication and time management that goes along with that).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Code&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Toronto was a great opportunity to learn about the deep inner workings of the Mozilla codebase (an opportunity which, considering the size and scope of the code, was invaluable). I&amp;#8217;ve been able to build on the understanding gained there to learn about the areas of code that I&amp;#8217;ll be working in. The only difficulty I have is when I&amp;#8217;m stepping through huge uncommented functions that call deep into Mozilla&amp;#8217;s low-level libraries, but IRC is a great resource for things like that, thankfully!&lt;/p&gt;
+
+&lt;p&gt;**Progress&lt;/p&gt;
+
+&lt;p&gt;** As mentioned, I&amp;#8217;ve got a decent amount of code written (2 fully written patches, feature-wise, and finishing off a third). Mozilla&amp;#8217;s strict (and excellent :)) quality standards prevent me from actually getting these patches in the source tree, however, as I also need to write tests, which means a significant time investment online reading about how these tests work and talking to people on IRC about how they work. I haven&amp;#8217;t had the opportunity to talk about this yet as I&amp;#8217;ve mostly been working on transit, offline.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Improvement&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m going to focus on getting these patches in the source tree ASAP. Ad-hoc work &amp;#8220;when I feel like it&amp;#8221; is obviously not working, especially since I&amp;#8217;ve been bad with status reports and blogging. I&amp;#8217;m going to have to treat this more like a job and less like a hobby/personal project whose sole purpose is fun/learning. Of course, I&amp;#8217;m still going to have fun and learn a lot, but I need to get my act together and commit to my responsibilities as well. I&amp;#8217;m pretty confident I can turn this around and be highly productive by the end of the term, and beyond, as I also really enjoy working with Thunderbird!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Midway Update &amp;#8211; Wei Xian Woo (Thunderbird)</title>
+      <link>http://haruute0.github.io/2009-2010/thunderbird/2010/02/midway-update-wei-xian-woo-thunderbird/</link>
+      <pubDate>Sun, 28 Feb 2010 14:53:14 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/thunderbird/2010/02/midway-update-wei-xian-woo-thunderbird/</guid>
+      <description>&lt;p&gt;I am not proud to say this, but my performance on Thunderbird could have been better.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Am I behind?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Yes, I am at least three weeks behind the schedule I set for myself. I would have liked to submit my first patch by the end of January, but I ended up doing that only in the third week of February.&lt;/li&gt;
+&lt;li&gt;At the start of the term, I broke down the feature I was responsible for implementing into reasonably sized pieces and estimated that each piece will take approximately 1-2 days to implement. Even at this point, I feel that those estimations were fair and achievable given what I knew about my schedule at the time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Why am I behind?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The term turned out to be a lot busier than I originally anticipated &amp;#8211; for school (assignments + a research assistantship) and preparation for external exams&lt;/li&gt;
+&lt;li&gt;Figuring out how certain pieces of Thunderbird code interact with each other and where certain things are took longer than expected. For example, where/when is the first Thunderbird main window created? (No, searching for &amp;#8220;startup&amp;#8221; and other related keywords did not help.)&lt;/li&gt;
+&lt;li&gt;I spent almost two full weeks understanding the various types of Mozilla unit tests and identifying one that can do what I need. Mozilla has 7-8 types of these, out of which only 3-4 of them are currently used in Thunderbird. This time I felt was badly spent because asking Blake (which I had to do anyways) would have gotten me an answer much quicker.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What have I learnt up to this point?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How Mozilla apps (in particular, Thunderbird) work. The whole idea of using JavaScript to implement a feature like session restoration and storage is pretty fascinating.&lt;/li&gt;
+&lt;li&gt;Writing tests &amp;#8211; despite having five co-op work terms of development experience, I definitely learnt some good stuff about testing here.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;So, how&amp;#8217;s the remainder of the term going to look like for me?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Within the next 2-3 weeks, I hope to finish up the remaining pieces of the feature. In fact, my revised 1st patch is almost ready as I write this and should be ready for submission sometime today.&lt;/li&gt;
+&lt;li&gt;I hope to be able to work on at least one other bug for the final month, which will hopefully take less time to tackle now that I have better understanding of how things work in Thunderbird.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Status Update</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/02/thunderbird-status-update-2/</link>
+      <pubDate>Fri, 19 Feb 2010 08:51:40 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/02/thunderbird-status-update-2/</guid>
+      <description>&lt;p&gt;Progress is a bit slow in the Thunderbird camp this week. Zach is re-submitting his last patch after making the appropriate refinements and MozMill tests.Wei Xian Woo submitted his first patch and tests this week. He has already begun working on his second bug&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;View this week&amp;#8217;s full status update &lt;a href=&#34;https://wiki.mozilla.org/Thunderbird/Students/StatusUpdates/2010-02-19#Lindauson_Hazell&#34; title=&#34;Student Thunderbird Status Blog&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Status Update</title>
+      <link>http://haruute0.github.io/2009-2010/thunderbird/2010/01/thunderbird-status-update/</link>
+      <pubDate>Sat, 30 Jan 2010 20:38:49 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/thunderbird/2010/01/thunderbird-status-update/</guid>
+      <description>&lt;p&gt;For the full update, check out our &lt;a href=&#34;https://wiki.mozilla.org/Thunderbird/Students/StatusUpdates/2010-01-29&#34;&gt;project blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Everyone is starting to feel the pressure of their classes this semester, but despite this several of us are close to submitting our first patch.  A common theme is difficulty understanding how to work with the Mozilla platform, but learning how to work with someone else&amp;#8217;s code is good experience for us all.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Team Thunderbird says hello</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/01/team-thunderbird-says-hello/</link>
+      <pubDate>Fri, 22 Jan 2010 14:40:38 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/01/team-thunderbird-says-hello/</guid>
+      <description>&lt;p&gt;We&amp;#8217;re all working on our bugs at Team Thunderbird. Tim&amp;#8217;s working on better integration with the Windows 7 taskbar. Kefu is getting the &amp;#8216;From&amp;#8217; address to be automatically determined when replying to a list. Lin is making sure the correct menu options are enabled at the right times. I&amp;#8217;ve also had to deal with this a bit while adding a &amp;#8220;Reopen last tab&amp;#8221; button. Evan is working on importing vCards for Address Book. Marcel is working on some display issues with the activity monitor. Wei Xian is working on being able to restore sessions.&lt;/p&gt;
+
+&lt;p&gt;Wei Xian also made a Python script at the code sprint that helps Thunderbird developers on Windows generate a Visual Studio project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fingers of Fury</title>
+      <link>http://haruute0.github.io/2009-2010/sprint/2010/01/fingers-of-fur/</link>
+      <pubDate>Sun, 17 Jan 2010 20:15:19 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/sprint/2010/01/fingers-of-fur/</guid>
+      <description>&lt;p&gt;It&amp;#8217;s 2:30 pm on Sunday; a thick pallor persists over an unseasonably warm Toronto. For roughly 40 students from various Canadian and American universities, this marks the end of the UCOSP code sprint. Those of us working on Thunderbird have made progress on a number of bugs &lt;a href=&#34;https://bugzilla.mozilla.org/buglist.cgi?keywords=student-project;keywords_type=allwords;emailtype1=exact;emailassigned_to1=1;query_format=advanced;bug_status=UNCONFIRMED;bug_status=NEW;bug_status=REOPENED;email1=nobody@mozilla.org;product=MailNews%20Core;product=Thunderbird&#34;&gt;tagged with student-project&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Zach Church is tackling Thunderbird&amp;#8217;s handling of recently closed tabs as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=504122&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=500758&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Tim Miller is working on better integration with Windows 7 as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=515907&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=494137&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Marcel Guzman is improving the Activity Manager as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=476487&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=536048&#34;&gt;here&lt;/a&gt;, and is also adding a keyboard shortcut for switching between message and header panes as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=502515&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Kefu Zhao is automatically inferring From: addresses for replies to mailing lists as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=461669&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Lindauson Hazell is resolving a bug where message-related menu items are enabled in non-message-related tabs, as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=495815&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Evan Stratford is adding support for vCard import/export in Address Book as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=79709&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Wei Xian Woo is implementing session restore for Thunderbird as reported &lt;a href=&#34;https://bugzilla.mozilla.org/show_bug.cgi?id=408338&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not a bad start at all! As we continue to make progress this week, more detailed updates will surface over on the &lt;a href=&#34;https://wiki.mozilla.org/Thunderbird/Students/StatusUpdates/2010-01-22&#34;&gt;Mozilla wiki&lt;/a&gt;. Some lessons from the weekend:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thunderbird is massive, and the codebase can often feel like C written in C++: it&amp;#8217;s peppered with gems like return codes and extra output parameters and pointers to C-style strings. Put briefly &amp;#8211; this is not the code you saw in class. Deal with it.&lt;/li&gt;
+&lt;li&gt;It&amp;#8217;s incredibly important to discard hubris in open-source development. Check your ego at the door; don&amp;#8217;t be afraid to ask questions; understand that you will be wrong many times before you are right. On the other hand, IRC places hundreds of experts at your fingertips, and is therefore more powerful than almost any tool you could use.&lt;/li&gt;
+&lt;li&gt;Practical lessons: &lt;a href=&#34;http://arrenbrecht.ch/mercurial/pbranch/&#34;&gt;pbranch&lt;/a&gt;, &lt;a href=&#34;http://betterthangrep.com/&#34;&gt;ack&lt;/a&gt;, and &lt;a href=&#34;http://mxr.mozilla.org/&#34;&gt;MXR&lt;/a&gt; are your friends; &lt;a href=&#34;http://ctags.sourceforge.net/&#34;&gt;ctags&lt;/a&gt; is also quite useful. If you don&amp;#8217;t understand what to do, look at code that does something similar. If you still don&amp;#8217;t understand what to do, ask. When using &lt;a href=&#34;http://mercurial.selenic.com/&#34;&gt;Mercurial&lt;/a&gt;, never forget: commit early, commit often.&lt;/li&gt;
+&lt;li&gt;Remember: &lt;a href=&#34;http://lindausonhazell.com/Lindausons_Index/Movie.html&#34;&gt;have fun&lt;/a&gt;! As in any creative endeavour, passion keeps you going.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a final note: I&amp;#8217;d like to thank gvwilson for organizing the code sprint, which has proven to be an amazing opportunity to meet other talented and motivated developers. Additional shout-outs are due humph and bwinton for remaining diplomatic throughout the torrent of confused questions, and for providing helpful answers in return.&lt;/p&gt;
+
+&lt;p&gt;Happy hacking!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marcel Guzman</title>
+      <link>http://haruute0.github.io/2009-2010/bios/2010/01/marcel-guzman/</link>
+      <pubDate>Wed, 13 Jan 2010 07:11:34 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/bios/2010/01/marcel-guzman/</guid>
+      <description>&lt;p&gt;Hi all! My name is Marcel Guzman and I&amp;#8217;m a 4th year student at SFU. My interests lie in online development of all kinds (from low-level networking to high-level web app&lt;a href=&#34;http://ucosp.files.wordpress.com/2010/01/cake.jpg&#34;&gt;&lt;img class=&#34;alignright size-full wp-image-1998&#34; title=&#34;Marcel Guzman&#34; src=&#34;http://ucosp.files.wordpress.com/2010/01/cake.jpg&#34; alt=&#34;&#34; width=&#34;200&#34; height=&#34;266&#34; /&gt;&lt;/a&gt;s and everything in between!). I also enjoy esoteric languages as well as operating systems.&lt;/p&gt;
+
+&lt;p&gt;This semester, I&amp;#8217;ll be working on Thunderbird. I&amp;#8217;m very interested in Mozilla projects as well as learning how to code desktop apps so I think it will be a great fit for me. I&amp;#8217;ve previously worked as a co-op with Electronic Arts (Sports Online) and SAP (Crystal Reports Server), both of which were primarily C++ jobs. When I&amp;#8217;m not coding, I enjoy board games, skiing, and as pictured, nomming delicious cake.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to the upcoming sprint&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development Environment</title>
+      <link>http://haruute0.github.io/2009-2010/thunderbird/2010/01/development-environment/</link>
+      <pubDate>Sat, 09 Jan 2010 23:20:24 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/thunderbird/2010/01/development-environment/</guid>
+      <description>&lt;p&gt;I&amp;#8217;ve gone through the motions &lt;a href=&#34;https://developer.mozilla.org/en/Simple_Thunderbird_build&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://developer.mozilla.org/en/Incremental_Build&#34;&gt;here&lt;/a&gt;, but that only gets you so far; comm-central is &lt;em&gt;massive&lt;/em&gt;, so some additional tools are in order. Here&amp;#8217;s what I&amp;#8217;m using so far:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the MXR search tool (&lt;a href=&#34;http://mxr.mozilla.org/comm-central/search&#34;&gt;comm-central here&lt;/a&gt;) to perform rgrep-style queries on the codebase. (A REST API here would be useful, I suspect&amp;#8230;)&lt;/li&gt;
+&lt;li&gt;exuberant-ctags in vim, following setup 3 as described &lt;a href=&#34;http://ctags.sourceforge.net/faq.html#15&#34;&gt;here&lt;/a&gt;. (Building the tag files takes roughly 15 minutes on my laptop.)&lt;/li&gt;
+&lt;li&gt;a pair of bash aliases to switch between debug and release .mozconfigs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mercurial.selenic.com/wiki/GitConcepts&#34;&gt;this list&lt;/a&gt;, which provides a rough mapping between hg and git commands.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hopefully this will save someone time 🙂&lt;/p&gt;
+
+&lt;p&gt;In the spirit of reciprocity: anyone else have suggestions for links, tools, etc. that could speed up the learning/working process? (Although I&amp;#8217;ve placed this under the Thunderbird category, general feedback is more than welcome!)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tim Miller</title>
+      <link>http://haruute0.github.io/2009-2010/thunderbird/2010/01/tim-miller/</link>
+      <pubDate>Wed, 06 Jan 2010 20:03:01 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/thunderbird/2010/01/tim-miller/</guid>
+      <description>&lt;p&gt;Hi everyone!&lt;/p&gt;
+
+&lt;p&gt;I will be working on Thunderbird for the upcoming term.  I am excited to be part of UCOSP and looking forward to my first open-source experience.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m currently a senior at Michigan State University studying Computer Science.  I already have a degree in Japanese language, and I have taken enough other classes that I could probably have minors in physics and economics too.  I have worked at the university computer help desk fixing viruses and other problems for the last four years or so, but I am starting a new job this semester programming for one of the departments on campus.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:#888888;&#34;&gt;&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kefu Zhao</title>
+      <link>http://haruute0.github.io/2009-2010/thunderbird/2010/01/kefu_zhao/</link>
+      <pubDate>Mon, 04 Jan 2010 20:27:18 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/thunderbird/2010/01/kefu_zhao/</guid>
+      <description>&lt;p&gt;Hi guys,&lt;a href=&#34;http://ucosp.files.wordpress.com/2010/01/img_3638.jpg&#34;&gt;&lt;img class=&#34;size-medium wp-image-1867 alignleft&#34; title=&#34;IMG_3638&#34; src=&#34;http://ucosp.files.wordpress.com/2010/01/img_3638.jpg?w=300&#34; alt=&#34;&#34; width=&#34;356&#34; height=&#34;192&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My name is Kefu Zhao and I am in the last year of my computing science Bachelor degree at SFU.&lt;/p&gt;
+
+&lt;p&gt;I finished an 8 month coop at HSBC, where I mainly used Java to implement some automation tools. Also, VBScript was also used to automate some regression test cases.&lt;/p&gt;
+
+&lt;p&gt;Then，I spent 4 month at IBM Victoria Lab, where JavaScript is the main language I used. Actually, I dealt with dojo web toolkit a lot and my tasks were to create customized widgets for IBM products. Meanwhile, I am pretty familiar with web development standard, such as XML, HTML, CSS and JS. Firebug has always been my friend when I was working at IBM.&lt;/p&gt;
+
+&lt;p&gt;Hope to see you all during the code sprint!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wei Xian Woo</title>
+      <link>http://haruute0.github.io/2009-2010/bios/2009/12/wei-xian-woo/</link>
+      <pubDate>Sun, 20 Dec 2009 17:55:07 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/bios/2009/12/wei-xian-woo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ucosp.files.wordpress.com/2009/12/xian150x150.jpg&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-1715&#34; title=&#34;Wei Xian Woo&#34; src=&#34;http://ucosp.files.wordpress.com/2009/12/xian150x150.jpg&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hello. I&amp;#8217;m Wei Xian Woo and I will be working on Thunderbird next term.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m a fourth year CS/C&amp;amp;O co-op student at the University of Waterloo with some experience developing web and desktop applications. I started coding before high school and developed my first database-driven web app when I was 13. During the past four years in UW, I have had the chance to work with some amazing companies, including but not limited to a startup company in Toronto, NVIDIA, Microsoft and Sony.&lt;/p&gt;
+
+&lt;p&gt;I am excited to be part of the UCOSP initiative and look forward to working with Blake from Mozilla, Professor Greg and everyone else! See you all in January! (:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Project Video</title>
+      <link>http://haruute0.github.io/2009-2010/screencast/2009/12/thunderbird-project-video/</link>
+      <pubDate>Tue, 15 Dec 2009 00:42:09 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/screencast/2009/12/thunderbird-project-video/</guid>
+      <description>&lt;p&gt;Enjoy:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://truevektordev.com/ucosp/ucosp-thunderbird-project-video.mov&#34;&gt;http://truevektordev.com/ucosp/ucosp-thunderbird-project-video.mov&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

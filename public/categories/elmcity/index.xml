@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elmcity on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/elmcity/</link>
+    <description>Recent content in Elmcity on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 16:05:34 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/elmcity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>elmcity wrapup</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/12/elmcity-wrapup/</link>
+      <pubDate>Wed, 16 Dec 2009 16:05:34 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/12/elmcity-wrapup/</guid>
+      <description>&lt;p&gt;First off, I just want to say it has been a pleasure working with everyone.  I certainly learned a lot this term with respect to the project as well as working in a team environment.  A few final blogs with respect to the generic plugin parser for the elmcity project are listed below and the latest versions of the code can be found in the code repository here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/elmcity/&#34;&gt;http://code.google.com/p/elmcity/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope this is good start to recreating FuseCal!&lt;/p&gt;
+
+&lt;p&gt;The generic plugin can successfully parse the curator sites listed here: &lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-design-wrapup-and-next-steps/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-design-wrapup-and-next-steps/&#34;&gt;http://dianetam.com/dev/blog/2009/12/12/elmcity-design-wrapup-and-next-steps/&lt;/a&gt;&lt;/a&gt; as well as a few of the sites from the previously parsed FuseCal pages listed here: &lt;a href=&#34;http://blog.jonudell.net/2009/07/07/strategic-choices-for-calendar-publishers/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://blog.jonudell.net/2009/07/07/strategic-choices-for-calendar-publishers/&#34;&gt;http://blog.jonudell.net/2009/07/07/strategic-choices-for-calendar-publishers/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;&lt;strong&gt;Generic Plugin API&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The generic plugin implementation api can be found here:&lt;strong&gt;_&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-genericplugin-api/&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;_&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;_&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-genericplugin-api/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-genericplugin-api/&#34;&gt;http://dianetam.com/dev/blog/2009/12/12/elmcity-genericplugin-api/&lt;/a&gt;&lt;/a&gt;_&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;**Class File: _src/plugins/patterns/genericplugin.py&lt;/p&gt;
+
+&lt;p&gt;_**&lt;/p&gt;
+
+&lt;p&gt;** __Test File: &lt;em&gt;tests/genericpluginTests.py&lt;/em&gt;**&lt;/p&gt;
+
+&lt;p&gt;**_&lt;/p&gt;
+
+&lt;p&gt;_**&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;&lt;strong&gt;Generic Plugin Design and Patterns&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The generic plugin design and patterns are detailed here&lt;strong&gt;&lt;em&gt;:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;_&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-genericplugin-design-and-patterns/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-genericplugin-design-and-patterns/&#34;&gt;http://dianetam.com/dev/blog/2009/12/12/elmcity-genericplugin-design-and-patterns/&lt;/a&gt;&lt;/a&gt;_&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;** __**&lt;/p&gt;
+
+&lt;p&gt;** __**&lt;span style=&#34;text-decoration:underline;&#34;&gt;&lt;strong&gt;Elmcity Design Wrapup and Next Steps&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;** __**&lt;/p&gt;
+
+&lt;p&gt;A general overview of the system and the next steps to be taken can be found here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-design-wrapup-and-next-steps/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://dianetam.com/dev/blog/2009/12/12/elmcity-design-wrapup-and-next-steps/&#34;&gt;http://dianetam.com/dev/blog/2009/12/12/elmcity-design-wrapup-and-next-steps/&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If there are any questions in regards to the project or generic plugin details, feel free to let me know.  Even though the course is over, I would still like to stay involved with the project and see where the project goes through friendfeed and even help take the project further if possible 🙂  I&amp;#8217;m constantly looking for projects to expand my experience and interests further so if there are any opportunities for that I&amp;#8217;d be more than willing to jump on board.&lt;/p&gt;
+
+&lt;p&gt;I can be contacted at diane.tam@gmail.com&lt;/p&gt;
+
+&lt;p&gt;Thanks everyone!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>what worked and what needs work</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/12/what-worked-and-what-needs-work/</link>
+      <pubDate>Thu, 03 Dec 2009 12:23:36 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/12/what-worked-and-what-needs-work/</guid>
+      <description>&lt;p&gt;First off, thank you to Greg and all the profs and TAs that made this project course possible.  It was definitely a unique and invaluable experience that I believe all students should consider in their undergraduate years.&lt;/p&gt;
+
+&lt;p&gt;What worked:&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve been working full-time as a programmer for 3 years now and I wish I had taken this course during my undergrad as this course is extremely applicable to real life work practices.  It teaches you about the importance of communication and coordination with teams across the world with respect to solving a problem.  This is a very common scenario in the workplace, whether it be communication, design,  integrating code, code reviews, etc&amp;#8230;and this course helps set you in that mindset and find ways to work with it.  Overcoming obstacles like timezone differences can be difficult but not impossible.  With good planning and communication, teams can work very well together and produce results.  This course definitely puts you in that perspective and forces you to realize the importance of planning and communication.  Having this experience before setting out full-time as a programmer or any profession in fact gives you a great additional skill set!&lt;/p&gt;
+
+&lt;p&gt;What needs work:&lt;/p&gt;
+
+&lt;p&gt;Having said that, working &amp;#8216;virtually&amp;#8217; with teammates really posed a challenge with respect to communication.  I know this is something many teams posted about but I&amp;#8217;m going to emphasize on the planning aspect of communication.  A good plan could lead to a good design which in turn could lead to good direction.  The code sprint was a great chance for teams to spend the time planning and designing their systems but after that, it was difficult to do any.  As a result, no one actually &amp;#8216;fully&amp;#8217; understood the entire system.  It&amp;#8217;s difficult to design out the whole system at first and many requirements can change along the way.  I think implementing an iterative design and development process could have worked here.  Rather than looking at milestones, look at perhaps shorter two week sprints.  Dedicate a couple of days before each two week sprint to plan out what needs to be done in that period, address design issues for only those tasks and work on those specific items.  After a sprint, address outstanding issues and move on to the next set of tasks needed.  Taking on the system in appropriate chunks not only allows you to focus in on a specific area, but it allows you to understand how one part integrates with the next and realize what works and doesn&amp;#8217;t work with the design early on.  It also gives you more direction because you are not overwhelmed with the big picture.  Communication with respect to these smaller iterative periods could be improved as well since everyone understands what is going on and what needs to be done in that two week cycle.  Perhaps this is something that could be considered within teams to help the struggle of meeting deadlines, communication and direction.&lt;/p&gt;
+
+&lt;p&gt;Thanks again for the great experience everyone!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minutes for the 2009-11-20 Elmcity Meeting</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/11/minutes-for-the-2009-11-20-elmcity-meeting/</link>
+      <pubDate>Mon, 23 Nov 2009 04:34:25 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/11/minutes-for-the-2009-11-20-elmcity-meeting/</guid>
+      <description>&lt;p&gt;The minutes themselves are available &lt;a href=&#34;http://jorygraham.com/elmcity/2009-11-20.180424-0500EST.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This week we tried to figure out what we&amp;#8217;ll try to have done for our deadline next week. The list we obtained by the end of the meeting was as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hooking up the dev database.&lt;/li&gt;
+&lt;li&gt;Having all the external libraries situated under a single directory.&lt;/li&gt;
+&lt;li&gt;Supporting more TABULAR sites.&lt;/li&gt;
+&lt;li&gt;Supporting a few CALENDAR sites.&lt;/li&gt;
+&lt;li&gt;Hooking up pluginFinder to the generic plugins.&lt;/li&gt;
+&lt;li&gt;Supporting a query on a single url that tells you two things: if it&amp;#8217;s parsable, and which plugin handles the parsing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There&amp;#8217;s lots to be done as the project wraps up, but we&amp;#8217;re still optimistic about our outcome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Status Report for Nov 4th</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</link>
+      <pubDate>Thu, 05 Nov 2009 16:16:38 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nikita&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;+documenting and testing remote.py, batch.py (this leaves us with no &amp;#8220;big&amp;#8221; modules untested, rotate.py and event.py can&lt;/p&gt;
+
+&lt;p&gt;be done quickly later on).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;timezone had to be revisited and changed a bit (timezone_source, timezone_dest), and together with other little things&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;we officially announced the new features to the community&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; I&amp;#8217;ve been sick for the past couple of days, so things are moving a bit slower for me than usual.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s not a real roadblock, just letting everyone know why I was semi-silent since Friday.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; we need to adopt development / stable scheme on the web server, Jory what&amp;#8217;s the status on that one?&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; tests are not working for one of the plugins and for the integration testing, Meghan, Jack what&amp;#8217;s the status&lt;/p&gt;
+
+&lt;p&gt;on those ones? It&amp;#8217;s not a major roadblock per se (the problems are with the test code itself, not with the&lt;/p&gt;
+
+&lt;p&gt;project&amp;#8217;s code), but it&amp;#8217;d be nice if they worked.&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;I want to concentrate on the patterns and generalized plugin from now on, spending much less time&lt;/p&gt;
+
+&lt;p&gt;on the service as a whole, after all we have a stable version in the repos right now and the next&lt;/p&gt;
+
+&lt;p&gt;big step is the generalized plugin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diane&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Refined a generic plugin that can parse some pages successfully.  Latest plugins have been delivered to google code repository.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Continually working towards generalizing the scraper to scrape multiple sites.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Documenting patterns through blog and tester.  Latest post in regards to plugin and patterns can be found here: &lt;a title=&#34;Patterns and thoughts continued&#34; href=&#34;http://dianetam.com/dev/blog/2009/11/05/patterns-and-thoughts-continued/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://dianetam.com/dev/blog/2009/11/05/patterns-and-thoughts-continued/&#34;&gt;http://dianetam.com/dev/blog/2009/11/05/patterns-and-thoughts-continued/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Work, classes.&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Continue to scrape and document patterns found from event sites.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Establish a more complete analysis of the patterns found from the fuse-cal parsed pages as well as the sample pages curators have pointed to.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Divide the list according to the patterns found and manage the lists (ie. through Delicious tags).&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Populate that dictionary for all our targets plus the ones the curators have added to our list.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Build a tester that will accept the various patterns and extract appropriate information from them&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elmcity Meeting Minutes for Oct 30 2009</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/11/elmcity-meeting-minutes-for-oct-30-2009/</link>
+      <pubDate>Sun, 01 Nov 2009 16:51:55 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/11/elmcity-meeting-minutes-for-oct-30-2009/</guid>
+      <description>&lt;p&gt;On Friday, the Elmcity team had its weekly meeting, the minutes of which can be found &lt;a href=&#34;http://jorygraham.com/elmcity/2009-10-30.153659-0400EDT.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A summary of the things we covered:&lt;/p&gt;
+
+&lt;p&gt;We went over and finalized our &lt;a href=&#34;http://ucosp.wordpress.com/2009/10/30/marking-scheme-for-elmcity-project/&#34;&gt;grading scheme&lt;/a&gt;, including exactly what functionality we hope to have achieved by the 29th of November.&lt;/p&gt;
+
+&lt;p&gt;In that vein, we&amp;#8217;ve decided that our functionality will primarily be dictated by the ability to parse the pages brought up by our users &lt;a href=&#34;http://friendfeed.com/elmcity/92ef3b61/hey-everyone-team-over-in-elmcity-development&#34;&gt;here&lt;/a&gt;, and secondarily by this &lt;a href=&#34;http://blog.jonudell.net/2009/07/07/strategic-choices-for-calendar-publishers/&#34;&gt;list&lt;/a&gt;. There&amp;#8217;s a lot of overlap between the two, but our focus is on the sites the current curators are interested in.&lt;/p&gt;
+
+&lt;p&gt;We&amp;#8217;ve all been looking over the patterns that should be recognized by our general parser, and will report on them this week.&lt;/p&gt;
+
+&lt;p&gt;Finally, we discussed which approach should be taken for parsing based on two libraries available for python: &lt;a href=&#34;http://pypi.python.org/pypi/parsedatetime/0.8.4&#34;&gt;parsedatetime&lt;/a&gt; and &lt;a href=&#34;http://labix.org/python-dateutil&#34;&gt;dateutil&lt;/a&gt;. Dateutil seems to err on the side of caution, choking on any non-datetime text; whereas parsedatetime can handle a really wide range, but will also return false positives. We&amp;#8217;ll likely have to take a middle ground approach to our parsing, since human generated text is so unpredictable.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marking Scheme for ElmCity project</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/10/marking-scheme-for-elmcity-project/</link>
+      <pubDate>Fri, 30 Oct 2009 23:23:24 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/10/marking-scheme-for-elmcity-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mark Breakdown&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Individual (50%)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;a) &lt;strong&gt;40%&lt;/strong&gt; &amp;#8211; participation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;20%&lt;/strong&gt; code contributions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10%&lt;/strong&gt; discussions on friendfeed and google code wiki throughout the term&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10%&lt;/strong&gt; weekly punchlines and how they were met (trackable through the &amp;#8220;status&amp;#8221; portion)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;b) &lt;strong&gt;10%&lt;/strong&gt; &amp;#8211; written component&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Team (50%)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;a) &lt;strong&gt;30%&lt;/strong&gt; Features and Functionality:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;all the existing functionality up-to-date (plugins, events filtering, timezones management) still works as expected (test don&amp;#8217;t fail), existing bookmarks on delicious produce valid iCal feeds&lt;/li&gt;
+&lt;li&gt;generalized parser that can &lt;strong&gt;at least&lt;/strong&gt; recognize a minimum set of information for the event (date &amp;amp; time, title, and a link) on each of the pages listed &lt;a href=&#34;http://friendfeed.com/elmcity/92ef3b61/hey-everyone-team-over-in-elmcity-development&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. If for some reason some of the page(s) are odd and cannot be parsed by the generalized plug-in, we must opt-out for completing a site-specific plug-in. If time permits, (outside 30%) we are targeting pages on &lt;a href=&#34;http://blog.jonudell.net/2009/07/07/strategic-choices-for-calendar-publishers/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and too&lt;/li&gt;
+&lt;li&gt;product has to be ready to be shipped. That is, we have to have a document that describes all the third party libraries (and software) one may need to yank a fresh copy from google code and start working with the code. We can include general steps (i. e. have mysql, phpmyadmin installed and working), but whatever concerns the project itself must be specific (i. e. what file do I edit to change the location of calendar folder?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;b) &lt;strong&gt;10%&lt;/strong&gt; system has a clear documentation (comments inside the files, high-level description of the system) that could potentially allow other people to contribute to the project. Tests has been implemented (unit and integration) and run smoothly.&lt;/p&gt;
+
+&lt;p&gt;c) &lt;strong&gt;10%&lt;/strong&gt; written report + youtube presentation of the service, that describes what work has been done through out the term, demonstrates the abilities of the project, touches on the future of the project (i.e. if we were to continue, what are things that are missing and that we&amp;#8217;d wanted to implement in the future)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Status Report for Oct 28th 2009</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/10/elmcity-status-report-for-oct-28th-2009/</link>
+      <pubDate>Thu, 29 Oct 2009 02:39:58 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/10/elmcity-status-report-for-oct-28th-2009/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nikita&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; AM/PM problem for librarything fixed, tests added&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; timezone, we have a solution and it has been implemented and is out there for testing, calling remote like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://elmcity.cs.toronto.edu/remote/?url=http://www.myspace.com/cartel&amp;amp;filter=Portland&amp;amp;tz=atlantic&#34;&gt;http://elmcity.cs.toronto.edu/remote/?url=http://www.myspace.com/cartel&amp;amp;filter=Portland&amp;amp;tz=atlantic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;generates a VTIMEZONE in the calendar file. We support standard tzid from Olson db, and we map all the&lt;/p&gt;
+
+&lt;p&gt;windows timezones that elmcity provides us with to the existing tzids.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; pluginFinder.py, icwWriter &amp;#8211; written documentation, unit tests&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; moved views.py code into a separate file, and made views.py call it from there (this is to enforce independence from django)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; extending web-interface &amp;#8211; I have not done much, just changed how AJAX communicates with python (XML now), so that&lt;/p&gt;
+
+&lt;p&gt;if we eventually look at extending it, it will be easier, plus that killed the last hard-coded reference in javascript code (domain name)&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;none&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; I have not seen any work done on #2 as was agreed on Friday&amp;#8217;s meeting, this is an important issue that is kinda holding&lt;/p&gt;
+
+&lt;p&gt;us back. If there will be no change by tomorrow&amp;#8217;s afternoon I am reassigning this ticket to myself and most probably closing&lt;/p&gt;
+
+&lt;p&gt;it by tomorrow&amp;#8217;s evening&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; documenting and testing remote.py, batch.py (this leaves us with no &amp;#8220;big&amp;#8221; modules untested, rotate.py and event.py can&lt;/p&gt;
+
+&lt;p&gt;be done quickly later on).&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; I&amp;#8217;ve been thinking of coming up with an approach of looking at HTML pages and finding events(here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nikitapchelin.wordpress.com/2009/10/25/patterns/) &#34;&gt;http://nikitapchelin.wordpress.com/2009/10/25/patterns/) &lt;/a&gt; My idea is to actually&lt;/p&gt;
+
+&lt;p&gt;try and look for dates first, and then look and compare where structure-wise those dates are located. From that information&lt;/p&gt;
+
+&lt;p&gt;it might be possible to figure out which structured blocks represent events. I actually started working on a little script&lt;/p&gt;
+
+&lt;p&gt;that strips useless things from HTML and tries to find events. I want some sort of discussion, mainly to see if this&lt;/p&gt;
+
+&lt;p&gt;direction is worth moving into. If indeed so, I would like to continue exploring this way throught the week and coming up&lt;/p&gt;
+
+&lt;p&gt;with a script that will attempt to analize HTML pages this way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diane&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Completed some site specific scrapers for fuse-cal parsed pages, specifically with &lt;table&gt; structured event sites.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Continually working towards generalizing the scraper to scrape multiple sites.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Documenting patterns through blog and tester.&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;-Work, classes.&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Continue to scrape and document patterns found from event sites.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Establish a more complete analysis of the patterns found from the fuse-cal parsed pages as well as the sample pages curators have pointed to.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Divide the lists according to the patterns found and manage the lists through Delicious tags.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Build a tester that will accept the various patterns and extract appropriate information from them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Assignments and midterms.&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Go through all the communication channels from last week, and to try to summarize the state of the project in a blog post. I will combine that with the feature requests put forth by the users on FriendFeed in an attempt to figure out both where we are at, and what our endgame looks like. I&amp;#8217;ll also be adding the features requested by the users as items to our issue tracking system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meghan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; I completed the librarything tests and committed them along with corresponding files earlier this week.  Nikita has already pointed out the page reformatting check fails on his computer so I need to look into those two functions more this week and come up with a better solution.&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Other classes, projects and tests.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Ran into some hg issues.  I commented out the reformatting tests earlier today and commit them so test_all.py wouldn&amp;#8217;t fail.  I tried to commit them but I kept getting a 403 error when my username and password were correct.  I need to look into this further.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jack&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; I got the zombies issue resolved, couple more things I&amp;#8217;d like to do on that front though.  Nikita mentioned that one of the integration tests is broken from this update, so I&amp;#8217;m going to resolve that tonight or tomorrow.  I&amp;#8217;d like to do a little more testing of everything tomorrow if I have time as well.&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Classes/other projects due, job interview.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>http://haruute0.github.io/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>&lt;p&gt;Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hardware&lt;/strong&gt; (in no particular order)**&lt;/p&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS. Anyhow, the desktop has 3 GB of RAM and 500 GB hard disk. Nothing really special, it does it&amp;#8217;s job and is about a year old, now. It is complemented by a 21&amp;#8221; Dell LCD monitor and the other usual peripherals. By the way, once you&amp;#8217;ve used laptops for your daily work for so long that you don&amp;#8217;t even realize how small your screen actually is, you will appreciate the decently sized monitor of your new desktop.&lt;/li&gt;
+&lt;li&gt;Other than my desktop computer, I use an Asus eeePC netbook when traveling or at my office at work or at university and sometimes my old Toshiba laptop I run Debian on. The netbook has &lt;em&gt;very decent&lt;/em&gt; Linux compatible hardware. Mainly because it came with some Linux preinstalled &amp;#8211; I guess is was some weird Xandros. That wasn&amp;#8217;t quite it for my netbook &amp;#8211; I found it very limiting &amp;#8211; so I installed Ubuntu on it using the &lt;a href=&#34;http://array.org&#34;&gt;array.org&lt;/a&gt; custom kernel and the netbook remix software package. This works reasonable well for me.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Software&lt;/strong&gt; (in no particular order)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Linux (and the various standard *NIX tools):&lt;/em&gt; I like open-source and I like to have the opportunity to debug my OS, so I&amp;#8217;m using Linux (Debian and Ubuntu) for the most part. I found it frustrating at times when I was a Windows user and something stopped working from one day to the next. Although it was mostly me why things broke, I still had no reasonable way of undoing/fixing things. Well, at least not nearly as nicely as I can fix and analyze things on my Linux boxes. My mind wanders&amp;#8230;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gnome Terminal&lt;/em&gt;: Bash to be precise. I&amp;#8217;m using Bash on a daily basis and I don&amp;#8217;t want to live without it anymore. It just helps getting your work done.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Screen&lt;/em&gt;: A quite handy tool for multiplying your screen when working remotely on a machine via SSH.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mozilla Firefox&lt;/em&gt;: The first thing I&amp;#8217;m starting once logged on to my computer is a Web browser. No matter if I&amp;#8217;m debugging some CSS or asynchronous HTTP request or if I&amp;#8217;m just reading my favorite paper, Firefox is the tool of choice.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Firebug&lt;/em&gt;: Number 1 Web developer tool. I haven&amp;#8217;t seen a better tool, yet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ad-block Plus&lt;/em&gt;: The online world is just not bearable without it.&lt;/li&gt;
+&lt;li&gt;It&amp;#8217;s all text!: This one is also a quite handy add-on if you were to write text/code in HTML textareas a lot. By using It&amp;#8217;s all text! you can load the content of any textarea into your favorite text editor (GVIM in my case), edit it and save it back into the appropriate textarea of the Web page.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Vmplayer and qemu&lt;/em&gt;: These tools are just nice for the occasional boot into a clean Linux sandbox or testing some IE stuff on Windows. I use qemu to create the bare vmdk disks and use vmplayer to play them. VirtualBox is also a nice alternative.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Eclipse&lt;/em&gt; (with RadRails, and other plugins): When doing some programming in Java, Python, Rails or C I use Eclipse for the most part augmented with quite a few VIM here and there.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;VIM&lt;/em&gt;: For writing Latex, BASH scripts, code  or for any other use of plain text processing, VIM is my tool of choice.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;XChat&lt;/em&gt;: My preferred X IRC client&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Evolution&lt;/em&gt;: A quite reasonable choice for doing all my email work. I chose Evolution, since it has a calendar integrated, but I&amp;#8217;m not sure if Mozilla Thunderbird with Google Calendar wouldn&amp;#8217;t work quite as well.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Latex&lt;/em&gt;: Either for writing articles, assignments, theses. It&amp;#8217;s simply a nice layout.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Inkscape&lt;/em&gt;: Sometimes when there some vector drawings to create (such as the MarkUs logo :-))&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;GIMP&lt;/em&gt;: For my very basic image manipulation needs.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;OpenOffice.org&lt;/em&gt;: For the occasional word processing or spreadsheeting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think these are (most of) my all-time-favorite tools. What are you using? What do you find helpful?&lt;/p&gt;
+
+&lt;p&gt;Here are some links what other people wrote about this topic: &lt;a href=&#34;http://afreshcup.com/2009/10/11/my-tools-of-the-trade-2009/&#34;&gt;Mike Gunderloy&lt;/a&gt; and &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Fwww.rubyflow.com%2Fitems%2F2865&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Fmediumexposure.com%2F2009%2F10%2F11%2Fmy-tools-trade&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Fblog.eizesus.com%2F2009%2F10%2Ftools-of-the-trade-2009&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Fdavidbolton.net%2Fblog%2F2009%2F10%2Fmy-tools-of-the-trade%2F&#34;&gt;4&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Fblog.thequeue.net%2Fmy-tools-of-the-trade%2F&#34;&gt;5&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Fwww.markrichman.com%2F2009%2F10%2F14%2Ftools-of-the-trade%2F&#34;&gt;6&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Ffiliptepper.com%2F2009%2F10%2F16%2Fmy-tools-of-the-trade%2F&#34;&gt;7&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Fcarpeaqua.com%2F2009%2F10%2F15%2Fmy-ultimate-developer-and-power-users-tool-list-for-mac-os-x%2F&#34;&gt;8&lt;/a&gt;, &lt;a href=&#34;http://go2.wordpress.com/?id=725X1342&amp;amp;site=ucosp.wordpress.com&amp;amp;url=http%3A%2F%2Flarrywright.me%2Fblog%2Farticles%2F216-the-tools-i-use&#34;&gt;9&lt;/a&gt;, and counting&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Punchlines Oct 19-25 ElmCity team</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/10/punchlines-oct-19-25-elmcity-team/</link>
+      <pubDate>Wed, 21 Oct 2009 16:59:46 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/10/punchlines-oct-19-25-elmcity-team/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Sarah&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; The project I was working on got canned, so I&amp;#8217;m trying to get reacquainted with the core codebase&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Also trying to understand the intended goals and power structure of this project better so I don&amp;#8217;t waste more work. This entails some discussion, new use of the bug tracking system for laying out goals, and group formulation of user stories (to be finished at this Friday&amp;#8217;s meeting)&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Midterms&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; If we write user stories as a group on Friday without Jon, how do we make sure he clears each one, and what do we do if he rejects many of them? I&amp;#8217;m concerned this could make Friday&amp;#8217;s meeting less useful than it otherwise would be. Alternatives: Solicit a comprehensive description of what Jon thinks are acceptable high-level goals before Friday and refine at the meeting, adding no additional ideas so we don&amp;#8217;t stray from spec, or, better, have Jon come to the meeting if possible.&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Write documentation&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Write tests, and add any bugs I discover to bug tracker&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Choose all future tasks from the bug tracker for better directed work&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Turn agreed-upon and authorised user stories into a series of milestones specified in the bug tracker, choose one as a milestone for one or two weeks from now&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Use user stories generated plus group discussion to formulate marking scheme&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nikita&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; &lt;a href=&#34;http://elmcity.cloudapp.net/services/frenchThings/html&#34;&gt;http://elmcity.cloudapp.net/services/frenchThings/html&lt;/a&gt; (different types of feeds showing up!)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; removed all relative links in the code, which now allows us to check out code and develop locally much easialy&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; added filtering ability to the service (url=&amp;#8230;&amp;amp;filter=Montreal)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; rewrote librarything plugin to use RSS instead of HTML when parsing events&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; myspace (fixed issue #36, choking on certain pages with missing location information)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; tests: wrote tests and docuemnted myspace, librarything, database.py, added test_all.py (that creates a test suite from available test modules and runs them all)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; wrote initial batch module (batch.py)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; started two wiki pages (&lt;a href=&#34;http://code.google.com/p/elmcity/w/list&#34;&gt;http://code.google.com/p/elmcity/w/list&lt;/a&gt;) one for &amp;#8220;how to write a plugin&amp;#8221;, the other one describing the general look of the system.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; other little things&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; none&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; looking and coming up with the solution for the timezone problem (as per &lt;a href=&#34;http://friendfeed.com/elmcity-development/735c49eb/problem-with-librarything-approach&#34;&gt;http://friendfeed.com/elmcity-development/735c49eb/problem-with-librarything-approach&lt;/a&gt;) and&lt;/p&gt;
+
+&lt;p&gt;AM/PM problem (as per &lt;a href=&#34;http://friendfeed.com/elmcity-development/abbbced4/paris-est-belle&#34;&gt;http://friendfeed.com/elmcity-development/abbbced4/paris-est-belle&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; pluginFinder.py, icwWriter &amp;#8211; documentation, unit tests&lt;/p&gt;
+
+&lt;p&gt;not-so-important:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; move views.py code into a separate file, and make views.py call it from there (this is to enforce independence from django)&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; extending web-interface&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; more things if time permits!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;more to come&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elmcity Status Reports for 2009-10-14</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/10/elmcity-status-reports-for-2009-10-14/</link>
+      <pubDate>Wed, 14 Oct 2009 15:43:55 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/10/elmcity-status-reports-for-2009-10-14/</guid>
+      <description>&lt;p&gt;I haven&amp;#8217;t heard back from the whole team, but here are the status reports I did receive:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented the SQL layer in database.py by&amp;#8230;&lt;/li&gt;
+&lt;li&gt;Restructuring and refactoring icsWriter.py and remote.py&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We don&amp;#8217;t have any unit or integration tests, so it&amp;#8217;s impossible to be completely reassured with code changes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write integration tests for database.py?&lt;/li&gt;
+&lt;li&gt;Write unit tests for remote.py&lt;/li&gt;
+&lt;li&gt;Further restructuring of remote.py&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Diane&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Still working on cataloguing what sorts of general patters we should support.  Expect to have results by the end of the week.&lt;/li&gt;
+&lt;li&gt;Setting up Cathy Levinson&amp;#8217;s elmcity wordpress plugin (Calendar Display Mechanisms) and investigating how to divide the work between the elmcity service and the plugin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue working on the cataloguing of general patterns found within existing FuseCal-parsed pages.  Expect to have results published by the end of the week.&lt;/li&gt;
+&lt;li&gt;Look into how the elmcity wordpress plugin is sourcing JSON and how client-side rendering directly in the elmcity service might be more useful and how it may not be.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Nikita&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wrote remote.py&lt;/li&gt;
+&lt;li&gt;Implemented bad_urls table&lt;/li&gt;
+&lt;li&gt;Wrote up about the project page, with simple instructions on how to use the service&lt;/li&gt;
+&lt;li&gt;Restructured hg repository so that it&amp;#8217;s now mirror of our server structure&lt;/li&gt;
+&lt;li&gt;Updated ajax interface &amp;amp; frontend so it doesn&amp;#8217;t choke on malformed URLs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add filter capability to the service&lt;/li&gt;
+&lt;li&gt;Write-up &amp;#8220;how to write a plugin&amp;#8221; plugins guidelines&lt;/li&gt;
+&lt;li&gt;Write batch processing module&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Sarah&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;#8217;m looking into Autopager, a firefox plugin that does a very good job of allowing users to generate rules to select different parts of a page.&lt;/li&gt;
+&lt;li&gt;I&amp;#8217;m reading through the source code and sketching out some ideas as to how a plugin generator for us would look, how to make the interface more usable, and what extra features we&amp;#8217;d need.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Waiting for answer from developer of whether Autopager is free for reuse with modification, or just open source&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I&amp;#8217;m not entirely sure whether this side project is a good use of team resources: Would a complementary generator to Diane&amp;#8217;s project be worthwhile?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I was trying to wait until I had something more concrete to blog about it, but I could really use some input from the rest of the team&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I&amp;#8217;ll put together a UCOSP Elmcity ics with the meetings, this weekly post, and other events &amp;#8211; if nothing else, it&amp;#8217;d help me stay on top of things.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I&amp;#8217;ll make a blog post about this idea, and solicit opinions from the rest of the group.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Search for and blog about the question: what is fair use for open source but not free software? Can I dissect Autopager&amp;#8217;s approach in detail, throw away their code, and write from a guideline I got from their source? Can I look through Autopager&amp;#8217;s source when I hit a design problem, and implement their solution &amp;#8220;in my own words&amp;#8221;? Or am I not really allowed to make what would be conceptually a derivitive work if I&amp;#8217;ve read their code? I&amp;#8217;m sure a lot of people working on UCOSP could help me with this.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Updates</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/10/elmcity-updates/</link>
+      <pubDate>Fri, 02 Oct 2009 19:28:46 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/10/elmcity-updates/</guid>
+      <description>&lt;p&gt;Following our wonderful progress during the code-sprint, the results of which can be seen &lt;a href=&#34;http://elmcity.cs.toronto.edu/&#34;&gt;here&lt;/a&gt;, we&amp;#8217;ve tried to regroup and set forth a list of goals we can achieve by the end of the semester.&lt;/p&gt;
+
+&lt;p&gt;For our FuseCal replacement, we hope to make it a really robust service with even more bells and whistles than FuseCal had. &lt;a href=&#34;http://friendfeed.com/elmcity-development/cb277423/list-of-goals&#34;&gt;Here&lt;/a&gt; is the list of goals we came up with on Sunday, and the discussion on who wants to tackle which parts.&lt;/p&gt;
+
+&lt;p&gt;Sarah had a really interesting idea about an academic push for the project. By building a nice plugin infrastructure, we hope to be able to field out the work of writing plugins for individual sites to first and second year computer science students. Read more about that initiative over &lt;a href=&#34;http://friendfeed.com/elmcity-development/45f74da7/academic-link-for-elmcity&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition, we may also tackle a more general approach to scraping sites, regardless of their origin. The first step there is cataloguing the sites FuseCal could successfully handle, and then to pull patterns out from the list.&lt;/p&gt;
+
+&lt;p&gt;We also want to work on being able to display calendar feeds on blogs and sites using output plugins, rather than just exporting (html | ics | xml | json | etc).&lt;/p&gt;
+
+&lt;p&gt;Once we&amp;#8217;ve settled on sub-teams and meeting times, you can expect to hear a lot more from us. Meanwhile, if you want to get up to the second coverage, feel free to drop by the &lt;a href=&#34;http://friendfeed.com/elmcity-development&#34;&gt;FriendFeed room&lt;/a&gt;. The discussion there is open to all.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint &amp;#8212; Day 2</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/09/code-sprint-day-2/</link>
+      <pubDate>Sat, 26 Sep 2009 21:08:17 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/09/code-sprint-day-2/</guid>
+      <description>&lt;p&gt;…and the sun is setting on day 2 of the code sprint. Today we were able to combine the two plugins together and get a working front-end. Each of the plugins each returna list of events that is returned to the front end. Here is the link for the front end: &lt;a href=&#34;http://elmcity.cs.toronto.edu/&#34;&gt;http://elmcity.cs.toronto.edu/&lt;/a&gt; As of now, we have only handled the two urls shown in the examples. It only intelligent enough to handle those two.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>http://haruute0.github.io/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>&lt;p&gt;The Basie team posted their first-day report on t&lt;a href=&#34;http://blog.basieproject.org/?p=1129&#34;&gt;heir blog&lt;/a&gt;. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-832&#34; title=&#34;Basie&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/basie-small.jpg&#34; alt=&#34;Basie&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/basie-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/basie-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.wordpress.com/project-basie/&#34;&gt;&lt;em&gt;&lt;strong&gt;Basie&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-833&#34; title=&#34;Eclipse4Edu&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/eclipse4edu-small.jpg&#34; alt=&#34;Eclipse4Edu&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/eclipse4edu-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/eclipse4edu-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.wordpress.com/project-eclipse4edu/&#34;&gt;&lt;strong&gt;&lt;em&gt;Eclipse4Edu&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img class=&#34;alignnone size-full wp-image-834&#34; title=&#34;ElmCity&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/elmcity-small.jpg&#34; alt=&#34;ElmCity&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/elmcity-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/elmcity-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.wordpress.com/project-elmcity&#34;&gt;&lt;strong&gt;&lt;em&gt;ElmCity&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img class=&#34;alignnone size-full wp-image-836&#34; title=&#34;Ingres&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/ingres-small.jpg&#34; alt=&#34;Ingres&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/ingres-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/ingres-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.wordpress.com/project-ingres&#34;&gt;&lt;strong&gt;&lt;em&gt;Ingres&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img class=&#34;alignnone size-full wp-image-837&#34; title=&#34;MarkUs&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/markus-small.jpg&#34; alt=&#34;MarkUs&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/markus-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/markus-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.wordpress.com/project-markus&#34;&gt;&lt;strong&gt;&lt;em&gt;MarkUs&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img class=&#34;alignnone size-full wp-image-838&#34; title=&#34;Robocup&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/robocup-small.jpg&#34; alt=&#34;Robocup&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/robocup-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/robocup-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.wordpress.com/project-robocup/&#34;&gt;&lt;strong&gt;&lt;em&gt;Robocup&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img class=&#34;alignnone size-full wp-image-839&#34; title=&#34;Thunderbird&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/thunderbird-small.jpg&#34; alt=&#34;Thunderbird&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/thunderbird-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/thunderbird-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.wordpress.com/project-thunderbird/&#34;&gt;&lt;strong&gt;&lt;em&gt;Thunderbird&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;img class=&#34;alignnone size-full wp-image-840&#34; title=&#34;WikiDev&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/wikidev-small.jpg&#34; alt=&#34;WikiDev&#34; width=&#34;500&#34; height=&#34;375&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/wikidev-small.jpg 500w, http://ucosp.ca/wp-content/uploads/2009/09/wikidev-small-300x225.jpg 300w&#34; sizes=&#34;(max-width: 500px) 100vw, 500px&#34; /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;**_&lt;a href=&#34;http://ucosp.wordpress.com/project-wikidev/&#34;&gt;WikiDev&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;_**&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elmcity!</title>
+      <link>http://haruute0.github.io/2009-2010/elmcity/2009/09/elmcity/</link>
+      <pubDate>Fri, 25 Sep 2009 20:57:46 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/elmcity/2009/09/elmcity/</guid>
+      <description>&lt;p&gt;As the first day draws to a close, the elmcity crew is putting the finishing touches on our project skeleton.  A very productive day has been had by all, most of us were a little unsure about how to even begin when the day started, but by now everyone has assigned themselves a part of the project.  We’re essentially re-creating the backend of the defunct FuseCal, hoping to have a solid (if limited) version of it operating by the end of the code sprint weekend.&lt;/p&gt;
+
+&lt;p&gt;We have scrapers for MySpace and Library calendars, hooking into a plugin architecture for the rest of the backend.  As for very brief overviews of what we’ve all been doing (I know I certainly don’t have everything that we’ve all done written down here, so don’t get mad at me if I missed something  &lt;img src=&#34;http://s.wordpress.com/wp-includes/images/smilies/icon_wink.gif&#34; alt=&#34;;)&#34; /&gt;): Diane and I have mostly been working on taking in an URL, recognizing what plugin needs to be called, passing the proper information to the plugin, retrieving the information, and passing it on to the next portion of the backend.  One of the biggest issues we’ve run into has been how to properly parse an URL to get just the base domain name–ends up being not quite as simple as we’d thought!  Finally have a decent solution though, lots of special cases to take care of.  Nikita and Meghan have been working on the Library scraper plugin, Jory has the MySpace plugin complete, and Sarah has been working with the design/creation of helper classes for the API and has written us up some information for the usage of Mercurial for version control (what Google Code uses).&lt;/p&gt;
+
+&lt;p&gt;The MSU crew (minus Evan) drove up here, arriving at the hotel around 10 last night.  5 hour drive, but went well &amp;amp; seemed surprisingly fast.  Definitely am looking forward to going out and seeing whatever small part(s) of Toronto I can, seems like a great city!  Looking forward to the next couple days of coding, and getting as far as we can on this project&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Updates</title>
+      <link>http://haruute0.github.io/2009-2010/basie/2009/09/798/</link>
+      <pubDate>Thu, 24 Sep 2009 15:30:58 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/basie/2009/09/798/</guid>
+      <description>&lt;p&gt;Here are the latest progress reports from the teams (with Ingres, Thunderbird, and WikiDev still to come):&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;&lt;strong&gt;Basie&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;* Build a toy application in Django and check it into the Subversion repository to prove that they have started learning the framework.
+
+&lt;ul&gt;
+&lt;li&gt;Get Basie running on their development machine and send us a URL so that we can check it.&lt;/li&gt;
+&lt;li&gt;Fix some of our broken test fixtures (long story) and put their changes up for code review.&lt;/li&gt;
+&lt;li&gt;(In pairs) Find examples on the web of prior art related to their chosen sub-project for the term and write a blog post about them.&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;Eclipse4Edu&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;The students are working on some existing bugs in order to get familiar with the project.&lt;/p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dennis Acosta is fixing a number of existing class that have warnings involving ArrayList as a raw type. He needs to make updates on the classes so that the warning is removed (Bug 288854).&lt;/li&gt;
+&lt;li&gt;Peter Lorimer and Maciej Kozlowski are creating and integrating a Cheatsheet mechanism into the JavaLite perspective for creating one&amp;#8217;s first JavaLite project and writing Java code (Bug 288852).&lt;/li&gt;
+&lt;li&gt;Maxime Caron and Nil Goyette are fixing the problem of New Class and New Package buttons being enabled when there is no project selected. They are also fixing the an issue so that the Java Class option should automatically create a Java Project (Bugs 246163 244645 ).&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;Elmcity&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;Choose a target calendar page on MySpace: any band you like.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Install BeautifulSoup and familiarize with it.&lt;/li&gt;
+&lt;li&gt;Try (in teams) two different approaches to parsing title/datetime/location/url info:
+
+&lt;ul&gt;
+&lt;li&gt;using plain regexes&lt;/li&gt;
+&lt;li&gt;using BeautifulSoup&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Create a standalone script that reads any MySpace calendar page (i.e. the view all link) and writes title/datetime/url info (not iCalendar for now, CSV is fine).&lt;/li&gt;
+&lt;li&gt;Check script into repository.&lt;/li&gt;
+&lt;li&gt;Write up one of these topics:
+
+&lt;ul&gt;
+&lt;li&gt;pros and cons of BeautifulSoup&lt;/li&gt;
+&lt;li&gt;challenges involved in reliably finding required data&lt;/li&gt;
+&lt;li&gt;strategy for creating a service that reads configuration from the web, runs regularly, writes results to the web&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;MarkUs&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;Begin learning Ruby and Rails by going through some online tutorials and/or building a toy application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Get MarkUs running in a development environment (Windows, Linux and OS X)&lt;/li&gt;
+&lt;li&gt;Start looking at bug fixes or tests.&lt;/li&gt;
+&lt;li&gt;Put any changes up for code review&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;RoboCup&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;Got the soccer server and monitor code built and running.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gained access to the repositories and started looking at code.&lt;/li&gt;
+&lt;li&gt;Got at least one of the (Python) clients running&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They are looking at the Java clients now; we are meeting this evening&lt;/p&gt;
+
+&lt;p&gt;to see what progress people have made on that. By the weekend the&lt;/p&gt;
+
+&lt;p&gt;target is to be familiarised with the code and to have some idea of&lt;/p&gt;
+
+&lt;p&gt;the improvements they want to tackle.&lt;/p&gt;&lt;/dd&gt;
+&lt;dt&gt;WikiDev&lt;/dt&gt;
+&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;The team has become familiar with WikiDev components, architecture ad code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The team has also become familiar with UML models&lt;/li&gt;
+&lt;li&gt;The team self organized in three subgroups
+
+&lt;ul&gt;
+&lt;li&gt;the Waterloo team focuses on parsing XMI&lt;/li&gt;
+&lt;li&gt;the SFU team focuses on the development of the Flash-based front-end&lt;/li&gt;
+&lt;li&gt;the UVic team focuses on developing analyses of the DB data&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The objective for the sprint is to solidify our understanding of task assignments by establishing a clear understanding of the DB schema that everyone will be dealing with&lt;/li&gt;
+&lt;/ul&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

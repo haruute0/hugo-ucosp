@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>Extending MediaWiki using extensions and hooks &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>Extending MediaWiki using extensions and hooks</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>13 Mar 2014, 13:51</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  <p>Wen-Chien Chen from Waterloo fills us in on his work with MediaWiki extensions:</p>
+
+<p><a href="https://www.mediawiki.org/">MediaWiki</a> is a versatile wiki software package written in PHP that powers websites where users write collaboratively. It is used in a variety of applications, from Wikipedia to the online documentation of Arch Linux. The extension architecture of MediaWiki allows it to adapt to the needs of different applications: while the core portion of the software is already powerful, it can be augmented with modular extensions. In particular, MediaWiki allows extensions to define hooks, and to register handlers for hooks defined in MediaWiki and other extensions. We used this feature to add the ability to send thank you notifications to other users for their comments on discussion boards powered by the <a href="https://www.mediawiki.org/wiki/Extension:Flow">Flow extension</a>, leveraging existing code in the <a href="https://www.mediawiki.org/wiki/Extension:Thanks">Thanks extension</a>.</p>
+
+<p>On a Flow discussion board, each comment has several interaction links for editing, replying and other functionality. In the Flow extension, the code that generates the interaction links is similar to the following:</p>
+
+<pre style="tab-size: 4; white-space: pre-wrap;"><code>public function postInteractionLinks( $replyButtonClass, $editButtonClass ) {
+    $items = array();
+
+    // Generate the HTML code for reply and edit buttons and append them to $items
+    $replyButton = $this-&gt;replyButton( $replyButtonClass );
+    if ( $replyButton ) {
+        $items[] = $replyButton;
+    }
+    $editButton = $this-&gt;editPostButton( $editButtonClass );
+    if ( $editButton ) {
+        $items[] = $editButton;
+    }
+
+    // Construct and return formatted HTML containing the interaction links
+    return implode(
+        Html::element(
+            'span',
+            array( 'class' =&gt; 'flow-post-interaction-separator' ),
+            wfMessage( 'flow-post-interaction-separator' )-&gt;text()
+        ),
+        $items
+    );
+}</code></pre>
+
+<p>To allow other extensions to add more links, we added a call to <code>wfRunHooks()</code> immediately before the return statement:</p>
+
+<pre style="white-space: pre-wrap;"><code>// $this-&gt;post refers to the comment and $this-&gt;user refers to the viewing user
+wfRunHooks( 'FlowAddPostInteractionLinks', array( $this-&gt;post, $this-&gt;user, &$items ) );</code></pre>
+
+<p><code>wfRunHooks()</code> is a global function in MediaWiki that calls each hook function registered to handle an event—in this case, one we just defined as <code>FlowAddPostInteractionLinks</code>. Multiple handlers, which would be called in sequence, can respond to the same event. The contents of the array are passed as arguments to the hook functions. Note that a reference to <code>$items</code> is passed in, in order to allow handlers to modify the items array.</p>
+
+<p>In the Thanks extension, we added a static method to the <code>ThanksHooks</code> class. It handles the event by appending a link to <code>$items</code>, returning <code>true</code> on success:</p>
+
+<pre style="tab-size: 4; white-space: pre-wrap;"><code>public static function onFlowAddPostInteractionLinks( $post, $user, &$links ) {
+
+    // Perform permission checks and other processing
+
+    // Generate the HTML code for a thank buttons and append it to $items
+    $links[] = Html::element(
+        'a',
+        array(
+            'href' =&gt; $this-&gt;getThanksApiUrl( $post-&gt;getPostId ),
+            'data-post-id' =&gt; $post-&gt;getPostId()
+        ),
+        wfMessage( 'thanks-button-text' )-&gt;parse()
+    );
+    return true;
+}</code></pre>
+
+<p>To register the method as a handler so that it would be called during the call to <code>wfRunHooks()</code>, we appended its name to the relevant entry in <code>$wgHooks</code>, which is an associative array that stores the handlers registered for each event. (In general, variables in MediaWiki with the <code>wg</code> prefix have global scope.) This was done by adding following line to <code>Thanks.php</code>, which contains setup instructions for the Thanks extension:</p>
+
+<pre style="white-space: pre-wrap;"><code>$wgHooks['FlowAddPostInteractionLinks'][] = 'ThanksHooks::onFlowAddPostInteractionLinks';</code></pre>
+
+<p>And that&#8217;s pretty much all that needs to be done to integrate the two extensions! After doing the above, a link for thanking the author will be appended to the interaction links for each comment. The hooks system makes it easy to add new functionality to MediaWiki and its extensions, and enables interaction between different parts of the software.</p>
+
+<p>Aside from defining hooks ourselves by adding calls to <code>wfRunHooks()</code>, the core code of MediaWiki defines a number of events that extensions can respond to. A partial list is available at the <a href="https://www.mediawiki.org/wiki/Manual:Hooks#Available_hooks">Hooks manual page</a>.</p>
+
+<p>In my time working with MediaWiki so far, I have found writing and modifying extensions to be a great way to learn about hacking MediaWiki. Aside from the hooks system described here, there are numerous other features in MediaWiki that simplify the work needed to create an extension. The <a href="https://www.mediawiki.org/wiki/Manual:Developing_extensions">Developing extensions manual page</a> is a good starting point for learning about extension development, and <a href="https://www.mediawiki.org/">MediaWiki.org</a>, along with the <a href="https://doc.wikimedia.org/mediawiki-core/master/php/html/">class reference</a>, provides extensive documentation about the internals of the software. Happy hacking!</p>
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/winter-2014/2014/03/winter-2014-code-sprint/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/winter-2014/2014/03/winter-2014-code-sprint/">Winter 2014 Code Sprint</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/winter-2014/2014/04/ucosp-how-i-learned-to-stop-worrying-and-love-open-source-development/">UCOSP: How I learned to stop worrying and love open source development</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/winter-2014/2014/04/ucosp-how-i-learned-to-stop-worrying-and-love-open-source-development/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

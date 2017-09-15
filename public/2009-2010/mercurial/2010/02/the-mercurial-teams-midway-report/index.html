@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>The Mercurial Team&amp;#039;s Midway Report &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>The Mercurial Team&amp;#039;s Midway Report</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>28 Feb 2010, 04:33</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  <p>When we set out at the beginning of UCOSP, my goal was for us to contribute significantly to Mercurial by the end of the semester. How well have we accomplished that goal so far?</p>
+
+<p>At the beginning of the semester, all of the students were given small, self-contained bug fixes and features that we&#8217;d discovered people wanted over the course of developing Kiln, mostly in the form of Mercurial extensions. Four of these were quickly completed: <a href="http://bitbucket.org/paulitex/cedit/">cedit</a>, a command-line-based way to configure Mercurial; <a href="http://bitbucket.org/antmar/cache-annotations/">cache-annotations</a>, which makes annotating files repeatedly ridiculously fast; globexclude, which allows you to exclude files based on their glob pattern when doing conversions to Mercurial; and <a href="http://bitbucket.org/alexandru/caseguard/">caseguard</a>, which warns you when you are committing files that have names that will prevent Mac and Windows users from using your repository. Of these, globexclude and caseguard will be submitted (with some slight modifications) for inclusion into Mercurial 1.6, and cache-annotations already ships with every version of Kiln. This part of the project I consider a complete success.</p>
+
+<p>Since then, we have transitioned from everyone doing a little project to everyone working on <a href="http://vc.gerg.ca/hg/hg-bfiles">bfiles</a>, an extension to Mercurial that is designed to ameliorate using Mercurial with projects that involve large binary files.</p>
+
+<p>I would be lying if I said I wasn&#8217;t slightly disappointed with the work done on bfiles so far—not really through any fault of my students, as much as due to the nature of what they&#8217;re trying to accomplish. bfiles is necessarily a more complex problem than the initial, self-contained feature sprints: bfiles requires some changes to Mercurial&#8217;s workflow, and these changes don&#8217;t always have a single, straightforward solution, and so everyone has to take the discussion to the Mercurial mailing list to figure out how to proceed. Having these discussions is unquestionably <em>not</em> a waste of time. These are delicate issues, and working with the Mercurial community to determine how to proceed is an absolutely necessity. This has, unfortunately, had the side-effect of delaying writing some of the code we wanted for bfiles until we can get some of the design straightened out.</p>
+
+<p>I&#8217;m nevertheless still very optimistic for the second half of the semester. We&#8217;ve sorted out a lot of the hard issues, allowing everyone to begin focusing on writing code again (even if only for initial prototypes, in some cases). Simultaneously, we&#8217;ve begun working on some aspects of bfiles that do not require so much debate to ensure that we&#8217;re doing the &#8220;right&#8221; thing. This means we can continue to code, while still carefully consulting the community on ambiguous areas.</p>
+
+<p>Balancing requirements gathering with simply getting the code done can be a complicated affair on open-source and commercial projects alike. I think we&#8217;ve been erring too much towards discussion in the last couple of weeks, but as long as we can correct ourselves soon and get focused on the code again, I&#8217;m still confident that we&#8217;ll get nearly everything accomplished this semester that we set out to do.</p>
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/miles-midway-madness-2/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/miles-midway-madness-2/">Miles Midway Madness</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/2009-2010/basie/2010/02/jackie-huynh-midterm-update/">Jackie Huynh &amp;#8211; Midterm Update</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/2009-2010/basie/2010/02/jackie-huynh-midterm-update/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

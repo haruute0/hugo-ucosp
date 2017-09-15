@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>CodeIgniter checks in &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>CodeIgniter checks in</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>02 Apr 2015, 13:18</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  <p class="p1">
+  <span class="s1">Xing Zeng from UToronto who has been working on the CodeIgniter project checks in on this term.</span>
+</p>
+
+<p>I am working on the CodeIgniter Project. More specifically, our team is spending most of our time in developing Netbeans plugin for CodeIgniter developers.</p>
+
+<p>CodeIgniter is a light-weight PHP framework, loosely based on the popular Model-View-Controller development pattern. It is the 4th most widely-used PHP framework throughout the Internet[1]. Despite this, there has been no IDE plugin for it on any major IDE, where lots of other PHP frameworks, including the famous Symphony and the not so famous Nette2, all have IDE plugins specifically designed to work with the features of their library. That&#8217;s the reason why our team decided to work on it.</p>
+
+<p>The first platform we choose to implement our plugin was Netbeans. It is a fast and flexible IDE and it is among the preferred choice of many CodeIgniter developers as well as the IDE being taught in the CodeIgniter class at BCIT. It has tons of libraries and APIs for you to develop plugins conveniently to work with Netbeans. Since Netbeans was programmed in Java, our Plugin is also written in Java, created in Netbeans IDE as a Netbeans Module Project. Some other supplementary files were written in PHP.</p>
+
+<p>This is the first time I have ever worked on an open source project as well as the first time I ever started working on an open source project from the ground up. We use Github as our major tool for issue tracking and source control, just like a lot of other open source libraries including CodeIgniter itself. So I really feel excited about this golden opportunity, and I do feel I learn something from it. The following are two examples of what I have learned from participating in this project.</p>
+
+<p>The first target I set was to implement a view navigation functionality. It is a fairly easy task since Netbeans has already provided you the interface <em>HyperlinkProviderExt</em> for you to implement. So I approach this naively at first, directly go into the package of code navigation to do all my coding work. I did kind of realize that this is not the correct way at the beginning of implementing a somehow complicated software, as some of my functionality in parsing Hyperlink and retrieving files may also be required by other parts of the program. But I did not have a chance to think about it carefully until I have decided how am I supposed to integrate the interface in <em>HyperlinkProviderExt</em> with the functionality I want. This turn out to be a problem later, when one of my team members came to me and ask me how to tokenize the PHP file, which is a functionality I have implemented after I finished my code. The result of not having a consensus prior to working on the code is a minor refactoring required in my code to make the system work and a major one is still ongoing for both my package and the shared package to make the code more clear and robust.</p>
+
+<p>Then I switched to working on the auto-completion functionality. For this part, I realized that learning from other open source projects on Netbeans IDE Plugin is extremely useful, which is also a major reason why people promote open source. This is even more essential in my case since, for some reason I don’t know, Netbeans APIs does not have javadoc with it and it takes so much time to manually go over its online documentation. So, I looked into some other open source projects, including the source code for the Yii Plugin, wojciech-holisz plugin, as well as the Sprint Autocompletion file and the structure of the Zend Plugin. They gave me lots of help on providing me a basic idea of how the structure of my <em>CompletionProvider</em> class could be and showing me what kind of API calls as well as pre-defined object would be convenient for me to use. This allowed me to finish the coding of this part early and understand how each part could  work together.</p>
+
+<p>In conclusion, I feel like working for CodeIgniter is a really great opportunity and I do feel I learned a lot from it.</p>
+
+<p>**</p>
+
+<p>[1] <a href="http://www.sitepoint.com/best-php-frameworks-2014/**">http://www.sitepoint.com/best-php-frameworks-2014/**</a></p>
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/fall-2014/2014/12/umple-experiences/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/fall-2014/2014/12/umple-experiences/">UMPLE Experiences</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/2015/12/15/getting-ready-for-the-new-year/">Getting Ready for the New Year</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/2015/12/15/getting-ready-for-the-new-year/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

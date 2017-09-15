@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer 2014 on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/summer-2014/</link>
+    <description>Recent content in Summer 2014 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jul 2014 13:55:22 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/summer-2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Enhancing ReviewBoard with TogetherJS</title>
+      <link>http://haruute0.github.io/summer-2014/2014/07/enhancing-reviewboard-with-togetherjs/</link>
+      <pubDate>Thu, 10 Jul 2014 13:55:22 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/summer-2014/2014/07/enhancing-reviewboard-with-togetherjs/</guid>
+      <description>&lt;p&gt;Peter from UofT checks in:&lt;/p&gt;
+
+&lt;p&gt;ReviewBoard is a web service which facilitates code review amongst developers&lt;/p&gt;
+
+&lt;p&gt;within a repository (Git, SVN, etc). The project I am working on is an&lt;/p&gt;
+
+&lt;p&gt;implementation of TogetherJS, an extension (or plugin) that organizations can&lt;/p&gt;
+
+&lt;p&gt;choose to install within their instance of ReviewBoard. TogetherJS is a&lt;/p&gt;
+
+&lt;p&gt;javascript library that allows multiple users to discuss a webpage through&lt;/p&gt;
+
+&lt;p&gt;text and voice chat and live cursor interaction. A demo is available here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tEfbREmTBjc&#34;&gt;https://www.youtube.com/watch?v=tEfbREmTBjc&lt;/a&gt; It is similar to screen sharing&lt;/p&gt;
+
+&lt;p&gt;on Skype but has limited capabilities. Some of the features I have been&lt;/p&gt;
+
+&lt;p&gt;assigned to implement are to decouple this service from the Mozilla servers&lt;/p&gt;
+
+&lt;p&gt;and to reduce dependency on WebRTC. There will be an interesting balancing act&lt;/p&gt;
+
+&lt;p&gt;between taking advantage of all the available tools from the library and&lt;/p&gt;
+
+&lt;p&gt;keeping the extension a standalone project that services the needs of&lt;/p&gt;
+
+&lt;p&gt;ReviewBoard. The objective of this project is to help multiple developers&lt;/p&gt;
+
+&lt;p&gt;discuss a single commit in real time while in remote locations.&lt;/p&gt;
+
+&lt;p&gt;The most important lesson I have learnt in UCOSP is that this is not a course.&lt;/p&gt;
+
+&lt;p&gt;There are supervisors from the faculty, mentors of the project and peers.&lt;/p&gt;
+
+&lt;p&gt;However, there are no lectures, no assignments, no deadlines, no tests.&lt;/p&gt;
+
+&lt;p&gt;Throughout undergrad, attending lectures, keeping tabs on assignment and test&lt;/p&gt;
+
+&lt;p&gt;deadlines, and starting early to meet these demands helped me succeed. However&lt;/p&gt;
+
+&lt;p&gt;this does not work well with UCOSP. UCOSP requires a different type of&lt;/p&gt;
+
+&lt;p&gt;dedication. You really need to set aside time to work on it on a regular&lt;/p&gt;
+
+&lt;p&gt;basis. Furthermore you need to ask questions frequently. It’s very unintuitive&lt;/p&gt;
+
+&lt;p&gt;because with regular courses, the more time you spend on a problem on your&lt;/p&gt;
+
+&lt;p&gt;own, the more you learn. The opposite is true here. The more time you waste&lt;/p&gt;
+
+&lt;p&gt;trying to solve something on your own, the worse your overall performance. It&lt;/p&gt;
+
+&lt;p&gt;is much more productive to consult your mentors at every roadblock. Some&lt;/p&gt;
+
+&lt;p&gt;people may find asking many little questions bothersome but the mentors love&lt;/p&gt;
+
+&lt;p&gt;it. If they did not like helping, they would not have become mentors. The&lt;/p&gt;
+
+&lt;p&gt;UCOSP learning experience is really different, but there is no reason you can&lt;/p&gt;
+
+&lt;p&gt;not succeed because there is so much help available if you take advantage of&lt;/p&gt;
+
+&lt;p&gt;it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

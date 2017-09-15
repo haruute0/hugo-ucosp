@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/php/</link>
+    <description>Recent content in Php on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2009 23:07:38 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>One Step Backward</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2009/11/one-step-backward/</link>
+      <pubDate>Sun, 15 Nov 2009 23:07:38 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2009/11/one-step-backward/</guid>
+      <description>&lt;p&gt;Sometimes it is hard to recognize when a problem can be best solved by starting over. Over the past few days I have been making a lot of configurations on Windows using something called &amp;#8216;Windows Configuration-By-Forms&amp;#8217;. You can start it by going to the command prompt(typing &amp;#8220;cmd&amp;#8221; in Start-&amp;gt;Run) and typing the command &amp;#8220;cbf&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Well, after all was said and done I wasn&amp;#8217;t able to load php pages consistently. I previously was able to connect to an Ingres database, but not return any successful queries. Looks like I set something incorrectly.&lt;/p&gt;
+
+&lt;p&gt;However, since my role in this is to perform testing and documentation this will offer me the chance to document each step as I start over with my PHP install.&lt;/p&gt;
+
+&lt;p&gt;ASIDE:&lt;/p&gt;
+
+&lt;p&gt;I have heard that is not advised to use PHP 5.3 with Drupal, but I figure I will stick with what I had for tonight at least and see if I can get back to where I was.&lt;/p&gt;
+
+&lt;p&gt;Settings:&lt;/p&gt;
+
+&lt;p&gt;Apache v2.2 (running under user, NOT as service)&lt;/p&gt;
+
+&lt;p&gt;PHP 5.3&lt;/p&gt;
+
+&lt;p&gt;IngresII 9.3&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2011 on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/fall-2011/</link>
+    <description>Recent content in Fall 2011 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2011 12:47:16 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/fall-2011/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>POSIT update</title>
+      <link>http://haruute0.github.io/fall-2011/2011/11/posit-update/</link>
+      <pubDate>Tue, 08 Nov 2011 12:47:16 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/fall-2011/2011/11/posit-update/</guid>
+      <description>&lt;p&gt;Stanley Fung from POSIT &lt;a href=&#34;http://blog.hfoss.org/?p=484&#34;&gt;checks in&lt;/a&gt; with an update on his progress this term.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latest new from Review Board</title>
+      <link>http://haruute0.github.io/fall-2011/2011/10/latest-new-from-review-board/</link>
+      <pubDate>Mon, 31 Oct 2011 14:54:04 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/fall-2011/2011/10/latest-new-from-review-board/</guid>
+      <description>&lt;p&gt;Yazan Medanat has provided the &lt;a href=&#34;http://reviewboardstudents.wordpress.com/2011/10/31/ucosp-blog-post-october-31st-2011/&#34;&gt;latest update&lt;/a&gt; on how work is going with &lt;a href=&#34;http://www.reviewboard.org/&#34;&gt;Review Board&lt;/a&gt; and provides some nice insights into what it&amp;#8217;s like onboarding with the Review Board community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UMPLE October 2011 Update</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2011/10/umple-october-2011-update/</link>
+      <pubDate>Tue, 25 Oct 2011 17:49:46 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2011/10/umple-october-2011-update/</guid>
+      <description>&lt;p&gt;The Umple project is advancing rapidly this semester with three UCOSP students making major contributions in parallel with other contributors.&lt;/p&gt;
+
+&lt;p&gt;UCOSP students are have tackled some smaller features and bugs, and are now working on a couple of long-standing major issues: Generating comprehensive and useful error messages, and getting rid of certain syntax oddities.&lt;/p&gt;
+
+&lt;p&gt;Dr. Lethbridge, the project mentor, just posted a &lt;a href=&#34;http://tims-ideas.blogspot.com/2011/10/umple-status-and-recent-progress.html&#34; title=&#34;blog post&#34;&gt;blog post&lt;/a&gt; that covers the recent work in technical detail:&lt;/p&gt;
+
+&lt;p&gt;We asked each of the three UCOSP students to highlight what they have been learning and doing, what they have liked about the project so far, and what improvements they think they would like to see to how Umple is developed or the how UCOSP program is run.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;From Joshua Horacsek:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, I&amp;#8217;ve been working on making Umple more user-friendly. I&amp;#8217;ve been reworking the way Umple handles lexical and semantic errors, hopefully making it more robust, and ultimately more useable.&lt;/p&gt;
+
+&lt;p&gt;My favourite part of Umple isn&amp;#8217;t necessarily what the project aims to accomplish, but rather how the different components of Umple are built, what they&amp;#8217;re built with, and how they interact. That&amp;#8217;s not to say the idea of a model based language isn&amp;#8217;t interesting, it&amp;#8217;s just that Umple&amp;#8217;s a fairly large project, and it&amp;#8217;s pretty fun to navigate.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve learned how to look at a fairly large project with multiple different components, and break it down into components that I understand. I&amp;#8217;ve also learned the benefit of test driven development, and the headaches and time it saves.&lt;/p&gt;
+
+&lt;p&gt;As of right now, I have two primary goals. The first is to get Umple to a point where it produces concise error feedback for a wide variety of input. The second goal is tied to code generation from an Umple model. Currently, Umple can generate code for various languages such as Java, PHP and Ruby. If I have time I&amp;#8217;d like to extend it to generate SQL models, and if not, at least there&amp;#8217;ll be some partial code for a future UCOSP project.&lt;/p&gt;
+
+&lt;p&gt;From my perspective, I can&amp;#8217;t really see what either UCOSP or Umple could be doing better for UCOSP students.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;From Alvina Lee:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am working on a feature which allows umple to generate comments before classes. I made patches for issues regarding lazy keywords for attributes in generating singleton classes as well as automatically changing associations from 1 to 0..1 (issue 26).&lt;/p&gt;
+
+&lt;p&gt;I like that I get to learn new things and make use of computer science related stuff I&amp;#8217;ve used before.&lt;/p&gt;
+
+&lt;p&gt;What I am learning:&lt;/p&gt;
+
+&lt;p&gt;• Using JUnit on larger projects&lt;/p&gt;
+
+&lt;p&gt;• Learning to work with other people who do not live in the same area on the same project&lt;/p&gt;
+
+&lt;p&gt;• Learning to use new technology that I am not familiar with&lt;/p&gt;
+
+&lt;p&gt;• Learning about UML&lt;/p&gt;
+
+&lt;p&gt;By the end of this term, I will have some involvement with error parsing and have commenting for attributes and other objects implemented.&lt;/p&gt;
+
+&lt;p&gt;What the project could be doing better: Umple has included some video tutorials. While I appreciate the fact that they are offering help in setting up the developing environment, I do not like video tutorials because I have to wait to download them, and I dislike the format because it is harder to skip around to relevant sections if I am already familiar with what is being explained in some parts of the tutorial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;From Joel Hobson:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My name is Joel Hobson, and this is my first blog post for the UCOSP project and Umple. I&amp;#8217;m currently working on two main tasks for Umple &amp;#8211; First, I&amp;#8217;m working on adding a debug mode for developers that shows which JET templates generate specific code, in order to make it easier to add new languages to Umple. My other main task is fixing the various bugs regarding whitespace. Umple is currently finicky about whitespace, and code that programmers would expect to be valid, such as class X { attributeName=&amp;#8221;&amp;#8221;; } causes problems.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve never had the opportunity to work on a large software project before, and I&amp;#8217;ve greatly enjoyed the experience. Umple is a very interesting project, and I feel it could be extremely useful for large software projects when it becomes a little more mature.&lt;/p&gt;
+
+&lt;p&gt;Working on Umple, I&amp;#8217;ve learned a great deal about test-driven development. I had a vague understanding of the concept before, but now that I&amp;#8217;ve actually used it I can see just how useful it is. I&amp;#8217;ve also gained experience working with Apache Ant and Subversion, and have a much better idea of how contribution to open source projects works. The biggest challenge so far was getting it to build correctly on my system. Even now, I have some difficulty with errors in the build process, but overall things are going fairly smoothly.&lt;/p&gt;
+
+&lt;p&gt;My goals for the project include finishing the debug mode and fixing the whitespace bugs, as well as writing Umple extensions for various text editors and fixing random bugs, time permitting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board reports on their first month</title>
+      <link>http://haruute0.github.io/fall-2011/2011/10/review-board-reports-on-their-first-month/</link>
+      <pubDate>Mon, 17 Oct 2011 19:45:04 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/fall-2011/2011/10/review-board-reports-on-their-first-month/</guid>
+      <description>&lt;p&gt;David Druska checks in from Review Board to let us know how the first month has &lt;a href=&#34;http://reviewboardstudents.wordpress.com/2011/10/16/ucosp-blog-post-oct-16-2011/&#34;&gt;been going&lt;/a&gt;. David also provides some nice insight into why code reviews have been an effective part of the Review Board development process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fall 2011 Code Sprint</title>
+      <link>http://haruute0.github.io/fall-2011/2011/10/fall-2011-code-sprint/</link>
+      <pubDate>Mon, 17 Oct 2011 10:23:46 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/fall-2011/2011/10/fall-2011-code-sprint/</guid>
+      <description>&lt;p&gt;The UCOSP sprint this fall was held at the University of Toronto Department of Computer Science September 23 &amp;#8211; 25. Students and project mentors came together from across the country to meet their teams and start working on their projects. Some photos from the code sprint are included in the gallery below.&lt;/p&gt;
+
+&lt;div id=&#39;gallery-3&#39; class=&#39;gallery galleryid-2831 gallery-columns-3 gallery-size-thumbnail&#39;&gt;
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-1/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-1-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-1&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-10/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-10-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-10&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-11/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-11-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-11&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;br style=&#34;clear: both&#34; /&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-2/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-2-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-2&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-3/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-3-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-3&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-4/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-4-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-4&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;br style=&#34;clear: both&#34; /&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-5/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-5-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-5&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-6/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-6-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-6&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-7/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-7-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-7&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;br style=&#34;clear: both&#34; /&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-8/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-8-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-8&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;dl class=&#39;gallery-item&#39;&gt;
+    &lt;dt class=&#39;gallery-icon landscape&#39;&gt;
+      &lt;a href=&#39;http://ucosp.ca/fall-2011/2011/10/fall-2011-code-sprint/attachment/ucosp_fall-2011_sprint-9/&#39;&gt;&lt;img width=&#34;150&#34; height=&#34;150&#34; src=&#34;http://ucosp.ca/wp-content/uploads/2011/10/UCOSP_Fall-2011_Sprint-9-150x150.jpg&#34; class=&#34;attachment-thumbnail size-thumbnail&#34; alt=&#34;UCOSP_Fall-2011_Sprint-9&#34; /&gt;&lt;/a&gt;
+    &lt;/dt&gt;
+  &lt;/dl&gt;
+  
+  &lt;br style=&#39;clear: both&#39; /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/linux/</link>
+    <description>Recent content in Linux on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Dec 2009 04:33:44 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Screencast of showing building of Geospatial with GEOS as non root user on Linux</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</link>
+      <pubDate>Sat, 12 Dec 2009 04:33:44 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</guid>
+      <description>&lt;p&gt;The following tutorial video is done with GEOS 3.2.0, compiled in gcc 4.3 and g++ 4.3 depending on Xerces C headers and libraries 2.8, pam-devel, pax, jam, on a Debian server as a non root user.&lt;/p&gt;
+
+&lt;p&gt;[youtube=&lt;a href=&#34;http://www.youtube.com/watch?v=7no3_39GNx0&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34;&gt;http://www.youtube.com/watch?v=7no3_39GNx0&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;For more details, please visit: &lt;a href=&#34;http://i-wa.blogspot.com/2009/12/screencast-showing-building-geos-and.html&#34;&gt;http://i-wa.blogspot.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

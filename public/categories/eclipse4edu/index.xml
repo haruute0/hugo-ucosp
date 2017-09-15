@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse4edu on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/eclipse4edu/</link>
+    <description>Recent content in Eclipse4edu on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Mar 2010 15:04:52 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/eclipse4edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Status Reports: Mar 29, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-29-2010/</link>
+      <pubDate>Wed, 31 Mar 2010 15:04:52 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-29-2010/</guid>
+      <description>
+
+&lt;p&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;status:eededad2336aea95116e91a227689a77&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Looked further into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu. This may not actually be a task I can accomplish before the code freeze, taking into account the other things I had also intended to finish before then.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;final-steps:eededad2336aea95116e91a227689a77&#34;&gt;Final Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu.&lt;/li&gt;
+&lt;li&gt;Go back to Bug 299342: &amp;ldquo;New Java Package&amp;rdquo; option should automatically create a Java Project, to use the NewJavaProjectConstructor to create the default project.&lt;/li&gt;
+&lt;li&gt;Address Bug 303427: Can&amp;#8217;t specify a source folder in the Package Wizard.&lt;/li&gt;
+&lt;li&gt;Complete final report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:eededad2336aea95116e91a227689a77&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Last week involved several major deadlines for other courses, but I can now focus this week on finishing up my ongoing goals for Eclipse..
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:eededad2336aea95116e91a227689a77&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:eededad2336aea95116e91a227689a77&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added some additional comments to Bug 301327 (Creating a src folder when creating new Java project &amp;#8211; This bug may not be applicable anymore) and to Bug 302362 (Support for java applets &amp;#8211; This bug may also be obsolete now).&lt;/li&gt;
+&lt;li&gt;Overall, I did not have a productive week with regards to IDE4EDU. Still waiting on feedback from Wayne, and at least 50%+ of our bugs require some form of feedback, committing, closing, or additional information. So, I took this opportunity to work on my many other projects and their fast approaching deadlines, with the hope that when Wayne gets back I will be able to dedicate more time towards IDE4EDU.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;final-steps-1:eededad2336aea95116e91a227689a77&#34;&gt;Final Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Of the bugs left that aren&amp;#8217;t in 1 of the categories above, I think I might take stab at Bug 302360 (importing projects into javalite) or Bug 303584 (Linking javalite explorer with editor). In both cases, there is existing JDT functionality that we want to emulate, so they sound feasible given our remaining week before the code freeze.&lt;/li&gt;
+&lt;li&gt;Unless of course we get feedback from Wayne, in which case I will attempt to address those potential issues, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:eededad2336aea95116e91a227689a77&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    (I know its a broken record&amp;#8230; but) Other classes.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Feedback would be appreciated on pending patches. (We are here to help! Let us help!)
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:eededad2336aea95116e91a227689a77&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:eededad2336aea95116e91a227689a77&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Worked on simplifying the menus using the activities extension.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Managed to hide all but 2 or 3 things that I wanted hidden.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Simplified the toolbar significantly.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Really happy with how this turned out. Makes Eclipse much less intimidating.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;final-steps-2:eededad2336aea95116e91a227689a77&#34;&gt;Final Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Simplify the menus and toolbar to the list of items I suggested in bug 299848.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:eededad2336aea95116e91a227689a77&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Nothing major. Everything is working out pretty well on this bug. I&amp;#8217;d like to control the order of the toolbar buttons but I can&amp;#8217;t figure out&lt;br /&gt; how to do that yet. Also, I&amp;#8217;d like a couple of the menus to go away when they don&amp;#8217;t have any items in them like the Run menu.
+  &lt;/li&gt;
+  &lt;li&gt;
+    I&amp;#8217;d love to hide the Navigation menu but it seems to be hardwired to the Workbench or something. I think we&amp;#8217;d need to create an RCP app to&lt;br /&gt; completely get rid of it.
+  &lt;/li&gt;
+  &lt;li&gt;
+    We need to create a better Run and Debug button but that is too big a job for the time we have left on this project. I&amp;#8217;ll add another bug for this.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 22, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-22-2010/</link>
+      <pubDate>Wed, 24 Mar 2010 13:28:58 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-22-2010/</guid>
+      <description>
+
+&lt;h2 id=&#34;brenda:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submitted a patch to Bug 301326 to handle the possibility of multiple source folders when creating a new class using the constructor.&lt;/li&gt;
+&lt;li&gt;Reported Bug 306651 and submitted a patch for it that creates a package constructor like those for projects and classes, including tests. It also includes a rework of the Package Creation Wizard to use the constructor, along the lines of the project and class wizards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;final-steps:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Final Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu.&lt;/li&gt;
+&lt;li&gt;Go back to Bug 299342: &amp;ldquo;New Java Package&amp;rdquo; option should automatically create a Java Project, to use the NewJavaProjectConstructor to create the default project.&lt;/li&gt;
+&lt;li&gt;Address Bug 303427: Can&amp;#8217;t specify a source folder in the Package Wizard.&lt;/li&gt;
+&lt;li&gt;Complete final report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    None.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I continued development on the DND implementation as mentioned last week.&lt;/li&gt;
+&lt;li&gt;I completed some more refactoring and added in some rough name conflict / resolution code. There are still bugs to work out unfortunately.&lt;/li&gt;
+&lt;li&gt;I also investigated into just using existing JDT internal DND implementations, and posted my comments towards that on the current DND bug as well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Possibly more work on DND pending feedback on my latest comments towards the DND bug.&lt;/li&gt;
+&lt;li&gt;Otherwise, I will try and find something thats doable within the next week or so, and work on that instead.&lt;/li&gt;
+&lt;li&gt;Complete final report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Other courses.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Waiting on input from Wayne on pending drag and drop changes.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Worked on simplifying the menus using the activities extension.&lt;/li&gt;
+&lt;li&gt;Made a couple of breakthroughs on how to figure out what id to use to hide items.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;final-steps-1:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Final Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Simplify the menus to the list of items I suggested in bug 299848.&lt;/li&gt;
+&lt;li&gt;If this goes smoothly I will try to apply the lessons learned to simplifying the tool bars.&lt;/li&gt;
+&lt;li&gt;Complete final report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:06e7e661e4ce4145d9cd73f8ea470994&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    There are still a few items that won&amp;#8217;t go away as they seem to be &amp;#8216;special&amp;#8217; to the workbench or something. For example &amp;#8216;File/Revert&amp;#8217; and&lt;br /&gt; &amp;#8216;Edit/Delete&amp;#8217; are 2 of them. But there aren&amp;#8217;t that many of them and they aren&amp;#8217;t too confusing to the user.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/eclipse4edu-meeting-minutes-4/</link>
+      <pubDate>Fri, 19 Mar 2010 18:47:07 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/eclipse4edu-meeting-minutes-4/</guid>
+      <description>&lt;p&gt;We had a brief meeting today and here is the summary.&lt;/p&gt;
+
+&lt;p&gt;Present: Brenda, Cory&lt;/p&gt;
+
+&lt;p&gt;Absent: Miles&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drag and Drop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Cory is still plugging away at implementing this, as it is not a small task.  If anyone is interested in looking at it and providing feedback, it would be beneficial.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          He is also wondering if anyone has priorities or features in mind in regards to drag and drop.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class Wizard&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Brenda intends to refactor her patch for fixing the package dropdown menu to separate UI from the model.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Making a package constructor is something to look into.  This could potentially lead to moving class lookup into the class constructor and package lookup into the package constructor.  Possibly by making static methods such as findClasses(project, package).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simplify Menus&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Miles is working on this and has posted patches and comments marking his progress on Bug 299848.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 15, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-15-2010/</link>
+      <pubDate>Wed, 17 Mar 2010 18:12:29 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-15-2010/</guid>
+      <description>
+
+&lt;h2 id=&#34;brenda:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reworked the patch for Bug 303426 to fix the problem Wayne noted.&lt;/li&gt;
+&lt;li&gt;I found the solution to Bug 303581 and included it in this patch as the code greatly overlapped and the problems were related. Made note of this in Bug 303581.&lt;/li&gt;
+&lt;li&gt;Started investigating into Bug 303420 (Simplify the user experience when renaming a type from the pop-up menu) to see how this should be done. I have the main outline coded, but I&amp;#8217;m still figuring out how to pull in the refactoring functionality to use in conjunction with this code.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;final-steps:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Final Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finish what I started this week on the class constructor (TODOs and Bug 301326: NewJavaClassConstructor#construct() needs to be more robust).&lt;/li&gt;
+&lt;li&gt;Look into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu.&lt;/li&gt;
+&lt;li&gt;Go back to Bug 299342: &amp;ldquo;New Java Package&amp;rdquo; option should automatically create a Java Project, to use the NewJavaProjectConstructor to create the default project.&lt;/li&gt;
+&lt;li&gt;Address Bug 303427: Can&amp;#8217;t specify a source folder in the Package Wizard.&lt;/li&gt;
+&lt;li&gt;Complete final report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Last week of midterms.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Still quite busy with plenty of other schoolwork. Approaching end of term, and its always hectic.&lt;/li&gt;
+&lt;li&gt;Did get some time last weekend to do some more work on the drag and drop implementation. (See Bug 299878 for more info).&lt;/li&gt;
+&lt;li&gt;I ended up refactoring some code, and made the drag and drop listener implementations a little less &amp;ldquo;exotic&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Will be following this update with a new patch to the bug.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Due to code halt within the next 2 weeks, I figure it might be best for me to keep working on the drag and drop implementation.&lt;/li&gt;
+&lt;li&gt;There is still a couple &amp;ldquo;major&amp;rdquo; issues to sort out, and I will try and fix those up. Namely, providing the ability to detect if a name conflict exists before attempting the move, and then provide the user the ability to change the file name.&lt;/li&gt;
+&lt;li&gt;Small stuff like &amp;#8211; I have a good 6-8 TODOs to fix in the code, and I&amp;#8217;m sure wayne will want to add his 2 cents in as well.&lt;/li&gt;
+&lt;li&gt;It would be nice if we got some feedback on all pending patches, so we can make sure they get finished / committed before the end of the course.&lt;/li&gt;
+&lt;li&gt;Complete final report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Other courses.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Worked on simplifying the menus using the activities extension.&lt;/li&gt;
+&lt;li&gt;This seems to work quite well but complete control over the menus is still elusive.&lt;/li&gt;
+&lt;li&gt;There are a bunch of things I can remove and a few things that stubbornly won’t go away.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;final-steps-1:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Final Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Figuring out how to simplify the menus. If this goes smoothly I will try to apply the lessons learned to simplifying the tool bars.&lt;/li&gt;
+&lt;li&gt;Complete final report.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:9e036d6ebd6fb0ccb004e174bf694c56&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Just difficulty figuring out how to get complete control over the UI.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 8, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-8-2010/</link>
+      <pubDate>Wed, 10 Mar 2010 15:10:07 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-8-2010/</guid>
+      <description>
+
+&lt;h2 id=&#34;brenda:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submitted a patch for Bug 303426 that fixes the unresolved issues with the previous patch. The package dropdown menu should now list the packages in the currently selected project, and update when a different project is chosen. The patch also makes sure the default package is listed as &amp;ldquo;(default package)&amp;rdquo; rather than a blank line.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look into issues with the NewJavaClassConstructor class. Specifically, address Bug 303581 and several of the TODOs and FIXMEs in the code where possible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Class deadlines and more midterms.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Did a little bit of work on my DND implementation.&lt;/li&gt;
+&lt;li&gt;I didn&amp;#8217;t get a lot of time over the past week to work on eclipse. I&amp;#8217;m allocating some more time towards eclipse later this week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue work on DND implementation. I need to refactor the code, and fix some more bugs. I hope to post an updated bug patch within the next week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Other classes
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Refactored sections of the new Class creation wizards and constructors using the extension point for templates as suggested by Wayne. I am making progress on this but doing this correctly and in a way that will be easy to maintain has been time consuming.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-2:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Figuring out how to simplify the menus and toolbars.&lt;/li&gt;
+&lt;li&gt;Add further functionality to the Class creation constructor and wizards specifically relating to packages.&lt;/li&gt;
+&lt;li&gt;Make is so the Package field in the Class creation wizard is only displayed if there are packages created in the workspace.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:0125e5ef18985a55de2d3992b1e8eba6&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    None.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 1, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-1-2010/</link>
+      <pubDate>Wed, 03 Mar 2010 14:14:33 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/status-reports-mar-1-2010/</guid>
+      <description>
+
+&lt;h2 id=&#34;brenda:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Worked with Cory on fixing the patch I submitted for Bug 299965 (updating the view when a class is made in the default package of a project with a source folder). He made the fix and submitted the patch.&lt;/li&gt;
+&lt;li&gt;Submitted a patch for Bug 303426 (Class Creation Wizard lists projects in the package selection menu). It fixes the main problem, but is not complete yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implement the second step for Bug 303426 so that the list of packages updates when the currently chosen project is changed.&lt;/li&gt;
+&lt;li&gt;Look into highlighting the currently selected item from the dropdown list.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    None.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assisted Brenda on hiding package references (Bug 299965). I think we figured out the refresh issue, and I posted a new patch fixing that.&lt;/li&gt;
+&lt;li&gt;Started work on the drag and drop feature (Bug 299878). Submitted a first-pass patch towards this feature.&lt;/li&gt;
+&lt;li&gt;I dedicated a fair bit of hours to eclipse this past week as I had a break in my other classes; I&amp;#8217;m expecting my next week or so will be dedicated to those classes instead &amp;#8211; as usual I get plenty of new assignments at the last minute.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue work on drag and drop.&lt;/li&gt;
+&lt;li&gt;Look into small things as they arise.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Other classes
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Refactored sections of the new Class creation wizards and constructors.&lt;/li&gt;
+&lt;li&gt;Moved more of the customizability of the wizards and constructor to the templates so that the templates along with a template specific action really drive all of the differences between templates in the rest of the classes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-2:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mostly the same as my last report.&lt;/li&gt;
+&lt;li&gt;Add further functionality to the Class creation constructor and wizards specifically relating to packages.&lt;/li&gt;
+&lt;li&gt;Make is so the Package field in the Class creation wizard is only displayed if there are packages created in the workspace.&lt;/li&gt;
+&lt;li&gt;I would really like to start spending some time on figuring out how to simplify the menus and toolbars. This is such a big problem with the plug-in that it would be nice to get this fixed by the end of the semester.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:5ab9d17520e55d5399ca0d2637cb74ae&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    No real roadblocks.
+  &lt;/li&gt;
+  &lt;li&gt;
+    I guess I would love to get some higher level feedback on the refactoring that has been done to the new Class constructor and wizards. Thoughts about the way things are fitting together, other possible designs, as well as what kinds of issues to be aware of when writing this kind of code would be educational.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dwight’s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/dwight%E2%80%99s-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 14:28:50 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/03/dwight%E2%80%99s-midterm-report/</guid>
+      <description>&lt;p&gt;This term’s version of IDE4EDU is much the same as last terms. The output of our three students (Brenda, Cory and Miles) has been comparable to last term’s effort and Wayne and I are happy with their consistent progress. On the communication side, there has not been as much online traffic as last term, but that has not seemed to prevent the group from moving forward.&lt;/p&gt;
+
+&lt;p&gt;Like last term, the main issue IDE4EDU faces is the action of committing code. Since IDE4EDU is a “real” Eclipse project and must adhere to the Eclipse project rules, committer status is not given from the start to anyone wishing to work with the project. That right has to be earned and takes time, which is longer that one term. Therefore students submit patches through Bugizilla and must wait to have the patched added or rejected in or from the build. Wayne and I are working on being as reactive as we can to new patches, but we know the reviews can be slow. I think this is more of an artifact of working on a worldwide open source project that is part of a large foundation, rather than a closed project that will be put into the open source space.&lt;/p&gt;
+
+&lt;p&gt;Again like last term, those wanting to develop for Eclipse need to build up some inertia with the environment. Since there are so many things to know, Wayne and I rely on people asking for help with what they don’t know so we can direct them rather than sprinkling information everywhere. In hindsight, a more directed approach would have been useful and a longer training session at the orientation would have helped.&lt;/p&gt;
+
+&lt;p&gt;Our expectations are for the students to continue performing as they have in the past and keeping up active communication with all involved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miles Midway Madness</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/miles-midway-madness-2/</link>
+      <pubDate>Sun, 28 Feb 2010 00:07:42 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/miles-midway-madness-2/</guid>
+      <description>&lt;p&gt;Eclipse4Edu has gone fairly well. I feel like I am pretty much on track. I&amp;#8217;ve been trying to put in one day a week towards this project and I&amp;#8217;ve pretty much managed to do that. I think my major goals for this semester are to get the new Java class wizards and classes in good shape and get a good handle on simplifying the menus and toolbars by the end of the semester. I think this seems reasonable based on my experience with the first half of the semester. The code base is large and the process of coding while trying to integrate into the current code base is time consuming.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve been pretty happy with the way that I give justifications for the patches I&amp;#8217;ve submitted but I wish I could get a bit more feedback on those patches and other ideas. This is one thing I could improve on is try to get feedback a bit more quickly from the mentors on patches I submit. They seem open to me emailing them and harassing them so I should do that.&lt;/p&gt;
+
+&lt;p&gt;Working on open source has been an eye opener and a great learning experience. I am not used to working on such an open ended project where we can drive a lot of the direction and can make so many choices about our approach to the work. Also I was a little surprised by is that even in large, well known pieces of software like Eclipse there can be some really ugly code (I&amp;#8217;m looking at you JDT new class wizard). The feedback from the mentors and other students on coding choices and ideas has also been helpful.&lt;/p&gt;
+
+&lt;p&gt;Best of luck to all the other students.&lt;/p&gt;
+
+&lt;p&gt;Cheers, Miles&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-3/</link>
+      <pubDate>Fri, 26 Feb 2010 22:05:11 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-3/</guid>
+      <description>&lt;p&gt;We had a brief meeting today; here is what we discussed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Present:&lt;/strong&gt; Miles, Cory and Brenda&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Absent:&lt;/strong&gt; No one&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Naming&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Educlipse (or EduEclipse) is short, concise and demonstrates what it is – a version of Eclipse meant for education.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Eclipse IDE for Education fits well with the naming schemes for other Eclipse products.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          The consensus between us still seems to be Educlipse or EduEclipse, however.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Templates&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Discussed opening an extension point for the templates; we shouldn’t need more than 2-4 templates ourselves.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          There could be  a problem if we want to allow others to add and manage templates, but it doesn’t seem to be a high priority at the moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“New Java Program”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Seems like a good idea to simplify the process initially for users that may not even understand the concept of a class within a project yet.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Possibly greyed out text in the project explorer: “Create a new project or program to get started”.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          The Scheme perspective that hasn’t been committed (see Bug 293093) handles help/tutorials well, as far as introducing the user to what they can do and how they can do it.  Something similar to this in Java Lite might be worthwhile.  A “Start Coding in Java” link on the intro page would open Java Lite, and the user would immediately have access to the hints/tips in the help view so they can get started.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hiding source folders and default packages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Cory submitted a patch that should fix the problems with the view not refreshing and new classes not being selected upon creation.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          There is still the issue of having two packages with the same name in different source folders appearing side by side in the Java Lite project explorer.  There are different ways we could handle this, but it’s not a high priority to fix right now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 22, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/status-reports-feb-22-2010/</link>
+      <pubDate>Fri, 26 Feb 2010 16:38:15 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/status-reports-feb-22-2010/</guid>
+      <description>
+
+&lt;h2 id=&#34;brenda:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Looked further into the use of plugin_customization.ini for setting the default perspective and it seems this file is created when we compile a standalone RCP App. Cory posted details on its use in Bug 299869.&lt;/li&gt;
+&lt;li&gt;Submitted bug reports 303425, 303426 and 303427, related to the Class and Package wizards.&lt;/li&gt;
+&lt;li&gt;Submitted a patch that alters my previous patch for hiding packages and source folders so that all source folders are hidden, not just those named &amp;ldquo;src&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Looked into the other issue Wayne found with this patch (project explorer view not always updating), but haven&amp;#8217;t come to a solution yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This week, continue to work on getting the project explorer view to update correctly. In particular, when a class is added under the specific circumstances mentioned by Wayne in Comment 8 on Bug 299965.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    None.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Was on reading week, so had some extra time to put towards the project.&lt;/li&gt;
+&lt;li&gt;Started week looking into making the delete key work in the LitePackageExplorer (Bug 299875) and getting drag and drop (Bug 299878) to work. Found some good resources on implementing DND for eclipse plugin projects.&lt;/li&gt;
+&lt;li&gt;However, I followed Wayne&amp;#8217;s advice on the delete key implementation, and have been mainly working on converting the delete menu item from LitePackageExplorer to use the built in delete Command (Edit-&amp;gt;Delete).&lt;/li&gt;
+&lt;li&gt;I have posted a couple patches for this &amp;#8211; see Bug 299875 and Bug 303341.&lt;/li&gt;
+&lt;li&gt;Looked over Mile&amp;#8217;s proposed patches for adding java source code templates to the java class constructors (Bug 302236).&lt;/li&gt;
+&lt;li&gt;Added my comments to the thread, and also proposed a new patch doing it a little differently.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue work on Menu Commands / Handlers (Bug 303428 / 303341).&lt;/li&gt;
+&lt;li&gt;Will try and get back to drag and drop soon (Bug 299878).&lt;/li&gt;
+&lt;li&gt;Also attempt to fix small things as I see them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    None
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developed a few versions for the architecture of templates for new Class creation.&lt;/li&gt;
+&lt;li&gt;Created the 2 wizards for class creation – New Java Program and New Java Class&lt;/li&gt;
+&lt;li&gt;Cleaned up the Welcome screen so the link works properly.&lt;/li&gt;
+&lt;li&gt;Fixed the New Class Wizard dialog size bug so that the dialog is a normal size as opposed to overly larg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-2:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue refactoring if necessary the Class creation constructor and wizards.&lt;/li&gt;
+&lt;li&gt;Make is so the Package field in the Class creation wizard is only displayed if there are packages created in the workspace.&lt;/li&gt;
+&lt;li&gt;I would really like to start spending some time on figuring out how to simplify the menus and toolbars. This is such a big problem with the plug-in that it would be nice to get this fixed by the end of the semester.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:48deaddf0fa7bbc60651c1fc1d2db6ac&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    The next couple weeks are going to be busy with midterms and assignments.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brenda&amp;#039;s Midway Update</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/brendas-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 04:25:53 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/brendas-midway-update/</guid>
+      <description>&lt;p&gt;So far, Eclipse4Edu has been a very useful experience for me.  It’s the first project I’ve worked on where the codebase wasn’t written entirely by myself or by my team of 2-3 students.  This has definitely been difficult, but like I said, useful.  That combined with the complex framework and abstraction of Eclipse has made tasks that seem relatively trivial suddenly much more time-consuming.  I’ve spent a fair amount of time simply looking through the code to familiarize myself with how things were implemented by others that have worked on the project.  Figuring out where to start looking to approach a certain task and understanding how different parts of the program interact have been pretty time-consuming, although helpful.  I feel like my ability to narrow down a problem to a specific aspect or part of the code has improved, alongside my ability to work with a massive amount of code I had no part in writing.  Again, this has been my first real experience with this.&lt;/p&gt;
+
+&lt;p&gt;Based on where I started when I joined this project, I would say/hope that I’m pretty well on track.  We haven’t been given a specific goal in terms of what we should complete to be considered “on track”, but I feel like I’ve accomplished a fair amount (whether in coding or in considering, debating or experimenting with different concepts).  It may have been slow to begin with, as a result of my little experience and the size of the project I was diving into, but things have been becoming easier and I believe will continue to do so for the second half of the semester.  I’ve learned a lot about the structure of large programs and how to cope with working inside a project maintained by many people.  I’ve learned (through experience rather than professors’ advice for once!) that communication is key.  I think what I’ve had the most trouble with however, has been finding references and documentation on the things I have been trying to implement.  For the most part, there was very little, if anything related at all.  On the other hand, this has led to a lot of experimenting and exploring on my part, which, although perhaps inefficient, has been beneficial in the long run.  I have good expectations for the second half of the term.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu &amp;#8211; Cory&amp;#039;s Midway update</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/eclipse4edu-corys-midterm-update/</link>
+      <pubDate>Tue, 23 Feb 2010 00:27:31 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/eclipse4edu-corys-midterm-update/</guid>
+      <description>&lt;p&gt;So I guess its that time &amp;#8211; reading week just finished, and we are halfway through the term &amp;#8211; yikes!&lt;/p&gt;
+
+&lt;p&gt;In the Eclipse4Edu camp, we are starting to get into the thick of the project. I won&amp;#8217;t lie, it was a pretty slow start&amp;#8230; programming the Eclipse framework is large, complex, and has a layer of abstraction for everything. I like to consider myself fairly competent with Java, but the Eclipse framework almost always has a different (sometimes non-intuitive) alternative solution to everything. Also, we weren&amp;#8217;t really given a set of goals or objectives to accomplish by the end of the term, so I can&amp;#8217;t really say if we are &amp;#8220;on track&amp;#8221; or &amp;#8220;falling behind&amp;#8221;. However, my personal goal since day 1 has been to get a working IDE that a new programmer can sit down with, and not feel overloaded, while learning important programming concepts. I felt the &amp;#8220;Java Lite&amp;#8221; perspective was in pretty rough shape when we started the term, so I&amp;#8217;ve been focusing all my effort into fixing that. I&amp;#8217;m unsure if we will be able to accomplish this by the end of the term, but we are definitely taking steps (and perhaps leaps) in the right direction. We&amp;#8217;ve slowly been cleaning up the backend code (a lot of it was ripped from the internal stuff, and had a lot of functionality we didn&amp;#8217;t require). Even small tasks are sometimes taking longer then expected, due to complexity of the framework.&lt;/p&gt;
+
+&lt;p&gt;I feel like it&amp;#8217;s hard to describe what exactly I&amp;#8217;m learning; but coming from other team projects (done locally), the open source ideologies, attitudes, and way of approaching problems have definitely been a unique experience thus far. The whole submitting a patch, and waiting for someone else to verify / upload it (and he&amp;#8217;s a pretty busy guy), is sometimes annoying &amp;#8211; a little 1 line patch may take weeks to get commited. Thus leading to having to manage multiple patches, has been a headache, but we are slowly learning to work within the system (it would be nice if we got commit status at some point before the end of the project!). But I guess this is the open source way; we can&amp;#8217;t have just anyone submit code. Also, my googling skills have also been put to the test on more then one occasion&amp;#8230; my time spent trying to figure out a solution or find help towards one, is usually 500 times more then it takes actually implementing it. Sometimes you get lucky and theres a goldmine of help and (decent) documentation for a particular eclipse development area,  but more often then not its a terribly vague description (and / or doesn&amp;#8217;t work as it was meant for Eclipse 3.1 and not the current version).&lt;/p&gt;
+
+&lt;p&gt;So overall, its been a nice change of pace, and a challenging new environment to work with &amp;#8211; what more could you want from a school course / project?&lt;/p&gt;
+
+&lt;p&gt;Not really a comment to the UCOSP course itself, but it would have been really, really, beneficial if the previous semester&amp;#8217;s group left some sort of &amp;#8220;knowledge transfer&amp;#8221; document. I&amp;#8217;m now loaded with a bunch of Eclipse framework tips, strategies, and general knowledge; I think it may have helped cut down the learning phase and left more time for development if we were brought more up to speed instead of just dumped into the project and told &amp;#8220;Go!&amp;#8221;. (I guess I just volunteered myself to write one for the next semester..)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-2/</link>
+      <pubDate>Fri, 19 Feb 2010 20:52:35 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-2/</guid>
+      <description>&lt;p&gt;Meeting Minutes February 19&lt;sup&gt;th&lt;/sup&gt;, 2010&lt;/p&gt;
+
+&lt;p&gt;Present: Cory and Brenda&lt;/p&gt;
+
+&lt;p&gt;Not present: Miles&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Fixed the patch to Bug 299965 to hide all source folders, not just those named “src”.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Is looking into the issue with the project explorer view not updating under the circumstances that Wayne brought up in that bug.  It could be that elements are being filtered out and the refresh code is looking at the same list of elements and thus doesn’t know the elements exist.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Looked at adding Java Lite to the list of perspectives in the menu (as per Bug 299869).  Didn’t make much progress, but found PerspectiveSwitcher#addPerspectiveShortcut, which might be a good place to look further for this issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Got the delete handler logic set up.  Wayne made a new bug for refactoring the delete action from the package explorer so that both the handler and explorer can run the same code.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          We should be able to enable other global menu items doing something similar using XML.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Found good reference material for implementing drag and drop, but wants to finish what he’s working on with the delete functionality first.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Working on the creation wizards, in particular the templates.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Cut, copy and paste: will need to create the logic to shuffle elements in the package explorer, which will tie in with drag and drop.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;          Some useful links Cory found:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information on XML: &lt;a href=&#34;http://wiki.eclipse.org/Command_Core_Expressions&#34;&gt;http://wiki.eclipse.org/Command_Core_Expressions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Information on drag and drop: &lt;a href=&#34;http://www.eclipse.org/articles/Article-Workbench-DND/drag_drop.html&#34;&gt;http://www.eclipse.org/articles/Article-Workbench-DND/drag_drop.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Reference that covers just about everything: &lt;a href=&#34;http://wiki.eclipse.org/Eclipse_RCP_How-to&#34;&gt;http://wiki.eclipse.org/Eclipse_RCP_How-to&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 15, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/status-reports-feb-15-2010/</link>
+      <pubDate>Thu, 18 Feb 2010 15:41:06 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/status-reports-feb-15-2010/</guid>
+      <description>
+
+&lt;h2 id=&#34;brenda:d0da27c81724490a2195d5138ee60540&#34;&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:d0da27c81724490a2195d5138ee60540&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I didn&amp;#8217;t look as much into Scheme as I had intended because in our conference call, Wayne mentioned that the code provided likely can&amp;#8217;t be committed. I decided to look into some other bugs instead.&lt;/li&gt;
+&lt;li&gt;Submitted a patch for Bug 301718 to update the Build Your First Program cheat sheet.&lt;/li&gt;
+&lt;li&gt;Submitted a patch for Bug 299459 to allow the user to rename files (since refactoring has been removed).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:d0da27c81724490a2195d5138ee60540&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This week, I will look into Bug 299869 some more, to potentially make Java Lite the default perspective.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:d0da27c81724490a2195d5138ee60540&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Understanding how plugin_customization.ini works, because this file seems to be the key to accomplishing Bug 299869.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:d0da27c81724490a2195d5138ee60540&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:d0da27c81724490a2195d5138ee60540&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Very little work done for the past week. My other courses have been dropping a heavy workload on me.&lt;/li&gt;
+&lt;li&gt;Conference call was good and answered my outstanding questions; Will have lots of time this week due to start of reading week.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:d0da27c81724490a2195d5138ee60540&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Try and knock off 2 outstanding bugs &amp;#8211; Bug 299873 (delete on empty workspace) and Bug 299875 (delete key doesn&amp;#8217;t work in project explorer).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:d0da27c81724490a2195d5138ee60540&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Other classes
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:d0da27c81724490a2195d5138ee60540&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:d0da27c81724490a2195d5138ee60540&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reading week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-2:d0da27c81724490a2195d5138ee60540&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:d0da27c81724490a2195d5138ee60540&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 8, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/status-reports-feb-8-2010/</link>
+      <pubDate>Wed, 10 Feb 2010 13:17:08 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/02/status-reports-feb-8-2010/</guid>
+      <description>
+
+&lt;h2 id=&#34;brenda:43da41c1ee8215c87943c8409b14773d&#34;&gt;&lt;strong&gt;Brenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:43da41c1ee8215c87943c8409b14773d&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submitted a patch for Bug 299965 so that the default package and src folder are hidden, but explicitly made packages and other source folders are not (for the sake of comparing different approaches to this problem).&lt;/li&gt;
+&lt;li&gt;Submitted a patch for Bug 300388 to rename the Scheme interpreter extension point and schema.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:43da41c1ee8215c87943c8409b14773d&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look into the Scheme perspective more and some of the bugs that have been opened in regards to that (for example, Bugs 299866, 299867 and 299868).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:43da41c1ee8215c87943c8409b14773d&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    None
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cory:43da41c1ee8215c87943c8409b14773d&#34;&gt;&lt;strong&gt;Cory&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:43da41c1ee8215c87943c8409b14773d&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Put forth a list of ideas / suggestions on areas to improve the usability of Java Lite and emailed that out to the mailing list.&lt;/li&gt;
+&lt;li&gt;Posted some results of my research towards simplifying toolbars / menus (Bug 299848).&lt;/li&gt;
+&lt;li&gt;Added a new patch for Bug 299689 (fixed go to workbench link from start screen).&lt;/li&gt;
+&lt;li&gt;Added 2 new bugs and posted a patch to address them. (Bug 302052 &amp;#8211; Refactoring out LiteLaunchShortcutsAction, and Bug 302054 &amp;#8211; renaming JavaLiteProjectWizard to match other source files, the posted patch also address an NPE).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:43da41c1ee8215c87943c8409b14773d&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continuing to work on small bugs. Might look into Bug 299878 (dragging files) or Bug 299873 / 875 (deleting items).&lt;/li&gt;
+&lt;li&gt;Will be bringing up some questions regarding the future of the java lite package explorer, and if these bugs are worth fixing given the current state of the class.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:43da41c1ee8215c87943c8409b14773d&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Other classes; I&amp;#8217;ve been extremely busy the previous week, and this week isn&amp;#8217;t looking very good either. Also, reading week begins next week, and midterms are shortly thereafter..
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;miles:43da41c1ee8215c87943c8409b14773d&#34;&gt;&lt;strong&gt;Miles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-2:43da41c1ee8215c87943c8409b14773d&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Working on the templates for class creation to distinguish between “programs” (classes with main methods) and “classes” (object oriented programming units).&lt;/li&gt;
+&lt;li&gt;Tried to figure out how to get a Template evaluated and put the generated code back into the CompilationUnit. Not sure this is going to work or be worth the effort. I thought this might be a more elegant way to deal with the information already stored in the CompilationUnit like the class name and the package name.&lt;/li&gt;
+&lt;li&gt;May need to just generate the text all at once in the action or wizard and then send the text to the class constructor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-2:43da41c1ee8215c87943c8409b14773d&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue working on initial code generation. Hope to get a couple of ideas developed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:43da41c1ee8215c87943c8409b14773d&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul type=&#34;disc&#34;&gt;
+  &lt;li&gt;
+    Trying to figure out how to avoid internal JDT code is difficult.
+  &lt;/li&gt;
+  &lt;li&gt;
+    I suspect this is going to be a major roadblock for this project. Reinventing the wheel for each thing we want to do is not going to be fun.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

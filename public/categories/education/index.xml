@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/education/</link>
+    <description>Recent content in Education on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2010 09:48:58 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why Test With Random Data?</title>
+      <link>http://haruute0.github.io/2009-2010/basie/2010/03/why-test-with-random-data/</link>
+      <pubDate>Thu, 18 Mar 2010 09:48:58 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/basie/2010/03/why-test-with-random-data/</guid>
+      <description>&lt;p&gt;Guillaume Simard and François Fournier are writing &lt;a href=&#34;http://seleniumhq.org/&#34;&gt;Selenium&lt;/a&gt; tests for &lt;a href=&#34;http://basieproject.org&#34;&gt;Basie&lt;/a&gt;. Over on the Basie blog, they explain &lt;a href=&#34;http://blog.basieproject.org/?p=2601&#34;&gt;why they&amp;#8217;re using random data in their tests&lt;/a&gt;, rather than testing against predefined fixtures. What is your group using? And why?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The &amp;quot;Engineering&amp;quot; in Software Engineering</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/02/the-engineering-in-software-engineering/</link>
+      <pubDate>Sun, 28 Feb 2010 13:15:01 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/02/the-engineering-in-software-engineering/</guid>
+      <description>&lt;p&gt;My first degree is in engineering, and while I&amp;#8217;m too clumsy to have ever actually practiced [1], the courses I took still shape the way I look at things. In particular, I still enjoy articles like &lt;a href=&#34;http://carlos.bueno.org/2010/02/measuring-javascript-parse-and-load.html&#34;&gt;this one&lt;/a&gt;,which reports parse and load times for Javascript on various platforms. I really wish that a course on systems performance was a standard part of every undergrad CS degree; I doubt that&amp;#8217;ll happen any time soon, but this stuff is out there if you look for it. And see also this post about &lt;a href=&#34;http://djangoadvent.com/1.2/scaling-django/&#34;&gt;scaling up Django&lt;/a&gt; &amp;#8212; again, there&amp;#8217;s lots of good engineering thinking on show.&lt;/p&gt;
+
+&lt;p&gt;[1] The scar on my right hand is from picking up a soldering iron the wrong way around twice in one afternoon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reuse, Reuse, Reuse</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/02/reuse-reuse-reuse/</link>
+      <pubDate>Wed, 24 Feb 2010 14:50:41 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/02/reuse-reuse-reuse/</guid>
+      <description>&lt;p&gt;A former boss of mine had a sign on the wall in his office that said, &amp;#8220;Out there, right now, someone is writing a queue and getting it wrong.&amp;#8221;  What he meant was that if you&amp;#8217;re using a mature language like Java or Python, you should never have to deal with textbook data structures, dates and times, currencies, and other things directly: someone else will always have been there first.  So, if you find yourself wrestling with timezones or passwords, fire up your favorite search engine and see what it turns up.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fowler on Version Control</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/02/fowler-on-version-control/</link>
+      <pubDate>Wed, 24 Feb 2010 03:28:10 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/02/fowler-on-version-control/</guid>
+      <description>&lt;p&gt;Martin Fowler has posted &lt;a href=&#34;http://martinfowler.com/bliki/VersionControlTools.html&#34;&gt;an article about version control systems&lt;/a&gt; &amp;#8212;I don&amp;#8217;t agree with everything he says, but it&amp;#8217;s still a good, thoughtful overview.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I Guess I&amp;#039;m Unrealistic</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/02/i-guess-im-unrealistic/</link>
+      <pubDate>Tue, 02 Feb 2010 14:33:15 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/02/i-guess-im-unrealistic/</guid>
+      <description>&lt;p&gt;I &lt;a href=&#34;http://ucosp.wordpress.com/2010/01/27/all-nighters-lower-your-grades/&#34;&gt;posted a link&lt;/a&gt; last week to Evan Robinson&amp;#8217;s article explaining &lt;a href=&#34;http://www.igda.org/why-crunch-modes-doesnt-work-six-lessons&#34;&gt;why crunch mode doesn&amp;#8217;t work&lt;/a&gt;. Coincidentally, Ruben Ortega&amp;#8217;s latest post on the ACM site asks, Why Do Software Developers Tolerate &amp;#8220;Crunch Time&amp;#8221;? His answer is &amp;#8220;progress&amp;#8221;, or at least, developers&amp;#8217; need to feel like they&amp;#8217;re making progress. A couple of paragraphs later, though, he says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is unrealistic to deliver any project without going through some &amp;#8220;Crunch time.&amp;#8221;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I personally think &lt;em&gt;that&lt;/em&gt; is the root of the problem. If you believe broken builds are inevitable, you&amp;#8217;re not going to work very hard to make sure that code always compiles. If you believe that users are dumb, you&amp;#8217;re not going to put much effort into fixing your user interface. And if you believe that it&amp;#8217;s unrealistic to deliver code without all-nighters, guess what? You&amp;#8217;re going to wind up pulling all-nighters.&lt;/p&gt;
+
+&lt;p&gt;So here&amp;#8217;s &lt;em&gt;my&lt;/em&gt; data. I haven&amp;#8217;t stayed up to see the sunrise since the night my daughter was born, and you&amp;#8217;d have to go back at least 15 years before that to my previous all-nighter. Despite that&amp;#8212;no, &lt;em&gt;because of&lt;/em&gt; that&amp;#8212;I get a fair bit done on time and on spec. My algorithm is pretty simple:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;List the things that need to be done.&lt;/li&gt;
+&lt;li&gt;Figure out which ones really matter, and which ones don&amp;#8217;t.&lt;/li&gt;
+&lt;li&gt;Estimate how long each one is going to take.&lt;/li&gt;
+&lt;li&gt;Sort.&lt;/li&gt;
+&lt;li&gt;Start work.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For every thing I do, there&amp;#8217;s a dozen that I set aside. I always feel a pang of regret (sometimes two), but trying to do everything is a good way to accomplish nothing. And while it took me twenty years to learn how, I&amp;#8217;m not pretty good at abandoning things that are half done if it turns out that they&amp;#8217;re not as important, or as doable, as I thought they were. (&amp;#8220;I&amp;#8217;ve started so I&amp;#8217;ll finish&amp;#8221; sounds macho, but it&amp;#8217;s lousy project management.)&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve also learned to ask people, &amp;#8220;Is this a good idea?&amp;#8221; &lt;em&gt;before&lt;/em&gt; I put too much work into it. This one was hard too; I&amp;#8217;ve always enjoyed walking into a room and saying, &amp;#8220;Ta da, look what I&amp;#8217;ve done!&amp;#8221; These days, though, I&amp;#8217;ll ask my wife or a fellow prof or a student what they think before I start writing or coding. As my dad used to say, &amp;#8220;A week of hard work can sometimes save you an hour of thought.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;So: what&amp;#8217;s &lt;em&gt;your&lt;/em&gt; strategy for getting things done? How well does it work? And do you think you&amp;#8217;re getting better at it?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People You Don&amp;#039;t Want On Your Team</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2010/02/people-you-dont-want-on-your-team/</link>
+      <pubDate>Tue, 02 Feb 2010 13:11:38 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2010/02/people-you-dont-want-on-your-team/</guid>
+      <description>&lt;p&gt;We&amp;#8217;ve all met them, and from time to time, we&amp;#8217;ve all &lt;em&gt;been&lt;/em&gt; one of them&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Anna&lt;/em&gt; knows more about every subject than everyone else on the team put together&amp;#8212;at least, she thinks she does. No matter what you say, she&amp;#8217;ll correct you; no matter what you know, she knows better. Annas are pretty easy to spot: if you keep track in team meetings of how often people interrupt one another, her score is usually higher than everyone else&amp;#8217;s put together.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bao&lt;/em&gt; is a contrarian: no matter what anyone says, he&amp;#8217;ll take the opposite side. This is healthy in small doses, but when Bao does it, there&amp;#8217;s always another objection lurking behind the first half dozen.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Caitlin&lt;/em&gt; has so little confidence in her own ability (despite her good grades) that she won&amp;#8217;t make any decision, no matter how small, until she has checked with someone else. Everything has to be spelled out in detail for her so that there&amp;#8217;s no possibility of her getting anything wrong.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Frank&lt;/em&gt; believes that knowledge is power. He enjoys knowing things that other people don&amp;#8217;t&amp;#8212;or to be more accurate, he enjoys it when people know he knows things they don&amp;#8217;t. Frank can actually make things work, but when asked how he did it, he&amp;#8217;ll grin and say, &amp;#8220;Oh, I&amp;#8217;m sure you can figure it out.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hediyeh&lt;/em&gt; is quiet. Very quiet. She never speaks up in meetings, even when she knows that what other people are saying is wrong. She might contribute to the mailing list, but she&amp;#8217;s very sensitive to criticism, and will always back down rather than defending her point of view. Hediyeh isn&amp;#8217;t a troublemaker, but rather a lost opportunity.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Kenny&lt;/em&gt; is a hitchhiker. He has discovered that most people would rather shoulder some extra work than snitch, and he takes advantage of it at every turn. The frustrating thing is that he&amp;#8217;s so damn &lt;em&gt;plausible&lt;/em&gt; when someone finally does confront him. &amp;#8220;There have been mistakes on all sides,&amp;#8221; he says, or, &amp;#8220;Well, I think you&amp;#8217;re nit-picking.&amp;#8221; The only way to deal with Kenny is to stand up to him: remember, if he&amp;#8217;s not doing his share, &lt;em&gt;he&amp;#8217;s the bad guy&lt;/em&gt;, not you.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Melissa&lt;/em&gt; would easily have made the varsity procrastination team if she&amp;#8217;d bothered to show up to tryouts. She means well&amp;#8212;she really does feel bad about letting people down&amp;#8212;but somehow something always comes up, and her tasks are never finished until the last possible moment. Of course, that means that everyone who is depending on her can&amp;#8217;t do their work until &lt;em&gt;after&lt;/em&gt; the last possible moment&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Petra&lt;/em&gt;&amp;#8216;s favorite phrase is &amp;#8220;why don&amp;#8217;t we&amp;#8221;. Why don&amp;#8217;t we write a GUI to help people edit the program&amp;#8217;s configuration files? Hey, why don&amp;#8217;t we invent our own little language for designing GUIs? Her energy and enthusiasm are hard to argue with, but argue you must. Otherwise, for every step you move forward, the project&amp;#8217;s goalposts will recede by two. This is called feature creep, and has ruined many projects that might otherwise have delivered something small, but useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Raj&lt;/em&gt; is rude. &amp;#8220;It&amp;#8217;s just the way I talk,&amp;#8221; he says, &amp;#8220;If you can&amp;#8217;t hack it, maybe you should find another team.&amp;#8221; His favorite phrase is, &amp;#8220;That&amp;#8217;s stupid,&amp;#8221; and he uses obscenity as aggressively as characters in Tarantino films. His only redeeming grace is that he can&amp;#8217;t dissemble in front of the instructor as well as Kenny, so he&amp;#8217;s easier to get rid of.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sergei&lt;/em&gt; is simply incompetent. He doesn&amp;#8217;t understand the problem, he hasn&amp;#8217;t bothered to master the tools and libraries he&amp;#8217;s supposed to be using, the code he checks in doesn&amp;#8217;t compile, and his thirty-second bug fixes introduce more problems than they solve. If he means well, try to re-partition the work so that he&amp;#8217;ll do less damage. If he doesn&amp;#8217;t, he should be treated like any other hitchhiker.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All Nighters Lower Your Grades</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/01/all-nighters-lower-your-grades/</link>
+      <pubDate>Wed, 27 Jan 2010 10:48:55 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/01/all-nighters-lower-your-grades/</guid>
+      <description>&lt;p&gt;I think every student should read Evan Robinson&amp;#8217;s article &amp;#8220;&lt;a href=&#34;http://www.igda.org/why-crunch-modes-doesnt-work-six-lessons&#34;&gt;Why Crunch Mode Doesn&amp;#8217;t Work&lt;/a&gt;&amp;#8220;. It&amp;#8217;s a short, readable summary of research into the effects of sleep deprivation, and very relevant to anyone who&amp;#8217;s thinking about staying up until 3:30 a.m. to finish an assignment&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adam on Selenium and HTTPS: Don&amp;#039;t</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/01/adam-on-selenium-and-https-dont/</link>
+      <pubDate>Sat, 23 Jan 2010 18:10:48 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/01/adam-on-selenium-and-https-dont/</guid>
+      <description>&lt;p&gt;Adam Goucher (whom some of you met at the code sprint) has a new post up about &lt;a href=&#34;http://adam.goucher.ca/?p=1365&#34;&gt;the pain of testing with Selenium and HTTPS&lt;/a&gt;. I&amp;#8217;m sure he&amp;#8217;d be happy to answer questions&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Usability</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/01/open-source-usability/</link>
+      <pubDate>Fri, 22 Jan 2010 12:19:30 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/01/open-source-usability/</guid>
+      <description>&lt;p&gt;Mark Guzdial&amp;#8217;s blog on computing education is always worth reading; today, he reports on work by Prof. Mike Terry at Waterloo on &lt;a href=&#34;http://computinged.wordpress.com/2010/01/21/open-source-development-not-very-open-or-welcoming/&#34;&gt;usability in open source&lt;/a&gt;. The good news is, there&amp;#8217;s lots of room to improve&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free/Open Source Software Course in Australia</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/01/freeopen-source-software-course-in-australia/</link>
+      <pubDate>Wed, 20 Jan 2010 18:08:44 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/01/freeopen-source-software-course-in-australia/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://cs.anu.edu.au/students/comp8440/lectures.php&#34;&gt;COMP8440&lt;/a&gt; is a graduate-level course on free &amp;amp; open source software (FOSS). Lots of good material here; if you&amp;#8217;re interested, you should also look at Karl Fogel&amp;#8217;s &lt;a href=&#34;http://producingoss.com/&#34;&gt;&lt;em&gt;Producing Open Source Software&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And while I&amp;#8217;m posting links: Pierre Lafayette (a non-student working on Basie) sent a link to &lt;a href=&#34;http://browsershots.org/&#34;&gt;http://browsershots.org/&lt;/a&gt;, which will show you what your web pages look like in a bewildering variety of browsers on various platforms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grading</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/01/grading/</link>
+      <pubDate>Mon, 18 Jan 2010 13:37:54 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/01/grading/</guid>
+      <description>&lt;p&gt;A couple of students have asked how UCOSP projects are graded. The short answer is, you tell us. Seriously&amp;#8212;talk to your mentors and say, &amp;#8220;These are the things I want to tackle, here&amp;#8217;s why I think they&amp;#8217;d be valuable and how much effort they&amp;#8217;ll require, so please give me grades for X, Y, and Z.&amp;#8221; If your mentor thinks you&amp;#8217;ve chosen things that are too hard, too easy, or not particularly useful, the two of you can negotiate back and forth until you settle on something that makes you both happy. Based on previous terms&amp;#8217; projects, this works best if you follow a few simple rules:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Define a handful of small tasks, rather than one big one. If 100% of your grade depends on flambulating the frajulator, and it turns out that fraulators are intrinsically unflambulable, you&amp;#8217;ve got a problem.&lt;/li&gt;
+&lt;li&gt;Work in small, steady steps, so that you can get feedback from your mentor (and change direction if necessary). We&amp;#8217;re not going to set assignments every two or three weeks, but you should try very hard to deliver something&amp;#8212;anything&amp;#8212;every couple of weeks.&lt;/li&gt;
+&lt;li&gt;But don&amp;#8217;t wait a week or two to communicate with your team and mentor. Giving someone else feedback on the team mailing list or in IRC is a good way to take a break from a linear algebra assignment, and helps move the whole project forward.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One other thing that makes UCOSP different from regular courses is that we grade your work based on where you started, not on how much the rest of your team knew at the beginning of term. Some of you are working with languages or platforms you&amp;#8217;ve never seen before, while others have done work terms with those same technologies. We&amp;#8217;ve all been through that too, so your grade will be based on how far you get from where you are now. Long story short, don&amp;#8217;t panic if you feel that everyone else on your team knows more than you do: it probably isn&amp;#8217;t true, and even if it is, it doesn&amp;#8217;t matter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ucosp.files.wordpress.com/2010/01/keep-calm-and-carry-on-blue.jpg&#34;&gt;&lt;img class=&#34;alignnone size-medium wp-image-2084&#34; title=&#34;keep-calm-and-carry-on-blue&#34; src=&#34;http://ucosp.files.wordpress.com/2010/01/keep-calm-and-carry-on-blue.jpg?w=240&#34; alt=&#34;&#34; width=&#34;240&#34; height=&#34;300&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rich, Famous, and Popular</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/01/rich-famous-and-popular/</link>
+      <pubDate>Sun, 17 Jan 2010 15:35:28 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/01/rich-famous-and-popular/</guid>
+      <description>&lt;p&gt;Almost everyone who joins a new project says it sooner or later: &amp;#8220;More documentation, please.&amp;#8221; No one can make sense of 30,000 lines of code in one gulp: everyone wants an overview or roadmap to help them make sense of things. So why don&amp;#8217;t they exist?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Almost by definition, by the time you can &lt;em&gt;write&lt;/em&gt; that document, you don&amp;#8217;t need it yourself. You probably also have a dozen tickets assigned to you by then too, all of which really, really need to be fixed for next week&amp;#8217;s release.&lt;/li&gt;
+&lt;li&gt;Overviews are much harder to write than lower-level Javadoc-style explanations of what individual methods do. The latter is just an assemblage of facts; the former requires story-telling skills, and good storytellers are rare in any field (not just programming).&lt;/li&gt;
+&lt;li&gt;Anyone who ever &lt;em&gt;has&lt;/em&gt; written an overview document knows that it will rust pretty quickly. Design decisions will change, code will be refactored, and pretty quickly, that 30-page tutorial you sweated over is so far out of date that it&amp;#8217;s actually doing as much harm as good. Keeping it up to date is a never-ending struggle, and it&amp;#8217;s not like people have stopped assigning you tickets&amp;#8230;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Jacob Kaplan-Moss (from the Django team) wrote a good post a while back about &lt;a href=&#34;http://jacobian.org/writing/great-documentation/&#34;&gt;writing great documentation&lt;/a&gt;. It&amp;#8217;s worth reading, and he&amp;#8217;s right: after a certain point, investing effort in documentation and discussion actually pays a bigger dividend for open source projects than investing effort in code. It&amp;#8217;s still an open research problem, though; anyone who ever figures out how to generate, check, and update narrative explanations of how code is structured, what it does, and (most importantly) why, will be rich, famous, and popular. Lemme know how it goes&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What We Expect From Students This Term</title>
+      <link>http://haruute0.github.io/2009-2010/education/2010/01/what-we-expect-from-students-this-term/</link>
+      <pubDate>Mon, 11 Jan 2010 16:39:26 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2010/01/what-we-expect-from-students-this-term/</guid>
+      <description>&lt;p&gt;Titus Brown has started a wiki page describing &lt;a href=&#34;http://wiki.github.com/ctb/pony-build/studentexpectations&#34;&gt;what&amp;#8217;s expected from the Pony-Build students&lt;/a&gt; this term, and I just &lt;a href=&#34;http://blog.basieproject.org/?p=1693&#34;&gt;posted to the Basie blog&lt;/a&gt; about what we didn&amp;#8217;t finish last term, and need to get done in this one.  In brief, Titus&amp;#8217;s points are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Communicate early and frequently.&lt;/li&gt;
+&lt;li&gt;Make your work visible (if we can&amp;#8217;t see what you&amp;#8217;re doing, we can&amp;#8217;t help you).&lt;/li&gt;
+&lt;li&gt;It&amp;#8217;s your responsibility to manage your time and make steady progress.&lt;/li&gt;
+&lt;li&gt;Be friendly.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My points were more project-specific. Our immediate goal is to g et a usable release out the door in time for the &lt;a href=&#34;http://us.pycon.org/2010/about/&#34;&gt;Python Conference&lt;/a&gt; in mid-February, after which everyone will be free to work on riskier/more speculative things. We&amp;#8217;re going to get there as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Every member of the team will post a punchline status report to this blog before they go to sleep on Monday. &lt;a href=&#34;http://blog.markusproject.org/?p=517&#34;&gt;This post&lt;/a&gt; (from the &lt;a href=&#34;http://markusproject.org/&#34;&gt;MarkUs&lt;/a&gt; team) shows you what we’re after: Status, Next Steps, and Roadblocks, with bullet points for each.&lt;/li&gt;
+&lt;li&gt;Everyone will &lt;em&gt;read&lt;/em&gt; these reports before our online Tuesday meeting so that we can spend our time discussing technical issues.&lt;/li&gt;
+&lt;li&gt;Everyone will put &lt;em&gt;something&lt;/em&gt; up for review each week (even if it’s very small), and do at least one review each week as well.&lt;/li&gt;
+&lt;li&gt;We’ll refresh the sandbox instance weekly so that we can always see what state the code is actually in (and, just as importantly, make sure that our install and setup instructions are up to date).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What are your project&amp;#8217;s goals for the term? And how do you plan to get from here to there?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Never Just One Lesson</title>
+      <link>http://haruute0.github.io/2009-2010/education/2009/11/never-just-one-lesson/</link>
+      <pubDate>Fri, 27 Nov 2009 22:45:04 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2009/11/never-just-one-lesson/</guid>
+      <description>&lt;p&gt;The official goal of this course is to give students first-hand experience of working in distributed teams. There are lots of other lessons to be learned, though, lessons that can only be learned by working on real applications. Take the &lt;a href=&#34;http://blog.basieproject.org/?p=1567&#34;&gt;performance bug&lt;/a&gt; that we just found in Basie, or the seemingly-simple problem of deleting tags (&lt;a href=&#34;http://basieproject.org/pipermail/basie-commits/2009-November/006367.html&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;http://basieproject.org/pipermail/basie-commits/2009-November/006368.html&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;http://basieproject.org/pipermail/basie-commits/2009-November/006369.html&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;http://basieproject.org/pipermail/basie-commits/2009-November/006370.html&#34;&gt;4&lt;/a&gt;, &lt;a href=&#34;http://basieproject.org/pipermail/basie-commits/2009-November/006371.html&#34;&gt;5&lt;/a&gt;, &lt;a href=&#34;http://basieproject.org/pipermail/basie-commits/2009-November/006372.html&#34;&gt;6&lt;/a&gt;, &lt;a href=&#34;http://basieproject.org/pipermail/basie-commits/2009-November/006381.html&#34;&gt;7&lt;/a&gt;). Neither is a coding bug: in both cases, we&amp;#8217;re going to have to re-think a significant chunk of the system&amp;#8217;s design. Problems like this just don&amp;#8217;t come up in assignment-sized programs; as Simon Peyton-Jones &lt;a href=&#34;http://www.cs.utoronto.ca/~gvwilson/right-size.html&#34;&gt;observed&lt;/a&gt; in another context, scaling things up often changes their nature in important ways. It takes more effort for students to ramp up, but we think it&amp;#8217;s worth it&amp;#8212;do you?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Grades Mean</title>
+      <link>http://haruute0.github.io/2009-2010/education/2009/11/what-grades-mean/</link>
+      <pubDate>Sat, 21 Nov 2009 11:51:00 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/education/2009/11/what-grades-mean/</guid>
+      <description>&lt;p&gt;We&amp;#8217;re getting close to that time, so here&amp;#8217;s the &lt;a href=&#34;http://www.artsandscience.utoronto.ca/ofr/calendar/rules.htm#grading&#34;&gt;official definition&lt;/a&gt; of what grades mean in Arts &amp;amp; Science at the University of Toronto. If the scale at your school is significantly different, please let us know.&lt;/p&gt;
+
+&lt;table border=&#34;1&#34; cellpadding=&#34;4&#34;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;strong&gt;Percentage &lt;/strong&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &lt;strong&gt;Letter Grade&lt;/strong&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &lt;strong&gt;GPA Value&lt;/strong&gt;
+    &lt;/td&gt;
+    
+    &lt;td colspan=&#34;2&#34;&gt;
+      &lt;strong&gt;Grade Definition &lt;/strong&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      90-100
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      A+
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4.0
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Excellent
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Strong evidence of original thinking; good organization; capacity to analyze and synthesize; superior grasp of subject matter with sound critical evaluations; evidence of extensive knowledge base.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      85-89
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      A
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4.0
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      80-84
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      A-
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3.7
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      77-79
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      B+
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3.3
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Good
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Evidence of grasp of subject matter, some evidence of critical capacity and analytic ability; reasonable understanding of relevant issues; evidence of familiarity with literature.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      73-76
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      B
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3.0
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      70-72
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      B-
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2.7
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      67-69
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      C+
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2.3
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Adequate
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Student who is profiting from his/her university experience; understanding of the subject matter; ability to develop solutions to simple problems in the material.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      63-66
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      C
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2.0
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      60-62
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      C-
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1.7
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      57-59
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      D+
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1.3
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Marginal
+    &lt;/td&gt;
+    
+    &lt;td rowspan=&#34;3&#34;&gt;
+      Some evidence of familiarity with subject matter and some evidence that critical and analytic skills have been developed.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      53-56
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      D
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1.0
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      50-52
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      D-
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      0.7
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      0-49
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      F
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      0.0
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Inadequate
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Little evidence of even superficial understanding of subject matter; weakness in critical and analytic skills; with limited or irrelevant use&lt;br /&gt; of literature.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

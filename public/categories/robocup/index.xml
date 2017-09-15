@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robocup on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/robocup/</link>
+    <description>Recent content in Robocup on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2009 15:37:31 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/robocup/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>screencast</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/12/screencast/</link>
+      <pubDate>Mon, 07 Dec 2009 15:37:31 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/12/screencast/</guid>
+      <description>&lt;p&gt;Our screencast is posted &lt;a href=&#34;http://www.youtube.com/watch?v=QDkb3_rYbnY&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Links to a few other videos we&amp;#8217;ve made:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=YWxeflrym4M&#34;&gt;Human controls&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chani.ca/robocup/robocup-test.ogv&#34;&gt;Another demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chani.ca/robocup/out-4.ogv&#34;&gt;Playing a game against last term&amp;#8217;s team&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One Positive, One Negative</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/12/one-positive-one-negative/</link>
+      <pubDate>Tue, 01 Dec 2009 21:15:13 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/12/one-positive-one-negative/</guid>
+      <description>&lt;p&gt;Positive: Finally, I can experience working on a real, fully distributed team. Also, I learn a lot of technical stuff from this course. From programming in python to machine learning algorithms. I am also grateful to learn from my colleagues as this is more practical than learning from textbooks.&lt;/p&gt;
+
+&lt;p&gt;Negative: I couldn&amp;#8217;t contribute to the team as much as I want to. There are various reasons for this but most notably is due to the complexity and difficulty of the project. As time goes by, I discover more stuff that can&amp;#8217;t be done than stuff that can be done. There is certainly a way to fix it but given the fact that we are expected to work ~10 hours per week, we would end up fixing stuff rather than achieving our goals. Thus, sometimes hacking is the most appropriate (but not the best) way to do it. If I would do it again in the future, it would be very nice to have someone that is knowledgeable to tell us what could possibly be done by 50 hours of work per week over four months. Unfortunately, it is very hard to find such person in any project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Update</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-status-update-3/</link>
+      <pubDate>Mon, 30 Nov 2009 17:17:40 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-status-update-3/</guid>
+      <description>&lt;p&gt;For the most part we are all trying to wrap things up. Here&amp;#8217;s how we plan to divide the final work load.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yulia + Ioana&lt;/strong&gt;: Look into fixing coordinate system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chani&lt;/strong&gt;: Will put together a skeleton of the document.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Patrik&lt;/strong&gt;: Will write up an overview of the source code by Tuesday.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alex&lt;/strong&gt;: Plans to finish his passing improvements and contribute a write up of why we choose the python code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Everybody&lt;/strong&gt;: Contribute to the document and consider tweaks to improve overall performance.&lt;/p&gt;
+
+&lt;p&gt;Patrik&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup Meeting</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting-3/</link>
+      <pubDate>Mon, 30 Nov 2009 17:13:38 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting-3/</guid>
+      <description>&lt;p&gt;We had our weekly meeting yesterday (Nov 29th &amp;#8217;09). The minutes and transcript are available here (&lt;a href=&#34;http://chani.ca/robocup/minutes/nov29.txt&#34;&gt;http://chani.ca/robocup/minutes/nov29.txt&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Patrik&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on RoboCup</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2009/11/thoughts-on-robocup/</link>
+      <pubDate>Thu, 26 Nov 2009 03:12:30 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2009/11/thoughts-on-robocup/</guid>
+      <description>&lt;p&gt;I worked on RoboCup and I have to say it didn&amp;#8217;t turn out to be what I expected in the beginning. But I really enjoyed it despite the problems we had (just like any other team this term).&lt;/p&gt;
+
+&lt;p&gt;There isn&amp;#8217;t a whole lot of bad things I can say about the csc494 experience. We pretty much lost that month before the Code Sprint because we couldn&amp;#8217;t get an access to the repository. Also it took me personally few weeks after the Code Sprint to actually understand what is it that we were working on and how to approach it. It would have been nice to have a little more guidance, but on the other hand it was cool to be able to set our own priorities too.&lt;/p&gt;
+
+&lt;p&gt;Good thing, is that despite being geographically dispersed, my team did a pretty good job communicating with each other.&lt;/p&gt;
+
+&lt;p&gt;Overall, I think I got an invaluable experience working on RoboCup. It&amp;#8217;s one of those things that look sort of easy on paper  but are overwhelmingly complex when you start implementing them. It also taught me not to be too optimistic when making plans and not to assume correctness of the code that wasn&amp;#8217;t my own.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;span style=&#34;font-family:Helvetica, &#39;Times New Roman&#39;, &#39;Bitstream Charter&#39;, Times, serif;font-size:small;&#34;&gt;&lt;br /&gt; &lt;/span&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Status updates for Robocup</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/status-updates-for-robocup/</link>
+      <pubDate>Thu, 26 Nov 2009 03:10:53 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/status-updates-for-robocup/</guid>
+      <description>&lt;p&gt;We had our &lt;a href=&#34;http://chani.ca/robocup/minutes/22_nov_minutes.rtf&#34;&gt;meeting&lt;/a&gt; on Sunday, November 22. Here is what the team had been up to:&lt;/p&gt;
+
+&lt;p&gt;Alex&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; worked on passing, now it takes into account players from the opposit team&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; it is hard to make 100% accurate passing because of the noise added to the measurements&lt;/p&gt;
+
+&lt;p&gt;Next task:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; work on interception as it is related to passing&lt;/p&gt;
+
+&lt;p&gt;Chani&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; fixed code so that now players are using data from the current tick&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; fixed a bug in the debug ui&lt;/p&gt;
+
+&lt;p&gt;Next task:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; continue debugging&lt;/p&gt;
+
+&lt;p&gt;Ioana&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; worked on dribbling&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; found bug that causes a player to be stuck near the ball not making any actions&lt;/p&gt;
+
+&lt;p&gt;possible reason is that position of the player and the ball is not update properly&lt;/p&gt;
+
+&lt;p&gt;Next task:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; continue working on dribbling&lt;/p&gt;
+
+&lt;p&gt;Yulia&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; rewrote chunk of code responsible for parsing the s-expressions from the server&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; slightly improved the accuracy of statistics computed from the server data&lt;/p&gt;
+
+&lt;p&gt;but it seems that there is not much we can do to make it better because of the&lt;/p&gt;
+
+&lt;p&gt;server restrictions&lt;/p&gt;
+
+&lt;p&gt;Next task:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; continue debugging&lt;/p&gt;
+
+&lt;p&gt;Patrik&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; did a merge of code from the dt branch into trunk&lt;/p&gt;
+
+&lt;p&gt;Next task:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; debugging kick/dribbling&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2009/11/thoughts/</link>
+      <pubDate>Wed, 25 Nov 2009 04:13:07 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2009/11/thoughts/</guid>
+      <description>&lt;p&gt;Being a part of the Robocup UCOSP project has been an interesting experience.&lt;/p&gt;
+
+&lt;p&gt;First, I&amp;#8217;ll discusses some of the issues with this project. It&amp;#8217;s not actually an open source project, and it&amp;#8217;s not really under development by anyone other then my group members. This is an issue because we didn&amp;#8217;t really get to experience that side of an open source project (ie. being part of a larger picture and lending a hand). The code we decided to use as a base turned out to be worse then we expected which caused use to have to perform alot of maintenance work instead of adding features or extending the team capabilities. Also, the size of the source tree is actually fairly small which has caused us problems, basically it causes most of the things we do to affect everybody in the group hence greatly slowing down development.&lt;/p&gt;
+
+&lt;p&gt;I think it would have been interesting to see what would have happened if we decided to start from scratch and develop a client in C++ (which was an option to us because of the very large amount of freedom we were given). Arguably it would have been worse wrt to everybody depending on each other but at the same time it would have been an experience of the birth of a project.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, all of the bad points I&amp;#8217;ve made are also the good points. They&amp;#8217;ve really taught me how to think about projects and that things are not always going to go as planned. It would have been nice to have more guidance but at the same time it&amp;#8217;s nice to have been given the freedom to make decisions for ourselves and learn from the outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>thumbs up, thumbs down</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/thumbs-up-thumbs-down/</link>
+      <pubDate>Wed, 25 Nov 2009 00:04:05 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/thumbs-up-thumbs-down/</guid>
+      <description>&lt;p&gt;the good: Working with a good team. We&amp;#8217;ve all had those projects where half the team is asleep or incapable of communicating or just doesn&amp;#8217;t do their work. This was one of those rare group projects where I got to be in a group of students who *wanted* to be there. it&amp;#8217;s something I&amp;#8217;m more used to in the free software world but not in school.&lt;/p&gt;
+
+&lt;p&gt;the bad: The chaos. Having our team drop to 5 people threw off a lot of the plans we&amp;#8217;d made at the sprint. The codebase wasn&amp;#8217;t at all what we thought it was, so we spent more time fixing things than writing new things, which threw off the rest of our plans. Our teacher is on sabbatical, so the TA gets all our questions. I&amp;#8217;m still not quite sure what we actually accomplished&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postmortem</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/postmortem/</link>
+      <pubDate>Tue, 24 Nov 2009 16:17:29 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/postmortem/</guid>
+      <description>&lt;p&gt;ThumbUp: Having meetings every week and posting status reports helped keep us on track.&lt;/p&gt;
+
+&lt;p&gt;ThumbDown: I think it would be good to have more variety in projects, in particular some that are less development-oriented and involve more research&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup status update</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-status-update-2/</link>
+      <pubDate>Wed, 18 Nov 2009 06:07:16 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-status-update-2/</guid>
+      <description>&lt;p&gt;alex:&lt;/p&gt;
+
+&lt;p&gt;-has been trying to improve passing by having the kicker shout out where the ball is going, but the other players don&amp;#8217;t always hear it&lt;/p&gt;
+
+&lt;p&gt;-will try other ways to improve passing&lt;/p&gt;
+
+&lt;p&gt;chani:&lt;/p&gt;
+
+&lt;p&gt;-implemented ball and player decay&lt;/p&gt;
+
+&lt;p&gt;-found out that the code for updating object positions was never being called and fixed that&lt;/p&gt;
+
+&lt;p&gt;-is working on vision optimization&lt;/p&gt;
+
+&lt;p&gt;-improved the debug viewer a bit more&lt;/p&gt;
+
+&lt;p&gt;-may also experiment with changing minimum-confidence values&lt;/p&gt;
+
+&lt;p&gt;ioana:&lt;/p&gt;
+
+&lt;p&gt;-found a passing bug, and is looking into interception problems&lt;/p&gt;
+
+&lt;p&gt;-was trying to get the new human controller to work, no luck&lt;/p&gt;
+
+&lt;p&gt;-is working on ball interception&lt;/p&gt;
+
+&lt;p&gt;patrik:&lt;/p&gt;
+
+&lt;p&gt;-was working on merging all the branch stuff into trunk&lt;/p&gt;
+
+&lt;p&gt;-hardware issues corrupted all his work, so he has to redo it&lt;/p&gt;
+
+&lt;p&gt;yulia:&lt;/p&gt;
+
+&lt;p&gt;-found a problem with vision &amp;#8211; only the first two flags are being used to determine position&lt;/p&gt;
+
+&lt;p&gt;-was going to fix it but ended up in hospital instead&lt;/p&gt;
+
+&lt;p&gt;-wrote a small gui for starting teams and server&lt;/p&gt;
+
+&lt;p&gt;-started modifying the on_see function&lt;/p&gt;
+
+&lt;p&gt;-rewrote sexpparser and made it faster&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup meeting</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting-2/</link>
+      <pubDate>Sun, 15 Nov 2009 23:21:31 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://chani.ca/robocup/minutes/nov15.txt&#34;&gt;Minutes for Robocup&amp;#8217;s Nov. 15th meeting&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup meeting</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting/</link>
+      <pubDate>Fri, 13 Nov 2009 08:28:39 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting/</guid>
+      <description>&lt;p&gt;The minutes from this week&amp;#8217;s Robocup meeting can be found &lt;a href=&#34;http://chani.ccdevnet.org/robocup/minutes/nov09.txt&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Updates</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2009/11/robocup-status-updates/</link>
+      <pubDate>Wed, 11 Nov 2009 15:40:38 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2009/11/robocup-status-updates/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Alex:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; submitted a patch to the robocup_dt branch that makes server parameters no longer hardcoded but instead they can be read from the server messages&lt;/p&gt;
+
+&lt;p&gt;Tasks for this week:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; finish up work on server parameters&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; work on passing&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;-none&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chani:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; was away at a conference&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; committed FindBall action&lt;/p&gt;
+
+&lt;p&gt;Tasks for this week:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; implement compensating for ball decay today&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; work on vision timing optimzation.&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; none&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Patrick:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; looked into adding preemptive actions&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; also wrote a FindBall action, that was replaced by Chani&amp;#8217;s method&lt;/p&gt;
+
+&lt;p&gt;Tasks for this week:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; merge changes in the dt branch into trunck&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; it would be helpful to get the wxpython human controls working&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yulia:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; has been working on fixing bugs discovered while working on the human controls&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; fixed body turning issue&lt;/p&gt;
+
+&lt;p&gt;Tasks for this week:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; continue looking for bugs&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; working on dribbling and kicking&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;-none&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ioana&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; did some more work on the neck turning and looked into interception&lt;/p&gt;
+
+&lt;p&gt;Tasks for this week:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; look for more bugs related to the world view&lt;/p&gt;
+
+&lt;p&gt;Roadblocks:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; getting the wxpython human controls working would help with testing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Updates for week of Nov 2nd</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-status-updates-for-week-of-nov-2nd/</link>
+      <pubDate>Thu, 05 Nov 2009 06:11:01 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-status-updates-for-week-of-nov-2nd/</guid>
+      <description>&lt;p&gt;Ioana&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; did some reading on DT&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; wrote a function that computes the last time a slice was seen (for&lt;/p&gt;
+
+&lt;p&gt;neck rotation)&lt;/p&gt;
+
+&lt;p&gt;Next steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; With Yulia, looking at the solution to body_angle bug&lt;/p&gt;
+
+&lt;p&gt;Roadblock:&lt;/p&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;p&gt;Alex&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Looking at ways to improve passing&lt;/p&gt;
+
+&lt;p&gt;Next steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Reading server parameters at the beginning of the game instead of hardcoding them.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Improving passing&lt;/p&gt;
+
+&lt;p&gt;Roadblock:&lt;/p&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;p&gt;Yulia&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Working on enhanced human controller&lt;/p&gt;
+
+&lt;p&gt;Next steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211;&lt;/p&gt;
+
+&lt;p&gt;Roadblock:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Bugs in body_angle&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Patrik&lt;/p&gt;
+
+&lt;p&gt;Status:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; &amp;#8211; Trying to figure out how to change role and actions to benefit from&lt;/p&gt;
+
+&lt;p&gt;multi-tick actions &amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; &amp;#8211; Commented role.py and gained an understanding of how all actions are&lt;/p&gt;
+
+&lt;p&gt;taken.&lt;/p&gt;
+
+&lt;p&gt;Next Steps:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; &amp;#8211; Try to change role&amp;#8217;s decisions to be based on multi-tick actions.&lt;/p&gt;
+
+&lt;p&gt;Roadblock:&lt;/p&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup Meeting Minutes November 1st</title>
+      <link>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting-minutes-november-1st/</link>
+      <pubDate>Mon, 02 Nov 2009 08:29:47 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/robocup/2009/11/robocup-meeting-minutes-november-1st/</guid>
+      <description>&lt;p&gt;Available on:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sfu.ca/~ann5/ucosp/meeting-minutes-nov1st.txt&#34;&gt;http://www.sfu.ca/~ann5/ucosp/meeting-minutes-nov1st.txt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

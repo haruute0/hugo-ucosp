@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2013 on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/fall-2013/</link>
+    <description>Recent content in Fall 2013 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2013 11:26:39 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/fall-2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fall 2013 term underway!</title>
+      <link>http://haruute0.github.io/fall-2013/2013/09/fall-2013-term-underway/</link>
+      <pubDate>Thu, 26 Sep 2013 11:26:39 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/fall-2013/2013/09/fall-2013-term-underway/</guid>
+      <description>&lt;p&gt;This fall the sprint was held at Mozilla&amp;#8217;s &lt;a href=&#34;http://www.mozilla.org/en-US/about/contact.html#map-canada-toronto&#34;&gt;Toronto office&lt;/a&gt;. 48 students from 18 Canadian universities came together to work on nine different open source projects with their mentors. The sprint gave students the chance to know each other, their projects, and their mentors so they could get down to work for the term (in addition to some time hanging out in Toronto).&lt;/p&gt;
+
+&lt;p&gt;Christian Hammond, one of the Review Board mentors provides an overview of how the sprint went for the &lt;a href=&#34;http://www.reviewboard.org/news/2013/09/22/awesome-ucosp-winter-2013-team/&#34;&gt;Review Board team&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

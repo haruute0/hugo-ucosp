@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>Status Reports: Feb 22, 2010 &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>Status Reports: Feb 22, 2010</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>26 Feb 2010, 16:38</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  
+
+<h2 id="brenda:48deaddf0fa7bbc60651c1fc1d2db6ac"><strong>Brenda</strong></h2>
+
+<h3 id="status:48deaddf0fa7bbc60651c1fc1d2db6ac">Status</h3>
+
+<ul>
+<li>Looked further into the use of plugin_customization.ini for setting the default perspective and it seems this file is created when we compile a standalone RCP App. Cory posted details on its use in Bug 299869.</li>
+<li>Submitted bug reports 303425, 303426 and 303427, related to the Class and Package wizards.</li>
+<li>Submitted a patch that alters my previous patch for hiding packages and source folders so that all source folders are hidden, not just those named &ldquo;src&rdquo;</li>
+<li>Looked into the other issue Wayne found with this patch (project explorer view not always updating), but haven&#8217;t come to a solution yet.</li>
+</ul>
+
+<h3 id="next-steps:48deaddf0fa7bbc60651c1fc1d2db6ac">Next Steps</h3>
+
+<ul>
+<li>This week, continue to work on getting the project explorer view to update correctly. In particular, when a class is added under the specific circumstances mentioned by Wayne in Comment 8 on Bug 299965.</li>
+</ul>
+
+<h3 id="roadblocks:48deaddf0fa7bbc60651c1fc1d2db6ac">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    None.
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="cory:48deaddf0fa7bbc60651c1fc1d2db6ac"><strong>Cory</strong></h2>
+
+<h3 id="status-1:48deaddf0fa7bbc60651c1fc1d2db6ac">Status</h3>
+
+<ul>
+<li>Was on reading week, so had some extra time to put towards the project.</li>
+<li>Started week looking into making the delete key work in the LitePackageExplorer (Bug 299875) and getting drag and drop (Bug 299878) to work. Found some good resources on implementing DND for eclipse plugin projects.</li>
+<li>However, I followed Wayne&#8217;s advice on the delete key implementation, and have been mainly working on converting the delete menu item from LitePackageExplorer to use the built in delete Command (Edit-&gt;Delete).</li>
+<li>I have posted a couple patches for this &#8211; see Bug 299875 and Bug 303341.</li>
+<li>Looked over Mile&#8217;s proposed patches for adding java source code templates to the java class constructors (Bug 302236).</li>
+<li>Added my comments to the thread, and also proposed a new patch doing it a little differently.</li>
+</ul>
+
+<h3 id="next-steps-1:48deaddf0fa7bbc60651c1fc1d2db6ac">Next Steps</h3>
+
+<ul>
+<li>Continue work on Menu Commands / Handlers (Bug 303428 / 303341).</li>
+<li>Will try and get back to drag and drop soon (Bug 299878).</li>
+<li>Also attempt to fix small things as I see them.</li>
+</ul>
+
+<h3 id="roadblocks-1:48deaddf0fa7bbc60651c1fc1d2db6ac">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    None
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="miles:48deaddf0fa7bbc60651c1fc1d2db6ac"><strong>Miles</strong></h2>
+
+<h3 id="status-2:48deaddf0fa7bbc60651c1fc1d2db6ac">Status</h3>
+
+<ul>
+<li>Developed a few versions for the architecture of templates for new Class creation.</li>
+<li>Created the 2 wizards for class creation – New Java Program and New Java Class</li>
+<li>Cleaned up the Welcome screen so the link works properly.</li>
+<li>Fixed the New Class Wizard dialog size bug so that the dialog is a normal size as opposed to overly larg.</li>
+</ul>
+
+<h3 id="next-steps-2:48deaddf0fa7bbc60651c1fc1d2db6ac">Next Steps</h3>
+
+<ul>
+<li>Continue refactoring if necessary the Class creation constructor and wizards.</li>
+<li>Make is so the Package field in the Class creation wizard is only displayed if there are packages created in the workspace.</li>
+<li>I would really like to start spending some time on figuring out how to simplify the menus and toolbars. This is such a big problem with the plug-in that it would be nice to get this fixed by the end of the semester.</li>
+</ul>
+
+<h3 id="roadblocks-2:48deaddf0fa7bbc60651c1fc1d2db6ac">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    The next couple weeks are going to be busy with midterms and assignments.
+  </li>
+</ul>
+
+<hr />
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/2009-2010/mercurial/2010/02/alexandrus-half-time-view/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/2009-2010/mercurial/2010/02/alexandrus-half-time-view/">alexandru&amp;#039;s Half-Time View</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/2009-2010/uncategorized/2010/02/guillaumes-midway-update/">Guillaume&amp;#039;s Midway Update</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/2009-2010/uncategorized/2010/02/guillaumes-midway-update/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

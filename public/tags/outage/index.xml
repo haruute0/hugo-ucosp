@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outage on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/outage/</link>
+    <description>Recent content in Outage on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2010 23:21:16 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/outage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Skype outage lastweek; Amazon internship interview</title>
+      <link>http://haruute0.github.io/2009-2010/flightsim/2010/01/skype-outage-lastweek-amazon-internship-interview/</link>
+      <pubDate>Mon, 25 Jan 2010 23:21:16 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/flightsim/2010/01/skype-outage-lastweek-amazon-internship-interview/</guid>
+      <description>&lt;p&gt;In the flight sim team we relied on skype for all non-verbal communication. It so happened that there is a &lt;a href=&#34;http://twitter.com/Skype/status/8035128397&#34;&gt;global skype outage&lt;/a&gt; last Thursday right which happed to collide with our weekly team meeting&amp;#8217;s time. (Good thing that we are using IBM&amp;#8217;s conferce call infrastructure for our meeting.) &lt;a href=&#34;http://www.twitter.com&#34;&gt;Twitter&lt;/a&gt; again proved to be the best way to look for outage information like these &amp;#8211; a quick search for the #Skype hash tag quickly revealed to me that a lot of people are having the same problem, and eventually leads me to the official &lt;a href=&#34;http://twitter.com/Skype&#34;&gt;@Skype&lt;/a&gt; Twitter account. Although they didn&amp;#8217;t provide any solution but at least you know they&amp;#8217;re working on it. So&amp;#8230; if anything happens next time, give Twitter a try.&lt;/p&gt;
+
+&lt;p&gt;In unrelated news, I had an &lt;a href=&#34;http://www.chancancode.com/2010/01/25/amazon-internship-interview/&#34;&gt;internship phone interview&lt;/a&gt; with &lt;a href=&#34;http://www.amazon.com&#34;&gt;Amazon&lt;/a&gt; today. While I can&amp;#8217;t tell you the exact questions that I was asked, I can tell you that they &lt;em&gt;love&lt;/em&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/Tree_(data_structure&#34;&gt;trees&lt;/a&gt;). It really pays to know you data structures well! (I wish I know it better before I picked up the phone&amp;#8230;) So&amp;#8230; if you&amp;#8217;re having an internship interview anytime soon, go pick up your DS textbook and make sure you know it inside out!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

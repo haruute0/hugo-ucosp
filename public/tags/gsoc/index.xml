@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gsoc on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/gsoc/</link>
+    <description>Recent content in Gsoc on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jan 2010 18:44:54 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/gsoc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GSoC 2010</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2010/01/gsoc-2010/</link>
+      <pubDate>Wed, 27 Jan 2010 18:44:54 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2010/01/gsoc-2010/</guid>
+      <description>&lt;p&gt;Our project, &lt;a href=&#34;http://mercurial.selenic.com&#34; title=&#34;mercurial&#34;&gt;Mercurial&lt;/a&gt;, already announced their participation in Google&amp;#8217;s Summer of Code 2010 via the developer mailing list. I suspect many other projects are doing the same, so even though there&amp;#8217;s no official information on Google&amp;#8217;s own &lt;a href=&#34;http://code.google.com/soc/&#34;&gt;SoC&lt;/a&gt; page (yet), you might want to consider preparing your application. If you&amp;#8217;ve enjoyed UCOSP so far and want to continue the experience, GSoC looks like a great avenue to do so.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

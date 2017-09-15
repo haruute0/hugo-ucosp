@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/markus/</link>
+    <description>Recent content in Markus on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2010 03:18:34 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/markus/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MarkUs 0.7.0 is ready to go!</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/04/markus-0-7-0-is-ready-to-go/</link>
+      <pubDate>Thu, 29 Apr 2010 03:18:34 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/04/markus-0-7-0-is-ready-to-go/</guid>
+      <description>&lt;p&gt;The MarkUs Team is proud to present &lt;a href=&#34;http://www.markusproject.org&#34;&gt;MarkUs 0.7.0&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.markusproject.org/?p=1528&#34;&gt;Click here to see our release announcement.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MarkUs 0.6.3 is out the door!</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</link>
+      <pubDate>Sat, 20 Mar 2010 22:02:43 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</guid>
+      <description>&lt;p&gt;The MarkUs Team is proud to present 0.6.3!  &lt;a href=&#34;http://blog.markusproject.org/?p=1429&#34;&gt;Full details here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markus March 19th Punchlines</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/markus-march-19th-punchlines/</link>
+      <pubDate>Fri, 19 Mar 2010 19:38:45 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/markus-march-19th-punchlines/</guid>
+      <description>
+
+&lt;h2 id=&#34;victoria:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Victoria&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Brainstormed ideas for the Dashboard.&lt;/li&gt;
+&lt;li&gt;Went through draft Dashboard contents with Karen and Farah and got some good and constructive feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;With the feedback I got back regarding the potential Dashboard contents, come up with a preliminary prototype &amp;#8212; one that we can take apart and help establish a better idea as to how we&amp;#8217;d like to design the Dashboard.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swamped with work (from my full-time position).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mike:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Mike&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Applied 0.6 patches to trunk&lt;/li&gt;
+&lt;li&gt;Also caught some missing translations and brought them over from 0.6&lt;/li&gt;
+&lt;li&gt;Reviewed a bunch of code&lt;/li&gt;
+&lt;li&gt;Email / IRC development support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Same as always &amp;#8211; review, review, review.  Answer email.  Help where I can.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;farah:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Farah&lt;/h2&gt;
+
+&lt;h2 id=&#34;status-2:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finished implementing the ability for an instructor to release/unrelease the marks for grade entry forms&lt;/li&gt;
+&lt;li&gt;Submitted a review request (in two parts) for the student UI and releasing the marks (see &lt;a href=&#34;http://review.markusproject.org/r/458&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://review.markusproject.org/r/458&#34;&gt;http://review.markusproject.org/r/458&lt;/a&gt;&lt;/a&gt; and &lt;a href=&#34;http://review.markusproject.org/r/459/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://review.markusproject.org/r/459/&#34;&gt;http://review.markusproject.org/r/459/&lt;/a&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Modified the table view so that the text boxes for entering grades are smaller&lt;/li&gt;
+&lt;li&gt;Worked on unit tests for the student UI and releasing the marks and submitted a review request (see &lt;a href=&#34;http://review.markusproject.org/r/473/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://review.markusproject.org/r/473/&#34;&gt;http://review.markusproject.org/r/473/&lt;/a&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-2:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work on functional tests for the student UI and releasing the marks&lt;/li&gt;
+&lt;li&gt;Implement CSV upload/download for grade entry forms&lt;/li&gt;
+&lt;li&gt;Tests for CSV upload/download&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None this week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;joseph:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Joseph&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-3:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Met with Mike on Tuesday to discuss how to test the server side pagination&lt;/li&gt;
+&lt;li&gt;renamed ajax pagination helper to pagination helper ( &lt;a href=&#34;http://review.markusproject.org/r/470/&#34;&gt;http://review.markusproject.org/r/470/&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;migrate the submissions_controller_test from fixtures to machinist ( &lt;a href=&#34;http://review.markusproject.org/r/474/&#34;&gt;http://review.markusproject.org/r/474/&lt;/a&gt; )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-3:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;continue with the testing&lt;/li&gt;
+&lt;li&gt;finish of the suggestions from reviewers&lt;/li&gt;
+&lt;li&gt;get a start on the detailed submissions view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-3:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;assignments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bryan:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Bryan&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-4:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wrote a draft version of user stories: assigning graders to criteria.&lt;/li&gt;
+&lt;li&gt;Introduce factory data preloader, which can be used in conjunction with Machinist and improve its speed. Modified the results_controller_test.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-4:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finish the class diagram and database schema for the feature &amp;#8220;assigning graders to criteria&amp;#8221;&lt;/li&gt;
+&lt;li&gt;Plan how to use single table inheritance to implement flexible and rubric criterion&lt;/li&gt;
+&lt;li&gt;Find a good pattern for factory data preloader&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-4:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;robert:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Robert&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-5:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The ability to create Notes on Assignments, and Students from the new notes page is complete and awaiting final approval.&lt;/li&gt;
+&lt;li&gt;Added tests for the new noteables to the Notes Controller Test&lt;/li&gt;
+&lt;li&gt;Converted Notes Controller Tests to Machinist&lt;/li&gt;
+&lt;li&gt;Added a Machinist blueprint for Notes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-5:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add the notes dialog links to the Student pages and the Assignment pages.&lt;/li&gt;
+&lt;li&gt;Convert the Student and Assignment tests to Machinist and Shoulda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-5:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;brian:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Brian&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-6:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix a small bug Ticket #622&lt;/li&gt;
+&lt;li&gt;Working on refactoring database, doing some test&lt;/li&gt;
+&lt;li&gt;Improving flexible schemes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-6:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;make flexible scheme ready to ship&lt;/li&gt;
+&lt;li&gt;make prototype of new database design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-6:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;none&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MarkUs Meeting Minutes for March 5th, 2010</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/markus-meeting-minutes-for-march-5th-2010/</link>
+      <pubDate>Sat, 06 Mar 2010 17:06:59 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/markus-meeting-minutes-for-march-5th-2010/</guid>
+      <description>&lt;p&gt;The MarkUs team is plowing forward, fleshing out some fantastic new features, and kicking a bunch of bugs to the curb! &lt;a href=&#34;http://blog.markusproject.org/?p=1333&#34;&gt;You can read our meeting minutes here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joseph&amp;#039;s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/josephs-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 00:59:43 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/josephs-midterm-report/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+
+&lt;p&gt;Things are going slower than expected. I thought I would be able to get so much more done. The first few weeks were spent on my first changelist. My expectation was to be done with the first week &lt;a href=&#34;http://en.wikipedia.org/wiki/Hofstadter&#39;s_law&#34;&gt;[8]&lt;/a&gt;. I have learned tons about Ruby, Rails, Rails plugins and javascript. I am currently working on replaced the AJAX pagination with serverside pagination on the submissions page. Afterwards, I will be working on the detailed view for the submissions page. One thing I need to do better on is participating in the codereviews on the reviewboard. Even though I may not be the most experienced developer on the Markus team, I will learn something by writing a codereview. This will help in learning anything I&amp;#8217;ve missed about the Markus system. I believe that my knowledge of the Markus database is the weakest at this point.&lt;/p&gt;
+
+&lt;p&gt;Things I have learned:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby and Rails&lt;/li&gt;
+&lt;li&gt;Shoulda &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mocha reminds me of mocking JUnit tests in Java &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&#34;&gt;[3]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;will_paginate: an elegant plugin for performing pagination &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;[4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;keeping state with in URL when doing AJAX calls &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;neat tricks with javascript &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Word Press and Blogging: I have blogging fever. I cannot stop blogging about everything I have learned. I just hope someday a stranger will comment on how helpful it was.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things I have completed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;when the Markus webserver boots up, it verifies that the settings inside the configuration file located at: &lt;markus_root&gt;/config/environments/&lt;env&gt;.rb are valid. For instance, if the password validation script is not executable, a message will be printed to the console and the webserver will stop starting up.&lt;/li&gt;
+&lt;li&gt;got the AJAX calls from ahrefs to to save state into the URL &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;implemented a mock submissions page that used serverside pagination to compare the performance with AJAX pagination&lt;/li&gt;
+&lt;li&gt;since the performance was similar, Markus has decided to go with the serverside pagination because of all the loops we would have to jump through to get the AJAX pagination to work with the back button and bookmarks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things I am working on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;switching from AJAX pagination to serverside pagination so that bookmarks and the back button will work again&lt;/li&gt;
+&lt;li&gt;encountered a large speed bump dealing with nested forms&lt;/li&gt;
+&lt;li&gt;going to blog about the work around after I have verified that it works&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things to work on in the future:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;verifying that the serverside pagination has not changed the behaviour of the submissions page&lt;/li&gt;
+&lt;li&gt;detailed view for the marker&amp;#8217;s or admin&amp;#8217;s submissions page&lt;/li&gt;
+&lt;li&gt;cleaning up the serverside pagination code to take advantage of the conciseness of will_paginate &lt;a href=&#34;http://railscasts.com/episodes/51-will-paginate&#34;&gt;[7]&lt;/a&gt;. This will involve implementing a custom link render so that the submissions page&amp;#8217;s UI does not change. The links generated by will_paginate looks like: &amp;#8220;Previous Page 1 2 3 4 5 6 7 Next Page&amp;#8221;. The links on the submissions page looks different.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;[1] &amp;#8211; Nested Contexts &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] &amp;#8211; Mocking Modules with Mocha &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] &amp;#8211; Weird Behaviour of Mocha- &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4] &amp;#8211; Will Paginate and Markus &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5] &amp;#8211; Rails, AJAX, Back Buttons, and Bookmarks &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6] &amp;#8211; Setting the URL Using Javascript &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&#34;&gt;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[7] &amp;#8211; will_paginate &amp;#8211; &lt;a href=&#34;http://railscasts.com/episodes/51-will-paginate&#34;&gt;http://railscasts.com/episodes/51-will-paginate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8] &amp;#8211; Hofstadter&amp;#8217;s law &amp;#8211; &lt;a href=&#34;http://en.wikipedia.org/wiki/Hofstadter&#39;s_law&#34;&gt;http://en.wikipedia.org/wiki/Hofstadter&amp;#8217;s_law&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[](&lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Victoria Mui – Midway Update</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/02/victoria-mui-%E2%80%93-midway-update/</link>
+      <pubDate>Sun, 28 Feb 2010 23:46:44 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/02/victoria-mui-%E2%80%93-midway-update/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Expectations, Status &amp;amp; Progress&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Coming into this UCOSP project course, my ultimate goal was to be able to utilize the human-computer interaction (HCI) and user experience (UX) design knowledge that I’ve acquired from both school and work to enhance the usability of MarkUs.  Through this experience, I’m hoping to solidify my understanding of various usability concepts and familiarize myself with more projects out there.&lt;/p&gt;
+
+&lt;p&gt;Up until now, I feel that I’m on track with the work that I’m doing with MarkUs.  I’ve been spending most of my time redesigning and reorganizing a lot of features and functionality MarkUs currently offers.  There’s no better way to do this than to keep prototyping and getting user feedback through usability sessions.  Because of my full-time position, I have not been able to collect as much usability feedback that I’d like to in person.  But I’ve found that running these designs by the team is often just as helpful.  But most importantly, having a supportive supervisor to help collect the user feedback certainly helps me since I am working remotely most of the time.&lt;/p&gt;
+
+&lt;p&gt;In short, I think I’ve stayed on track because: I have already redesigned quite a few views; and have made various suggestions to the overall MarkUs interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Things I’ve learned thus far&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the past, I’ve done very little usability work for web-based applications, and I’m also very new to designing interfaces from scratch.  Thanks to my team, I’ve learned quite a few things about designing web interfaces in particular.  For example, small things like screen resolution will have a huge impact on the usability and presentation of the entire user interface.  So it’s certainly something that needs to be considered early in the design cycle, and kept in mind at all times.&lt;/p&gt;
+
+&lt;p&gt;Another key thing that I’ve learned up until now is the prototyping tool, OmniGraffle.  Instead of seeing the tool as being a burden, it has now saved a significant amount of my time.  For example, I am now more comfortable using new canvases and layers in my prototypes wherever I see fit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the remainder of the course, I plan to continue working on the UI of MarkUs.  I focused on the &lt;em&gt;Grader Assignment&lt;/em&gt; and &lt;em&gt;Group Formation&lt;/em&gt; views for the first half of the term, but those have now been addressed.  Next, I am planning to tackle the &lt;em&gt;Properties&lt;/em&gt; view – our goal is to make the &lt;em&gt;Properties&lt;/em&gt; view intuitive to not just regular users, but also those that are using MarkUs for the first time.  New designs for the MarkUs &lt;em&gt;Dashboard&lt;/em&gt; are also to come.&lt;/p&gt;
+
+&lt;p&gt;I’d also like to maintain the good communication and coordination we’ve had as a team in the weeks to come.&lt;/p&gt;
+
+&lt;p&gt;I’ve had an awesome time working with the team, and I’m looking forward to the rest of the term!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Really Good Thing Was &amp;#8230;</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2009/11/the-really-good-thing-was/</link>
+      <pubDate>Tue, 24 Nov 2009 13:16:03 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2009/11/the-really-good-thing-was/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Thumbs up:&lt;/strong&gt; Our great teamwork. Although we are working in a distributed setting, I do find it astonishing how well everything worked out. People are doing a great job in terms of communication.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thumbs down:&lt;/strong&gt; Having a pretty tight schedule, I think there was hardly time for one or two developers to go for a &lt;a href=&#34;http://www.extremeprogramming.org/rules/spike.html&#34;&gt;spike&lt;/a&gt; (i.e. looking into an unknown technological area) and create an example solution to a problem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The MarkUs Team Has Their First IRC Meeting</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</link>
+      <pubDate>Fri, 11 Sep 2009 22:03:54 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</guid>
+      <description>&lt;p&gt;The MarkUs team had their first IRC meeting today.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.markusproject.org/?p=288&#34;&gt;Check out the minutes on our blog, here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cs.toronto.edu/~mconley/irc/markus/markus20090911_pg4.html&#34;&gt;Or you can read the transcript here&lt;/a&gt;.  (Meeting starts around 16:04)&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;-MarkUs Team&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

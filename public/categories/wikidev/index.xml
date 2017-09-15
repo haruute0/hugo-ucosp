@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikidev on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/wikidev/</link>
+    <description>Recent content in Wikidev on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 04:06:11 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/wikidev/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WikiDev Screencast</title>
+      <link>http://haruute0.github.io/2009-2010/screencast/2009/12/wikidev-screencast/</link>
+      <pubDate>Wed, 16 Dec 2009 04:06:11 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/screencast/2009/12/wikidev-screencast/</guid>
+      <description>&lt;p&gt;[youtube=&lt;a href=&#34;http://www.youtube.com/watch?v=tpxxMrl_ufo&#34;&gt;http://www.youtube.com/watch?v=tpxxMrl_ufo&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>post mortem</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2009/11/post-mortem-5/</link>
+      <pubDate>Sat, 28 Nov 2009 17:31:01 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2009/11/post-mortem-5/</guid>
+      <description>&lt;p&gt;Good: I had a real good experience. It was a challenge still because we have not finished yet, but we learned how to solve problems that can apply to real world challenges in the computer science field. Talking with the Ingres community via email and IRC channel was real helpful.&lt;/p&gt;
+
+&lt;p&gt;Bad: We should communicate more often via UCOSP. We all work in separate ways with the Ingress community. We should do a written report every week to reinforce the meetings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another two thumbs</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/another-two-thumbs/</link>
+      <pubDate>Sat, 28 Nov 2009 17:24:21 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/another-two-thumbs/</guid>
+      <description>&lt;p&gt;Thumbs Up: Getting to work on an exploratory project, and seeing what it ended up becoming. WikiDev didn&amp;#8217;t have as defined a goal at the start as most projects, but instead a framework to build on and ideas for where we could take things. After that, it was up to everyone to discuss every week and see where we wanted to go next. This was very enlightening and I enjoyed seeing how the project evolved as pieces were completed and we could see what our ideas were shaping up to look like. I am used to working on projects where the plan is fairly complete and spec&amp;#8217;d out before any code is written, so this made for an interesting change of pace.&lt;/p&gt;
+
+&lt;p&gt;Thumb Down: Working on an exploratory project, especially for motivation and getting invested. The flip side of the coin is that with a less defined idea and direction, it was sometimes hard to see where each piece would fit into the whole. I always knew what I was working on at any given time, without knowing what was coming next or why it was important, I often had a nagging feeling that what I was working on would end up ignored and unused.&lt;/p&gt;
+
+&lt;p&gt;Overall, this was a great experience. The code sprint in Toronto was awesome, it was good to build real things in school for a change, and by the efforts of everyone involved it felt like much more than a simple course. I&amp;#8217;d heartily recommend it for anyone else who gets the opportunity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Post-mortem</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-post-mortem/</link>
+      <pubDate>Thu, 26 Nov 2009 20:34:39 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-post-mortem/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The good&lt;/strong&gt;: Quite unequivocally, the students.  Each member of the team was eager to learn whatever new language we threw at them (PHP, SQL, Flex/MXML/ActionScript), research solutions to overcome problems they encountered, and ask for assistance when needed.  With so many variables in this type of distributed course, including the different experiences and skill sets that comes with being from four separate institutions, having a strong team makes quite a difference.  I think choosing students that had taken part in co-op terms played a significant role in this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The bad&lt;/strong&gt;: Virtual motivation.  On occasion, tasks that would normally take an hour or two would be left until just before the next weekly meeting, blocking others from building on those tasks in the interim.  This became especially applicable as work from other courses piled up towards the end of the semester and the time available to complete everything became a scarce commodity.  This course, however, provides us with an excellent opportunity to experiment with different communication methods and channels in an attempt to alleviate this problem.  Holding more frequent formal meetings would just add to the time pressures, but more stringent use of the ticketing system to document and assign blocking tasks may be a usable solution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>It was the best of times, it was the worst of times</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/it-was-the-best-of-times-it-was-the-worst-of-times/</link>
+      <pubDate>Tue, 24 Nov 2009 13:33:19 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/it-was-the-best-of-times-it-was-the-worst-of-times/</guid>
+      <description>&lt;p&gt;I am impressed with how much was accomplished in the end. I must say that it is not more than I what was planning/hoping for but at the same time, throughout the course, I had this nagging feeling that things will not come together, and, in the end, we wouldn&amp;#8217;t have anything &amp;#8220;complete&amp;#8221; to show for it. Well we do, and that&amp;#8217;s great!&lt;/p&gt;
+
+&lt;p&gt;In spite of notes and discussions and todos and tickets, we still managed to do a few things multiple times (stepping on each other&amp;#8217;s toes).&lt;/p&gt;
+
+&lt;p&gt;This was my fist time doing the course as a team lead, maybe next time, it will be even better! And if I had not already decided to do it again, I would decide to do so now.&lt;/p&gt;
+
+&lt;p&gt;eleni&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>November 23 meeting of WikiDev2.0</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/november-23-meeting-of-wikidev2-0/</link>
+      <pubDate>Tue, 24 Nov 2009 00:56:10 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/november-23-meeting-of-wikidev2-0/</guid>
+      <description>&lt;p&gt;We are getting close to the end and during today&amp;#8217;s meeting we tried (successfully I think/hope) to specify the last few todos for our team. See &lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_23_2009&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_23_2009&#34;&gt;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_23_2009&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;cheers&lt;/p&gt;
+
+&lt;p&gt;eleni&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detailed Update from WikiDev 2.0</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/detailed-update-from-wikidev-2-0/</link>
+      <pubDate>Thu, 19 Nov 2009 15:39:50 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/detailed-update-from-wikidev-2-0/</guid>
+      <description>
+
+&lt;h1 id=&#34;holly:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Holly&lt;/h1&gt;
+
+&lt;h3 id=&#34;status:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Got arrows drawing between the nodes in the graph, not just lines.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Arrows draw to the center of the nodes, not the edges&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Get arrows to draw to node edges&lt;/li&gt;
+&lt;li&gt;Add documentation for the UI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;eric:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Eric&lt;/h1&gt;
+
+&lt;h3 id=&#34;status-1:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Currently working on adding queries to the backend to support the information needs of the frontend.
+
+&lt;ul&gt;
+&lt;li&gt;Added support for querying all packages as well as by snapshot ID.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Also, working on changes to the parser as needed.&lt;/li&gt;
+&lt;li&gt;My priority this week is 1) documenting recently added queries, and 2) fixing parser bugs recently found.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&#34;Roadblocks&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;roadblocks:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None at the moment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&#34;Next_Steps&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;next-steps:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Document new backend queries.&lt;/li&gt;
+&lt;li&gt;Fix parser bugs found by Brendan.&lt;/li&gt;
+&lt;li&gt;Talk to the front-end team to find out what they still need done.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;alex:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Alex&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finish assigning different color and sharp to each relationship&lt;/li&gt;
+&lt;li&gt;Upload the new demo to the server (&lt;a title=&#34;http://hypatia.cs.ualberta.ca/ucosp/extensions/WikiDev/UMLDisplay/bin-debug/WikiMapFlexProject.html&#34; rel=&#34;nofollow&#34; href=&#34;http://hypatia.cs.ualberta.ca/ucosp/extensions/WikiDev/UMLDisplay/bin-debug/WikiMapFlexProject.html&#34;&gt;&lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/extensions/WikiDev/UMLDisplay/bin-debug/WikiMapFlexProject.html&#34;&gt;http://hypatia.cs.ualberta.ca/ucosp/extensions/WikiDev/UMLDisplay/bin-debug/WikiMapFlexProject.html&lt;/a&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Improve the presentation of the UML graph&lt;/li&gt;
+&lt;li&gt;let class lead to the wikipage of the class&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No artifact info (still&amp;#8230;.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;adding process bar (necessary if the parsing will take a long time)&lt;/li&gt;
+&lt;li&gt;continue improve the representation of graph&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;owen:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Owen&lt;/h1&gt;
+
+&lt;h3 id=&#34;status-2:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Made a few improvements/bug fixes to the tree view in the Object nodes&lt;/li&gt;
+&lt;li&gt;Added custom icons to the tree view&lt;/li&gt;
+&lt;li&gt;Figured out how to put URL links on the graph&lt;/li&gt;
+&lt;li&gt;Started to play around with how to handle many nodes at once
+
+&lt;ul&gt;
+&lt;li&gt;Partially implemented one idea&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;none&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Investigate why the parser is not handling method return types properly&lt;/li&gt;
+&lt;li&gt;Look into the license for Eclipse to see if we can actually use the icons I copied from it&lt;/li&gt;
+&lt;li&gt;Continue working on the graph appearance and the handling of many nodes at once&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;botlhale:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Botlhale&lt;/h1&gt;
+
+&lt;h3 id=&#34;status-3:659aca4f575fd025c89406ddbdfb3cfa&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Analyzing the results returned from queries to see if they match what is expected&lt;/li&gt;
+&lt;li&gt;Found issues with the results that were returned by the code and bugs were entered for the issues&lt;/li&gt;
+&lt;li&gt;Modified most of the code as the results did not entirely conform to what is expected&lt;/li&gt;
+&lt;li&gt;Updated team documentation page to indicate the completed and pending tasks and the strategies that were followed or will be followed to resolve the tasks and gave an example of different queries that are accomplished by the code.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design queries to be able to return methods and fields return types&lt;/li&gt;
+&lt;li&gt;Start designing queries to query using the snapshot id&lt;/li&gt;
+&lt;li&gt;Collaborate with the flash team for additional interface resolutions in the next stages of the project&lt;/li&gt;
+&lt;li&gt;Keep updating the team documentation page as tasks get completed&lt;/li&gt;
+&lt;li&gt;keep analyzing returned XML results and possibly find bugs and fix in them&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Other school projects&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev2.0 meeting</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev2-0-meeting-2/</link>
+      <pubDate>Tue, 17 Nov 2009 14:42:36 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev2-0-meeting-2/</guid>
+      <description>&lt;p&gt;The log of Monday&amp;#8217;s meeting can be found at &lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_16_2009&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_16_2009&#34;&gt;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_16_2009&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 project #8: WikiDev in Wonderland</title>
+      <link>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-8-wikidev-in-wonderland/</link>
+      <pubDate>Sat, 14 Nov 2009 17:32:23 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-8-wikidev-in-wonderland/</guid>
+      <description>&lt;p&gt;The objective of the team project is to develop a 3d visualization in Sun&amp;#8217;s Wonderland. The team will be given access to a WikiDev2.0 project with a set of data on multiple versions of a project developed collaboratively by a small team. The WikiDev repository includes data about classes their metrics and the relations among them. The task will be to implement 3D models and appropriate interactions for users to explore the data in WL, using a city metaphor, as discussed in the paper &amp;#8220;A 3D Metaphor for Software Production Visualization&amp;#8221; &amp;#8211; see &lt;a title=&#34;http://ieeexplore.ieee.org.login.ezproxy.library.ualberta.ca/stamp/stamp.jsp?tp=&amp;arnumber=1217996&amp;isnumber=27378&#34; href=&#34;http://ieeexplore.ieee.org.login.ezproxy.library.ualberta.ca/stamp/stamp.jsp?tp=&amp;arnumber=1217996&amp;isnumber=27378&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://ieeexplore.ieee.org.login.ezproxy.library.ualberta.ca/stamp/stamp.jsp?tp=&amp;amp;arnumber=1217996&amp;amp;isnumber=27378&#34;&gt;http://ieeexplore.ieee.org.login.ezproxy.library.ualberta.ca/stamp/stamp.jsp?tp=&amp;amp;arnumber=1217996&amp;amp;isnumber=27378&lt;/a&gt;&lt;/a&gt;. Note that this paper does not actually talk about real work: they have not done anything, what they show is from a video created in 3DS Max of the ideas they have. This is a piece of work that can definitely lead to a publication!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev 2.0 meeting</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-2-0-meeting/</link>
+      <pubDate>Tue, 10 Nov 2009 04:02:15 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-2-0-meeting/</guid>
+      <description>&lt;p&gt;Today&amp;#8217;s meeting log can be found at &lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_9_2009&#34;&gt;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_9_2009&lt;/a&gt;. It looks like we are getting indeed close to our deliverables! How exciting!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Team Progress Report (week of Nov 2)</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-team-progress-report-week-of-nov-2/</link>
+      <pubDate>Sat, 07 Nov 2009 16:39:10 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-team-progress-report-week-of-nov-2/</guid>
+      <description>
+
+&lt;h1 id=&#34;alex:1279b65d69b32cea3d725b8af86d71d8&#34;&gt;Alex&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finish the UI part of history query&lt;/li&gt;
+&lt;li&gt;The graph can handle multiple classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The server cannot generate XML including the method and fields info for the related class&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finish navigation part&lt;/li&gt;
+&lt;li&gt;Change the PHP to accept our URL request&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;holly:1279b65d69b32cea3d725b8af86d71d8&#34;&gt;Holly&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cleaned up UI and code some&lt;/li&gt;
+&lt;li&gt;Added filter for Artifacts, set up structure to make it easier for later filters.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Current visualization backend doesn&amp;#8217;t easily support adding arrows on the lines, hindering making the graph look more UML-like. Looking for examples of how to override the default behavior, but not easily found.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Now that we have real data, make the graph look better with that &amp;#8211; accommodate large numbers of field/methods, get them to fit on the screen better etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;owen:1279b65d69b32cea3d725b8af86d71d8&#34;&gt;Owen&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Co-ordinated with Brendan to get the SchemaSpy-generated files web-accessible&lt;/li&gt;
+&lt;li&gt;Read through both team SFU&amp;#8217;s and Botlhale&amp;#8217;s code in SVN to get up to speed on what they have done and prepare for switching teams&lt;/li&gt;
+&lt;li&gt;Also read through previous IRC discussions regarding the interface between the front and back ends&lt;/li&gt;
+&lt;li&gt;At our weekly meeting, I decided to join the front-end team.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;none&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Discuss with Alex and Holly what our current tasks are, and how we will divide them up&lt;/li&gt;
+&lt;li&gt;Start contributing code to the front-end&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;botlhale:1279b65d69b32cea3d725b8af86d71d8&#34;&gt;Botlhale&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cleaning up unnecessary code from the repository&lt;/li&gt;
+&lt;li&gt;Synchronizing the code I have written with the rest of the project&lt;/li&gt;
+&lt;li&gt;Devising queries to include more details such as methods and fields in Object Object Relationship objects in the returned XML to be used by the flash team&lt;/li&gt;
+&lt;li&gt;Entered 3 bugs after analyzing the XML results returned&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Do a research about the php get method in order to be able to use it without any security risks since the flash team prefers that it is used to pass the query values&lt;/li&gt;
+&lt;li&gt;continue working on queries to return methods and fields for objects in the object object relationships tag&lt;/li&gt;
+&lt;li&gt;resolve the bugs on the returned XML results&lt;/li&gt;
+&lt;li&gt;Collaborate with a team member who will be joining my team to divide tasks&lt;/li&gt;
+&lt;li&gt;Transforming the PHP code to have the methods getClasses() and getClassDetails(), initially designed the PHP code procedurally&lt;/li&gt;
+&lt;li&gt;Write SQL statements to query by pjsnapshotid&lt;/li&gt;
+&lt;li&gt;On verifying the SQL statement results, transform them into PHP to write the results in XML format that can be used by the flash team&lt;/li&gt;
+&lt;li&gt;Resolve any interface issues that might arise when writing code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Midterms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;eric:1279b65d69b32cea3d725b8af86d71d8&#34;&gt;Eric&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I am moving to work on the back-end with Botlhale now.&lt;/li&gt;
+&lt;li&gt;My first priority this week is to try to get his php code integrated with the mediaWiki software. After that I will be updating it to allow for querying package hierarchies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Setting up a local copy of the wiki software to develop against &amp;#8211; I&amp;#8217;m especially dreading setting up postgreSQL.&lt;/li&gt;
+&lt;li&gt;With any luck, I can configure it to use the remote database.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue working on the parser in maintenance mode.&lt;/li&gt;
+&lt;li&gt;Add hook so mediaWiki can call Botlhale&amp;#8217;s php files, so the front-end team can start testing against it.&lt;/li&gt;
+&lt;li&gt;Add ability for Botlhale&amp;#8217;s script to report all the packages in the database. (From the most recent copy of each file? What happens for deleted files that have old versions in the database?)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev meeting this past week</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-meeting-this-past-week/</link>
+      <pubDate>Sat, 07 Nov 2009 16:31:03 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/11/wikidev-meeting-this-past-week/</guid>
+      <description>&lt;p&gt;It was CASCON time, so we forgot to do our regular updates &amp;#8211; sorry for the delay. The IRC log (with Brendan and the team) is at &lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_2_2009&#34;&gt;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_2_2009&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev marking scheme</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/10/wikidev-marking-scheme/</link>
+      <pubDate>Thu, 29 Oct 2009 18:52:04 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/10/wikidev-marking-scheme/</guid>
+      <description>
+
+&lt;h2 id=&#34;mark-breakdown:55614ea1d1ef535e8dabec40e2a526d9&#34;&gt;Mark Breakdown&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;10% Course Participation&lt;/li&gt;
+&lt;li&gt;15% Team Participation&lt;/li&gt;
+&lt;li&gt;45% Deliverables&lt;/li&gt;
+&lt;li&gt;30% Weekly Progress&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a id=&#34;Descriptions&#34; name=&#34;Descriptions&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;descriptions:55614ea1d1ef535e8dabec40e2a526d9&#34;&gt;Descriptions&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Course Participation&lt;/strong&gt;. Participation as marked by Greg for things like posting to the blog, responding to comments, attending code sprints, etc.
+
+&lt;ul&gt;
+&lt;li&gt;Rationale: This is an online, collaborative course. General communication certainly plays a part, and is integral to being a contributing member of the online community. It should not weigh too much, however; as a course, the focus must be on getting real work done.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Participation&lt;/strong&gt;. Participation in team meetings on IRC, use of the wiki and bug tracker, etc., as marked by Eleni.
+
+&lt;ul&gt;
+&lt;li&gt;Rationale: A program created in a vacuum is never the right program. Coordination of effort, buy-in from the target users (Eleni and team), and generally keeping developers on the same page are all a must if the project is to succeed. Another aspect where I want your participation is wrt to ideas on how WikiDev could be made more useful. Please review an instance of the different pages offered and comment (on the discussion page) on hw to improve its content, its layout, its relations to other pages&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deliverables&lt;/strong&gt;. The completion of target goals set at the beginning of the course and again at the end of October, as measured by Eleni.
+
+&lt;ul&gt;
+&lt;li&gt;Rationale: By &amp;#8220;deliverables&amp;#8221;, we mean the &amp;#8220;product&amp;#8221; eventually produced by the team, throughout the term. It is always satisfying to see projects get completed, with well designed code and through solid process. I would like to assign 20% to the team as a whole and 25% to each individual.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Weekly Progress&lt;/strong&gt;. A measure of progress / effort put in every week, as measured by Eleni, with input from each member, as reported in the weekly progress reports and in individual post mortem reflections.
+
+&lt;ul&gt;
+&lt;li&gt;Rationale: By &amp;#8220;weekly progress&amp;#8221;, we mean a measure of the effort put. Through our communications, I am aware of the work involved in each accomplishment, and when there is no product to show for the effort, I can still appreciate the wok involved in learning everything you have to in order to get things done.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev2.0 meeting</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/10/wikidev2-0-meeting/</link>
+      <pubDate>Wed, 28 Oct 2009 15:06:31 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/10/wikidev2-0-meeting/</guid>
+      <description>&lt;p&gt;The IRC log from our last meeting this Monday is h&lt;a href=&#34;http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Oct_26_2009&#34;&gt;ttp://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Oct_26_2009&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Status Reports</title>
+      <link>http://haruute0.github.io/2009-2010/wikidev/2009/10/1103/</link>
+      <pubDate>Wed, 28 Oct 2009 15:02:08 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/wikidev/2009/10/1103/</guid>
+      <description>
+
+&lt;h1 id=&#34;botlhale:3a0abc467065599c299802743324db63&#34;&gt;Botlhale&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Resolved the file permission issue that was encountered when running PHP on a local IIS server&lt;/li&gt;
+&lt;li&gt;Had the first piece of code that could be queried using entity ids to return different XML&amp;#8217;s&lt;/li&gt;
+&lt;li&gt;Held an online meeting with the Flash team to give them the first XML deliverable and to continue discussions about the interface&lt;/li&gt;
+&lt;li&gt;Major discussions from the online meeting with the Flash team were that we could include more details in the Object Object&lt;/li&gt;
+&lt;li&gt;Relationships like methods and fields for the objects related to the queried one and ids should be included alongside names of the Objects as names are not unique&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Modify SQL queries to be able to include Methods and Fields of the Objects related to the queried Object and to include ids alongside names of objects related to the queried object in the XML returned&lt;/li&gt;
+&lt;li&gt;Find a way to give access to the Flash team, the page hosted in my local machine that can be used to query the database for different objects and their relationships&lt;/li&gt;
+&lt;li&gt;Transforming the PHP code to have the methods getClasses() and getClassDetails(), initially designed the PHP code procedurally&lt;/li&gt;
+&lt;li&gt;Write SQL statements to query by pjsnapshotid&lt;/li&gt;
+&lt;li&gt;On verifying the SQL statement results, transform them into PHP to write the results in XML format that can be used by the flash team&lt;/li&gt;
+&lt;li&gt;Resolve any interface issues that might arise when writing code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Midterms&lt;/p&gt;
+
+&lt;h1 id=&#34;owen:3a0abc467065599c299802743324db63&#34;&gt;Owen&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eric and I have finished the parser and test suite. We will maintain it as necessary, but no new development is happening at this point.&lt;/li&gt;
+&lt;li&gt;I have looked into the SchemaSpy tool (&lt;a href=&#34;http://schemaspy.sourceforge.net/&#34;&gt;http://schemaspy.sourceforge.net/&lt;/a&gt;) and found that it is quite simple to use but requires the Graphviz (&lt;a href=&#34;http://www.graphviz.org/&#34;&gt;http://www.graphviz.org/&lt;/a&gt;) program to be installed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;#8217;m not entirely sure how to proceed with switching in to either the front-end or back-end sub-teams.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue maintaining the parser as necessary&lt;/li&gt;
+&lt;li&gt;Get the SchemaSpy tool working on the server&lt;/li&gt;
+&lt;li&gt;Figure out which sub-team I will switch to&lt;/li&gt;
+&lt;li&gt;Read documentation and become familiar with what the other sub-teams are working on&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;eric:3a0abc467065599c299802743324db63&#34;&gt;Eric&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Owen and I are done with the parser for the time being; we will re-visit it as new test files are made and add them to the testsuite, but until we find any bugs it will likely stay as-is.&lt;/li&gt;
+&lt;li&gt;I have drafted the marking scheme for our team &amp;#8211; once it has been edited by everyone else and approved by Eleni it will be sent to Greg.&lt;/li&gt;
+&lt;li&gt;We are now moving to work on the front- or back-end of the system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I could always use better information sources to get up to speed on what the rest of the team is doing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Continue working on the parser in maintenance mode.&lt;/li&gt;
+&lt;li&gt;Figure out the details of what the front- and back-end teams are working on.&lt;/li&gt;
+&lt;li&gt;Discuss with Owen which each of us would like to join.&lt;/li&gt;
+&lt;li&gt;Send marking scheme to Greg? Not sure, Eleni may want to do that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;alex:3a0abc467065599c299802743324db63&#34;&gt;Alex&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Parse the sample XML file to get the information about Class and the relationship&lt;/li&gt;
+&lt;li&gt;Finish the basic rending for one Class, with methods, fields &amp;amp; artifacts (e.g. emails, articles and so on)&lt;/li&gt;
+&lt;li&gt;Clean up the code from previous application (wiki map)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Roadblocks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Need to find a way to represent the global structure for all the classes&lt;/li&gt;
+&lt;li&gt;Link all the info together to have a top-down view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add the relationship between multiple classes&lt;/li&gt;
+&lt;li&gt;come up with standard URL request to get the real data&lt;/li&gt;
+&lt;li&gt;Integration with the server part&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

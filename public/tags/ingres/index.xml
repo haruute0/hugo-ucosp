@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingres on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/ingres/</link>
+    <description>Recent content in Ingres on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2010 20:22:35 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/ingres/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ingres/Geotools Lim&amp;#039;s Midway Update</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 20:22:35 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</guid>
+      <description>&lt;p&gt;The Ingres/Geotools team finally began work on actual implementation of classes and unit tests for the classes in Geotools at this halfway point. I personally feel that we are falling a little bit behind schedule, not beyond managable. We took our time in the initial phase afraid of making mistakes that compromises the quality of the output. The Ingres/Geotools team has have a lot to explore in the geospatial world as a toddler would have the world.&lt;/p&gt;
+
+&lt;p&gt;We already defined a very clear goal since the beginning and based on that, we finally setup in &lt;a href=&#34;http://community.ingres.com/wiki/IngresGeoTools&#34; target=&#34;_blank&#34;&gt;our plan&lt;/a&gt;, Looking at the size of the project in the beginning it seems reasonable, even at this point when we have detailed action items, I believe we are on the right track and its possible to see the project through its completion. However measuring against that, implies that we need to catch up on the actual implementation as we have got a lot to grind through. I personally do not think the effort spent in the first half of the term is wasteful, it just means we have a limited time left to execute the plan, a plan now much clearer than it would have been should we not have communicated and spent time understanding the concepts.&lt;/p&gt;
+
+&lt;p&gt;We are already learning at this point through the challenges and lack of information we have faced, that is how the real industry works, no matter how our courses have been like. We will continue to face these challenges but we learnt to be ready for it, and we could catch up by wasting no time trying and asking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eva&amp;#039;s midway update</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/02/evas-midway-update/</link>
+      <pubDate>Sun, 21 Feb 2010 03:49:07 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/02/evas-midway-update/</guid>
+      <description>&lt;p&gt;This is my second semester joining the UCOSP with Ingres. From the lessons that I have learnt last term, I have planned my schedule out at the start from reading off the requirements of this semester and so far I am sticking to it quite well. I have completed half of the required patches.&lt;/p&gt;
+
+&lt;p&gt;Not only I found myself matured in how to co-operate with people working oversea, but also in self-monitoring. At this point, I am quite accurate about the estimate that I am making to myself, especially on my speed of work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geotools Status Report</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2010/02/geotools-status-report/</link>
+      <pubDate>Tue, 09 Feb 2010 16:45:51 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2010/02/geotools-status-report/</guid>
+      <description>&lt;p&gt;The Geotools team had been working on mostly getting oriented to Geospatial concepts, determining action items, etc.&lt;/p&gt;
+
+&lt;p&gt;We are now ready to create a new unsupported jdbc-ingres module into Geotools. In the coming weeks, you will see rapid additions of new code in the Geotools source.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&amp;quot;What we learnt&amp;quot; &#43; &amp;quot;Where we&amp;#039;ll go&amp;quot;</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</link>
+      <pubDate>Tue, 19 Jan 2010 15:12:35 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</guid>
+      <description>&lt;p&gt;The day before the sprint, I knew of nothing about what I should do and what I can do in this project. I woke up at 5 on Friday morning, took a taxi to the bus terminal, got onto Greyhound to Toronto, got lost on our way to Bahen Centre (we were on University and College, 5 minutes away from Bahen, lol)  To my surprise, I arrived, and joined a team of people as lost as I was. We found out throughout the sprint, many differences between universities, the courses, the cultures, etc. But all of us being in our last year, I believe there&amp;#8217;s one thing in common that we&amp;#8217;ve learnt before we get there: Well, no one&amp;#8217;s going to help us if we don&amp;#8217;t start helping ourselves. Before long, the whole team started the sprint ourselves. We asked lots and lots of questions (Thank you very much Andrew for your detailed presentation and all your help even by having to whisper), we read wiki pages, downloaded source code and snorkeled in it. No one sat still waiting for an answer, there was no awkward silent moment as the team of &amp;#8220;professionals&amp;#8221; blended from the very first day and moved forward as one. The three days went by very quickly.&lt;/p&gt;
+
+&lt;p&gt;We learnt the following during the sprint:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; OpenLayers draws map using Web Mapping Service provided by Geoserver, which in turns uses Geotools to obtain GeoSpatial Data from databases. Geotools can currently talk to many databases but not Ingres.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; In Geotools there are connectivity code under modules/plugin/jdbc and modules/plugin that uses various jdbc implementations to connect to various databases. There is also a deprecated version of the framework scheduled to be removed soon. Ingres team needs to make a similar jdbc implementation under Geotools to add support for Ingres.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Sara and Eva will be working on the Ingres server side to make sure GeoSpatial queries are handled properly, while Anthony, Henry, Xiaoxiao and Lim work on Geotools to add Ingres support.&lt;/p&gt;
+
+&lt;p&gt;We decided the following during the sprint:&lt;/p&gt;
+
+&lt;p&gt;The project lead will communicate with the team and with the community at large to keep everyone informed about the status of the team, and make sure the team is moving in the right direction. Lim will take on this role.&lt;/p&gt;
+
+&lt;p&gt;The high-level view of the project is:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Study the code and play with Geotools in action&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Design and plan potential changes to Geotools source tree&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Implement the designs and also implement support for GeoSpatial data in Ingres&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Unit test the Ingres connectivity code in Geotools, test GeoSpatial data support in Ingres, and system test Geotools actually using Ingres.&lt;/p&gt;
+
+&lt;p&gt;Now everyone&amp;#8217;s back to where they are from, but technology is constantly connecting us together. We are all a phone call/email/IM message away from each other, and we are preparing for the next get-together online every Monday with more progress to make.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anthony McCallum</title>
+      <link>http://haruute0.github.io/2009-2010/bios/2009/12/anthony-mccallum/</link>
+      <pubDate>Mon, 28 Dec 2009 03:50:09 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/bios/2009/12/anthony-mccallum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ucosp.files.wordpress.com/2009/12/photo-320.jpg&#34;&gt;&lt;img class=&#34;alignright size-medium wp-image-1783&#34; title=&#34;Photo 320&#34; src=&#34;http://ucosp.files.wordpress.com/2009/12/photo-320.jpg?w=300&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;225&#34; /&gt;&lt;/a&gt;Hi, I&amp;#8217;m Anthony McCallum.  I&amp;#8217;m in my final year of a computer science degree at the University of British Columbia. My language of choice is JAVA, but I also have experience with a variety of other languages.  I will be working on the Ingres project this coming term.  This will be my first opportunity to work on an open source project, and I am excited for the challenge!  I&amp;#8217;ve previously done internships with RIM in Ottawa as well as a bioninformatics lab in Singapore.  I am also currently working part time for a UBC affiliated lab.  Looking forward to meeting everyone at the code sprint!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Screencast of showing building of Geospatial with GEOS as non root user on Linux</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</link>
+      <pubDate>Sat, 12 Dec 2009 04:33:44 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</guid>
+      <description>&lt;p&gt;The following tutorial video is done with GEOS 3.2.0, compiled in gcc 4.3 and g++ 4.3 depending on Xerces C headers and libraries 2.8, pam-devel, pax, jam, on a Debian server as a non root user.&lt;/p&gt;
+
+&lt;p&gt;[youtube=&lt;a href=&#34;http://www.youtube.com/watch?v=7no3_39GNx0&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34;&gt;http://www.youtube.com/watch?v=7no3_39GNx0&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;For more details, please visit: &lt;a href=&#34;http://i-wa.blogspot.com/2009/12/screencast-showing-building-geos-and.html&#34;&gt;http://i-wa.blogspot.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What went right, wrong this year</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2009/11/what-went-right-wrong-this-year/</link>
+      <pubDate>Tue, 24 Nov 2009 13:45:18 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2009/11/what-went-right-wrong-this-year/</guid>
+      <description>&lt;p&gt;Thumbs up: Sponsors, I liked the fact that we were able to get further acquainted with  large businesses in the computer science field such as Ingres, Tucows, Yahoo, and Rogers Communication. I also agree with Greg&amp;#8217;s point, and it was a good learning experience to work on projects in a different setting and environment.&lt;/p&gt;
+
+&lt;p&gt;Thumbs down: Though this may have  been expensive, I would&amp;#8217;ve liked to have a UCOSP meeting like the initial sprint at the end of this experience to wrap up the project. I think this would also be helpful to gauge experiences and follow-up on progress and accomplishments of other teams. Writing about it is good but I think just as in the sprint, face to face communication is essential&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eva Wong</title>
+      <link>http://haruute0.github.io/2009-2010/bios/2009/09/388/</link>
+      <pubDate>Fri, 04 Sep 2009 21:44:31 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/bios/2009/09/388/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-387&#34; title=&#34;Eva Wong&#34; src=&#34;http://ucosp.files.wordpress.com/2009/09/temp.jpg?w=300&#34; alt=&#34;Eva Wong&#34; width=&#34;300&#34; height=&#34;232&#34; srcset=&#34;http://ucosp.ca/wp-content/uploads/2009/09/temp.jpg 450w, http://ucosp.ca/wp-content/uploads/2009/09/temp-300x232.jpg 300w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a &amp;#8216;hello&amp;#8217; from Eva Wong for all the UCOSP buddies! I will be working with &lt;a href=&#34;http://community.ingres.com/wiki/IngresGeospatial&#34;&gt;Ingres&lt;/a&gt; under Andrew Ross for this coming fall.&lt;/p&gt;
+
+&lt;p&gt;I’m a fourth year computer science undergraduate student at University of Toronto, specializing in information system. I’m also doing a mathematics minor. For the previous summers in between school years, other than biking, I have been working on the GIS that I found with my team, &lt;a href=&#34;http://www.geokudo.com/&#34;&gt;Geokudo&lt;/a&gt;(2009), also I have completed a &lt;a href=&#34;http://individual.utoronto.ca/i_wa_wong/VisualizationOfHackyStatData.html&#34;&gt;data visualization tool&lt;/a&gt; as a GSoC project(2008) for &lt;a href=&#34;http://hackydev.ics.hawaii.edu/hackyDevSite/home.do&#34;&gt;HackyStat&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m really looking forward to the start of this class, and I will be treasuring this experience. Hope to see you all at Code Sprint!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

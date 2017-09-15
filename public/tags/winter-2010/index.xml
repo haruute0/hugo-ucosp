@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter 2010 on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/winter-2010/</link>
+    <description>Recent content in Winter 2010 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2010 19:38:45 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/winter-2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Markus March 19th Punchlines</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/markus-march-19th-punchlines/</link>
+      <pubDate>Fri, 19 Mar 2010 19:38:45 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/markus-march-19th-punchlines/</guid>
+      <description>
+
+&lt;h2 id=&#34;victoria:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Victoria&lt;/h2&gt;
+
+&lt;h3 id=&#34;status:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Brainstormed ideas for the Dashboard.&lt;/li&gt;
+&lt;li&gt;Went through draft Dashboard contents with Karen and Farah and got some good and constructive feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;With the feedback I got back regarding the potential Dashboard contents, come up with a preliminary prototype &amp;#8212; one that we can take apart and help establish a better idea as to how we&amp;#8217;d like to design the Dashboard.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swamped with work (from my full-time position).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mike:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Mike&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-1:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Applied 0.6 patches to trunk&lt;/li&gt;
+&lt;li&gt;Also caught some missing translations and brought them over from 0.6&lt;/li&gt;
+&lt;li&gt;Reviewed a bunch of code&lt;/li&gt;
+&lt;li&gt;Email / IRC development support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-1:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Same as always &amp;#8211; review, review, review.  Answer email.  Help where I can.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-1:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;farah:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Farah&lt;/h2&gt;
+
+&lt;h2 id=&#34;status-2:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finished implementing the ability for an instructor to release/unrelease the marks for grade entry forms&lt;/li&gt;
+&lt;li&gt;Submitted a review request (in two parts) for the student UI and releasing the marks (see &lt;a href=&#34;http://review.markusproject.org/r/458&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://review.markusproject.org/r/458&#34;&gt;http://review.markusproject.org/r/458&lt;/a&gt;&lt;/a&gt; and &lt;a href=&#34;http://review.markusproject.org/r/459/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://review.markusproject.org/r/459/&#34;&gt;http://review.markusproject.org/r/459/&lt;/a&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Modified the table view so that the text boxes for entering grades are smaller&lt;/li&gt;
+&lt;li&gt;Worked on unit tests for the student UI and releasing the marks and submitted a review request (see &lt;a href=&#34;http://review.markusproject.org/r/473/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://review.markusproject.org/r/473/&#34;&gt;http://review.markusproject.org/r/473/&lt;/a&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-2:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work on functional tests for the student UI and releasing the marks&lt;/li&gt;
+&lt;li&gt;Implement CSV upload/download for grade entry forms&lt;/li&gt;
+&lt;li&gt;Tests for CSV upload/download&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-2:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None this week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;joseph:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Joseph&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-3:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Met with Mike on Tuesday to discuss how to test the server side pagination&lt;/li&gt;
+&lt;li&gt;renamed ajax pagination helper to pagination helper ( &lt;a href=&#34;http://review.markusproject.org/r/470/&#34;&gt;http://review.markusproject.org/r/470/&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;migrate the submissions_controller_test from fixtures to machinist ( &lt;a href=&#34;http://review.markusproject.org/r/474/&#34;&gt;http://review.markusproject.org/r/474/&lt;/a&gt; )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-3:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;continue with the testing&lt;/li&gt;
+&lt;li&gt;finish of the suggestions from reviewers&lt;/li&gt;
+&lt;li&gt;get a start on the detailed submissions view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-3:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;assignments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bryan:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Bryan&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-4:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wrote a draft version of user stories: assigning graders to criteria.&lt;/li&gt;
+&lt;li&gt;Introduce factory data preloader, which can be used in conjunction with Machinist and improve its speed. Modified the results_controller_test.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-4:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finish the class diagram and database schema for the feature &amp;#8220;assigning graders to criteria&amp;#8221;&lt;/li&gt;
+&lt;li&gt;Plan how to use single table inheritance to implement flexible and rubric criterion&lt;/li&gt;
+&lt;li&gt;Find a good pattern for factory data preloader&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-4:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;robert:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Robert&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-5:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The ability to create Notes on Assignments, and Students from the new notes page is complete and awaiting final approval.&lt;/li&gt;
+&lt;li&gt;Added tests for the new noteables to the Notes Controller Test&lt;/li&gt;
+&lt;li&gt;Converted Notes Controller Tests to Machinist&lt;/li&gt;
+&lt;li&gt;Added a Machinist blueprint for Notes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-5:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add the notes dialog links to the Student pages and the Assignment pages.&lt;/li&gt;
+&lt;li&gt;Convert the Student and Assignment tests to Machinist and Shoulda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-5:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;None!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;brian:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Brian&lt;/h2&gt;
+
+&lt;h3 id=&#34;status-6:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Status&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix a small bug Ticket #622&lt;/li&gt;
+&lt;li&gt;Working on refactoring database, doing some test&lt;/li&gt;
+&lt;li&gt;Improving flexible schemes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;next-steps-6:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Next Steps&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;make flexible scheme ready to ship&lt;/li&gt;
+&lt;li&gt;make prototype of new database design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;roadblocks-6:294b8e89221c546d18d7af3a02d564a7&#34;&gt;Roadblocks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;none&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joseph&amp;#039;s Midterm Report</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/josephs-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 00:59:43 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/josephs-midterm-report/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+
+&lt;p&gt;Things are going slower than expected. I thought I would be able to get so much more done. The first few weeks were spent on my first changelist. My expectation was to be done with the first week &lt;a href=&#34;http://en.wikipedia.org/wiki/Hofstadter&#39;s_law&#34;&gt;[8]&lt;/a&gt;. I have learned tons about Ruby, Rails, Rails plugins and javascript. I am currently working on replaced the AJAX pagination with serverside pagination on the submissions page. Afterwards, I will be working on the detailed view for the submissions page. One thing I need to do better on is participating in the codereviews on the reviewboard. Even though I may not be the most experienced developer on the Markus team, I will learn something by writing a codereview. This will help in learning anything I&amp;#8217;ve missed about the Markus system. I believe that my knowledge of the Markus database is the weakest at this point.&lt;/p&gt;
+
+&lt;p&gt;Things I have learned:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby and Rails&lt;/li&gt;
+&lt;li&gt;Shoulda &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mocha reminds me of mocking JUnit tests in Java &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&#34;&gt;[2]&lt;/a&gt; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&#34;&gt;[3]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;will_paginate: an elegant plugin for performing pagination &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;[4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;keeping state with in URL when doing AJAX calls &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;neat tricks with javascript &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Word Press and Blogging: I have blogging fever. I cannot stop blogging about everything I have learned. I just hope someday a stranger will comment on how helpful it was.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things I have completed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;when the Markus webserver boots up, it verifies that the settings inside the configuration file located at: &lt;markus_root&gt;/config/environments/&lt;env&gt;.rb are valid. For instance, if the password validation script is not executable, a message will be printed to the console and the webserver will stop starting up.&lt;/li&gt;
+&lt;li&gt;got the AJAX calls from ahrefs to to save state into the URL &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;implemented a mock submissions page that used serverside pagination to compare the performance with AJAX pagination&lt;/li&gt;
+&lt;li&gt;since the performance was similar, Markus has decided to go with the serverside pagination because of all the loops we would have to jump through to get the AJAX pagination to work with the back button and bookmarks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things I am working on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;switching from AJAX pagination to serverside pagination so that bookmarks and the back button will work again&lt;/li&gt;
+&lt;li&gt;encountered a large speed bump dealing with nested forms&lt;/li&gt;
+&lt;li&gt;going to blog about the work around after I have verified that it works&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Things to work on in the future:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;verifying that the serverside pagination has not changed the behaviour of the submissions page&lt;/li&gt;
+&lt;li&gt;detailed view for the marker&amp;#8217;s or admin&amp;#8217;s submissions page&lt;/li&gt;
+&lt;li&gt;cleaning up the serverside pagination code to take advantage of the conciseness of will_paginate &lt;a href=&#34;http://railscasts.com/episodes/51-will-paginate&#34;&gt;[7]&lt;/a&gt;. This will involve implementing a custom link render so that the submissions page&amp;#8217;s UI does not change. The links generated by will_paginate looks like: &amp;#8220;Previous Page 1 2 3 4 5 6 7 Next Page&amp;#8221;. The links on the submissions page looks different.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;[1] &amp;#8211; Nested Contexts &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/nested-contexts/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] &amp;#8211; Mocking Modules with Mocha &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/mocking-modules-with-mocha/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] &amp;#8211; Weird Behaviour of Mocha- &lt;a href=&#34;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&#34;&gt;http://josephmate.wordpress.com/2010/01/31/weird-behaviour-of-mocha/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4] &amp;#8211; Will Paginate and Markus &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5] &amp;#8211; Rails, AJAX, Back Buttons, and Bookmarks &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&#34;&gt;http://josephmate.wordpress.com/2010/02/20/rails-ajax-back-buttons-and-bookmarks/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6] &amp;#8211; Setting the URL Using Javascript &amp;#8211; &lt;a href=&#34;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&#34;&gt;http://josephmate.wordpress.com/2010/02/22/setting-url-using-javascript/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[7] &amp;#8211; will_paginate &amp;#8211; &lt;a href=&#34;http://railscasts.com/episodes/51-will-paginate&#34;&gt;http://railscasts.com/episodes/51-will-paginate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8] &amp;#8211; Hofstadter&amp;#8217;s law &amp;#8211; &lt;a href=&#34;http://en.wikipedia.org/wiki/Hofstadter&#39;s_law&#34;&gt;http://en.wikipedia.org/wiki/Hofstadter&amp;#8217;s_law&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[](&lt;a href=&#34;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&#34;&gt;http://josephmate.wordpress.com/2010/02/15/will_paginate-and-markus/&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ingres/Geotools Lim&amp;#039;s Midway Update</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 20:22:35 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</guid>
+      <description>&lt;p&gt;The Ingres/Geotools team finally began work on actual implementation of classes and unit tests for the classes in Geotools at this halfway point. I personally feel that we are falling a little bit behind schedule, not beyond managable. We took our time in the initial phase afraid of making mistakes that compromises the quality of the output. The Ingres/Geotools team has have a lot to explore in the geospatial world as a toddler would have the world.&lt;/p&gt;
+
+&lt;p&gt;We already defined a very clear goal since the beginning and based on that, we finally setup in &lt;a href=&#34;http://community.ingres.com/wiki/IngresGeoTools&#34; target=&#34;_blank&#34;&gt;our plan&lt;/a&gt;, Looking at the size of the project in the beginning it seems reasonable, even at this point when we have detailed action items, I believe we are on the right track and its possible to see the project through its completion. However measuring against that, implies that we need to catch up on the actual implementation as we have got a lot to grind through. I personally do not think the effort spent in the first half of the term is wasteful, it just means we have a limited time left to execute the plan, a plan now much clearer than it would have been should we not have communicated and spent time understanding the concepts.&lt;/p&gt;
+
+&lt;p&gt;We are already learning at this point through the challenges and lack of information we have faced, that is how the real industry works, no matter how our courses have been like. We will continue to face these challenges but we learnt to be ready for it, and we could catch up by wasting no time trying and asking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geotools Status Report</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2010/02/geotools-status-report/</link>
+      <pubDate>Tue, 09 Feb 2010 16:45:51 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2010/02/geotools-status-report/</guid>
+      <description>&lt;p&gt;The Geotools team had been working on mostly getting oriented to Geospatial concepts, determining action items, etc.&lt;/p&gt;
+
+&lt;p&gt;We are now ready to create a new unsupported jdbc-ingres module into Geotools. In the coming weeks, you will see rapid additions of new code in the Geotools source.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&amp;quot;What we learnt&amp;quot; &#43; &amp;quot;Where we&amp;#039;ll go&amp;quot;</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</link>
+      <pubDate>Tue, 19 Jan 2010 15:12:35 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</guid>
+      <description>&lt;p&gt;The day before the sprint, I knew of nothing about what I should do and what I can do in this project. I woke up at 5 on Friday morning, took a taxi to the bus terminal, got onto Greyhound to Toronto, got lost on our way to Bahen Centre (we were on University and College, 5 minutes away from Bahen, lol)  To my surprise, I arrived, and joined a team of people as lost as I was. We found out throughout the sprint, many differences between universities, the courses, the cultures, etc. But all of us being in our last year, I believe there&amp;#8217;s one thing in common that we&amp;#8217;ve learnt before we get there: Well, no one&amp;#8217;s going to help us if we don&amp;#8217;t start helping ourselves. Before long, the whole team started the sprint ourselves. We asked lots and lots of questions (Thank you very much Andrew for your detailed presentation and all your help even by having to whisper), we read wiki pages, downloaded source code and snorkeled in it. No one sat still waiting for an answer, there was no awkward silent moment as the team of &amp;#8220;professionals&amp;#8221; blended from the very first day and moved forward as one. The three days went by very quickly.&lt;/p&gt;
+
+&lt;p&gt;We learnt the following during the sprint:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; OpenLayers draws map using Web Mapping Service provided by Geoserver, which in turns uses Geotools to obtain GeoSpatial Data from databases. Geotools can currently talk to many databases but not Ingres.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; In Geotools there are connectivity code under modules/plugin/jdbc and modules/plugin that uses various jdbc implementations to connect to various databases. There is also a deprecated version of the framework scheduled to be removed soon. Ingres team needs to make a similar jdbc implementation under Geotools to add support for Ingres.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Sara and Eva will be working on the Ingres server side to make sure GeoSpatial queries are handled properly, while Anthony, Henry, Xiaoxiao and Lim work on Geotools to add Ingres support.&lt;/p&gt;
+
+&lt;p&gt;We decided the following during the sprint:&lt;/p&gt;
+
+&lt;p&gt;The project lead will communicate with the team and with the community at large to keep everyone informed about the status of the team, and make sure the team is moving in the right direction. Lim will take on this role.&lt;/p&gt;
+
+&lt;p&gt;The high-level view of the project is:&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Study the code and play with Geotools in action&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Design and plan potential changes to Geotools source tree&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Implement the designs and also implement support for GeoSpatial data in Ingres&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Unit test the Ingres connectivity code in Geotools, test GeoSpatial data support in Ingres, and system test Geotools actually using Ingres.&lt;/p&gt;
+
+&lt;p&gt;Now everyone&amp;#8217;s back to where they are from, but technology is constantly connecting us together. We are all a phone call/email/IM message away from each other, and we are preparing for the next get-together online every Monday with more progress to make.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Aftermath</title>
+      <link>http://haruute0.github.io/2009-2010/flightsim/2010/01/code-sprint-aftermath/</link>
+      <pubDate>Mon, 18 Jan 2010 05:20:25 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/flightsim/2010/01/code-sprint-aftermath/</guid>
+      <description>&lt;p&gt;I&amp;#8217;d like to thank Greg, all the mentors/organisers and the nice people from IBM (especially Matthew) for everything they have done for us. They have obviously put lots of effort and their spare time into this and I think we should all give them a big round of aplause.&lt;/p&gt;
+
+&lt;p&gt;So.. the code sprint is now officially over.. and here is what I think..&lt;/p&gt;
+
+&lt;p&gt;What I liked:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Having the chance to meet everyone before we actually start coding turns out to be extremely valuable. It turns out to be a non-trivial task to setup a communication channel that works for everyone in a team consisting of Windows, Linux and Mac users. (We ultimately decided to go for &lt;a href=&#34;http://www.skype.com&#34;&gt;Skype&lt;/a&gt; for basic IM/conferencing and &lt;a href=&#34;http://www.dimdim.com&#34;&gt;DimDim&lt;/a&gt; for more sophesicated meetings that involves screen sharing)&lt;/li&gt;
+&lt;li&gt;Matthew and some of this colleagues from IBM started the TE (the basic component of our fligt simulator) as a side project at IBM, so there are practically no documentation available. Therefore meeting with him in person is the single best way to learn about this framework that he built.&lt;/li&gt;
+&lt;li&gt;Toronto is a really cool city (in both senses)&lt;/li&gt;
+&lt;li&gt;Of course, the beds at holiday inn is very nice.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not so much:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;John already brought this up in the debreifing meeting &amp;#8211; because we were away for the first day, we kinda felt &amp;#8220;seperated&amp;#8221; with everyone else&lt;/li&gt;
+&lt;li&gt;It is not very clear what this project is about from the description posted online, so the project turned out to be quite different than what everyone have in mind&lt;/li&gt;
+&lt;li&gt;Due to the &amp;#8220;hobby&amp;#8221; nature of this project, the pieces that we have to build on were not very well tested, and we bumped into a lot of technical difficulties as we were trying to set it up on our own machines. We still do not have a fully working base system by the end of the code sprint, so the development work could be quite challenging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That being said, the sprint was still an awesome experience &amp;#8211; we get to meet lots of new people.. had lots of free food.. plus we get a free trip to Toronto! That alone has made taking the course worth while. We have a great team @ flight sim, so I&amp;#8217;m sure we&amp;#8217;ll deliever some really cool stuff by the end of the semester!&lt;/p&gt;
+
+&lt;p&gt;Keep it up guys!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Day 3: Database Flight Simulator</title>
+      <link>http://haruute0.github.io/2009-2010/flightsim/2010/01/day-3-database-flight-simulator/</link>
+      <pubDate>Sun, 17 Jan 2010 20:56:52 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/flightsim/2010/01/day-3-database-flight-simulator/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What we did today:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Assigned work to each team member, following the agile development style, we now have 10 small, measurable tickets &lt;a title=&#34;here&#34; href=&#34;http://sourceforge.net/tracker/?group_id=211760&amp;atid=1263049&#34; target=&#34;_self&#34;&gt;here&lt;/a&gt; &amp;#8211; the goal of this sprint is to deliver 4 scenarios, and piloting graphical indicator for the next sprint. So we will have enough knowledge of the code in the team when the next sprint begins.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We have our first road blocker today &amp;#8211; the WMDServer does not work on either of our environments, whether it being Mac, Windows 7 or Windows Vista, and we have decided to work on the following items:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use the wiki &lt;a href=&#34;http://sourceforge.net/apps/mediawiki/db2mc/index.php?title=Main_Page&#34;&gt;here&lt;/a&gt; to put as much information as we could regarding the problem, and report it to Matthew before midday Jan 18, EST&lt;/li&gt;
+&lt;li&gt;Push the request for a publish server harder, so when the worst scenario happens, we can rotate the usage of the server to finish our work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+  &lt;strong&gt;TODO items:&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;ol&gt;
+    &lt;li&gt;
+      Input the information into wiki to remove the blocker asap
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Day 3 of the Sprint</title>
+      <link>http://haruute0.github.io/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</link>
+      <pubDate>Sun, 17 Jan 2010 19:50:42 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</guid>
+      <description>&lt;p&gt;This weekend, we focused on finding the main aspects of the program that we think need working on and deciding where to go with each one.  Specifically, there was the simplification of toolbars and menus to cater to beginner programmers, comparing the Java versus Scheme parts of the project and approaching the open bugs that have already been identified.  Also we experimented with the program from a first year student standpoint to determine what is and isn&amp;#8217;t necessary and went from there.&lt;/p&gt;
+
+&lt;p&gt;On Saturday, Dwight Deugo met with us and discussed the structure and aims of the project, a bit of the history of Eclipse, plus where we could go with it over the next few months.&lt;/p&gt;
+
+&lt;p&gt;We found and reported some bugs/tasks that are possibilities to look into this semester, as well as spent a lot of time looking through the code to become more familiar with the extensive framework of Eclipse.  This was a major task but will make things easier in the long run.&lt;/p&gt;
+
+&lt;p&gt;We intend to have weekly meetings on Fridays at 2:00 Eastern Time, using Skype as our main communication method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Day 1 &amp;amp;2 : Data Server Flight Simulator</title>
+      <link>http://haruute0.github.io/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</link>
+      <pubDate>Sun, 17 Jan 2010 06:36:39 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</guid>
+      <description>&lt;p&gt;Day 1 (At IBM Canada):&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activities:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Welcome, Introductions, OSS Development talk, CLA&lt;/li&gt;
+&lt;li&gt;Introduction to the TE by Peter Kohlmann&lt;/li&gt;
+&lt;li&gt;IBM DB2, Technology Explorer (TE) &amp;amp; Workload Multiuser Driver (WMD) &amp;#8211; setup on your systems&lt;/li&gt;
+&lt;li&gt;DB2 architecture overview&lt;/li&gt;
+&lt;li&gt;Walk through &amp;#8211; basic tutorial &amp;amp; view creation  &amp;#8211; Matthew Vandenbussche&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Issues:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;There is a bug in db2 driver on Macbook, 3 of the team members are using Mac and had to switch to Windows/Linux&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Day 2: (At University of Toronton)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activities:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Code work through &amp;#8211; Matthew Vandenbussche&lt;/li&gt;
+&lt;li&gt;Implementation Q&amp;amp;A&lt;/li&gt;
+&lt;li&gt;Repository setup
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://db2mc.svn.sourceforge.net/svnroot/db2mc&#34;&gt;https://db2mc.svn.sourceforge.net/svnroot/db2mc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[](&lt;a href=&#34;https://db2mc.svn.sourceforge.net/svnroot/db2mc)Login&#34;&gt;https://db2mc.svn.sourceforge.net/svnroot/db2mc)Login&lt;/a&gt; with your sourceforge id and password to commit&lt;/li&gt;
+&lt;li&gt;Our mainline code is in UCOSP/mainline&lt;/li&gt;
+&lt;li&gt;Personal workspaces are in UCOSP/individuals/&lt;your first name&gt;&lt;/li&gt;
+&lt;li&gt;Work in your personal workspaces, deliver to mainline periodically (TBD)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;communication plan work setup
+
+&lt;ul&gt;
+&lt;li&gt;We&amp;#8217;re using skype for group chat, everyone is in the same group now&lt;/li&gt;
+&lt;li&gt;Screen share is at  &lt;a href=&#34;https://webmeeting.dimdim.com/portal/JoinForm.action?confKey=mantong01&#34;&gt;https://webmeeting.dimdim.com/portal/JoinForm.action?confKey=mantong01&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email list &lt;a href=&#34;mailto:db2mc-ucosp@lists.sourceforge.net&#34;&gt;db2mc-ucosp@lists.sourceforge.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Individual emails sent out to the team&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;scrum meeting scheduled
+
+&lt;ul&gt;
+&lt;li&gt;Weekly meeting with IBM: Tuesday and/or Thursday at 1pm EST(conferencing id TBD)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div&gt;
+  TODO list for Day 3:
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;ol&gt;
+    &lt;li&gt;
+      Decide work items to meet first deliverable date
+    &lt;/li&gt;
+    &lt;li&gt;
+      Split the work
+    &lt;/li&gt;
+    &lt;li&gt;
+      Assign task to each individual
+    &lt;/li&gt;
+    &lt;li&gt;
+      Come up with our own version naming
+    &lt;/li&gt;
+    &lt;li&gt;
+      Request hardware resources(a testing server)
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #7: Basie</title>
+      <link>http://haruute0.github.io/2009-2010/basie/2009/11/winter-2010-project-7-basie/</link>
+      <pubDate>Thu, 12 Nov 2009 21:06:36 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/basie/2009/11/winter-2010-project-7-basie/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://basieproject.org&#34;&gt;Basie&lt;/a&gt; is a web-based software project forge that integrates revision control, issue tracking, mailing lists, wikis, status dashboards, and other tools that developers need to work effectively in teams. It is simple enough for students to master in just a few minutes, but powerful enough to support large, distributed teams, and is freely distributed under an open source license.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://basieproject.org&#34;&gt;Basie&lt;/a&gt; is built on top of &lt;a href=&#34;http://www.djangoproject.com&#34;&gt;Django&lt;/a&gt;, a &lt;a href=&#34;http://www.python.org&#34;&gt;Python&lt;/a&gt;-based web application framework, and the &lt;a&gt;jQuery&lt;/a&gt; Javascript library. Our plans for the Winter 2010 term include improving security, adding a code review tool, redesigning parts of the user interface to make full use of AJAX, making the whole system faster, integrating external services like Google Calendar and Twitter, and creating tools to help users of older systems like &lt;a href=&#34;http://trac.edgewall.org&#34;&gt;Trac&lt;/a&gt; upgrade. Students must have previous web programming experience (including a basic knowledge of Javascript). Familiarity with Python and Django are also assets.&lt;/p&gt;
+
+&lt;p&gt;Mentor: &lt;a href=&#34;http://www.cs.utoronto.ca/~gvwilson&#34;&gt;Greg Wilson&lt;/a&gt; (&lt;a href=&#34;http://www.cs.utoronto.ca&#34;&gt;University of Toronto&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #6: GeoTools Support for Ingres</title>
+      <link>http://haruute0.github.io/2009-2010/ingres/2009/11/winter-2010-project-6-geotools-support-for-ingres/</link>
+      <pubDate>Thu, 12 Nov 2009 21:04:22 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/ingres/2009/11/winter-2010-project-6-geotools-support-for-ingres/</guid>
+      <description>&lt;p&gt;The Geospatial Information System industry is over $4B in size and growing rapidly. Perhaps more interesting is that geospatial (think maps) technology is being integrated into mainstream technology. For example, how may people have not used Google Maps or a GPS at some point? Technology change has made what was impossible a decade ago not only possible, but perhaps practical for firms that could not use geospatial technology in the past. Driving this along with technology change are new standards and a non-profit foundation called the &lt;a href=&#34;http://osgeo.org&#34; target=&#34;_blank&#34;&gt;Open Source Geospatial Foundation (OSGeo)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;GeoTools is a geospatial toolkit developed in Java that is used by &lt;a href=&#34;http://geoserver.org&#34;&gt;GeoServer&lt;/a&gt;, a standards-based web mapping engine under the banner of &lt;a href=&#34;http://www.osgeo.org&#34; target=&#34;_blank&#34;&gt;OSGeo&lt;/a&gt;. It is feature rich and very competitive in terms of performance with other web mapping software available today. [](&lt;a href=&#34;http://geoserver.org)There&#34;&gt;http://geoserver.org)There&lt;/a&gt; is government, industry, and community interest in this project. This project therefore has the potential to enable a consortium of smaller firms to rally together and bid on geospatial projects tendered by larger firms and governments. This in turn has a high likelihood of creating jobs, saving the government and industry firms money, strengthen the open source geospatial community, and enable the scientific teams to be more productive.&lt;/p&gt;
+
+&lt;p&gt;This is a great opportunity for students to learn a lot about Java, Java web programming, geospatial technologies, and databases, and to work with teams from &lt;a href=&#34;http://www.ingres.com&#34;&gt;Ingres&lt;/a&gt;, &lt;a href=&#34;http://opengeo.org/&#34;&gt;OpenGeo&lt;/a&gt;, &lt;a href=&#34;http://www.osgeo.org&#34;&gt;OSGeo&lt;/a&gt;, and roughly half a dozen other companies. This project could launch a very successful career for students with the organizations involved. Many of these firms are recruiting in anticipation of baby boomer retirements coming in the next decade.&lt;/p&gt;
+
+&lt;p&gt;Mentor: Andrew Ross (&lt;a href=&#34;http://www.ingres.com&#34;&gt;Ingres&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #5: Mercurial</title>
+      <link>http://haruute0.github.io/2009-2010/mercurial/2009/11/winter-2010-project-5-mercurial/</link>
+      <pubDate>Thu, 12 Nov 2009 21:03:16 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/mercurial/2009/11/winter-2010-project-5-mercurial/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://mercurial.selenic.com/&#34;&gt;Mercurial&lt;/a&gt; distributed version control system is used by thousands of developers. NetBeans, OpenJDK, OpenOffice, and Python itself are just a few of the projects that have adopted Mercurial as their version control system. But as much as Mercurial has been making incredible inroads in the open-source community, it has some key deficiencies that make it a poor choice for real-life commercial development.&lt;/p&gt;
+
+&lt;p&gt;Here at &lt;a href=&#34;http://fogcreek.com/&#34;&gt;Fog Creek Software,&lt;/a&gt; we&amp;#8217;re about to release a brand-new source control management system called Kiln that&amp;#8217;s based on Mercurial. As part of that project, we want to fix the problems in Mercurial that currently prevent commercial development shops from adopting it with the same enthusiasm as their open-source counterparts.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#8217;s where you come in. In UCOSP, you will focus on improving Mercurial&amp;#8217;s performance and user. More specifically, you&amp;#8217;ll:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Improve the handling of binary files&lt;/li&gt;
+&lt;li&gt;Improve support for very large repositories&lt;/li&gt;
+&lt;li&gt;Add support for secure password management&lt;/li&gt;
+&lt;li&gt;Improve end-user feedback during lengthy network operations&lt;/li&gt;
+&lt;li&gt;Improve history viewing tools&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you&amp;#8217;ve implemented these improvements, we&amp;#8217;ll be sending them to the Mercurial project, which has a highly supportive developer community and a predictable release schedule. So you&amp;#8217;ll have a really high chance of seeing your code in production soon after the project ends.&lt;/p&gt;
+
+&lt;p&gt;Mercurial is written in high-level Python and low-level C, and has relatively complex on-disk formats and network protocols. Because we&amp;#8217;ll be touching most of the stack, you&amp;#8217;ll feel most comfortable if your past experience runs the gamut from high- to low-level work.&lt;/p&gt;
+
+&lt;p&gt;Mentor: Benjamin Pollack (&lt;a href=&#34;http://www.fogcreek.com&#34;&gt;Fog Creek Software&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #4: Thunderbird</title>
+      <link>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-4-thunderbird/</link>
+      <pubDate>Thu, 12 Nov 2009 02:06:06 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-4-thunderbird/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.mozillamessaging.com/en-US/thunderbird/features/&#34;&gt;Mozilla Thunderbird&lt;/a&gt; is the award winning email client created by &lt;a href=&#34;https://www.mozillamessaging.com/&#34;&gt;Mozilla Messaging&lt;/a&gt;. Used by millions of people world wide, it is made available for Windows, Mac OS X, and Linux in over 40 different languages.&lt;/p&gt;
+
+&lt;p&gt;Mozilla&amp;#8217;s aims for this term&amp;#8217;s project will be to introduce you to the technological, social, and pragmatic aspects of developing open source software through direct involvement in the project, and secondarily to work on features and bugs in Mozilla Thunderbird 3. The results of your efforts will be rolled in to the next version, Thunderbird 3.1. There is a &lt;a href=&#34;http://bit.ly/tb-available-bugs&#34;&gt;list of the potential bugs&lt;/a&gt; for you to browse through.&lt;/p&gt;
+
+&lt;p&gt;Knowledge of C++ or JavaScript, HTML, and XML is strongly suggested.&lt;/p&gt;
+
+&lt;p&gt;Mozilla is a global community of people creating a better internet. We build public benefit into the internet by creating free, open source products and technologies that improve the online experience for people everywhere. We work in the open under the umbrella of the non-profit Mozilla Foundation. Everything we create is a public asset available for others to use, adapt, and improve. As a wholly owned subsidiary of Mozilla, Mozilla Messaging organizes the development and marketing of email and messaging products. This unique structure has enabled Mozilla Messaging to financially support and cultivate competitive, viable community innovation.&lt;/p&gt;
+
+&lt;p&gt;Mentor: Blake Winton (&lt;a href=&#34;http://www.mozillamessaging.com&#34;&gt;Mozilla Messaging&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #3: Pony-Build</title>
+      <link>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-3-pony-build/</link>
+      <pubDate>Wed, 11 Nov 2009 20:14:12 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-3-pony-build/</guid>
+      <description>&lt;p&gt;Pony-build is a simple system for gathering, managing, displaying, and integrating build and test results.   It consists of two core components: a server (for gathering and managing results) and a client library for describing build and test processes.&lt;/p&gt;
+
+&lt;p&gt;The project goals are pretty open, but we&amp;#8217;d like to enable features like &amp;#8220;phoning home&amp;#8221; from tests run during installation; integration with test-running frameworks; upload and storage of binary &amp;#8220;-latest&amp;#8221; packages; inclusion and display of code coverage; &amp;#8220;test swarms&amp;#8221; and a leaderboard for the Python community; integration with the Python Package Index; and configurable PubSubHubbub-based &amp;#8220;push&amp;#8221; notification of build events.&lt;/p&gt;
+
+&lt;p&gt;Students should be familiar with Python and Web programming; pony-build subprojects will include Web programming and testing, systems administration,package management, and notification implementation.&lt;/p&gt;
+
+&lt;p&gt;Mentor: &lt;a href=&#34;http://ged.msu.edu/&#34;&gt;Titus Brown&lt;/a&gt; (&lt;a href=&#34;http://www.cse.msu.edu/&#34;&gt;Michigan State University&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #2: Data Server Flight Simulator</title>
+      <link>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-2-data-server-flight-simulator/</link>
+      <pubDate>Wed, 11 Nov 2009 01:36:44 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/proposals/2009/11/winter-2010-project-2-data-server-flight-simulator/</guid>
+      <description>&lt;p&gt;One of the major long term goals for the Technology Explorer for IBM DB2 has been to provide an environment similar to a flight simulator for Database Administrators. Pilots used to learn to deal with potentially dangerous and stressful situations in a real plane. This was risky and expensive. Pilots today learn to deal with system failures and extreme conditions on flight simulators. DBAs still develop their experience on live multi-million dollar production systems. They could develop skills and confidence faster and more safely on a simulator.&lt;/p&gt;
+
+&lt;p&gt;Over the past few years the Technology Explorer for IBM DB2 team has built all the base components to create this simulator as part of our open source project. The next step is to pull the pieces together into a viable simulation. The team will use the existing open source building blocks to simulate a stable production system and then disrupt it with a number of planned or unplanned problems. The system will then walk the DBA through problem recognition and resolution.&lt;/p&gt;
+
+&lt;p&gt;This project would:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extend the existing framework to simulate database management problems
+
+&lt;ul&gt;
+&lt;li&gt;Simulate DB2 in production&lt;/li&gt;
+&lt;li&gt;Create a disruption of the system, for example a hard drive failure, lock contention, or excessive workload&lt;/li&gt;
+&lt;li&gt;Guide a DBA to identification and resolution of the disruption&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Develop at least one example of a problem simulation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Students should be comfortable working in PHP, JavaScript, JAVA, HTML and XML. They should also be familiar with databases concepts. Administration experience and knowledge of IBM DB2 or an aptitude for visual interface development would be an asset.&lt;/p&gt;
+
+&lt;p&gt;Mentor: Peter Kohlmann (&lt;a href=&#34;http://www.ibm.com/ca/en/&#34;&gt;IBM Canada&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

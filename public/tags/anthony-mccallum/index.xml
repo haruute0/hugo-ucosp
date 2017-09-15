@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Mccallum on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/anthony-mccallum/</link>
+    <description>Recent content in Anthony Mccallum on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Dec 2009 03:50:09 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/anthony-mccallum/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anthony McCallum</title>
+      <link>http://haruute0.github.io/2009-2010/bios/2009/12/anthony-mccallum/</link>
+      <pubDate>Mon, 28 Dec 2009 03:50:09 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/bios/2009/12/anthony-mccallum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ucosp.files.wordpress.com/2009/12/photo-320.jpg&#34;&gt;&lt;img class=&#34;alignright size-medium wp-image-1783&#34; title=&#34;Photo 320&#34; src=&#34;http://ucosp.files.wordpress.com/2009/12/photo-320.jpg?w=300&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;225&#34; /&gt;&lt;/a&gt;Hi, I&amp;#8217;m Anthony McCallum.  I&amp;#8217;m in my final year of a computer science degree at the University of British Columbia. My language of choice is JAVA, but I also have experience with a variety of other languages.  I will be working on the Ingres project this coming term.  This will be my first opportunity to work on an open source project, and I am excited for the challenge!  I&amp;#8217;ve previously done internships with RIM in Ottawa as well as a bioninformatics lab in Singapore.  I am also currently working part time for a UBC affiliated lab.  Looking forward to meeting everyone at the code sprint!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

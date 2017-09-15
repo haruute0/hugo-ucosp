@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>Dennis! There&amp;#8217;s some lovely filth down here! &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>Dennis! There&amp;#8217;s some lovely filth down here!</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>25 Feb 2011, 10:28</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  <p>We are now well underway in our ReviewBoard projects, though, like everyone, its a challenge to balance both UCOSP and the rest of our courses/lives/commitments. In addition, for some of us it seems our progress is pretty slow for the moment as we are still trying to learn the languages &amp; digging down to see all the nit &amp; grit of ReviewBoard!</p>
+
+<p>I&#8217;m currently working on the scalability testing for ReviewBoard &amp; its quite an interesting process to say the least. Django uses what it calls BaseCommands that allow you to write scripts that will populate databases normally filled through your web interface. However, I found the documentation on these commands to be pretty sparse, and, I suppose, for good reason. Django uses Python like the King Arthur&#8217;s horse uses coconuts (Monty Python). So a lot of the Django documentation was about the various types of command classes and not about implementing the seemingly restricted Python code required to make it function.</p>
+
+<p>Django has three types of <code>BaseCommand</code> subclasses that you are supposed to use instead of the <code>BaseCommand</code> class itself. The three types are: <code>AppCommand</code> (for invoking applications), <code>LabelCommand</code> (for passing any kind of arbitrary arguments called labels), and the <code>NoArgsCommand</code> (which, to quote Django docs, &#8216;takes no arguments on the command line&#8217;). It took me a while to realize that the <code>NoArgsCommand</code> subclass does not really mean &#8216;no arguments&#8217; (at least what I&#8217;d consider &#8216;no arguments&#8217;).</p>
+
+<p>Using the <code>NoArgsCommand</code> subclass you are actually still able to utilize command-line arguments that are indicated with a &#8216;&#8211;&#8216;. Once you know this it is quite easy to create custom command line arguments by simply adding them to the option list. For instance:</p>
+
+<p><code>11 class Command(NoArgsCommand):&lt;br /&gt;
+...&lt;br /&gt;
+14     option_list = BaseCommand.option_list + (&lt;br /&gt;
+15         make_option('-u', '--users', type=&quot;int&quot;, default=None, dest='users',&lt;br /&gt;
+16             help='Specifies the number of users to add to the db'),&lt;br /&gt;
+...</code></p>
+
+<p>This lets you run your script with the <code>--users=10</code> argument &amp; parses the values for you and even ensures that the argument provided is an integer. Very slick! The nice part of the <code>NoArgsCommand</code> subclass is that there are a lot more examples on the web than the other <code>Command</code> subclasses.</p>
+
+<p>So with that accomplished I&#8217;m now getting into the murk &amp; mire of our ReviewBoard code, trying to learn how the database commands are invoked. The woman digging in the dirt from Monty Python &amp; the Holy Grail couldn&#8217;t have said it any better: <em>&#8220;Dennis! There&#8217;s some lovely filth down here!&#8221;</em></p>
+
+<p>-Steve Sutcliffe</p>
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/2009-2010/uncategorized/2011/02/coral-update/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/2009-2010/uncategorized/2011/02/coral-update/">CoRaL update</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/2009-2010/uncategorized/2011/03/markus-at-the-midpoint/">MarkUs at the midpoint</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/2009-2010/uncategorized/2011/03/markus-at-the-midpoint/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

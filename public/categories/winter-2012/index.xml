@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter 2012 on My New Hugo Site</title>
+    <link>http://haruute0.github.io/categories/winter-2012/</link>
+    <description>Recent content in Winter 2012 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2012 11:13:58 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/categories/winter-2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting up to Speed with Review Board</title>
+      <link>http://haruute0.github.io/winter-2012/2012/11/getting-up-to-speed-with-review-board/</link>
+      <pubDate>Wed, 14 Nov 2012 11:13:58 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/11/getting-up-to-speed-with-review-board/</guid>
+      <description>&lt;p&gt;Karl Leuschen from Dalhousie describes &lt;a href=&#34;https://reviewboardstudents.wordpress.com/2012/11/14/getting-up-to-speed-with-review-board/&#34;&gt;his experience&lt;/a&gt; getting up to speed with Review Board.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board Update</title>
+      <link>http://haruute0.github.io/winter-2012/2012/11/review-board-update-4/</link>
+      <pubDate>Tue, 06 Nov 2012 17:49:54 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/11/review-board-update-4/</guid>
+      <description>&lt;p&gt;Wesley Ellis from McGill sends in the latest &lt;a href=&#34;https://reviewboardstudents.wordpress.com/2012/11/06/ucosp-blog-post-november-6th/&#34;&gt;Review Board update&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board digs in</title>
+      <link>http://haruute0.github.io/winter-2012/2012/11/review-board-digs-in/</link>
+      <pubDate>Thu, 01 Nov 2012 21:25:57 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/11/review-board-digs-in/</guid>
+      <description>&lt;p&gt;Michelle Chuang from UBC gives us an update on &lt;a href=&#34;https://reviewboardstudents.wordpress.com/2012/10/31/ucosp-blog-post-october-30-2012/&#34;&gt;the menu&lt;/a&gt; this term for the Review Board project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board and Sack</title>
+      <link>http://haruute0.github.io/winter-2012/2012/10/review-board-and-sack/</link>
+      <pubDate>Tue, 23 Oct 2012 21:39:53 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/10/review-board-and-sack/</guid>
+      <description>&lt;p&gt;Sampson Chen &lt;a href=&#34;https://reviewboardstudents.wordpress.com/2012/10/22/ucosp-blog-post-sack-and-other-developer-shortcuts/&#34;&gt;details his work&lt;/a&gt; on &lt;a href=&#34;https://github.com/sampson-chen/sack&#34;&gt;sack&lt;/a&gt; for the Review Board team.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UMPLE Progress</title>
+      <link>http://haruute0.github.io/winter-2012/2012/10/umple-progress/</link>
+      <pubDate>Thu, 18 Oct 2012 21:46:33 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/10/umple-progress/</guid>
+      <description>&lt;p&gt;Stuart Erskine checks in from the UMPLE team.&lt;/p&gt;
+
+&lt;p&gt;Umple is a powerful tool for Model-Oriented Programming. It allows the&lt;/p&gt;
+
+&lt;p&gt;programmer to work on a more abstract level by generating code automatically for attributes, associations and state machines. This eliminates the writing of a lot of _boiler plate code_ when developing and speed up the development process. We are so confident in Umple&amp;#8217;s code generating capabilities that *we even write Umple using Umple* 🙂&lt;/p&gt;
+
+&lt;p&gt;The Umple team consists of 6 members this term. They have made a few&lt;/p&gt;
+
+&lt;p&gt;decesions on how best to improve the process.&lt;/p&gt;
+
+&lt;p&gt;*Thomas Morrison* has accepted the challenge of allowing special ordering of association elements. Currently association elements are added in the order they are created and it would be useful to have other ordering methods. (Issue 184) *Stuart Erskine* is now working on allowing associations to interfaces. At minimum we should be able to have a one directional association, but ideally classes that implement interfaces should generate the required methods and thus allow for bi-directional associations.&lt;/p&gt;
+
+&lt;p&gt;*Andrew Paugh* has accepted issue 231 and is working on generating more meaningful comments. Because umple has the ability to mix in parts of a class from many different umple files, finding the source from generated code would be difficult. This commentary would allow future users to debug code much easier so they could find the origonal umple file from generated code much easier.&lt;/p&gt;
+
+&lt;p&gt;*Russell Staughton* has expressed intrest on two possible issues. One is working more on the Papyrus generation. Another is dealing with compositions and aggregation. When you delete an object you sometimes want to delete all the objects an item contains.&lt;/p&gt;
+
+&lt;p&gt;*Sacha Bagasan* is currently working on issue 318, the detection of proper state machine syntax. Currently when umple does not understand code found in an umplefile it outputs it as other code assuming it is means to be compiled in the target language. This may lead to confusion when it was meant to be umple code and a warning message was not presented to the user.&lt;/p&gt;
+
+&lt;p&gt;*Christopher Hogan* has accepted the task of adding constraints on the before and after capability. The idea is we want to be able to limit what possible values a class attribute may have, or likewise, what kinds of associations the class is allowed to have.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board Final Update</title>
+      <link>http://haruute0.github.io/winter-2012/2012/04/review-board-final-update/</link>
+      <pubDate>Mon, 09 Apr 2012 08:58:52 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/04/review-board-final-update/</guid>
+      <description>&lt;p&gt;Wilson Yeung from Review Board writes:&lt;/p&gt;
+
+&lt;p&gt;Hi! I’m Wilson Yeung and I’m in my last semester at Simon Fraser University where I am pursuing a Bachelor of Science in Mathematics and Computing Science.  I joined the Review Board team because an opportunity was presented to  the computing undergrads at SFU to join UCOSP.  Despite having high expectations, I am still surprised at how fulfilling this experience is.  Being enclosed in a controlled learning environment at university, I was excited to work on something that had real life applications and meaning to the outside world.&lt;/p&gt;
+
+&lt;p&gt;I have grown quite a bit since I started working on Review Board.  Prior to Review Board, I rarely did anything on the command line, haven’t used a linux OS, half decent at Python and Java, and a beginner in some other generically known languages such as HTML and C.  (Yes, I was a noob) Throughout this term, all those things have changed.  With tons of hard work and the comfortable learning environment, I’ve improved lots.  Albeit I’m not a pro at everything, but I’m comfortable with running Ubuntu from the command line, and I’ve read a hundred-ish pages of documentation on Java, JavaScript, Django, HTML, and much more.  Not only did I learn through reading documentation this semester, but I was given invaluable experience from the mentors and team members of Review Board.&lt;/p&gt;
+
+&lt;p&gt;If you didn’t know, Review Board is a web-based tool to do code reviews.  Due to the nature of the purpose of  Review Board, it becomes an invaluable tool in any project.  It tracks changes while giving you a bunch of tools to give critique or approval.&lt;/p&gt;
+
+&lt;p&gt;Throughout the semester, I’ve committed most of my time reading documentation on different languages to work on a certain project.  That project involved creating a setting in a user’s profile that would reflect changes in the comment boxes generated when you want to comment on some code.  Although it doesn’t sound very complicated, the architecture of Review Board can make the problem quite complicated.  The project forced me go through every level of the architecture in Review Board as well as access the database on the server.  While taking into consideration not only python files, but also JavaScript files and HTML files, it was difficult to maneuver between different file types and languages.&lt;/p&gt;
+
+&lt;p&gt;To conclude,  the Review Board team is awesome.  I wish there were more powerful words to explain how great the team is.  Everyone is intelligent, hard-working, and has a good sense of humour.  I would like to thank the UCOSP steering committee and the SFU liaison professor, Dr. Ted Kirkpatrick for making this possible for me.  Extra kudos to our mentors; Mike Conley, Christian Hammond,  and David Trowbridge, for being all-knowing, yet chose to guide us rather than spoon-feed us.  None of this would be possible without their time and their commitment to UCOSP.  I would highly recommend any comp sci undergrad to apply for UCOSP (ESPECIALLY Review Board) if they want to get a running start on their career in the computing science field.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board Update</title>
+      <link>http://haruute0.github.io/winter-2012/2012/03/review-board-update-2/</link>
+      <pubDate>Tue, 13 Mar 2012 09:46:35 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/03/review-board-update-2/</guid>
+      <description>&lt;p&gt;Wei Lu Liu &lt;a href=&#34;https://reviewboardstudents.wordpress.com/2012/03/13/ucosp-blog-post-march-12-2012/&#34;&gt;writes&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;My name is Wei Lu Liu. I joined the Review Board team this semester as an undergraduate computer science student from Simon Fraser University. Gaining some open source development experience is what drove me at first, but being part of Review Board is far more than this. Throughout our development, we employ&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Git for revision control&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Google Groups/Code/Wiki/Blog for administration and reporting&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; IRC/PasteBin for instant Q&amp;amp;A and discussing&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Review Board !!&lt;/p&gt;
+
+&lt;p&gt;Here comes the unique and interesting experience about working on Review Board: we are using Review Board itself in our development, which gives us first-handed feelings and feedback. With the “free” feedback, we can make Review Board better satisfy the developers as well as ourselves. With the goal of making our own lives easier, everyone in the team seems to have great interest and motivation.&lt;/p&gt;
+
+&lt;p&gt;So far I have had my hands on three bugs or projects. I would like to discuss my experience about each of them.&lt;/p&gt;
+
+&lt;p&gt;*  Adding “confirm password” fields to Review Board installation&lt;/p&gt;
+
+&lt;p&gt;The Review Board installation process has a couple of pages that ask the user to enter a new password, but the users do not have the chance to confirm their password. This project is a little different from others, as it is majorly about PyGtk. Without a whole understanding of PyGtk, I got stuck right after I added the “confirm password’ fields to the pages. I was trying to find some functions in that page class that validate the new field. I spent several hours but was still blocked. It is lucky that my mentor pointed out that the validation should be a widget. It turned out he was right, and we quickly worked it out.&lt;/p&gt;
+
+&lt;p&gt;This small  bug fix taught me that the Review Board is a quite big project that utilizes many third party packages like PyGtk. Although I considered myself good at Python, it is far from enough to handle the whole project.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tracking the users that change the review request&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This project is about the product itself. It covers most of the main features of Django. The first thing I was faced with was to alter the database, more specifically, to add new fields to the tables to store the information and alter the restrictions and relations among the fields and tables. Django abstracts a table as a class, but adding a field to the table does not simply equal to adding a variable to the class. We have to make it happen to the real database using a tool called Django Evolution. I got stuck here again. I tried many tutorials online but just could not make it work. After consulting our mentors, I solved the problem and found that it was because I wrongly understood what Git does. In our case, Git only controls the source file types such as .py/.html/.js. The database file, .db typed, is not in its charge. So when I switched between branches the database file stayed the same. I learned that the details are important; I need to get more familiar with these software development concepts.&lt;/p&gt;
+
+&lt;p&gt;Altering the database successfully made it possible for me to quickly realize the user tracking features.I thought the project was about to finish, until our mentors raised some concerns: what if multiple users are making changes to the same review request? Whose change gets published? This is the famous race problems in transaction control. We decided to have a banner to tell the user not to confirm if there was another user editing the same page. This experience taught me that testing is so important in software development. Without the help from my mentors, I may think I was done with the project. Review Board has a unit test for every app, running and analyzing them is extremely import if I want high quality work. I was quite interested in those test cases and would see if I could learn writing some by myself.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Weekly email updates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“Finding out what’s been happening on Review Board isn’t always easy. It might be worthwhile to have users be able to opt-in to weekly email updates from Review Board that tell them useful things about the groups that they belong to.” This is the idea why we want this feature. Django actually has really good email support. Review Board extends it and have specifically customized email methods itself. You should have realized that this project is more of administration level. I will write an admin command to realize it. I am just starting with it, and it looks interesting for me.&lt;/p&gt;
+
+&lt;p&gt;It is only one month left in this semester. I feel that I wasted a lot of time when I got stuck. I thought too much but did not ask enough questions. I have the shortcoming that I always want to have some basic idea before I ask questions. However, it usually turns out that I can not even have correct basic ideas if I just keep thinking and not asking, since the industry project is way more complex than the academic projects we do at school. Fortunately I have really helpful and friendly mentors and students in our team. After asking a couple of stupid questions, I got myself more familiar with the whole project. Now I can ask more meaningful questions after some self-exploration at first.&lt;/p&gt;
+
+&lt;p&gt;I am really grateful to UCOSP. I think it is a really good program for undergraduates. I did some internships before, but I felt that I could learn so little about the details of software development there. The internship employers, at least in my case, tend to put us on the works that are less risky for us to do. After all, they have too many things to consider, and we usually could not learn as much as we want. The UCOSP program is different, since everyone in the team have the same interest and goal: to learn and to contribute. In our case, the Review Board, if we can make it a better tool, it would be for the benefit of all the developers using it. Due to this reason, I think UCOSP is a really good program that compliments our academic and internship experience. I hope this program can continue evolving and benefiting more and more students.&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;Wei Lu Liu (Willer)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Update on Umple</title>
+      <link>http://haruute0.github.io/winter-2012/2012/03/update-on-umple/</link>
+      <pubDate>Mon, 05 Mar 2012 17:14:08 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/03/update-on-umple/</guid>
+      <description>&lt;p&gt;Jordan Johns writes:&lt;/p&gt;
+
+&lt;p&gt;The second month of the &lt;a href=&#34;https://code.google.com/p/umple/wiki/UCOSP&#34;&gt;UCOSP Winter 2012 Umple project&lt;/a&gt; has been quite a good experience for many involved. Everything from bug fixes, compiler enhancements and new features have been accomplished thus far.&lt;/p&gt;
+
+&lt;p&gt;It has been a really good experience. I&amp;#8217;ll start off by mentioning what has been going on with the others students.&lt;/p&gt;
+
+&lt;p&gt;To begin with we&amp;#8217;ve had James who has been diligent in working on enhancing the capabilities of the compiler, by enabling additional command line options. A particularly good use of the recent enhancements in this aspect are that you can specify the output language of the generated code on the command line; his objective is to enable the Umple compiler to compile the Java, so any Java error messages appear as Umple error messages.&lt;/p&gt;
+
+&lt;p&gt;Sonya has had a breakthrough with enabling a rather useful feature to Umple: class-evel immutability. With this new feature, those who wish to use Umple to build systems in, lets say, Java can create immutable classes with ease.&lt;/p&gt;
+
+&lt;p&gt;Another good addition, that is in progress at the current moment in time, is SQL code generation. Adam has been making some headway in this regard and soon we will have the ability to create usable SQL code from the Umple code we write.&lt;/p&gt;
+
+&lt;p&gt;With respect to primary enhancements this is where we&amp;#8217;re at currently, however bug fixes have seen quite a bit of progress. Luna has been working on fixing deletion of 1-* associations at the many end in PHP and Ruby; this currently fails. Another fix being worked on by Song Bae is to fix a rather interesting problem in UmpleOnline where class names do not correspond to association names when the former is changed.&lt;/p&gt;
+
+&lt;p&gt;My tasks have been fixing issues mainly associated with the compiler and providing maintenance in relation to codebase documentation. I&amp;#8217;ve made a decent amount of progress on this I think.&lt;/p&gt;
+
+&lt;p&gt;To start off with we&amp;#8217;ve had a issue where you could write comments in your Umple code but when you generate code from it, such as Java code, not all the comments would appear. Although the generated code is not intended to be read by developers (e.g. it ought to be treated in the same manner as bytecode or machine code), there are two reasons why comments nonetheless need to appear: First is that tools such as JavaDoc or Eclipse ToolTips generate API documentation from the comments; second an objective of Umple is to demonstrate what good-quality generated code would look like. The lack of comments meant, for example, that those developing Umple itself couldn&amp;#8217;t make good use of any internal documentation.&lt;/p&gt;
+
+&lt;p&gt;The initial learning curve a while back was essentially this, figure out how the codebase is working and look into fixing this problem. As it turned out this meant that I had to get really familiar with the compiler parser to ensure that comments follow out to the generated output. After learning the parser and getting acquainted with a few different areas of the project I was able to fix the problem, which now allows comments of consistent format to appear in generated code. This is quite good, because now internal documentation problems can be solved which is what I&amp;#8217;m currently trying to do.&lt;/p&gt;
+
+&lt;p&gt;I really like the codebase and wish those who follow to have a solid base to work off of, and knowing the learning curve associated with a very large codebase I want to ensure they have good documentation to assist in that regard.&lt;/p&gt;
+
+&lt;p&gt;So everything from compiler enhancements and new features to bug fixes and internal documentation (maintenance), I would say good progress is being made. I personally really like the Umple project, the mentors are extremely knowledgeable and always willing to assist when there is a problem. The project itself has a good purpose and I think others should try it out and use it. It really does save time to create a system really quickly since you essentially write a little bit of Umple code and get a lot of consistent workable generated code in almost any language from Java, C++, Ruby or PHP. I definitely see Umple as a great project to work on, thus far I have enjoyed it, and I hope to see how it turns out later on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitHub and ReviewBoard</title>
+      <link>http://haruute0.github.io/winter-2012/2012/02/github-and-reviewboard/</link>
+      <pubDate>Mon, 27 Feb 2012 17:16:51 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/02/github-and-reviewboard/</guid>
+      <description>&lt;p&gt;Aimen Khan writes:&lt;/p&gt;
+
+&lt;p&gt;Recently I have been introduced to two new development tools; GitHub and ReviewBoard. In this blog I am going to talk a little bit about each and my experience with using these tools.&lt;/p&gt;
+
+&lt;p&gt;GitHub is one of the largest code hosting applications, which provides an ease of sharing codes online and allows other coders to contribute to different projects. GitHub has several advantages; it fuses the best features of a social networking site with a code-sharing forum. Just like a social networking site it has news feeds, followers and a network graph that shows details of how developers have been working on their version of repository. Individuals have options to work on a repository and other individuals can fork it and follow them.&lt;/p&gt;
+
+&lt;p&gt;For MarkUs we have placed our code on the MarkUs repository. All the other developers that would like to contribute to the project can fork it and download the code on their local drive and continue working on it. After working on their part of the code it is posted on the ReviewBoard. Other developers that are working on the project then review this code, discuss potential modifications and if satisfied with the results, they are then able to Ship It! Shipping basically means creating a pull request on Github so that the new code can be merged with the existing code on the repository.&lt;/p&gt;
+
+&lt;p&gt;ReviewBoard is a web based code review tool that provides simplicity of reviewing code online. It removes the extra effort and time that has been given in the past to reviewing code. It has the tools to identify or highlight, which line of code has been removed and which has been added or changed, making it easier for coders to track the changes. It also allows users to add comments on the screenshots and the changed code.&lt;/p&gt;
+
+&lt;p&gt;In my experience working with GitHub and ReviewBoard has been wonderful. It has made it easy for me to work on the code and also keep up to date with the current changes that have been made on the code. GitHub provides the option of keeping a wiki, posting issues, providing notifications and updates on newsfeed. ReviewBoard on the other hand provides the opportunity to post the diffs online and make it easy for discussing the different parts of the diff. These two tools facilitate the sharing of code and remove the barriers that developers face while sharing and reviewing code. Basically these two are great tools for software development and work great with open source projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board Update</title>
+      <link>http://haruute0.github.io/winter-2012/2012/02/review-board-update/</link>
+      <pubDate>Wed, 15 Feb 2012 12:40:28 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/02/review-board-update/</guid>
+      <description>&lt;p&gt;Curtis Muller writes:&lt;/p&gt;
+
+&lt;p&gt;We all know Review Board is great for allowing a distributed team to effectively ensure only high quality, standards complaint code is integrated into the end product. But what else makes Review Board great?&lt;/p&gt;
+
+&lt;p&gt;From my experiences on the team I can safely say it gives new developers a leg up on the learning curve when starting. I was able to leverage Review Board to quickly learn exactly what I should, and should not be doing in my code. Through each new code review I was determined not to repeat the same mistakes that were made in my previous review. The intuitive review interface clearly communicates these mistakes back to the developer, allowing them to make the changes and learn from their mistakes.&lt;/p&gt;
+
+&lt;p&gt;Review Board also acts as an effective communication platform for any distributed team utilizing it, as it allows the entire team to see the progress of each component, and add their own input to how the end solution should look. This is very important, as communication is one of the toughest aspects when working with a team not based in one site.&lt;/p&gt;
+
+&lt;p&gt;I started off in the Code Sprint by getting my feet wet with a couple bugs and a small project. Due to the fact that I haven’t used Django recently, and that the Review Board code base itself is quite large and complex this meant I was in for quite a steep learning curve. I have now moved on to my second project, which itself comes in two parts. The code based part of the project is a rating extension which will allow users to leave anonymous feedback on the quality of the code reviews they receive, while also tracking their own aggregated results over a period of time. These results will allow users to reflect on their code reviewing habits, and make improvements if necessary. This project will be leveraging brand new scripts to simplify the extension building process, by templating out the base code required for an extension to exist in a Review Board instance.&lt;/p&gt;
+
+&lt;p&gt;The second half of this project will involve writing documentation to guide others using these scripts on how to take their extension stub and turn it into a functional and integrated part of their Review Board environment. A lot of developers get the idea that by adding this “one feature” to the project, it will vastly improve their experience using Review Board. This has many problems however, because if every one of these features are added they will start to bloat the code base, making Review Board run slower and harder to maintain. This also requires developer hours, which could be spent working on other features which would benefit more than just a handful of developers. Adding this “one feature” also runs the risk of alienating other developers with features or functionality they don’t need, want, or understand. The great thing about extensions is that they allow these developers requesting the feature to easily create and add the feature to their own instance of Review Board, without impacting everyone else’s experience.&lt;/p&gt;
+
+&lt;p&gt;It’s great to be able to work on such a far reaching project like Review Board, and know my improvements are being used all across the world. The project could not be nearly as successful without the big effort put in by each of the mentors. Their ability to offer prompt code reviews, technical guidance, and project ideas really makes working on Review Board a lot of fun. Due to their efforts, more time is spent in the learning or “eureka” phases of development than stuck in a frustrating roadblock.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MediaWiki spins up</title>
+      <link>http://haruute0.github.io/winter-2012/2012/02/mediawiki-spins-up/</link>
+      <pubDate>Wed, 08 Feb 2012 17:19:32 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/02/mediawiki-spins-up/</guid>
+      <description>&lt;p&gt;Shealen Clare writes:&lt;/p&gt;
+
+&lt;p&gt;After a great kickoff weekend in Vancouver we’re back in our separate cities, ready to continue work on our selected project. We’ve chosen to adapt the existing Wikipedia Android app to a Wiktionary app. Our goal is to provide maximum functionality with minimal change to the code – especially restricting our changes to the Javascript wherever possible.&lt;/p&gt;
+
+&lt;p&gt;As of the beginning of February, we’ve got a product that works but still requires some fine-tuning. The WMF team we’re working with – including Amgine, Sumanah, Tomasz, Brion and Yuvipanda – meet with us twice weekly to help us keep moving forward. So far we’ve had a number of Scrum-style meetings that have resulted in a number of larger solutions, including the decision to rebase and the request to have our own repository.&lt;/p&gt;
+
+&lt;p&gt;Features that are either close to, or already, finished include language detection, “look up in Wiktionary” (from any other app,) audio pronounciation of words and Word of the day.&lt;/p&gt;
+
+&lt;p&gt;Our wiki page: &lt;a href=&#34;https://mediawiki.org/wiki/UCOSP_Spring_2012&#34;&gt;https://mediawiki.org/wiki/UCOSP_Spring_2012&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our git repo: Current: &lt;a href=&#34;https://github.com/pfhayes/WiktionaryMobile&#34;&gt;https://github.com/pfhayes/WiktionaryMobile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our git repo: Future: &lt;a href=&#34;https://github.com/wikimedia/WiktionaryMobile&#34;&gt;https://github.com/wikimedia/WiktionaryMobile&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UMPLE&amp;#8217;s first status update</title>
+      <link>http://haruute0.github.io/winter-2012/2012/01/umples-first-status-update/</link>
+      <pubDate>Tue, 31 Jan 2012 14:43:38 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/01/umples-first-status-update/</guid>
+      <description>&lt;p&gt;James Zhao writes:&lt;/p&gt;
+
+&lt;p&gt;This is the first blog post from the UCOSP Umple Team for Winter 2012. We are working on &lt;a href=&#34;http://try.umple.org&#34;&gt;Umple&lt;/a&gt; project, which is a modeling tool and programming language which allows one to perform model-oriented programming.&lt;/p&gt;
+
+&lt;p&gt;My fellow USCOP colleagues have been working on some interesting projects. &lt;a href=&#34;https://code.google.com/p/umple/wiki/UCOSPLogAdamDzialoszynski&#34;&gt;Adam Dzialoszynski&lt;/a&gt; has been working on SQL statement generation, which allows Umple to generate an SQL database schema. &lt;a href=&#34;https://code.google.com/p/umple/wiki/UCOSPLogSonyaAdams&#34;&gt;Sonya Adams&lt;/a&gt; has been working on adding a new feature to the Umple language which allows a class to be declared as immutable. &lt;a href=&#34;https://code.google.com/p/umple/wiki/UCOSPLogJordanJohns&#34;&gt;Jordan Johns&lt;/a&gt; has been working on improving how code comments written in Umple code are saved and transferred to the compiled destination programming language code. &lt;a href=&#34;https://code.google.com/p/umple/wiki/UCOSPLunaLu&#34;&gt;Luna Lu&lt;/a&gt; is currently working on &lt;a href=&#34;https://code.google.com/p/umple/issues/detail?id=142&#34;&gt;issue 142&lt;/a&gt; which deals with a bug in the language where deletion on a object that has a 1-to-many association is not working. &lt;a href=&#34;https://code.google.com/p/umple/wiki/UCOSPSongBaeChoi&#34;&gt;Song Bae Choi&lt;/a&gt; is working on &lt;a href=&#34;https://code.google.com/p/umple/issues/detail?id=21&#34;&gt;issue 21&lt;/a&gt;, where Umple in a certain circumstance generates uncompilable Java code.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://code.google.com/p/umple/wiki/UCOSPLogJamesZhao&#34;&gt;What I have been working on&lt;/a&gt; is to make the Umple compiler appear more like the gcc compiler. I have started by adding command line options to the Umple compiler, implementing some of the simpler command line options, such as printing the current compiler version number. I am currently working on a command line option feature, which can control the programming language Umple will output.&lt;/p&gt;
+
+&lt;p&gt;After having started working on Umple for three weeks, I have learned how to look at large projects with multiple components. Also now understand the use of ant build scripts, which will be very useful in the future. A challenge now is juggling time between my other busy courses and Umple work. I expect this to be a very important skill to have since I would like to participate in more OpenSouce projects in the future.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MarkUS on the Code Sprint</title>
+      <link>http://haruute0.github.io/winter-2012/2012/01/markus-on-the-code-sprint/</link>
+      <pubDate>Tue, 31 Jan 2012 14:38:54 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/01/markus-on-the-code-sprint/</guid>
+      <description>&lt;p&gt;Oloruntobi (Tobi) Ogunbiyi writes:&lt;/p&gt;
+
+&lt;p&gt;The UCOSP code sprint for the winter 2012 semester was held at UBC, Vancouver between January 20th and 22nd. The MarkUs Canadian team for this semester is made up of 3 students from UBC, 4 students from University of Toronto, 1 from York, and 1 from SFU. MarkUs is an online marking tool that provides instructors with the ability to hand out assignments online, students with the ability to submit the assignments and graders with the ability to grade and give feedback to students.&lt;/p&gt;
+
+&lt;p&gt;Most of Friday was spent at getting MarkUs development environments set up. There was also a Distributed Version Control System tutorial focusing more on the general use of Git which was followed by a MarkUs specific Git tutorial. Due to numerous architecture and operating systems issues, we also had to spend part of Saturday setting up some environments while students already set up fixed some bugs. Sunday was spent working on bugs and saying good byes. By the end of the code sprint, we got to fix three bugs and start working on many more.&lt;/p&gt;
+
+&lt;p&gt;The code sprint this semester was great. We got to visit Vancouver and meet other UCOSP students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review Board Checks in</title>
+      <link>http://haruute0.github.io/winter-2012/2012/01/review-board-checks-in/</link>
+      <pubDate>Mon, 23 Jan 2012 03:01:26 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/01/review-board-checks-in/</guid>
+      <description>&lt;p&gt;I am Anthony Mok, and I am in my last term of the Computer Science program at the University of Waterloo. I picked the Review Board project for UCOSP due to favourable past experiences with the software and a desire to want to contribute to the community; it also felt like a good opportunity to learn new skills and technologies. I met the other students and Mike from the Review Board UCOSP team for the first time this weekend at the Code Sprint at UBC.&lt;/p&gt;
+
+&lt;p&gt;The sprint began with a short group session, and shortly afterwards we split up into our individual teams and began what would be a solid weekend of productivity. We set up our development environments and workflows, and although it wasn’t without hardware and software issues, we more or less got straight to work fixing bugs, picking up long-term projects, and doing peer code reviews using Review Board itself. The code sprint had many good lessons, both explicitly in the form of a git tutorial (a version control system that is crucial in sharing and backing up work between distributed team members), and implicitly as we got comfortable working with the other members of our group and got our code reviewed.&lt;/p&gt;
+
+&lt;p&gt;I have picked up a long-term project in the form of a helper script that will generate the scaffolding for Review Board extensions. Essentially, this will fill out a bare-bones skeleton for a working extension based on a simplified configuration scheme that will be provided by a user. Currently, documentation on extensions is scarce, but I hope to be able to flesh out documentation on the wiki page with fellow team member Steven.&lt;/p&gt;
+
+&lt;p&gt;I am posting this as I wait for my flight home from an exciting and productive code sprint. I am confident that working on the project will continue to be as enjoyable and enlightening as this code sprint has been.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter 2012 UCOSP Under Way!</title>
+      <link>http://haruute0.github.io/winter-2012/2012/01/winter-2012-ucosp-under-way/</link>
+      <pubDate>Sun, 22 Jan 2012 18:36:20 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/winter-2012/2012/01/winter-2012-ucosp-under-way/</guid>
+      <description>&lt;p&gt;UCOSP Winter 2012 sprint was held at UBC in Vancouver January 20-22. 38 students from 10 Canadian universities met to work on six different open source projects. Special thanks go to our project mentors and to Neil Ernst for taking care of the local preparations!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

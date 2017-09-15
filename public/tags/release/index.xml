@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/release/</link>
+    <description>Recent content in Release on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2010 03:18:34 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MarkUs 0.7.0 is ready to go!</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/04/markus-0-7-0-is-ready-to-go/</link>
+      <pubDate>Thu, 29 Apr 2010 03:18:34 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/04/markus-0-7-0-is-ready-to-go/</guid>
+      <description>&lt;p&gt;The MarkUs Team is proud to present &lt;a href=&#34;http://www.markusproject.org&#34;&gt;MarkUs 0.7.0&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.markusproject.org/?p=1528&#34;&gt;Click here to see our release announcement.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MarkUs 0.6.3 is out the door!</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</link>
+      <pubDate>Sat, 20 Mar 2010 22:02:43 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</guid>
+      <description>&lt;p&gt;The MarkUs Team is proud to present 0.6.3!  &lt;a href=&#34;http://blog.markusproject.org/?p=1429&#34;&gt;Full details here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MarkUs 0.6.2 is out!</title>
+      <link>http://haruute0.github.io/2009-2010/markus/2010/03/markus-0-6-2-is-out/</link>
+      <pubDate>Sun, 07 Mar 2010 23:30:25 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/markus/2010/03/markus-0-6-2-is-out/</guid>
+      <description>&lt;p&gt;The team is pleased to present 0.6.2!  &lt;a href=&#34;http://blog.markusproject.org/?p=1336&#34;&gt;Full details here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

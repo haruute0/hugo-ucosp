@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>&amp;quot;What we learnt&amp;quot; &#43; &amp;quot;Where we&amp;#039;ll go&amp;quot; &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>&amp;quot;What we learnt&amp;quot; &#43; &amp;quot;Where we&amp;#039;ll go&amp;quot;</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>19 Jan 2010, 15:12</time>
+  </div>
+
+  
+
+  
+
+  
+  
+  
+  <div>
+    <i class="fa fa-tags fa-fw"></i>
+    
+      <a class="post-taxonomy-tag" href="http://haruute0.github.iotags/Code-Sprint">Code Sprint</a>&nbsp;&#47;
+    
+      <a class="post-taxonomy-tag" href="http://haruute0.github.iotags/Ingres">Ingres</a>&nbsp;&#47;
+    
+      <a class="post-taxonomy-tag" href="http://haruute0.github.iotags/Winter-2010">Winter 2010</a>
+    
+  </div>
+  
+  
+
+</div>
+
+  <p>The day before the sprint, I knew of nothing about what I should do and what I can do in this project. I woke up at 5 on Friday morning, took a taxi to the bus terminal, got onto Greyhound to Toronto, got lost on our way to Bahen Centre (we were on University and College, 5 minutes away from Bahen, lol)  To my surprise, I arrived, and joined a team of people as lost as I was. We found out throughout the sprint, many differences between universities, the courses, the cultures, etc. But all of us being in our last year, I believe there&#8217;s one thing in common that we&#8217;ve learnt before we get there: Well, no one&#8217;s going to help us if we don&#8217;t start helping ourselves. Before long, the whole team started the sprint ourselves. We asked lots and lots of questions (Thank you very much Andrew for your detailed presentation and all your help even by having to whisper), we read wiki pages, downloaded source code and snorkeled in it. No one sat still waiting for an answer, there was no awkward silent moment as the team of &#8220;professionals&#8221; blended from the very first day and moved forward as one. The three days went by very quickly.</p>
+
+<p>We learnt the following during the sprint:</p>
+
+<p>&#8211; OpenLayers draws map using Web Mapping Service provided by Geoserver, which in turns uses Geotools to obtain GeoSpatial Data from databases. Geotools can currently talk to many databases but not Ingres.</p>
+
+<p>&#8211; In Geotools there are connectivity code under modules/plugin/jdbc and modules/plugin that uses various jdbc implementations to connect to various databases. There is also a deprecated version of the framework scheduled to be removed soon. Ingres team needs to make a similar jdbc implementation under Geotools to add support for Ingres.</p>
+
+<p>&#8211; Sara and Eva will be working on the Ingres server side to make sure GeoSpatial queries are handled properly, while Anthony, Henry, Xiaoxiao and Lim work on Geotools to add Ingres support.</p>
+
+<p>We decided the following during the sprint:</p>
+
+<p>The project lead will communicate with the team and with the community at large to keep everyone informed about the status of the team, and make sure the team is moving in the right direction. Lim will take on this role.</p>
+
+<p>The high-level view of the project is:</p>
+
+<p>&#8211; Study the code and play with Geotools in action</p>
+
+<p>&#8211; Design and plan potential changes to Geotools source tree</p>
+
+<p>&#8211; Implement the designs and also implement support for GeoSpatial data in Ingres</p>
+
+<p>&#8211; Unit test the Ingres connectivity code in Geotools, test GeoSpatial data support in Ingres, and system test Geotools actually using Ingres.</p>
+
+<p>Now everyone&#8217;s back to where they are from, but technology is constantly connecting us together. We are all a phone call/email/IM message away from each other, and we are preparing for the next get-together online every Monday with more progress to make.</p>
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/2009-2010/sprint/2010/01/the-pony-build-express/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/2009-2010/sprint/2010/01/the-pony-build-express/">The pony-build Express</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/2009-2010/flightsim/2010/01/flightsim-meeting-minutes-for-jan-192010/">Flightsim Meeting Minutes for Jan 19,2010</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/2009-2010/flightsim/2010/01/flightsim-meeting-minutes-for-jan-192010/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

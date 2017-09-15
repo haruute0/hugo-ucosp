@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>Status Reports: Mar 1, 2010 &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>Status Reports: Mar 1, 2010</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>03 Mar 2010, 14:14</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  
+
+<h2 id="brenda:5ab9d17520e55d5399ca0d2637cb74ae"><strong>Brenda</strong></h2>
+
+<h3 id="status:5ab9d17520e55d5399ca0d2637cb74ae">Status</h3>
+
+<ul>
+<li>Worked with Cory on fixing the patch I submitted for Bug 299965 (updating the view when a class is made in the default package of a project with a source folder). He made the fix and submitted the patch.</li>
+<li>Submitted a patch for Bug 303426 (Class Creation Wizard lists projects in the package selection menu). It fixes the main problem, but is not complete yet.</li>
+</ul>
+
+<h3 id="next-steps:5ab9d17520e55d5399ca0d2637cb74ae">Next Steps</h3>
+
+<ul>
+<li>Implement the second step for Bug 303426 so that the list of packages updates when the currently chosen project is changed.</li>
+<li>Look into highlighting the currently selected item from the dropdown list.</li>
+</ul>
+
+<h3 id="roadblocks:5ab9d17520e55d5399ca0d2637cb74ae">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    None.
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="cory:5ab9d17520e55d5399ca0d2637cb74ae"><strong>Cory</strong></h2>
+
+<h3 id="status-1:5ab9d17520e55d5399ca0d2637cb74ae">Status</h3>
+
+<ul>
+<li>Assisted Brenda on hiding package references (Bug 299965). I think we figured out the refresh issue, and I posted a new patch fixing that.</li>
+<li>Started work on the drag and drop feature (Bug 299878). Submitted a first-pass patch towards this feature.</li>
+<li>I dedicated a fair bit of hours to eclipse this past week as I had a break in my other classes; I&#8217;m expecting my next week or so will be dedicated to those classes instead &#8211; as usual I get plenty of new assignments at the last minute.</li>
+</ul>
+
+<h3 id="next-steps-1:5ab9d17520e55d5399ca0d2637cb74ae">Next Steps</h3>
+
+<ul>
+<li>Continue work on drag and drop.</li>
+<li>Look into small things as they arise.</li>
+</ul>
+
+<h3 id="roadblocks-1:5ab9d17520e55d5399ca0d2637cb74ae">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    Other classes
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="miles:5ab9d17520e55d5399ca0d2637cb74ae"><strong>Miles</strong></h2>
+
+<h3 id="status-2:5ab9d17520e55d5399ca0d2637cb74ae">Status</h3>
+
+<ul>
+<li>Refactored sections of the new Class creation wizards and constructors.</li>
+<li>Moved more of the customizability of the wizards and constructor to the templates so that the templates along with a template specific action really drive all of the differences between templates in the rest of the classes.</li>
+</ul>
+
+<h3 id="next-steps-2:5ab9d17520e55d5399ca0d2637cb74ae">Next Steps</h3>
+
+<ul>
+<li>Mostly the same as my last report.</li>
+<li>Add further functionality to the Class creation constructor and wizards specifically relating to packages.</li>
+<li>Make is so the Package field in the Class creation wizard is only displayed if there are packages created in the workspace.</li>
+<li>I would really like to start spending some time on figuring out how to simplify the menus and toolbars. This is such a big problem with the plug-in that it would be nice to get this fixed by the end of the semester.</li>
+</ul>
+
+<h3 id="roadblocks-2:5ab9d17520e55d5399ca0d2637cb74ae">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    No real roadblocks.
+  </li>
+  <li>
+    I guess I would love to get some higher level feedback on the refactoring that has been done to the new Class constructor and wizards. Thoughts about the way things are fitting together, other possible designs, as well as what kinds of issues to be aware of when writing this kind of code would be educational.
+  </li>
+</ul>
+
+<hr />
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/2009-2010/basie/2010/03/veronicas-midterm-report/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/2009-2010/basie/2010/03/veronicas-midterm-report/">Veronica&amp;#039;s Midterm Report</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/2009-2010/uncategorized/2010/03/railsconf-10/">RailsConf &amp;#039;10</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/2009-2010/uncategorized/2010/03/railsconf-10/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

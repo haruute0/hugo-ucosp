@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+
+  <title>Status Reports: Feb 8, 2010 &middot; My New Hugo Site</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="http://haruute0.github.ioimg/favicon.ico" type="image/x-icon" />
+
+  
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>Status Reports: Feb 8, 2010</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>10 Feb 2010, 13:17</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  
+
+<h2 id="brenda:43da41c1ee8215c87943c8409b14773d"><strong>Brenda</strong></h2>
+
+<h3 id="status:43da41c1ee8215c87943c8409b14773d">Status</h3>
+
+<ul>
+<li>Submitted a patch for Bug 299965 so that the default package and src folder are hidden, but explicitly made packages and other source folders are not (for the sake of comparing different approaches to this problem).</li>
+<li>Submitted a patch for Bug 300388 to rename the Scheme interpreter extension point and schema.</li>
+</ul>
+
+<h3 id="next-steps:43da41c1ee8215c87943c8409b14773d">Next Steps</h3>
+
+<ul>
+<li>Look into the Scheme perspective more and some of the bugs that have been opened in regards to that (for example, Bugs 299866, 299867 and 299868).</li>
+</ul>
+
+<h3 id="roadblocks:43da41c1ee8215c87943c8409b14773d">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    None
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="cory:43da41c1ee8215c87943c8409b14773d"><strong>Cory</strong></h2>
+
+<h3 id="status-1:43da41c1ee8215c87943c8409b14773d">Status</h3>
+
+<ul>
+<li>Put forth a list of ideas / suggestions on areas to improve the usability of Java Lite and emailed that out to the mailing list.</li>
+<li>Posted some results of my research towards simplifying toolbars / menus (Bug 299848).</li>
+<li>Added a new patch for Bug 299689 (fixed go to workbench link from start screen).</li>
+<li>Added 2 new bugs and posted a patch to address them. (Bug 302052 &#8211; Refactoring out LiteLaunchShortcutsAction, and Bug 302054 &#8211; renaming JavaLiteProjectWizard to match other source files, the posted patch also address an NPE).</li>
+</ul>
+
+<h3 id="next-steps-1:43da41c1ee8215c87943c8409b14773d">Next Steps</h3>
+
+<ul>
+<li>Continuing to work on small bugs. Might look into Bug 299878 (dragging files) or Bug 299873 / 875 (deleting items).</li>
+<li>Will be bringing up some questions regarding the future of the java lite package explorer, and if these bugs are worth fixing given the current state of the class.</li>
+</ul>
+
+<h3 id="roadblocks-1:43da41c1ee8215c87943c8409b14773d">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    Other classes; I&#8217;ve been extremely busy the previous week, and this week isn&#8217;t looking very good either. Also, reading week begins next week, and midterms are shortly thereafter..
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="miles:43da41c1ee8215c87943c8409b14773d"><strong>Miles</strong></h2>
+
+<h3 id="status-2:43da41c1ee8215c87943c8409b14773d">Status</h3>
+
+<ul>
+<li>Working on the templates for class creation to distinguish between “programs” (classes with main methods) and “classes” (object oriented programming units).</li>
+<li>Tried to figure out how to get a Template evaluated and put the generated code back into the CompilationUnit. Not sure this is going to work or be worth the effort. I thought this might be a more elegant way to deal with the information already stored in the CompilationUnit like the class name and the package name.</li>
+<li>May need to just generate the text all at once in the action or wizard and then send the text to the class constructor.</li>
+</ul>
+
+<h3 id="next-steps-2:43da41c1ee8215c87943c8409b14773d">Next Steps</h3>
+
+<ul>
+<li>Continue working on initial code generation. Hope to get a couple of ideas developed.</li>
+</ul>
+
+<h3 id="roadblocks-2:43da41c1ee8215c87943c8409b14773d">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    Trying to figure out how to avoid internal JDT code is difficult.
+  </li>
+  <li>
+    I suspect this is going to be a major roadblock for this project. Reinventing the wheel for each thing we want to do is not going to be fun.
+  </li>
+</ul>
+
+<hr />
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://haruute0.github.io/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-09-2010/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://haruute0.github.io/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-09-2010/">Data Server Flight Simulator meeting minutes for Feb 09, 2010</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://haruute0.github.io/2009-2010/basie/2010/02/basie-progress/">Basie progress</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://haruute0.github.io/2009-2010/basie/2010/02/basie-progress/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
+
+  
+
+</div>
+
+</div>
+</div>
+<script src="http://haruute0.github.iojs/ui.js"></script>
+
+
+
+
+</body>
+</html>
+

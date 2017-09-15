@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pony Build on My New Hugo Site</title>
+    <link>http://haruute0.github.io/tags/pony-build/</link>
+    <description>Recent content in Pony Build on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Apr 2010 14:24:52 +0000</lastBuildDate>
+    <atom:link href="http://haruute0.github.io/tags/pony-build/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pony-build Updates</title>
+      <link>http://haruute0.github.io/2009-2010/status/2010/04/pony-build-updates/</link>
+      <pubDate>Wed, 07 Apr 2010 14:24:52 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/status/2010/04/pony-build-updates/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Khushboo:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Khushboo has been wrestling with git and getting her branch(s) to push properly.  Some very informative posts can be found on her &lt;a href=&#34;http://kshakyaz.wordpress.com/&#34;&gt;blog&lt;/a&gt;. She also continues creating build scripts for other python packages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fatima:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fatima has been working on getting branch support in for Mecurial checkouts in pony-build, to go along with the new changes, she has also been working on tests. You can read up on all her research into the subject as well as her progress over at her &lt;a href=&#34;http://cherkf.wordpress.com/&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jack:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jack has been continuing his work on his pony-client &lt;a href=&#34;http://github.com/JackCarlson/pony-build/commits/pony-client_rework&#34;&gt;changes&lt;/a&gt;. During his work on this he stumbled onto another bug with forcing builds that he is looking in to also.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Max:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Max has implemented a fix for defaulting to an in-memory db for the server. He has also been working on some failure conditions within build steps under a certain context. He,however, has taken a break from the perils of subprocess timeouts until he can secure a windows machine for proper testing. You can mozy on over to his &lt;a href=&#34;http://mlaite.blogspot.com/&#34;&gt;blog&lt;/a&gt; for more info.&lt;/p&gt;
+
+&lt;p&gt;_&lt;/p&gt;
+
+&lt;p&gt;_&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Edit: When is pony-build going to get some love and have our own Category?&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Max&amp;#039;s Midway Update</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2010/02/maxs-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 19:58:18 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2010/02/maxs-midway-update/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mlaite.blogspot.com/2010/02/midway.html&#34;&gt;Here&lt;/a&gt; is where you can find my thoughts on all this UCOSP and pony-build stuff so far.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indentation&amp;#8230;.Serious Business</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2010/02/indentation-serious-business/</link>
+      <pubDate>Sun, 21 Feb 2010 17:38:16 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2010/02/indentation-serious-business/</guid>
+      <description>&lt;p&gt;The pony-build team just had our weekly meeting the other night and the following is what people have been working on:&lt;/p&gt;
+
+&lt;p&gt;1) Jack has been working on some command line stuff. You can follow his thread &lt;a href=&#34;http://lists.idyll.org/pipermail/pony-build/2010-February/000042.html&#34;&gt;here&lt;/a&gt;, for descriptions of his changes as well as what he is planning to tackle next.&lt;/p&gt;
+
+&lt;p&gt;2) Fatima has been working on getting her coverage build script finished up and working, as well as refining the HgClone implementation in the pony-build client. You can follow along on her progress &lt;a href=&#34;http://cherkf.wordpress.com/2010/02/15/37/&#34;&gt;here&lt;/a&gt;, which is a great post on never giving up. The following thread all so pertains to her work on HgClone. &lt;a href=&#34;http://lists.idyll.org/pipermail/pony-build/2010-February/000067.html&#34;&gt;Following&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;3) Khushboo has been working on refining and finishing up her nose pony-build build script. See the following two posts on her blog for more info &lt;a href=&#34;http://kshakyaz.wordpress.com/2010/02/14/conflicting-merges/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://kshakyaz.wordpress.com/2010/02/20/40/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;4) I have finished up some automatic folder creation stuff for GitClone and started to work on some things with virtualenv support. You can follow the cach_dir stuff &lt;a href=&#34;http://lists.idyll.org/pipermail/pony-build/2010-February/000067.html&#34;&gt;here&lt;/a&gt;. The following thread covers some discussion on the virtualenv stuff&amp;#8211;&lt;a href=&#34;http://lists.idyll.org/pipermail/pony-build/2010-February/000035.html&#34;&gt;thread&lt;/a&gt;. Also see the following blog posts for more info on these items. &lt;a href=&#34;http://mlaite.blogspot.com/2010/02/slowing-to-trot.html&#34;&gt;Post 1&lt;/a&gt; and &lt;a href=&#34;http://mlaite.blogspot.com/2010/02/we-messed-up-dude.html&#34;&gt;Post 2&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting up to speed with Pony-Build</title>
+      <link>http://haruute0.github.io/2009-2010/uncategorized/2010/01/getting-up-to-speed-with-pony-build/</link>
+      <pubDate>Mon, 25 Jan 2010 06:20:57 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/uncategorized/2010/01/getting-up-to-speed-with-pony-build/</guid>
+      <description>&lt;p&gt;Since we couldn’t all meet for the Sprint code in Toronto, the first steps into pony-build were to get to speed with the software layout and with working with Git. We were constantly communicating via Skype and our group lead Pr. Titus was very patient and helpful throughout the process.&lt;/p&gt;
+
+&lt;p&gt;We first got the software running on Linux via Lyorn then on our own computer (on Windows and Mac). Then our next task was to write one of the client scripts for existing packages, commit it, and push it to Github.  We had the option to adapt existing scripts to build our own package.&lt;/p&gt;
+
+&lt;p&gt;The build commands are usually individual to each package, so our next task is to make sure the build scripts actually build and report to the central server as expected.&lt;/p&gt;
+
+&lt;p&gt;Being in the pony-build team is a continuous learning experience that I&amp;#8217;m enjoying everyday more and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The pony-build Express</title>
+      <link>http://haruute0.github.io/2009-2010/sprint/2010/01/the-pony-build-express/</link>
+      <pubDate>Tue, 19 Jan 2010 12:44:37 +0000</pubDate>
+      
+      <guid>http://haruute0.github.io/2009-2010/sprint/2010/01/the-pony-build-express/</guid>
+      <description>&lt;p&gt;As the dust settles from this years Spring Code Sprint, I am left with some interesting reflections. One, coding for 9 hours straight sure gets hard without proper caffeine intake, maybe an IV drip will be a good investment for the next one. Two, ordering lots of food when someone else is paying is lots of fun, even if you end up walking (waddling?) out with some of it in a bag. Three, you can never have a shortage of computer related jokes or quips with rooms full of CSC majors.&lt;/p&gt;
+
+&lt;p&gt;The only sad part of my Sprint experience was that my group was unable to make it up to Toronto. Luckily for us Al Gore was able to invent the internet, so no matter how far apart people are we can get stuff going. With &lt;a href=&#34;http://ivory.idyll.org/blog&#34; target=&#34;_blank&#34;&gt;Titus&lt;/a&gt;, our fearless leader, at the helm we quickly got the ball rolling.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We where able to get the remote group members setup and running &lt;a href=&#34;http://github.com/ctb/pony-build&#34; target=&#34;_blank&#34;&gt;pony-build&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We cleaned up and implemented the &lt;a href=&#34;http://pypi.python.org/pypi/virtualenv&#34; target=&#34;_blank&#34;&gt;virtualenv&lt;/a&gt; support for build recipes.&lt;/li&gt;
+&lt;li&gt;We began work on some other improvements and bug fixes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My work at the Code sprint was on getting virtualenv support working properly and working on this &lt;a href=&#34;http://github.com/ctb/pony-build/issues#issue/6&#34; target=&#34;_blank&#34;&gt;issue&lt;/a&gt;. All and all it was a fairly successful two days. Since pony-build is in such an early alpha state, our team will pretty much be able to mold it however we want. I am looking forward to working on this project throughout the semester and seeing where we can take it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
