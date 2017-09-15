@@ -4,7 +4,8 @@ install:
   - go get -v github.com/gohugoio/hugo
 
 script:
-  - hugo
+  - hugo --theme=blackburn
+  - touch public/.nojekyll
   
 deploy:
   provider: pages
