@@ -2,4 +2,4 @@ baseURL: "http://haruute0.github.io/hugo-ucosp/"
 disablePathToLower: true
 languageCode: en-us
 title: UCOSP
-theme: "heater-hugo-master"
+theme: "heather-hugo-master"
