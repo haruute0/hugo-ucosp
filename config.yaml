@@ -3,3 +3,6 @@ disablePathToLower: true
 languageCode: en-us
 title: UCOSP
 theme: heather-hugo-master
+
+params:
+  customCSS: ["/hugo-ucosp/style.css"]
