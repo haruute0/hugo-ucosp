@@ -1,8 +1,4 @@
-baseURL: "/hugo-ucosp"
+baseURL: https://haruute0.github.io/hugo-ucosp
 disablePathToLower: true
 languageCode: en-us
 title: UCOSP
-theme: heather-hugo-master
-
-params:
-  customCSS: ["https://github.com/haruute0/hugo-ucosp/blob/gh-pages/style.css"]
