@@ -5,4 +5,4 @@ title: UCOSP
 theme: heather-hugo-master
 
 params:
-  customCSS: ["/hugo-ucosp/style.css"]
+  customCSS: ["https://github.com/haruute0/hugo-ucosp/blob/gh-pages/style.css"]
