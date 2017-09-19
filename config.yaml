@@ -1,4 +1,4 @@
-baseURL: "//haruute0.github.io/hugo-ucosp/"
+baseURL: //haruute0.github.io/hugo-ucosp/
 disablePathToLower: true
 languageCode: en-us
 title: UCOSP
