@@ -1,0 +1,158 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/weekly-statusroadblockswhats-next-report-from-wikidev/" title="weekly status/roadblocks/what&amp;#039;s next report from WikiDev">weekly status/roadblocks/what&amp;#039;s next report from WikiDev</a></h1>
+  
+
+<h2 id="eric">Eric</h2>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Just finished building a test suite for the xmi parser.</li>
+<li>See the testing plan for an overview of how it works.</li>
+<li>The main body of the code lives in xmi parser/src/testsuite/testsuite.sh.
+<strong>Roadblocks</strong>
+<br /></li>
+</ul>
+
+<p>Looking to the future, I&#8217;m not sure how to get ramped up on what Bolthale is doing &#8211; when the parser is done Team Waterloo is supposed to switch to helping him out. I need to get this figured out by next week.</p>
+
+<p><strong>Next Steps</strong></p>
+
+<ul>
+<li>Add suitable tests to the test suite as we go.</li>
+
+<li><p>Work with Owen to do general cleanup of the code we&#8217;ve taken ownership of.</p>
+
+<p>Pushed back to this week when I took full ownership of the test suite.</p>
+
+<h2 id="owen">Owen</h2></li>
+</ul>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Parsed associations into a separate DB table, storing the entity ID and multiplicity of each endpoint</li>
+
+<li><p>Created a new test UML diagram and XMI file for associations using the 2 different aggregation types (composite and shared)
+<strong>Roadblocks</strong></p></li>
+
+<li><p>The eUML plugin for Eclipse is somewhat buggy
+<strong>Next Steps</strong></p></li>
+
+<li><p>Parse the aggregation type of each association endpoint</p></li>
+
+<li><p>Create some test cases for the test suite</p></li>
+
+<li><p>Clean up the Java code</p></li>
+
+<li><p>Look into using the SchemaSpy tool (<a href="http://schemaspy.sourceforge.net/">http://schemaspy.sourceforge.net/</a>) for visualizing the JDEvAn database</p>
+
+<h2 id="alex">Alex</h2></li>
+</ul>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Parse the sample XML file to get the information about Class and the relationship</li>
+<li>Finish the basic rending for one Class, with methods, fields &amp; artifacts (e.g. emails, articles and so on)</li>
+
+<li><p>Clean up the code from previous application (wiki map)
+<strong>Roadblocks</strong></p></li>
+
+<li><p>Need to find a way to represent the global structure for all the classes</p></li>
+
+<li><p>Link all the info together to have a top-down view
+<strong>Next Steps</strong></p></li>
+
+<li><p>Add the relationship between multiple classes</p></li>
+
+<li><p>come up with standard URL request to get the real data</p></li>
+
+<li><p>Integration with the server part</p>
+
+<h2 id="holly">Holly</h2></li>
+</ul>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Discussed API to be used between Team SFU and Team UVic</li>
+<li>Better idea of what WikiDev is doing &#8211; I keep thinking I have an idea, and then getting it updated. Progress!</li>
+
+<li><p>Moving towards finalizing XML format
+<strong>Roadblocks</strong></p></li>
+
+<li><p>Nothing, other than the usual scarcity of time.
+<strong>Next Steps</strong></p></li>
+
+<li><p>Make it look more like a UML diagram &#8211; move methods/fields inside class definition</p></li>
+
+<li><p>Make the node filters along the side work (goal to get it done today, but set the deadline for our next meeting)</p>
+
+<h2 id="botlhale">Botlhale</h2></li>
+</ul>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Held an online meeting with team SFU to discuss the interface issues</li>
+<li>Discussed about and designed an XML schema to be returned when searching using pjsnapshotid</li>
+<li>Set up an environment to test PHP code (IIS and PHP) and verified it connects to the project server</li>
+<li>Discussed how querying using pjsnapshotid can possibly be accomplished</li>
+
+<li><p>Clarification on the expected API&#8217;s
+<strong>Next Steps</strong></p></li>
+
+<li><p>Transforming the PHP code to have the methods getClasses() and getClassDetails(), initially designed the PHP code procedurally</p></li>
+
+<li><p>Write SQL statements to query by pjsnapshotid</p></li>
+
+<li><p>On verifying the SQL statement results, transform them into PHP to write the results in XML format that can be used by the flash team</p></li>
+
+<li><p>Resolve any interface issues that might arise when writing code
+<strong>Roadblocks</strong></p></li>
+</ul>
+
+<p>Failing to open an XML file input stream in a local environment setup to run PHP, issue to resolved by reading online articles</p>
+
+  <p class="small gray"><time datetime="2009-10-22">Oct 22, 2009</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

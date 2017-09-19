@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse4edu on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/eclipse4edu/</link>
+    <description>Recent content in Eclipse4edu on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Mar 2010 15:04:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/eclipse4edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Status Reports: Mar 29, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-29-2010/</link>
+      <pubDate>Wed, 31 Mar 2010 15:04:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-29-2010/</guid>
+      <description>Brenda
+Status  Looked further into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu. This may not actually be a task I can accomplish before the code freeze, taking into account the other things I had also intended to finish before then.  Final Steps  Look into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu. Go back to Bug 299342: &amp;ldquo;New Java Package&amp;rdquo; option should automatically create a Java Project, to use the NewJavaProjectConstructor to create the default project.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 22, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-22-2010/</link>
+      <pubDate>Wed, 24 Mar 2010 13:28:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-22-2010/</guid>
+      <description>Brenda Status  Submitted a patch to Bug 301326 to handle the possibility of multiple source folders when creating a new class using the constructor. Reported Bug 306651 and submitted a patch for it that creates a package constructor like those for projects and classes, including tests. It also includes a rework of the Package Creation Wizard to use the constructor, along the lines of the project and class wizards.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/eclipse4edu-meeting-minutes-4/</link>
+      <pubDate>Fri, 19 Mar 2010 18:47:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/eclipse4edu-meeting-minutes-4/</guid>
+      <description>We had a brief meeting today and here is the summary.
+Present: Brenda, Cory
+Absent: Miles
+Drag and Drop
+&amp;#8211; Cory is still plugging away at implementing this, as it is not a small task. If anyone is interested in looking at it and providing feedback, it would be beneficial.
+&amp;#8211; He is also wondering if anyone has priorities or features in mind in regards to drag and drop.
+Class Wizard</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 15, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-15-2010/</link>
+      <pubDate>Wed, 17 Mar 2010 18:12:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-15-2010/</guid>
+      <description>Brenda Status  Reworked the patch for Bug 303426 to fix the problem Wayne noted. I found the solution to Bug 303581 and included it in this patch as the code greatly overlapped and the problems were related. Made note of this in Bug 303581. Started investigating into Bug 303420 (Simplify the user experience when renaming a type from the pop-up menu) to see how this should be done. I have the main outline coded, but I&amp;#8217;m still figuring out how to pull in the refactoring functionality to use in conjunction with this code.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 8, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-8-2010/</link>
+      <pubDate>Wed, 10 Mar 2010 15:10:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-8-2010/</guid>
+      <description>Brenda Status  Submitted a patch for Bug 303426 that fixes the unresolved issues with the previous patch. The package dropdown menu should now list the packages in the currently selected project, and update when a different project is chosen. The patch also makes sure the default package is listed as &amp;ldquo;(default package)&amp;rdquo; rather than a blank line.  Next Steps  Look into issues with the NewJavaClassConstructor class. Specifically, address Bug 303581 and several of the TODOs and FIXMEs in the code where possible.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 1, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-1-2010/</link>
+      <pubDate>Wed, 03 Mar 2010 14:14:33 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-1-2010/</guid>
+      <description>Brenda Status  Worked with Cory on fixing the patch I submitted for Bug 299965 (updating the view when a class is made in the default package of a project with a source folder). He made the fix and submitted the patch. Submitted a patch for Bug 303426 (Class Creation Wizard lists projects in the package selection menu). It fixes the main problem, but is not complete yet.  Next Steps  Implement the second step for Bug 303426 so that the list of packages updates when the currently chosen project is changed.</description>
+    </item>
+    
+    <item>
+      <title>Dwight’s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/dwight%e2%80%99s-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 14:28:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/dwight%e2%80%99s-midterm-report/</guid>
+      <description>This term’s version of IDE4EDU is much the same as last terms. The output of our three students (Brenda, Cory and Miles) has been comparable to last term’s effort and Wayne and I are happy with their consistent progress. On the communication side, there has not been as much online traffic as last term, but that has not seemed to prevent the group from moving forward.
+Like last term, the main issue IDE4EDU faces is the action of committing code.</description>
+    </item>
+    
+    <item>
+      <title>Miles Midway Madness</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/miles-midway-madness-2/</link>
+      <pubDate>Sun, 28 Feb 2010 00:07:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/miles-midway-madness-2/</guid>
+      <description>Eclipse4Edu has gone fairly well. I feel like I am pretty much on track. I&amp;#8217;ve been trying to put in one day a week towards this project and I&amp;#8217;ve pretty much managed to do that. I think my major goals for this semester are to get the new Java class wizards and classes in good shape and get a good handle on simplifying the menus and toolbars by the end of the semester.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-3/</link>
+      <pubDate>Fri, 26 Feb 2010 22:05:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-3/</guid>
+      <description>We had a brief meeting today; here is what we discussed.
+Present: Miles, Cory and Brenda
+Absent: No one
+Naming
+&amp;#8211; Educlipse (or EduEclipse) is short, concise and demonstrates what it is – a version of Eclipse meant for education.
+&amp;#8211; Eclipse IDE for Education fits well with the naming schemes for other Eclipse products.
+&amp;#8211; The consensus between us still seems to be Educlipse or EduEclipse, however.
+Templates
+&amp;#8211; Discussed opening an extension point for the templates; we shouldn’t need more than 2-4 templates ourselves.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 22, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-22-2010/</link>
+      <pubDate>Fri, 26 Feb 2010 16:38:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-22-2010/</guid>
+      <description>Brenda Status  Looked further into the use of plugin_customization.ini for setting the default perspective and it seems this file is created when we compile a standalone RCP App. Cory posted details on its use in Bug 299869. Submitted bug reports 303425, 303426 and 303427, related to the Class and Package wizards. Submitted a patch that alters my previous patch for hiding packages and source folders so that all source folders are hidden, not just those named &amp;ldquo;src&amp;rdquo; Looked into the other issue Wayne found with this patch (project explorer view not always updating), but haven&amp;#8217;t come to a solution yet.</description>
+    </item>
+    
+    <item>
+      <title>Brenda&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/brendas-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 04:25:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/brendas-midway-update/</guid>
+      <description>So far, Eclipse4Edu has been a very useful experience for me. It’s the first project I’ve worked on where the codebase wasn’t written entirely by myself or by my team of 2-3 students. This has definitely been difficult, but like I said, useful. That combined with the complex framework and abstraction of Eclipse has made tasks that seem relatively trivial suddenly much more time-consuming. I’ve spent a fair amount of time simply looking through the code to familiarize myself with how things were implemented by others that have worked on the project.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu &amp;#8211; Cory&amp;#039;s Midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-corys-midterm-update/</link>
+      <pubDate>Tue, 23 Feb 2010 00:27:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-corys-midterm-update/</guid>
+      <description>So I guess its that time &amp;#8211; reading week just finished, and we are halfway through the term &amp;#8211; yikes!
+In the Eclipse4Edu camp, we are starting to get into the thick of the project. I won&amp;#8217;t lie, it was a pretty slow start&amp;#8230; programming the Eclipse framework is large, complex, and has a layer of abstraction for everything. I like to consider myself fairly competent with Java, but the Eclipse framework almost always has a different (sometimes non-intuitive) alternative solution to everything.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-2/</link>
+      <pubDate>Fri, 19 Feb 2010 20:52:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-2/</guid>
+      <description>Meeting Minutes February 19th, 2010
+Present: Cory and Brenda
+Not present: Miles
+Brenda
+&amp;#8211; Fixed the patch to Bug 299965 to hide all source folders, not just those named “src”.
+&amp;#8211; Is looking into the issue with the project explorer view not updating under the circumstances that Wayne brought up in that bug. It could be that elements are being filtered out and the refresh code is looking at the same list of elements and thus doesn’t know the elements exist.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 15, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-15-2010/</link>
+      <pubDate>Thu, 18 Feb 2010 15:41:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-15-2010/</guid>
+      <description>Brenda Status  I didn&amp;#8217;t look as much into Scheme as I had intended because in our conference call, Wayne mentioned that the code provided likely can&amp;#8217;t be committed. I decided to look into some other bugs instead. Submitted a patch for Bug 301718 to update the Build Your First Program cheat sheet. Submitted a patch for Bug 299459 to allow the user to rename files (since refactoring has been removed).</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 8, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-8-2010/</link>
+      <pubDate>Wed, 10 Feb 2010 13:17:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-8-2010/</guid>
+      <description>Brenda Status  Submitted a patch for Bug 299965 so that the default package and src folder are hidden, but explicitly made packages and other source folders are not (for the sake of comparing different approaches to this problem). Submitted a patch for Bug 300388 to rename the Scheme interpreter extension point and schema.  Next Steps  Look into the Scheme perspective more and some of the bugs that have been opened in regards to that (for example, Bugs 299866, 299867 and 299868).</description>
+    </item>
+    
+    <item>
+      <title>Summary of the Week</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/summary-of-the-week/</link>
+      <pubDate>Fri, 05 Feb 2010 21:00:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/summary-of-the-week/</guid>
+      <description>We had a meeting today at 2:00 PM Eastern Time.
+Present: Cory and Brenda
+Not Present: Miles (his computer broke)
+Here&amp;#8217;s what&amp;#8217;s been going on:
+Brenda
+&amp;#8211; Discussed possibilities in regards to hiding packages from the user.
+&amp;#8211; Looked into different ways of showing/hiding packages and posted another patch for Bug 299965 for use in comparing the alternatives.
+Cory
+&amp;#8211; Discussed possibilities in regards to hiding packages from the user.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 1, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-1-2010/</link>
+      <pubDate>Wed, 03 Feb 2010 14:32:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-1-2010/</guid>
+      <description>Brenda Status  Submitted a patch for Bug 299965 so that projects made outside the Lite perspective will also hide packages (and the source folder). Explored and discussed other possibilities with respect to this bug (hiding all packages versus select ones, and making beginner, intermediate and advanced levels of Java Lite which determine whether or not packages are shown).  Next Steps  Try another angle for Bug 299965 based on Wayne&amp;#8217;s comments in the conference call and on the bug page.</description>
+    </item>
+    
+    <item>
+      <title>Small Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/small-update/</link>
+      <pubDate>Sat, 30 Jan 2010 03:24:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/small-update/</guid>
+      <description>After our conference call today, here&amp;#8217;s a summary of the current situation of what I&amp;#8217;ve been working on, as well as the direction this aspect of the project is going:
+The past couple weeks, I&amp;#8217;ve been working on hiding references to packages (in the project explorer, as well as buttons and menus that allow the user to create a new package).
+The concept that is being discussed is that we don&amp;#8217;t want the user to work in Java Lite for the first month or so of their course, then come to the point where they switch to the regular Java perspective and become overwhelmed by the sudden presence of many tools they have not been introduced to.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Jan 25, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-25-2010/</link>
+      <pubDate>Wed, 27 Jan 2010 16:17:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-25-2010/</guid>
+      <description>Brenda Status  Worked on Bug 299965 to hide packages from the user and posted a patch for the bug. An outstanding issue with this however is that if a project is made outside of Java Lite, the src folder and any packages within it are visible (that is, the patch works for projects made through the Java Lite project wizard only).  Next Steps  Work on the issue mentioned above so that projects made outside the Lite perspective will also hide packages (and the src folder).</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/eclipse4edu-meeting-minutes/</link>
+      <pubDate>Sat, 23 Jan 2010 01:35:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/eclipse4edu-meeting-minutes/</guid>
+      <description>The meeting was held at 2:00 EST today and all members were present.
+Brenda
+&amp;#8211; Working on hiding packages from the user
+&amp;#8211; Buttons are easily hidden
+&amp;#8211; Has been able to identify which elements of the package explorer are in fact packages, but is stuck on reworking the hierarchy so that the view skips over the package level
+Cory
+&amp;#8211; Working on hiding menus and toolbars
+&amp;#8211; Tried making his own RCP app because it seems this might be the best approach to get rid of unneeded menus and toolbars</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Jan 18, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-18-2010/</link>
+      <pubDate>Wed, 20 Jan 2010 15:40:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-18-2010/</guid>
+      <description>Brenda
+Status  Attended the Code Sprint Spent a lot of time looking through the code, getting an idea for the framework. Reported several bugs for the Java Lite perspective. Tested the patch for Bug 244645 (making a new class in an empty workspace). I agree with it and also posted a new bug (299342) with a patch that does the equivalent for making a new package. However, after the code sprint, we decided that packages should be done away with overall (that is, hidden).</description>
+    </item>
+    
+    <item>
+      <title>Listing of useful eclipse shortcut keys</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/listing-of-useful-eclipse-shortcut-keys/</link>
+      <pubDate>Tue, 19 Jan 2010 20:21:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/listing-of-useful-eclipse-shortcut-keys/</guid>
+      <description>Just felt like sticking a list of potentially useful eclipse shortcuts in one place. Feel free to comment and share some of your favorite keyboard shortcuts for eclipse!
+So I will start off with a couple that we shared and learned about from the code sprint last weekend:
+ plugin spy &amp;#8211; alt + shift + F2 (then click something to ID it) open file by name &amp;#8211; ctrl + shift + T delete whole line(s) without selecting all text &amp;#8211; ctrl + d comment out whole line(s) &amp;#8211; ctrl + / (Note: can be used to undo commented line too) Organize imports &amp;#8211; ctrl + shift + O Format source code &amp;#8211; ctrl + shift + F  </description>
+    </item>
+    
+    <item>
+      <title>Day 3 of the Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</link>
+      <pubDate>Sun, 17 Jan 2010 19:50:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</guid>
+      <description>This weekend, we focused on finding the main aspects of the program that we think need working on and deciding where to go with each one. Specifically, there was the simplification of toolbars and menus to cater to beginner programmers, comparing the Java versus Scheme parts of the project and approaching the open bugs that have already been identified. Also we experimented with the program from a first year student standpoint to determine what is and isn&amp;#8217;t necessary and went from there.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Days 1 &amp;amp; 2: IDE4EDU</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/code-sprint-days-1-2-ide4edu/</link>
+      <pubDate>Sat, 16 Jan 2010 23:10:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/code-sprint-days-1-2-ide4edu/</guid>
+      <description>Hello!
+So our project involves making Eclipse soft and fuzzy. So we are trying to hide 90% of Eclipse from the beginner programmer. Currently we are working on trying to hide menu commands and tool bar items in a non-random manner. The challenge is that we are not really creating new code (which there is tonnes of material about) but trying to find the sections of the Eclipse code that we need to modify or overrule and there&amp;#8217;s a lot of Eclipse code to sift through.</description>
+    </item>
+    
+    <item>
+      <title>Miles Billsman</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/miles-billsman/</link>
+      <pubDate>Fri, 08 Jan 2010 16:11:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/miles-billsman/</guid>
+      <description>Hello there, I&amp;#8217;m Miles and I&amp;#8217;ll be working on Eclipse IDE for Education project. I&amp;#8217;m looking forward to learning about working on open-source projects and the Eclipse GUI framework.
+
+&amp;#8230; I feel like I&amp;#8217;m writing a dating profile &amp;#8211; &amp;#8220;I like moonlit walks on the beach and death metal bands that dress up like goblins.&amp;#8221; &amp;#8230;
+I&amp;#8217;m a 4th year student at University of Toronto so I&amp;#8217;ll be graduating and getting a jobby-job shortly.</description>
+    </item>
+    
+    <item>
+      <title>Cory Matheson</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cory-matheson/</link>
+      <pubDate>Mon, 28 Dec 2009 23:54:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cory-matheson/</guid>
+      <description>Greetings from Edmonton! My name is Cory Matheson, and I will be working on the Eclipse4Edu project for the Winter 2010 term. A little about myself: I&amp;#8217;m currently in my 4th year as a Comp Sci student with the University of Alberta. I just finished an 8-month work-term with Research In Motion in Waterloo, Ontario; I worked with the BlackBerry Crypto / Security development team. I had a great time in Waterloo and did some really interesting work at RIM (and I can&amp;#8217;t live without a BlackBerry now!</description>
+    </item>
+    
+    <item>
+      <title>Brenda Sadoway</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/brenda-sadoway/</link>
+      <pubDate>Mon, 21 Dec 2009 03:48:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/brenda-sadoway/</guid>
+      <description>Hi, I&amp;#8217;m Brenda Sadoway and I&amp;#8217;m in my third year of Computing Science at the University of Alberta. I&amp;#8217;m excited to be working on Eclipse4Edu this semester, after having used Eclipse myself for the first time this fall. Outside of CS, I&amp;#8217;m also interested in languages (not the programming kind!), reading and playing the piano. I look forward to meeting you all in Toronto in January!
+-Brenda</description>
+    </item>
+    
+    <item>
+      <title>Embedded Eclipse4Edu Screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/12/embedded-eclipse4edu-screencast/</link>
+      <pubDate>Sun, 06 Dec 2009 23:00:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/12/embedded-eclipse4edu-screencast/</guid>
+      <description>[youtube=http://www.youtube.com/watch?v=i1BJrptWPfA]
+I guess since I am in Computing Science I should be able to embed a video into a blog.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse 4 Edu Screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/eclipse-4-edu-screencast/</link>
+      <pubDate>Sat, 05 Dec 2009 05:55:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/eclipse-4-edu-screencast/</guid>
+      <description>Here is our screen cast of our Scheme 4 Edu. This is what we worked on for the semester. Hope you like it!</description>
+    </item>
+    
+    <item>
+      <title>One Thumb Up, One Thumb Down</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/12/one-thumb-up-one-thumb-down-2/</link>
+      <pubDate>Thu, 03 Dec 2009 14:11:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/12/one-thumb-up-one-thumb-down-2/</guid>
+      <description>Thumbs up: They way the students on the project came together and worked as a team, holding IRC meetings, sharing emails and conference calls.
+Thumbs down: The project started off slower than expected, in part to the existing infrastructure and rules of interaction with Eclipse projects and with me becoming familiar with supervising such a unique student course experience.</description>
+    </item>
+    
+    <item>
+      <title>&#43;1, -1</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/1-1/</link>
+      <pubDate>Fri, 27 Nov 2009 05:27:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/1-1/</guid>
+      <description>+1: Collaboration. When the team first started on the project we each worked on bugs that were, for the most part, independent of each other. At around the mid-point of the term, we decided to collaborate more and work on smaller features of a bigger part. This way we were all working toward a common goal. I think we all enjoyed the project much more after we made this decision.</description>
+    </item>
+    
+    <item>
+      <title>Status Report: Nov 25, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/status-report-nov-25-2009/</link>
+      <pubDate>Thu, 26 Nov 2009 14:52:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/status-report-nov-25-2009/</guid>
+      <description>Peter Status  Good push to finished work on bug 294015. Decided to use the &amp;ldquo;empty project&amp;rdquo; wizard and the already created Kawa File wizard so that now they can be used to create a project and scheme files. Fixing NULL pointer exception when clicking a file in the explorer. I am pretty sure that it has to do with the fact that I used the Java Lite Explorer and it is looking for the java lite editor which doesn&amp;#8217;t exist in Scheme.</description>
+    </item>
+    
+    <item>
+      <title>post mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/post-mortem-3/</link>
+      <pubDate>Thu, 26 Nov 2009 04:10:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/post-mortem-3/</guid>
+      <description>Thumbs up:
+ A chance to make a name on a open source project (&amp;#8220;eclipse&amp;#8221;) The formation that Wayne gave us during the code sprint, We would definitly not have acomplished as much without it. Regular project conference call with the team and Dwight. We managed to work as a real team and set-up a svn and irc channel and have 2 irc meeting each week to give each other a status update.</description>
+    </item>
+    
+    <item>
+      <title>Bads and Goods</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/bads-and-goods/</link>
+      <pubDate>Tue, 24 Nov 2009 18:41:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/bads-and-goods/</guid>
+      <description>I guess since everyone else started with the goods and finished with the bads. I&amp;#8217;ll go in reverse, leave a better taste in your mouth.
+I definitely disliked the fact that I was the only one not in the Eastern time zone, it made it hard for us to get together(virtually). I also found it difficult to chat with the team. By the time I was finished my classes, it was already way late in the Eastern area.</description>
+    </item>
+    
+    <item>
+      <title>Status Report: Nov 04, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/status-report-nov-04-2009/</link>
+      <pubDate>Wed, 04 Nov 2009 16:15:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/status-report-nov-04-2009/</guid>
+      <description>Peter Status  Finished two tutorials on loops and iterators.  Next Steps  Team met up on IRC and decided that we&amp;#8217;ll have meetings twice weekly. Decided to switch gears and work as a team on the scheme perspective. Chosen to work on the help and code navigation Work Arounds Sent an email to our student union to see if they will pop the link to survey into the weekly newsletter.</description>
+    </item>
+    
+    <item>
+      <title>IDE Usability Resuts &amp;#8211; Part II</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/ide-usability-resuts-part-ii/</link>
+      <pubDate>Mon, 02 Nov 2009 03:44:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/ide-usability-resuts-part-ii/</guid>
+      <description>Maxime Caron recently posted results from the French version of our survey. Here are some of the findings from the English version and how I interpret them. (Note: Unfortunately, the server that was hosting the survey had a slight meltdown (literally!). We were able to recover some data but not everything.)
+The first five questions were used to gain an understanding of the user and their previous programming experience. This allowed us to interpret the results in the proper context.</description>
+    </item>
+    
+    <item>
+      <title>Survey on IDE usage</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/survey-on-usability-of/</link>
+      <pubDate>Fri, 30 Oct 2009 16:27:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/survey-on-usability-of/</guid>
+      <description>I just compiled the results from the survey i did about Integrated Development Environment for the Eclipse4Edu project.
+The survey was first set-up by Dennis Acosta but i did a french version of the form. These results contain only the feedback from Sherbrooke university students for now.
+Surprisingly more people use the debugger and refactoring features then i would have thought. Also most people said they would not use their built-in ide tutorials.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Grading Scheme</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/eclipse4edu-grading-scheme/</link>
+      <pubDate>Fri, 30 Oct 2009 04:58:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/eclipse4edu-grading-scheme/</guid>
+      <description>Team component &amp;#8211; 45%
+&amp;#8211; Each member of the team is working on a piece of what we&amp;#8217;ve identified to be the minimum feature set for a streamlined Scheme Perspective in Eclipse.
+&amp;#8211; 25% for the actual deliverables. Based on how much were we able to implement as a team and the quality of our code/product. Each student will receive the same grade. We will attempt the &amp;#8220;5-minute screencast on YouTube&amp;#8221; if time permits.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Oct 20, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009-2/</link>
+      <pubDate>Wed, 28 Oct 2009 15:18:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009-2/</guid>
+      <description>Peter Status  Continuing creation of tutorials bug 290673. Tracking down in person professors for survey. Working to create a list of goals to achieve for grading scheme, due Oct 31. 09.  Next Steps  Work with Maciej to finish development on a composite collection of tutorials for beginner programmers. Link created content into the Educlipse introduction. Think of creating interesting content for introduction. Create bugs for Scheme work to be discussed at call-in on Oct 29.</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>Meeting Minutes &amp;#8211; Oct 22, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/meeting-minutes-oct-22-2009/</link>
+      <pubDate>Thu, 22 Oct 2009 17:03:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/meeting-minutes-oct-22-2009/</guid>
+      <description>Members Present: Wayne, Maciej, Nil, Maxime
+Minutes by: Maciej
+&amp;#8211; Discsussed difference between having a different perspective for each programming language and having everything in one tab.
+-&amp;gt; Note: Scheme users will generally be more advanced than Java users (might already be familiar with perspectives)
+-&amp;gt; Easier to have different perspectives.
+&amp;#8211; Considered Debuggers for Java and Scheme
+-&amp;gt; Do we want a debugger intergrated into the Java perspective?
+-&amp;gt; Need more research for a Scheme debugger</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Oct 20, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009/</link>
+      <pubDate>Thu, 22 Oct 2009 13:11:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009/</guid>
+      <description>Peter Status  Getting a hold of some first year professors at the University to distribute Dennis&amp;#8217; survey Working on a collection of cheatsheets that will teach the basics of programming step by step (https://bugs.eclipse.org/bugs/show_bug.cgi?id=290673 ) Created a tutorial for If-Else  Next Steps  Continuing with collection of cheatsheets and will make first submission for bug this week.  Roadblocks  Needs more contents on content of the intro page   Exams   Dennis Status  Published a usability survey Continuing work on Bug 290582, a lite debug perspective (https://bugs.</description>
+    </item>
+    
+    <item>
+      <title>IDE Usability Survey</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide-usability-survey/</link>
+      <pubDate>Sat, 17 Oct 2009 12:54:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide-usability-survey/</guid>
+      <description>The Eclipse4Edu IDE Survey is now available in both English and French. Students have already begun filling it out. Please feel free to distribute the survey among first year (programming) students at your schools.</description>
+    </item>
+    
+    <item>
+      <title>IDE4EDU Status Reports &amp;#8211; Oct 13, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide4edu-status-reports-oct-13-2009/</link>
+      <pubDate>Tue, 13 Oct 2009 14:39:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide4edu-status-reports-oct-13-2009/</guid>
+      <description>Here is the current status reports for the IDE4EDU team on Oct 13&amp;#8217;th, 2009.
+http://people.scs.carleton.ca/~deugo/ide4edu/blogs/13-10-09.pdf</description>
+    </item>
+    
+    <item>
+      <title>Complexity in User Interfaces</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/complexity-in-user-interfaces/</link>
+      <pubDate>Thu, 08 Oct 2009 23:27:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/complexity-in-user-interfaces/</guid>
+      <description>One of the reasons I&amp;#8217;m interested in the Eclipse4Edu project is that it is heavily based on user experience. The goal is to create a streamlined IDE for beginners so that they can immediately focus on learning the language and concepts instead of struggling with an environment. Eventually, a novice can move to a classic Eclipse environment while maintaining a sense of familiarity.
+One could argue that a beginner could start with the standard Eclipse environment and just ignore the &amp;#8216;advanced&amp;#8217; features.</description>
+    </item>
+    
+    <item>
+      <title>IDE4EDU Update Oct 4th, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide4edu-update-oct-4th-2009/</link>
+      <pubDate>Sun, 04 Oct 2009 17:56:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide4edu-update-oct-4th-2009/</guid>
+      <description>Here is the short update on the IDE4EDU team on Oct 4th, 2009.
+http://people.scs.carleton.ca/~deugo/ide4edu/blogs/02-10-09.html</description>
+    </item>
+    
+    <item>
+      <title>Code sprint day 3</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/code-sprint-day-3/</link>
+      <pubDate>Sun, 27 Sep 2009 15:55:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/code-sprint-day-3/</guid>
+      <description>For day 3 of the code sprint weekend the ECLIPSE4EDU team worked mainly on planning possible bugs or features.  We had brainstorming for new features that we think might be interesting and came up with 5 new feature we all think must be done.  We also talked about the grading scheme we wanted and realised this project is kind of hard# to evaluate and that the crucial thing to focus on is the community process and communication.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Code Sprint (Day II)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse4edu-code-sprint-day-ii/</link>
+      <pubDate>Sat, 26 Sep 2009 20:38:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse4edu-code-sprint-day-ii/</guid>
+      <description>This morning we got right into coding. Nil and I(Peter) started working on bug 250659 a feature to have assignments created in XML and displayed to students via an Assignment/Reference view. Maxime and Maciej worked on the eclipse code completetion, the ability for the code completetion window to actually stay open if you make a typo. Dennis lost the rock paper scissors match and was coding solo today, he was working at removing items from the editor context menu.</description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>The Basie team posted their first-day report on their blog. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:
+Basie
+Eclipse4Edu
+
+ElmCity
+
+Ingres
+
+MarkUs
+
+Robocup
+
+Thunderbird
+
+**_WikiDev
+_**</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Code Sprint (Day 1)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse4edu-code-sprint-day-1/</link>
+      <pubDate>Fri, 25 Sep 2009 19:41:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse4edu-code-sprint-day-1/</guid>
+      <description>The Eclipse4Edu team met for the first time this morning. We began to brainstorm new features then split up for pair programming sessions. Nil and I (Dennis) worked together on bug 244643. Peter and Maxime worked together on bug 246087. Unfortunately, Maciej was the odd one out for this session, but he worked on bug 288852. We&amp;#8217;re at the end of our initial two week sprint and we&amp;#8217;ve collectively submitted 3 patches and 1 feature.</description>
+    </item>
+    
+    <item>
+      <title>Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</link>
+      <pubDate>Thu, 24 Sep 2009 15:30:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</guid>
+      <description>Here are the latest progress reports from the teams (with Ingres, Thunderbird, and WikiDev still to come):
+ Basie * Build a toy application in Django and check it into the Subversion repository to prove that they have started learning the framework.  Get Basie running on their development machine and send us a URL so that we can check it. Fix some of our broken test fixtures (long story) and put their changes up for code review.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu&amp;#039;s First Project Call-in</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse4edus-first-project-call-in/</link>
+      <pubDate>Mon, 14 Sep 2009 16:30:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse4edus-first-project-call-in/</guid>
+      <description>The Eclipse4Edu team had it&amp;#8217;s first project call-in today. Meeting minutes can be found here. If I missed anything, please let me know and I&amp;#8217;ll append it to the minutes.</description>
+    </item>
+    
+    <item>
+      <title>Nil Goyette</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/nil-goyette/</link>
+      <pubDate>Tue, 08 Sep 2009 23:13:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/nil-goyette/</guid>
+      <description>Somewhere in the wood  Hi, my name is Nil Goyette and I&amp;#8217;m going to work on Eclipse4Edu.  I&amp;#8217;m currently studying at the Université de Sherbrooke in Québec. Sadly, it&amp;#8217;s my last year, it was starting to be fun.  Next year,  As for now, I think I&amp;#8217;m interested in hardware and assembly language. I hope to have some free time to play with the Arduino to see if I really like hardware.</description>
+    </item>
+    
+    <item>
+      <title>Maciej Kozlowski</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maciej-kozlowski/</link>
+      <pubDate>Tue, 08 Sep 2009 17:51:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maciej-kozlowski/</guid>
+      <description>Hello everyone. My name is Maciej and I&amp;#8217;ll be working on Eclipse4Edu this term.
+I&amp;#8217;m a fourth year computer science student at the University of Toronto specializing in Software Engineering. I haven&amp;#8217;t done any internship or co-op jobs but I have worked on many projects, academically and otherwise. These include: developing image differencing software, HCI research for a public washroom locating device, fixing bugs for the JFreeChart project, working on OS161, as well as some embedded systems programming.</description>
+    </item>
+    
+    <item>
+      <title>Maxime Caron</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maxime-caron/</link>
+      <pubDate>Tue, 08 Sep 2009 02:27:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maxime-caron/</guid>
+      <description>Hi, everyone. My name is Maxime Caron and will be working on Eclipse4edu this semester.  i’m in my third and last year of my computer science degree at the University of Sherbrooke.  I haven’t yet decided where I want to specialize in Computer Science, but I am particularly interested in  computer language theory and parrallel programming.  I just coming back from a research internship at Bentley Systems inc in Quebec.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>Peter Lorimer</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/peter-lorimer/</link>
+      <pubDate>Sat, 05 Sep 2009 00:45:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/peter-lorimer/</guid>
+      <description>Hey all, My name is Peter Lorimer, I&amp;#8217;m a third/fourth year Computing Science w/ Business Minor student at the University of Alberta. I&amp;#8217;ll be working on the Eclipse4Edu project. I am really excited about this class because I have never really worked on any projects that aren&amp;#8217;t for school projects. I mean this is for school, but it will also be used outside of school. If that makes any sense. After my degree I hope to take my computing knowledge into the oilfield and work on data acquisition hardware and software for downhole tools.</description>
+    </item>
+    
+    <item>
+      <title>Dennis Acosta</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/dennis-acosta/</link>
+      <pubDate>Fri, 04 Sep 2009 19:34:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/dennis-acosta/</guid>
+      <description>Dennis Acosta  Hi. My name is Dennis Acosta. I’m a fourth year student of computer science and psychology at Carleton University, having previously studied computer programming at Seneca College. My primary areas of interests are in human-computer interaction, and more recently, location-based services. This Fall term I will be working on the Eclipse4Edu project. I look forward to the challenges ahead and am excited to get started on this incredible opportunity.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse at Google</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse-at-google/</link>
+      <pubDate>Thu, 03 Sep 2009 22:58:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/09/eclipse-at-google/</guid>
+      <description>Over on the Google Open Source blog, Robert Konigsberg has posted about Google&amp;#8217;s recent Eclipse Day. And there are videos! I might wish that Eclipse had a smaller memory footprint or simpler APIs, but there&amp;#8217;s no arguing with the vibrancy and passion of its developers and user community.</description>
+    </item>
+    
+  </channel>
+</rss>

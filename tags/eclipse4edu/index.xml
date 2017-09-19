@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse4edu on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/eclipse4edu/</link>
+    <description>Recent content in Eclipse4edu on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jan 2010 19:50:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/eclipse4edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 3 of the Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</link>
+      <pubDate>Sun, 17 Jan 2010 19:50:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</guid>
+      <description>This weekend, we focused on finding the main aspects of the program that we think need working on and deciding where to go with each one. Specifically, there was the simplification of toolbars and menus to cater to beginner programmers, comparing the Java versus Scheme parts of the project and approaching the open bugs that have already been identified. Also we experimented with the program from a first year student standpoint to determine what is and isn&amp;#8217;t necessary and went from there.</description>
+    </item>
+    
+  </channel>
+</rss>

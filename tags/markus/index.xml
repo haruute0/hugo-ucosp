@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/markus/</link>
+    <description>Recent content in Markus on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2010 03:18:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/markus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MarkUs 0.7.0 is ready to go!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/04/markus-0-7-0-is-ready-to-go/</link>
+      <pubDate>Thu, 29 Apr 2010 03:18:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/04/markus-0-7-0-is-ready-to-go/</guid>
+      <description>The MarkUs Team is proud to present MarkUs 0.7.0!
+Click here to see our release announcement.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs 0.6.3 is out the door!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</link>
+      <pubDate>Sat, 20 Mar 2010 22:02:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</guid>
+      <description>The MarkUs Team is proud to present 0.6.3! Full details here.</description>
+    </item>
+    
+    <item>
+      <title>Markus March 19th Punchlines</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-march-19th-punchlines/</link>
+      <pubDate>Fri, 19 Mar 2010 19:38:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-march-19th-punchlines/</guid>
+      <description>Victoria Status  Brainstormed ideas for the Dashboard. Went through draft Dashboard contents with Karen and Farah and got some good and constructive feedback  Next Steps  With the feedback I got back regarding the potential Dashboard contents, come up with a preliminary prototype &amp;#8212; one that we can take apart and help establish a better idea as to how we&amp;#8217;d like to design the Dashboard.  Roadblocks  Swamped with work (from my full-time position).</description>
+    </item>
+    
+    <item>
+      <title>MarkUs Meeting Minutes for March 5th, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-meeting-minutes-for-march-5th-2010/</link>
+      <pubDate>Sat, 06 Mar 2010 17:06:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-meeting-minutes-for-march-5th-2010/</guid>
+      <description>The MarkUs team is plowing forward, fleshing out some fantastic new features, and kicking a bunch of bugs to the curb! You can read our meeting minutes here.</description>
+    </item>
+    
+    <item>
+      <title>Joseph&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/josephs-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 00:59:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/josephs-midterm-report/</guid>
+      <description>Summary:
+Things are going slower than expected. I thought I would be able to get so much more done. The first few weeks were spent on my first changelist. My expectation was to be done with the first week [8]. I have learned tons about Ruby, Rails, Rails plugins and javascript. I am currently working on replaced the AJAX pagination with serverside pagination on the submissions page. Afterwards, I will be working on the detailed view for the submissions page.</description>
+    </item>
+    
+    <item>
+      <title>Victoria Mui – Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/victoria-mui-%e2%80%93-midway-update/</link>
+      <pubDate>Sun, 28 Feb 2010 23:46:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/victoria-mui-%e2%80%93-midway-update/</guid>
+      <description>Expectations, Status &amp;amp; Progress
+Coming into this UCOSP project course, my ultimate goal was to be able to utilize the human-computer interaction (HCI) and user experience (UX) design knowledge that I’ve acquired from both school and work to enhance the usability of MarkUs. Through this experience, I’m hoping to solidify my understanding of various usability concepts and familiarize myself with more projects out there.
+Up until now, I feel that I’m on track with the work that I’m doing with MarkUs.</description>
+    </item>
+    
+    <item>
+      <title>The Really Good Thing Was &amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/the-really-good-thing-was/</link>
+      <pubDate>Tue, 24 Nov 2009 13:16:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/the-really-good-thing-was/</guid>
+      <description>Thumbs up: Our great teamwork. Although we are working in a distributed setting, I do find it astonishing how well everything worked out. People are doing a great job in terms of communication.
+Thumbs down: Having a pretty tight schedule, I think there was hardly time for one or two developers to go for a spike (i.e. looking into an unknown technological area) and create an example solution to a problem.</description>
+    </item>
+    
+    <item>
+      <title>The MarkUs Team Has Their First IRC Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</link>
+      <pubDate>Fri, 11 Sep 2009 22:03:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</guid>
+      <description>The MarkUs team had their first IRC meeting today.
+Check out the minutes on our blog, here.
+Or you can read the transcript here. (Meeting starts around 16:04)
+Cheers,
+-MarkUs Team</description>
+    </item>
+    
+  </channel>
+</rss>

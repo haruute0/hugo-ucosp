@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svn_authz on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/svn_authz/</link>
+    <description>Recent content in Svn_authz on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Mar 2010 22:02:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/svn_authz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MarkUs 0.6.3 is out the door!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</link>
+      <pubDate>Sat, 20 Mar 2010 22:02:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-0-6-3-is-out-the-door/</guid>
+      <description>The MarkUs Team is proud to present 0.6.3! Full details here.</description>
+    </item>
+    
+  </channel>
+</rss>

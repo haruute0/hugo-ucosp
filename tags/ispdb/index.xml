@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ispdb on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/ispdb/</link>
+    <description>Recent content in Ispdb on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2009 20:22:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/ispdb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Patch Ever.</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/first-patch-ever/</link>
+      <pubDate>Sun, 11 Oct 2009 20:22:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/first-patch-ever/</guid>
+      <description>First Patch Ever.
+Once my pending patch has been checked into the source tree, I will become a member of the open source community. It doesn&amp;#8217;t look like much but it does fix a problem. I take heart from Richard Feynman who said, &amp;#8221; No problem is too small or too trivial if we can really do something about it.&amp;#8221;. Here is a few things I learned:
+ Svn needs a better way to manage patches because pending ones causes a mess.</description>
+    </item>
+    
+  </channel>
+</rss>

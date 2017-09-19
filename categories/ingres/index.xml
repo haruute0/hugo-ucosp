@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingres on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/ingres/</link>
+    <description>Recent content in Ingres on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2010 01:20:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/ingres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Henry&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/03/henrys-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 01:20:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/03/henrys-midway-update/</guid>
+      <description>Never worked on an open-source project before, it has proven to be challenging for me to run different scripts and commands in an open-source environment. It has been a huge learning curve for me to adjust to open-source programs when I was babied all these years by GUI applications and Windows. Although we are half-way through the term, we still have a lot of development work to do. The setup of the environment took awhile as there are so many configurations that are required for this project.</description>
+    </item>
+    
+    <item>
+      <title>Xiaoxiao&amp;#039;s Midway Update-Ingres</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/xiaoxiaos-midway-update-ingres/</link>
+      <pubDate>Sun, 28 Feb 2010 21:26:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/xiaoxiaos-midway-update-ingres/</guid>
+      <description>My overall progress is a bit slower than I expected, because environment setup took me too long in early February. But I have started implementing actual code and current progress seems good.
+The main difficulty I have had so far is setting up development and testing environment. A large scale open source project such as geotools requires me to install and configure a lot of programs before development starts. Therefore, this setup progress is time-consuming and requires attention to detail.</description>
+    </item>
+    
+    <item>
+      <title>Anthony&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/anthonys-midway-update/</link>
+      <pubDate>Wed, 24 Feb 2010 06:15:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/anthonys-midway-update/</guid>
+      <description>Ingres support for Geotools has been progressing well. However, although we are already half way thru the term, we still have quite a ways to go, so we are beginning to pick up the pace a bit.
+Comments and Observations:
+&amp;#8211; It seems like there is a lot of overhead and learning compared to the actually size of the code being developed. This has been a great learning opportunity, although it seems like given the learning curve, it would have been more effective if this project was longer than just one term.</description>
+    </item>
+    
+    <item>
+      <title>Ingres/Geotools Lim&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 20:22:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</guid>
+      <description>The Ingres/Geotools team finally began work on actual implementation of classes and unit tests for the classes in Geotools at this halfway point. I personally feel that we are falling a little bit behind schedule, not beyond managable. We took our time in the initial phase afraid of making mistakes that compromises the quality of the output. The Ingres/Geotools team has have a lot to explore in the geospatial world as a toddler would have the world.</description>
+    </item>
+    
+    <item>
+      <title>Geotools Status Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/geotools-status-report/</link>
+      <pubDate>Tue, 09 Feb 2010 16:45:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/geotools-status-report/</guid>
+      <description>The Geotools team had been working on mostly getting oriented to Geospatial concepts, determining action items, etc.
+We are now ready to create a new unsupported jdbc-ingres module into Geotools. In the coming weeks, you will see rapid additions of new code in the Geotools source.</description>
+    </item>
+    
+    <item>
+      <title>&amp;quot;What we learnt&amp;quot; &#43; &amp;quot;Where we&amp;#039;ll go&amp;quot;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</link>
+      <pubDate>Tue, 19 Jan 2010 15:12:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</guid>
+      <description>The day before the sprint, I knew of nothing about what I should do and what I can do in this project. I woke up at 5 on Friday morning, took a taxi to the bus terminal, got onto Greyhound to Toronto, got lost on our way to Bahen Centre (we were on University and College, 5 minutes away from Bahen, lol) To my surprise, I arrived, and joined a team of people as lost as I was.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Summary</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/code-sprint-summary/</link>
+      <pubDate>Sun, 17 Jan 2010 19:33:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/code-sprint-summary/</guid>
+      <description>TODO’s
+ Get a duplicated copy of GeoTools repository for UCOSP own builds
+ Install Geoserver. Do preliminary testing with PostgreSQL w/ PostGIS, feeding to GeoServer
+ Continue studying the code and understand how JDBC works to connect to difference databases in GeoTools
+ Break down the database connectivity code among developers
+ Assign the following tasks
+o 2 developers
+o 1 tester
+o 1 project manager, where half the time is spent on project management, the other half as developer</description>
+    </item>
+    
+    <item>
+      <title>Henry Chow</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/henry-chow/</link>
+      <pubDate>Mon, 11 Jan 2010 12:51:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/henry-chow/</guid>
+      <description>Hey all! My name is Henry. I&amp;#8217;m a 4th year computer science student at the University of British Columbia. I am also minoring in Commerce. My interests lies in the e-commerce field, such as creating bank applications and websites. I have a good knowledge in Java, SQL, VBA and HTML. I have worked at MDA, Nokia, Quartz Imaging, and HSBC in my previous co-op job placements.</description>
+    </item>
+    
+    <item>
+      <title>Anthony McCallum</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anthony-mccallum/</link>
+      <pubDate>Mon, 28 Dec 2009 03:50:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anthony-mccallum/</guid>
+      <description>Hi, I&amp;#8217;m Anthony McCallum. I&amp;#8217;m in my final year of a computer science degree at the University of British Columbia. My language of choice is JAVA, but I also have experience with a variety of other languages. I will be working on the Ingres project this coming term. This will be my first opportunity to work on an open source project, and I am excited for the challenge! I&amp;#8217;ve previously done internships with RIM in Ottawa as well as a bioninformatics lab in Singapore.</description>
+    </item>
+    
+    <item>
+      <title>Cheang Lim Goh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cheang-lim-goh/</link>
+      <pubDate>Tue, 22 Dec 2009 15:28:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cheang-lim-goh/</guid>
+      <description>Hi I am Lim, a fourth year Computer Science/Business Option student from the University of Waterloo.
+I will be joining the Ingres team next term. My experience lies primarily with C++ but I also speak a little Java and C#. This will be my first time working on a open-source database project, with focus on managing geospatial data, moreover a team as unique as ours! I look forward to working with Prof.</description>
+    </item>
+    
+    <item>
+      <title>Xiaoxiao Li</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/xiaoxiao-li/</link>
+      <pubDate>Thu, 17 Dec 2009 03:35:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/xiaoxiao-li/</guid>
+      <description>Hi, I am Xiaoxiao Li, a fourth year CS student at University of Waterloo. I will join the Ingres team in the coming term.
+I have done my work terms with three different companies. Through these work terms I developed my interest in database-related technology, including hierarchical data, spatial search, non-relational database, and scalable architecture . This project will be my first time participating in open source development. I hope I could do my best to contribute to the community.</description>
+    </item>
+    
+    <item>
+      <title>Screencast of showing building of Geospatial with GEOS as non root user on Linux</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</link>
+      <pubDate>Sat, 12 Dec 2009 04:33:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</guid>
+      <description>The following tutorial video is done with GEOS 3.2.0, compiled in gcc 4.3 and g++ 4.3 depending on Xerces C headers and libraries 2.8, pam-devel, pax, jam, on a Debian server as a non root user.
+[youtube=http://www.youtube.com/watch?v=7no3_39GNx0&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;]
+For more details, please visit: http://i-wa.blogspot.com</description>
+    </item>
+    
+    <item>
+      <title>Post Mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/12/post-mortem-9/</link>
+      <pubDate>Sat, 05 Dec 2009 10:34:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/12/post-mortem-9/</guid>
+      <description>Well, I almost feel as if this post should be titled &amp;#8220;Pre Moretm,&amp;#8221; simply because my work on this project is far from over. Admittedly, I have not had a fraction of the time that I thought I would have at the beginning of the semester, leaving me with a laundry list of work that still needs to be done on Ingres. For the entirety of this semester, it never ceased to amaze me how even though my class work load (projects, assignments, exams, etc.</description>
+    </item>
+    
+    <item>
+      <title>post mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/post-mortem-6/</link>
+      <pubDate>Sat, 28 Nov 2009 20:26:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/post-mortem-6/</guid>
+      <description>thumbs up: Getting the opportunity to work with so many interacting technologies was a challenge. It forced me to take care with the documentation I have been preparing, and given me some inspiration as to ways that documentation could be organized better.
+thumbs down: Meetings were often canceled and it was hard to set attainable personal goals.
+All in all, I feel the course has been helpful. It was extremely frustrating at times because I felt like I was spending so much time dealing with installation problems and not always knowing what work was necessary to get to the next step.</description>
+    </item>
+    
+    <item>
+      <title>post mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/post-mortem-5/</link>
+      <pubDate>Sat, 28 Nov 2009 17:31:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/post-mortem-5/</guid>
+      <description>Good: I had a real good experience. It was a challenge still because we have not finished yet, but we learned how to solve problems that can apply to real world challenges in the computer science field. Talking with the Ingres community via email and IRC channel was real helpful.
+Bad: We should communicate more often via UCOSP. We all work in separate ways with the Ingress community. We should do a written report every week to reinforce the meetings.</description>
+    </item>
+    
+    <item>
+      <title>Doing Maps in Drupal</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/doing-maps-in-drupal/</link>
+      <pubDate>Fri, 27 Nov 2009 17:51:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/doing-maps-in-drupal/</guid>
+      <description>Via Andrew Ross, a link to a video showing how to work with maps in Drupal using the Ingres RDBMS&amp;#8212;yay team!</description>
+    </item>
+    
+    <item>
+      <title>Separate but Necessary</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/separate-but-necessary/</link>
+      <pubDate>Mon, 16 Nov 2009 20:41:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/separate-but-necessary/</guid>
+      <description>As the end of the semester closes in on us students, we will be piecing together or documentation from tweets, blogs, and the like. My project has allowed for many opportunities to actually edit the wiki pages on the Ingres site. While this is probably the most direct way to contribute to the community I have been working with, it ignores a subtle strength we have as new-comers to the projects we are working on: inexperience.</description>
+    </item>
+    
+    <item>
+      <title>One Step Backward</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/one-step-backward/</link>
+      <pubDate>Sun, 15 Nov 2009 23:07:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/one-step-backward/</guid>
+      <description>Sometimes it is hard to recognize when a problem can be best solved by starting over. Over the past few days I have been making a lot of configurations on Windows using something called &amp;#8216;Windows Configuration-By-Forms&amp;#8217;. You can start it by going to the command prompt(typing &amp;#8220;cmd&amp;#8221; in Start-&amp;gt;Run) and typing the command &amp;#8220;cbf&amp;#8221;.
+Well, after all was said and done I wasn&amp;#8217;t able to load php pages consistently. I previously was able to connect to an Ingres database, but not return any successful queries.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #6: GeoTools Support for Ingres</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/winter-2010-project-6-geotools-support-for-ingres/</link>
+      <pubDate>Thu, 12 Nov 2009 21:04:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/winter-2010-project-6-geotools-support-for-ingres/</guid>
+      <description>The Geospatial Information System industry is over $4B in size and growing rapidly. Perhaps more interesting is that geospatial (think maps) technology is being integrated into mainstream technology. For example, how may people have not used Google Maps or a GPS at some point? Technology change has made what was impossible a decade ago not only possible, but perhaps practical for firms that could not use geospatial technology in the past.</description>
+    </item>
+    
+    <item>
+      <title>Ingres Geospatial students grading scheme</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/10/ingres-geospatial-students-grading-scheme/</link>
+      <pubDate>Sat, 31 Oct 2009 17:19:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/10/ingres-geospatial-students-grading-scheme/</guid>
+      <description>Total grade: 100%
+*Assessment for team grade: 40%*
+&amp;#8211; Pro-rated for meeting attendance: 10%
+&amp;#8211; Evidence of participation in the Ingres community &amp;#8211; mailing list posts: 5%
+&amp;#8211; Evidence of participation in the Ingres community &amp;#8211; IRC interactions: 5%
+&amp;#8211; Blogging about one’s status on one&amp;#8217;s blog or on UCOSP blog as one goes on: 10%
+&amp;#8211; Peer evaluation among the UCOSP student team at the end of term plus an email to Andrew.</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>The Basie team posted their first-day report on their blog. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:
+Basie
+Eclipse4Edu
+
+ElmCity
+
+Ingres
+
+MarkUs
+
+Robocup
+
+Thunderbird
+
+**_WikiDev
+_**</description>
+    </item>
+    
+    <item>
+      <title>Evan Bowling</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/evan-bowling/</link>
+      <pubDate>Fri, 11 Sep 2009 22:35:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/evan-bowling/</guid>
+      <description>my bro (on the left) and i (the other one)  I am a Computer Science senior at Michigan State University. I am excited to work with the Ingres team. I have had the chance to make use of open-source code and participate in the development conversations, but I am looking forward to actually contributing code.
+Through various study abroad trips I discovered the field of geographic information science, or GIS.</description>
+    </item>
+    
+    <item>
+      <title>Elias Adum</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/elias-adum/</link>
+      <pubDate>Thu, 10 Sep 2009 13:46:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/elias-adum/</guid>
+      <description>Hi, my name is Elias Adum. I am currently in 3rd year Computer Science Software Engineering program at the University of Toronto and I will be working on the Ingres project.
+I started coding when I was in high school. Since then I developed a strong interest in web applications. I’ve worked with several Microsoft technologies but now I would like to change focus and do some open source programming, just to try a bit of both.</description>
+    </item>
+    
+    <item>
+      <title>Kelvin Harry</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/kelvin-harry/</link>
+      <pubDate>Mon, 07 Sep 2009 03:48:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/kelvin-harry/</guid>
+      <description>Hello everyone, my name is Kelvin Harry, I was born and raised on the beautiful island of St Thomas in the Virgin Islands. I attend the university of the Virgin Islands. At first major was business, but now I am a senior Computer Science major.
+The field of study in computer science that I am most interested in is Bionformatics. This past summer I got the opportunity to participate in a research experience in computational biology at the University of Georgia.</description>
+    </item>
+    
+    <item>
+      <title>Sara Danaher</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/sara-danaher/</link>
+      <pubDate>Mon, 07 Sep 2009 03:17:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/sara-danaher/</guid>
+      <description>Hola, I am Sara Danaher. I am a senior computer science student at the University of the Virgin Islands (UVI) on the St. Croix Campus. I grew up in Guatemala and studied in an electrical program at a very competitive technical school. I had the opportunity to apply for the Cooperative Association of State Scholarships program offered in the United States. This marked the first time I would be away from my family and study in a foreign country whose language I could not speak.</description>
+    </item>
+    
+    <item>
+      <title>Mary Mootoo</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/408/</link>
+      <pubDate>Sun, 06 Sep 2009 17:15:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/408/</guid>
+      <description>Hi everyone. My name is Mary Mootoo and I will be working on the Ingres project this semester. I am a computer science senior at the University of the Virgin Islands on the St. Croix Campus.
+I have been exposed to different computer languages such as C++, Java, Perl, and Visual Basic. I have never worked in Python before but I’m sure I will have fun on this project. I am anxious about seeing how we will all cope with the distance between us.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>Eva Wong</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/388/</link>
+      <pubDate>Fri, 04 Sep 2009 21:44:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/388/</guid>
+      <description>Here is a &amp;#8216;hello&amp;#8217; from Eva Wong for all the UCOSP buddies! I will be working with Ingres under Andrew Ross for this coming fall.
+I’m a fourth year computer science undergraduate student at University of Toronto, specializing in information system. I’m also doing a mathematics minor. For the previous summers in between school years, other than biking, I have been working on the GIS that I found with my team, Geokudo(2009), also I have completed a data visualization tool as a GSoC project(2008) for HackyStat.</description>
+    </item>
+    
+    <item>
+      <title>Ingres Project(s) Are Up</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/08/ingres-projects-are-up/</link>
+      <pubDate>Wed, 19 Aug 2009 12:53:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/08/ingres-projects-are-up/</guid>
+      <description>Our final project(s) for the Fall 2009 term are now on the web. There&amp;#8217;s an &amp;#8220;s&amp;#8221; in parentheses because it&amp;#8217;ll be up to the students to decide which of the two we&amp;#8217;ll take on. One involves working with geospatial (map) data; the other is to extend Django&amp;#8216;s object/relational mapping layer (the goo that stuffs objects into database tables and restores them as necessary) to work with the Ingres database. Both will give students a chance to work with some very cool technologies; I look forward to seeing who picks them up.</description>
+    </item>
+    
+  </channel>
+</rss>

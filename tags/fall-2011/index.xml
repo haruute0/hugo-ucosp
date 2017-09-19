@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2011 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/fall-2011/</link>
+    <description>Recent content in Fall 2011 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2011 12:47:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/fall-2011/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>POSIT update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/11/posit-update/</link>
+      <pubDate>Tue, 08 Nov 2011 12:47:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/11/posit-update/</guid>
+      <description>Stanley Fung from POSIT checks in with an update on his progress this term.</description>
+    </item>
+    
+    <item>
+      <title>Latest new from Review Board</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/10/latest-new-from-review-board/</link>
+      <pubDate>Mon, 31 Oct 2011 14:54:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/10/latest-new-from-review-board/</guid>
+      <description>Yazan Medanat has provided the latest update on how work is going with Review Board and provides some nice insights into what it&amp;#8217;s like onboarding with the Review Board community.</description>
+    </item>
+    
+    <item>
+      <title>UMPLE October 2011 Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/umple-october-2011-update/</link>
+      <pubDate>Tue, 25 Oct 2011 17:49:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/umple-october-2011-update/</guid>
+      <description>The Umple project is advancing rapidly this semester with three UCOSP students making major contributions in parallel with other contributors.
+UCOSP students are have tackled some smaller features and bugs, and are now working on a couple of long-standing major issues: Generating comprehensive and useful error messages, and getting rid of certain syntax oddities.
+Dr. Lethbridge, the project mentor, just posted a blog post that covers the recent work in technical detail:</description>
+    </item>
+    
+    <item>
+      <title>Review Board reports on their first month</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/10/review-board-reports-on-their-first-month/</link>
+      <pubDate>Mon, 17 Oct 2011 19:45:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/10/review-board-reports-on-their-first-month/</guid>
+      <description>David Druska checks in from Review Board to let us know how the first month has been going. David also provides some nice insight into why code reviews have been an effective part of the Review Board development process.</description>
+    </item>
+    
+    <item>
+      <title>Fall 2011 Code Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/10/fall-2011-code-sprint/</link>
+      <pubDate>Mon, 17 Oct 2011 10:23:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2011/2011/10/fall-2011-code-sprint/</guid>
+      <description>The UCOSP sprint this fall was held at the University of Toronto Department of Computer Science September 23 &amp;#8211; 25. Students and project mentors came together from across the country to meet their teams and start working on their projects. Some photos from the code sprint are included in the gallery below.
+                                  </description>
+    </item>
+    
+  </channel>
+</rss>

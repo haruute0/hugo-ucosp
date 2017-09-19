@@ -1,0 +1,151 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-report-for-oct-28th-2009/" title="ElmCity Status Report for Oct 28th 2009">ElmCity Status Report for Oct 28th 2009</a></h1>
+  <p><strong>Nikita</strong></p>
+
+<p>Status:</p>
+
+<p>&#8211; AM/PM problem for librarything fixed, tests added</p>
+
+<p>&#8211; timezone, we have a solution and it has been implemented and is out there for testing, calling remote like this:</p>
+
+<p><a href="http://elmcity.cs.toronto.edu/remote/?url=http://www.myspace.com/cartel&amp;filter=Portland&amp;tz=atlantic">http://elmcity.cs.toronto.edu/remote/?url=http://www.myspace.com/cartel&amp;filter=Portland&amp;tz=atlantic</a></p>
+
+<p>generates a VTIMEZONE in the calendar file. We support standard tzid from Olson db, and we map all the</p>
+
+<p>windows timezones that elmcity provides us with to the existing tzids.</p>
+
+<p>&#8211; pluginFinder.py, icwWriter &#8211; written documentation, unit tests</p>
+
+<p>&#8211; moved views.py code into a separate file, and made views.py call it from there (this is to enforce independence from django)</p>
+
+<p>&#8211; extending web-interface &#8211; I have not done much, just changed how AJAX communicates with python (XML now), so that</p>
+
+<p>if we eventually look at extending it, it will be easier, plus that killed the last hard-coded reference in javascript code (domain name)</p>
+
+<p>Roadblocks:</p>
+
+<p>none</p>
+
+<p>Next Steps:</p>
+
+<p>&#8211; I have not seen any work done on #2 as was agreed on Friday&#8217;s meeting, this is an important issue that is kinda holding</p>
+
+<p>us back. If there will be no change by tomorrow&#8217;s afternoon I am reassigning this ticket to myself and most probably closing</p>
+
+<p>it by tomorrow&#8217;s evening</p>
+
+<p>&#8211; documenting and testing remote.py, batch.py (this leaves us with no &#8220;big&#8221; modules untested, rotate.py and event.py can</p>
+
+<p>be done quickly later on).</p>
+
+<p>&#8211; I&#8217;ve been thinking of coming up with an approach of looking at HTML pages and finding events(here:</p>
+
+<p><a href="http://nikitapchelin.wordpress.com/2009/10/25/patterns/) ">http://nikitapchelin.wordpress.com/2009/10/25/patterns/) </a> My idea is to actually</p>
+
+<p>try and look for dates first, and then look and compare where structure-wise those dates are located. From that information</p>
+
+<p>it might be possible to figure out which structured blocks represent events. I actually started working on a little script</p>
+
+<p>that strips useless things from HTML and tries to find events. I want some sort of discussion, mainly to see if this</p>
+
+<p>direction is worth moving into. If indeed so, I would like to continue exploring this way throught the week and coming up</p>
+
+<p>with a script that will attempt to analize HTML pages this way.</p>
+
+<p><strong>Diane</strong></p>
+
+<p>Status:</p>
+
+<p>&#8211; Completed some site specific scrapers for fuse-cal parsed pages, specifically with <table> structured event sites.</p>
+
+<p>&#8211; Continually working towards generalizing the scraper to scrape multiple sites.</p>
+
+<p>&#8211; Documenting patterns through blog and tester.</p>
+
+<p>Roadblocks:</p>
+
+<p>-Work, classes.</p>
+
+<p>Next Steps:</p>
+
+<p>&#8211; Continue to scrape and document patterns found from event sites.</p>
+
+<p>&#8211; Establish a more complete analysis of the patterns found from the fuse-cal parsed pages as well as the sample pages curators have pointed to.</p>
+
+<p>&#8211; Divide the lists according to the patterns found and manage the lists through Delicious tags.</p>
+
+<p>&#8211; Build a tester that will accept the various patterns and extract appropriate information from them.</p>
+
+<p><strong>Jory</strong></p>
+
+<p>Roadblocks:</p>
+
+<p>&#8211; Assignments and midterms.</p>
+
+<p>Next Steps:</p>
+
+<p>&#8211; Go through all the communication channels from last week, and to try to summarize the state of the project in a blog post. I will combine that with the feature requests put forth by the users on FriendFeed in an attempt to figure out both where we are at, and what our endgame looks like. I&#8217;ll also be adding the features requested by the users as items to our issue tracking system.</p>
+
+<p><strong>Meghan</strong></p>
+
+<p>Status:</p>
+
+<p>&#8211; I completed the librarything tests and committed them along with corresponding files earlier this week.  Nikita has already pointed out the page reformatting check fails on his computer so I need to look into those two functions more this week and come up with a better solution.</p>
+
+<p>Roadblocks:</p>
+
+<p>&#8211; Other classes, projects and tests.</p>
+
+<p>&#8211; Ran into some hg issues.  I commented out the reformatting tests earlier today and commit them so test_all.py wouldn&#8217;t fail.  I tried to commit them but I kept getting a 403 error when my username and password were correct.  I need to look into this further.</p>
+
+<p><strong>Jack</strong></p>
+
+<p>Status:</p>
+
+<p>&#8211; I got the zombies issue resolved, couple more things I&#8217;d like to do on that front though.  Nikita mentioned that one of the integration tests is broken from this update, so I&#8217;m going to resolve that tonight or tomorrow.  I&#8217;d like to do a little more testing of everything tomorrow if I have time as well.</p>
+
+<p>Roadblocks:</p>
+
+<p>&#8211; Classes/other projects due, job interview.</p>
+
+  <p class="small gray"><time datetime="2009-10-29">Oct 29, 2009</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

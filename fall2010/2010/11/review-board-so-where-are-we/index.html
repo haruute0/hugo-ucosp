@@ -1,0 +1,57 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/fall2010/2010/11/review-board-so-where-are-we/" title="Review Board: &amp;#8220;So, where are we?&amp;#8221;">Review Board: &amp;#8220;So, where are we?&amp;#8221;</a></h1>
+  <p><em>Originally posted by Mike Conley on the <a href="http://reviewboardstudents.wordpress.com/2010/11/26/so-where-are-we/">Review Board student blog</a>.</em></p>
+
+<p>If you’ve been following this blog, you’ll know that the team has been working very hard on their projects.  But I’ll bet those status reports can be a bit cryptic sometimes.</p>
+
+<p>So here’s my take on where we are so far, in no particular order:</p>
+
+<ol>
+<li>Hongbin has been working on an extension that will allow communication between Review Board and various bug-trackers.  Currently, his extension listens for events on Review Board (such as publishing a review request, publishing a review), and then alerts the appropriate issue/bug in the bug-tracker by posting a comment with a link to the review request.  Hongbin’s extension currently only works with Google Code projects, but will eventually be extended to other bug-trackers as well (Bugzilla, Github’s issue tracker, etc).</li>
+<li>Laila has put together a new version of the Windows Review Board installer.  The installer is responsible for making sure a Windows machine has everything it needs in order to get an instance of Review Board up and running.  Laila is also working on a project that will allow review requests to have files attached to them.</li>
+<li>Lindsey and Brendan have been putting together an impressive suite of client tools to interact with the new Review Board API.  The monolithic “post-review” script will, I believe, be eventually modified to use these scripts.  The scripts are also designed to be easily imported, so that developers can write their own tools to interact with Review Board.</li>
+<li>Lianne has been working on an extension that will give Review Board WebHook notification abilities.  This means that, when various events happen on Review Board, the extension can send a request to a remote server to trigger another action.  Example:  when a review request has been marked as submitted, the Webhook might signal a script that publishes a notification to Twitter, or to an IRC bot, or to an RSS feed, etc.</li>
+<li>Kevin has completed his “collapsible-reviews” project: for review requests with a long series of reviews/revisions, we can save on vertical screen real-estate by automatically collapsing the reviews that have been read.  Kevin has also implemented a one-click Ship-It function, which makes easy reviews even easier.  Kevin is now working on the designs for a new user profile page for Review Board.</li>
+</ol>
+
+  <p class="small gray"><time datetime="2010-11-30">Nov 30, 2010</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

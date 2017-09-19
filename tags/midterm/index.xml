@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midterm on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/midterm/</link>
+    <description>Recent content in Midterm on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2010 03:37:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/midterm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blake&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/blakes-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 03:37:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/blakes-midterm-report/</guid>
+      <description>As contrasted with some of my students, I&amp;#8217;m fairly happy with the amount of coding work they&amp;#8217;ve gotten done. I think this is largely because I had more realistic expectations coming in to the course. After 15 years in industry I&amp;#8217;ve come to realize that there&amp;#8217;s a whole lot more to fixing bugs than fixing the bug, and the other stuff is what takes the time. Stuff like figuring out what&amp;#8217;s going wrong, and how the code fits together, writing tests, getting it reviewed, fixing the things the reviewer points out, getting it committed, and (hopefully) writing up their weekly status reports.</description>
+    </item>
+    
+    <item>
+      <title>Chris Van &amp;#8211; Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chris-van-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 03:25:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chris-van-midway-update/</guid>
+      <description>Working on Basie has been a blast! And the team, they&amp;#8217;re really a first-class bunch. Well, to quote Greg, Basie has seen a &amp;ldquo;flurry of activity&amp;rdquo; in the recent weeks as we prepared to debut Basie 0.6. We have all done tremendous work fixing many outstanding bugs, discovering new issues and solutions, refactoring a bunch of code, and redesigning the interface.
+These past few months I&amp;#8217;ve worked mostly on fixing old issues and redesigning the Dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Joseph&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/josephs-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 00:59:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/josephs-midterm-report/</guid>
+      <description>Summary:
+Things are going slower than expected. I thought I would be able to get so much more done. The first few weeks were spent on my first changelist. My expectation was to be done with the first week [8]. I have learned tons about Ruby, Rails, Rails plugins and javascript. I am currently working on replaced the AJAX pagination with serverside pagination on the submissions page. Afterwards, I will be working on the detailed view for the submissions page.</description>
+    </item>
+    
+    <item>
+      <title>Victoria Mui – Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/victoria-mui-%e2%80%93-midway-update/</link>
+      <pubDate>Sun, 28 Feb 2010 23:46:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/victoria-mui-%e2%80%93-midway-update/</guid>
+      <description>Expectations, Status &amp;amp; Progress
+Coming into this UCOSP project course, my ultimate goal was to be able to utilize the human-computer interaction (HCI) and user experience (UX) design knowledge that I’ve acquired from both school and work to enhance the usability of MarkUs. Through this experience, I’m hoping to solidify my understanding of various usability concepts and familiarize myself with more projects out there.
+Up until now, I feel that I’m on track with the work that I’m doing with MarkUs.</description>
+    </item>
+    
+  </channel>
+</rss>

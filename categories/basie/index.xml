@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basie on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/basie/</link>
+    <description>Recent content in Basie on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2010 17:50:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/basie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basie Status Update (March 30, 2010)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-30-2010-2/</link>
+      <pubDate>Tue, 30 Mar 2010 17:50:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-30-2010-2/</guid>
+      <description>Status:   François Fournier : Selenium tests for Mail application (reviewed by AlexLe). Selenium tests for Dashboard application (reviewed by ChrisV). Selenium tests for Admin Manage page. Next step is to continue working on Admin Database.   Guillaume Simard : Selenium tests for About application (Reviewed by Nikita). Reviewed AlexLe tests for Timezones. Started tests for tickets application. Next step will be to start documentation on &amp;#8220;How to do Selenium Tests&amp;#8221; and work on review to commit Selenium tests on reviewBoard.</description>
+    </item>
+    
+    <item>
+      <title>Basie Status Update (March 23, 2010)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-23-2010/</link>
+      <pubDate>Wed, 24 Mar 2010 05:34:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-23-2010/</guid>
+      <description>Road Blocks:
+ Alex &amp;#8211; Looking for some feedback on timezone tests, mainly for source app. (R723)  Guillaumes will review them and provide feedback.  Chris &amp;#8211; Awaiting review for Trac-2-Basie tool. (R718)  Nikita has been given the task as reviewer.  Chad &amp;#8211; Need some redirection from Veronica in terms of design.  Veronica and Chad will have discussion.   Status:
+ Guillaumes continues with Selenium testing.</description>
+    </item>
+    
+    <item>
+      <title>Why Test With Random Data?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/why-test-with-random-data/</link>
+      <pubDate>Thu, 18 Mar 2010 09:48:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/why-test-with-random-data/</guid>
+      <description>Guillaume Simard and François Fournier are writing Selenium tests for Basie. Over on the Basie blog, they explain why they&amp;#8217;re using random data in their tests, rather than testing against predefined fixtures. What is your group using? And why?</description>
+    </item>
+    
+    <item>
+      <title>Basie Status Reports</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-reports-2/</link>
+      <pubDate>Tue, 16 Mar 2010 18:09:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-reports-2/</guid>
+      <description>Here are status reports for this week (15th of March):
+ Veronica reviewed draft of the &amp;#8220;Getting Started&amp;#8221; document for the project and filed a ticket describing proper header behaviour (#116). She is planning to apply some of her magic to revamp ticket and global search UI design, and will start working on the UI/frontend style guide together with Chris. Jackie worked on improving error message reporting in milestones and tickets apps.</description>
+    </item>
+    
+    <item>
+      <title>Veronica&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/veronicas-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 23:28:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/veronicas-midterm-report/</guid>
+      <description>I can&amp;#8217;t believe we&amp;#8217;re halfway through the term. Congratulations to all the progress you&amp;#8217;ve made, everyone!
+Initial expectations:
+ Apply what I&amp;#8217;ve learned from courses and work. Check. Explore techniques that I haven&amp;#8217;t had the chance to practice at work. E.g. Personas, but that&amp;#8217;s on the back-burner. Collaborate closely with the developers. See below.  What&amp;#8217;s going well:
+ I think the code sprint at the beginning of the term has been invaluable in terms of motivation.</description>
+    </item>
+    
+    <item>
+      <title>Basie Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 11:14:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-midterm-report/</guid>
+      <description>The Basie team has made considerable progress this term, both on the software, and in learning how to work together effectively. One member dropped out due to over-commitment, but most of the others pushed hard to get Version 0.6 out i time for me to take it to the Python Conference in Atlanta, where we got a lot of useful feedback. We&amp;#8217;re on track to do another release (Version 0.7) at the end of term or shortly after.</description>
+    </item>
+    
+    <item>
+      <title>Chad Cogar &amp;#8211; Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chad-cogar-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 06:50:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chad-cogar-midway-update/</guid>
+      <description>Wow, has this semester ever gone by fast &amp;#8212; I can&amp;#8217;t believe that we only have six weeks left until the end of term! Working on Basie has been quite the learning experience. I had never worked on an open-source project before starting on this project, and I knew very little about Django. Over the past two months I&amp;#8217;ve learned a tremendous amount about both. It&amp;#8217;s been great getting to know the tools of the trade (ticketing systems, the reviewboard, etc) and working as part of a team.</description>
+    </item>
+    
+    <item>
+      <title>Chris Van &amp;#8211; Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chris-van-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 03:25:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chris-van-midway-update/</guid>
+      <description>Working on Basie has been a blast! And the team, they&amp;#8217;re really a first-class bunch. Well, to quote Greg, Basie has seen a &amp;ldquo;flurry of activity&amp;rdquo; in the recent weeks as we prepared to debut Basie 0.6. We have all done tremendous work fixing many outstanding bugs, discovering new issues and solutions, refactoring a bunch of code, and redesigning the interface.
+These past few months I&amp;#8217;ve worked mostly on fixing old issues and redesigning the Dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Jackie Huynh &amp;#8211; Midterm Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/jackie-huynh-midterm-update/</link>
+      <pubDate>Sun, 28 Feb 2010 09:13:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/jackie-huynh-midterm-update/</guid>
+      <description>Wow, it&amp;#8217;s already half way through the term. Working with Greg and the Basie team has been a great experience. I am glad that I chose Basie as the project to work with, as I got to learn Django and Python. I feel that I&amp;#8217;m working at a pretty good pace with Basie, but sometimes I feel that I&amp;#8217;m not doing enough when compared to the more experienced members on the team.</description>
+    </item>
+    
+    <item>
+      <title>So, we still have some time to come up with something working, right?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/so-we-still-have-some-time-to-come-up-with-something-working-right/</link>
+      <pubDate>Wed, 24 Feb 2010 19:30:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/so-we-still-have-some-time-to-come-up-with-something-working-right/</guid>
+      <description>We are half-way through the term and I am enjoying working on Basie a lot. I think in our team we didn&amp;#8217;t have much time to play around and get used to the project because 0.6 was planned soon. This gave a very energetic push in the beginning of the year, and 0.7 is something that pushes me to try my best and do work in time now, when 0.6 is out.</description>
+    </item>
+    
+    <item>
+      <title>Basie 0.6 is out!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-0-6-is-out/</link>
+      <pubDate>Tue, 16 Feb 2010 18:30:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-0-6-is-out/</guid>
+      <description>You put your left leg in
+Your left leg out
+In, out, in, out,
+you shake it all about.
+You do the Hokey Cokey and you turn around
+That&amp;#8217;s what it&amp;#8217;s all about&amp;#8230;  If you are wondering why Basie team is very cheerful right now, it&amp;#8217;s because we are happy to announce that 0.6 has been released today, very much in time for PyCon. Everyone did her and his share to put this release out of the door and once we take a little break to catch up on our lives and other courses, we&amp;#8217;ll be back working hard to make 0.</description>
+    </item>
+    
+    <item>
+      <title>Basie progress</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-progress/</link>
+      <pubDate>Thu, 11 Feb 2010 03:15:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-progress/</guid>
+      <description>Basie team is working hard to make 0.6 happen; Greg Wilson will be presenting this release at the PyCon 2010 in Atlanta. We seem to inhabit our mailing list, with occasional posts to the Basie blog, where we collect our status reports. Besides fixing many general bugs, we are concentrating on the usability, compatibility, and appearance improvements. Here is a list of status reports that were filed on the Basie blog over the last three weeks, but were missing from the UCOSP blog:</description>
+    </item>
+    
+    <item>
+      <title>Basie Status Reports</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/basie-status-reports/</link>
+      <pubDate>Fri, 22 Jan 2010 15:32:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/basie-status-reports/</guid>
+      <description>From Jan 19:
+ Chris van Wiermeesch François Fournier Jackie Huynh Maciej Kozlowski Chad Cogar Alex Le Veronica Wong Guillaume Simard  </description>
+    </item>
+    
+    <item>
+      <title>Why Nikita wishes UofT made courses like UCOSP mandatory.</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/why-nikita-wishes-uoft-made-courses-like-ucosp-mandatory/</link>
+      <pubDate>Mon, 18 Jan 2010 01:59:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/why-nikita-wishes-uoft-made-courses-like-ucosp-mandatory/</guid>
+      <description>&amp;#8220;Do not waste time being jealous: sometimes you&amp;#8217;re ahead, sometimes behind. Race is long and in the end you see that you are only competing with yourself&amp;#8221;.
+__
+The reason I switched from Mechanical Engineering to Computer Science after my first undergrad year, to be short: it was extremely boring. I did not want to wait for the 3rd year to come in order for the stuff to get more interesting.</description>
+    </item>
+    
+    <item>
+      <title>François Fournier</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/francois-fournier/</link>
+      <pubDate>Thu, 14 Jan 2010 00:11:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/francois-fournier/</guid>
+      <description>Hi everyone !
+My name is François Fournier ( call me frank, it&amp;#8217;s shorter and easier ! ). I will complete my formation in software engineering next fall. It will be my first contribution to an open-source project, all of my experience in software development came from classes or summer job.
+Basie is a good project for me because it will help me to continue my learning of python.
+I hope we will have fun during all this semester and I will see you all at Toronto this week-end.</description>
+    </item>
+    
+    <item>
+      <title>Guillaume Simard</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/guillaume-simard/</link>
+      <pubDate>Wed, 13 Jan 2010 16:33:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/guillaume-simard/</guid>
+      <description>Hi everyone !
+My name is Guillaume Simard ( pronounced &amp;#8216; Giiyom &amp;#8216; ), I&amp;#8217;m currently doing my last semester at Université Laval in Software Engineering ( sounds much better than &amp;#8216; Génie Logiciel &amp;#8216; .. ! ). These last four years, I&amp;#8217;ve worked mostly on web applications and video game development ( a hobby of mine ). I like using Python, which is part of why I chose Basie as my last project for my degree.</description>
+    </item>
+    
+    <item>
+      <title>Veronica Wong</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/veronica-wong/</link>
+      <pubDate>Tue, 05 Jan 2010 17:08:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/veronica-wong/</guid>
+      <description>Hello everyone!
+My name is Veronica, and I&amp;#8217;m a 4th year student at UofT finishing up my undergraduate degree in computer science (specializing in software engineering and minoring in economics). I&amp;#8217;ll be working on the usability and interface design aspect of Basie for the upcoming term.
+I was fortunate enough to work with Professor Karen Reid on MarkUs last Spring on its design, and with Khai Truong with his research project on upcycling and disposable technology the same summer.</description>
+    </item>
+    
+    <item>
+      <title>Nikita Pchelin</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/nikita-pchelin/</link>
+      <pubDate>Tue, 05 Jan 2010 00:52:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/nikita-pchelin/</guid>
+      <description>Hi guys, my name is Nikita Pchelin and this semester I will be working on Basie. Last semester I worked on ElmCity.
+I am a 3rd year CS and French student, at the University of Toronto (Mississauga campus). I am really excited about taking this course – partly because if the programming challenges, but also because I want to experience working in a large team.
+Working in a team where members live thousand miles away from each other is challenging; it forces the members to find new effective ways of interaction to get things done in time.</description>
+    </item>
+    
+    <item>
+      <title>Chris VanWiemeersch</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/chris-vanwiemeersch/</link>
+      <pubDate>Mon, 04 Jan 2010 18:25:48 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/chris-vanwiemeersch/</guid>
+      <description>Hi all &amp;#8212; I&amp;#8217;m Chris, a junior at Michigan State studying Computer Science and Film Studies. This spring, I&amp;#8217;ll be working with the Basie team. Since middle school, hiding my face behind the computer screen, I&amp;#8217;ve worked on a variety of freelance web development projects (many of which are related to film) and an assortment of contract gigs.
+This will mark my first venture into open-source development. I look forward to meeting everyone at the code sprint in Toronto!</description>
+    </item>
+    
+    <item>
+      <title>Maciej Kozlowski</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/maciej-kozlowski-2/</link>
+      <pubDate>Sun, 03 Jan 2010 18:58:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/maciej-kozlowski-2/</guid>
+      <description>Hello everyone. My name is Maciej and I&amp;#8217;ll be working on Basie this term.
+I&amp;#8217;m a fourth year computer science student at the University of Toronto specializing in Software Engineering. I haven&amp;#8217;t done any internship or co-op jobs but I have worked on many projects, academically and otherwise. These include: developing image differencing software, HCI research for a public washroom locating device, fixing bugs for the JFreeChart project, working on OS161, as well as some embedded systems programming.</description>
+    </item>
+    
+    <item>
+      <title>Jackie Huynh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/jackie-huynh/</link>
+      <pubDate>Thu, 31 Dec 2009 00:39:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/jackie-huynh/</guid>
+      <description>Hi Everyone,
+My name is Jackie Huynh, currently a 4th year B.Sc student majoring in Computer Science (software engineering). I&amp;#8217;ve worked with many different programming languages before, mainly C\C++, Java, Python, and PHP. This coming term, I&amp;#8217;ll be working in the Basie Project.
+I&amp;#8217;m also in the COOP program at UBC. I spent 8 months at HSBC, and another 8 months at Safe Software. I&amp;#8217;m really looking forward to this open-source development program, and also meeting with other students from other Universities at the Coding Sprint.</description>
+    </item>
+    
+    <item>
+      <title>Alex Le</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/alex-le/</link>
+      <pubDate>Sat, 26 Dec 2009 00:34:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/alex-le/</guid>
+      <description>Hi my name is Alex Le, I am a 4 year student at UBC. I am working towards a bachelors in Computer Science and minor in Economics. I have previously worked at Business Objects and Macdonald Detwiller and Associates during Co-op and I am interested in web development.
+I am looking forward to working with the Basie Team next semester.
+ I hope everyone has a wonderful holiday season.</description>
+    </item>
+    
+    <item>
+      <title>The good, the bad and the Basie</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/the-good-the-bad-and-the-basie/</link>
+      <pubDate>Sun, 29 Nov 2009 02:25:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/the-good-the-bad-and-the-basie/</guid>
+      <description>The Good: I learned a lot about web frameworks (specifically, Django) and jQuery applications from Basie. Without having any web development background, the course allowed me to move at my own pace while still absorbing lots of information that I will likely retain for future employment opportunities. Not only that, but the reference gained by doing such a project is certainly one of the best ways to get your foot in the door (here&amp;#8217;s looking at you, Greg ;)).</description>
+    </item>
+    
+    <item>
+      <title>And Another Post Mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/and-another-post-mortem/</link>
+      <pubDate>Sat, 28 Nov 2009 11:38:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/and-another-post-mortem/</guid>
+      <description>Apart from the fact that it&amp;#8217;s great to work on a real project. I believe it was invaluable to meet the programmer behind the name at the start of semester. It gave us the chance to not only meet, but perform a little team building as well rather than just a name somewhere in cyberspace. I think that working in a distributed team like this gave us all an experience that we might not get from some IT companies.</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Post Mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/post-mortem-john-peters/</link>
+      <pubDate>Wed, 25 Nov 2009 04:35:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/post-mortem-john-peters/</guid>
+      <description>Greg:
+You are not allowed to repeat something that someone else has said (which is a good incentive to post early :-).
+ Apparently posting within the day isn&amp;#8217;t early enough; there are almost two pages already.
+I&amp;#8217;d like to echo what Josh said, both the good and the bad. The best courses in my undergraduate have been the ones where I&amp;#8217;ve done &amp;#8216;real&amp;#8217; work, and the more opportunities I have to do such things the better.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #7: Basie</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/winter-2010-project-7-basie/</link>
+      <pubDate>Thu, 12 Nov 2009 21:06:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/winter-2010-project-7-basie/</guid>
+      <description>Basie is a web-based software project forge that integrates revision control, issue tracking, mailing lists, wikis, status dashboards, and other tools that developers need to work effectively in teams. It is simple enough for students to master in just a few minutes, but powerful enough to support large, distributed teams, and is freely distributed under an open source license.
+Basie is built on top of Django, a Python-based web application framework, and the jQuery Javascript library.</description>
+    </item>
+    
+    <item>
+      <title>Basie weekly meeting: Oct. 28, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-28-2009/</link>
+      <pubDate>Fri, 30 Oct 2009 05:23:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-28-2009/</guid>
+      <description>The Basie team had its meeting yesterday (chat log). The main topic of this week&amp;#8217;s meeting was coming up with a marking rubric for the UCOSP students.
+We spent some time going over one of the papers mentioned earlier &amp;#8211; Turning Student Groups into Effective Teams (PDF) &amp;#8211; focusing on the fourth section on peer ratings. Everyone seemed to agree with the second approach detailed on page 9 of the PDF (page 17 in the journal).</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>The software development process of Basie</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/the-software-development-process-of-basie/</link>
+      <pubDate>Tue, 20 Oct 2009 00:45:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/the-software-development-process-of-basie/</guid>
+      <description>Recently I attempted to describe what kind of process we used while developing Basie. My first shot at the definition was a little off, but it turns out that there is no clear definition for how we do things. I&amp;#8217;m looking for some feedback from fellow students on what they think of our current process and how they would go about defining it. I&amp;#8217;m planning on coming up with another revision of this definition once I hear what others have to say.</description>
+    </item>
+    
+    <item>
+      <title>Basie weekly meeting: Oct. 14, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-14-2009/</link>
+      <pubDate>Wed, 14 Oct 2009 22:03:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-14-2009/</guid>
+      <description>Despite Freenode doing its best to keep people from attending, the weekly Basie meeting happened today. You can read up on it on the Basie blog; an IRC transcript is also available.</description>
+    </item>
+    
+    <item>
+      <title>Learn about Themeroller on the Basie blog</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/learn-about-themeroller-on-the-basie-blog/</link>
+      <pubDate>Tue, 13 Oct 2009 23:08:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/learn-about-themeroller-on-the-basie-blog/</guid>
+      <description>On the Basie blog I recently made a post about the jQuery UI Themeroller tool and why it&amp;#8217;s useful. One of my purposes for making the post was to draw some input about the current color theme in Basie. As developers we don&amp;#8217;t have to make these types of decisions every day, but it&amp;#8217;s still quite an important one. At the very least take a look and learn a bit about jQuery UI, you might find it useful some day down the road!</description>
+    </item>
+    
+    <item>
+      <title>Basie weekly meeting: Oct. 7, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-7-2009/</link>
+      <pubDate>Wed, 07 Oct 2009 23:09:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-7-2009/</guid>
+      <description>The Basie team had it&amp;#8217;s weekly meeting this afternoon, and I&amp;#8217;ve posted a summary of the meeting over at the Basie blog.
+Check it out!</description>
+    </item>
+    
+    <item>
+      <title>Basie: What&amp;#039;s in a dashboard?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-whats-in-a-dashboard/</link>
+      <pubDate>Wed, 07 Oct 2009 09:33:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-whats-in-a-dashboard/</guid>
+      <description>Morning everyone,
+I just wrote a post over at the Basie blog about what type of information people would find useful on Basie&amp;#8217;s new dashboard.
+I&amp;#8217;m hoping to try and gather as much user input on the matter as possible so your participation would be greatly appreciated.
+Stay gold,
+Ted</description>
+    </item>
+    
+    <item>
+      <title>Weekly Basie Meeting &amp;#8211; September 30</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/weekly-basie-meeting-september-30/</link>
+      <pubDate>Thu, 01 Oct 2009 18:49:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/weekly-basie-meeting-september-30/</guid>
+      <description>We had our Basie IRC meeting yesterday, led by Ian Lienert. He posted a summary on the Basie blog, and you can also read a transcript of the meeting.</description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>The Basie team posted their first-day report on their blog. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:
+Basie
+Eclipse4Edu
+
+ElmCity
+
+Ingres
+
+MarkUs
+
+Robocup
+
+Thunderbird
+
+**_WikiDev
+_**</description>
+    </item>
+    
+    <item>
+      <title>Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</link>
+      <pubDate>Thu, 24 Sep 2009 15:30:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</guid>
+      <description>Here are the latest progress reports from the teams (with Ingres, Thunderbird, and WikiDev still to come):
+ Basie * Build a toy application in Django and check it into the Subversion repository to prove that they have started learning the framework.  Get Basie running on their development machine and send us a URL so that we can check it. Fix some of our broken test fixtures (long story) and put their changes up for code review.</description>
+    </item>
+    
+    <item>
+      <title>First Basie Team Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/first-basie-team-meeting/</link>
+      <pubDate>Thu, 17 Sep 2009 15:25:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/first-basie-team-meeting/</guid>
+      <description>The Basie team had their first online meeting yesterday. Bill Konrad has posted a short summary on the Basie blog; long story short, we&amp;#8217;re pushing ahead with four sub-projects:
+ Dashboard: Zuzel and Ted Diff Engine: Bill and John Milestones/Calendar: Ian and Josh IRC Integration: Tony and Andrew  Stay tuned!</description>
+    </item>
+    
+    <item>
+      <title>Ted Tate</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ted-tate/</link>
+      <pubDate>Thu, 10 Sep 2009 09:56:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ted-tate/</guid>
+      <description>Ted Tate  Hi, I&amp;#8217;m Ted Tate and I will be working on the (Count?) Basie project.
+I&amp;#8217;m a fourth year Computing Science student at SFU focusing on programming languages and software engineering. In the past I have worked as a C++ developer including a co-op position at Safe Software working in the spatial data domain. I&amp;#8217;m excited to begin work on the Basie project so I can jump headfirst into the buzzword-laden zoo of web programming.</description>
+    </item>
+    
+    <item>
+      <title>Andrew Schurman</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/andrew-schurman/</link>
+      <pubDate>Tue, 08 Sep 2009 02:54:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/andrew-schurman/</guid>
+      <description>Hey, I&amp;#8217;m Andrew and will be joining the Basie team this semester. I&amp;#8217;m a fourth year SFU student pursuing an honours Computing Science degree with a minor in Mathematics. Having had a mixed background of courses under my belt, I&amp;#8217;ve decided to specialize in computing systems, namely operating systems and networks. I also enjoy web systems and databases as well. Having worked on web systems before with Elastic Path, I would enjoy the opportunity explore this avenue again.</description>
+    </item>
+    
+    <item>
+      <title>Tony Targonski</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/tony-targonski/</link>
+      <pubDate>Mon, 07 Sep 2009 20:22:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/tony-targonski/</guid>
+      <description>Hello, my name is Tony Targonski, and after some quick life decisions and a rocky start in Engineering, I am now well on my way through the Computer Science program at the University of Waterloo.
+While the logistics of the academics were being sorted out, I&amp;#8217;ve administered CompSci.ca&amp;#8217;s forums, started a blog, and rocked out as one of 2.5 developers behind GigPark.com, helping to take the startup company from sketches to an acquisition.</description>
+    </item>
+    
+    <item>
+      <title>Josh McCarthy</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/josh-mccarthy/</link>
+      <pubDate>Sun, 06 Sep 2009 19:20:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/josh-mccarthy/</guid>
+      <description>Hi, I&amp;#8217;m Josh McCarthy and I&amp;#8217;ll be working on Basie this semester.
+I&amp;#8217;m a fourth year Computer Science student with a minor in Mathematics at Memorial University. I am just coming out of an eight month internship at ICAN, working on software for the marine industry. I haven&amp;#8217;t yet decided where I want to specialize in Computer Science, but I am particularly interested in human-computer interaction and I love programming.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>John Peters</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/john-peters/</link>
+      <pubDate>Fri, 04 Sep 2009 22:01:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/john-peters/</guid>
+      <description>(I&#39;m the one on the right.)  Hello, everyone. I&amp;#8217;m John Peters and I&amp;#8217;ll be working on Basie.
+I&amp;#8217;m in my fourth and final year of my computing science degree at the University of Alberta. In a way I&amp;#8217;m still readjusting to university life, having just come off a sixteen month internship between my third and fourth year working on plasma donation and management software. During a previous summer I worked for the University of Alberta GAMES Group on the ScriptEase project.</description>
+    </item>
+    
+    <item>
+      <title>Ian Lienert</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ian-lienert/</link>
+      <pubDate>Fri, 04 Sep 2009 20:16:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ian-lienert/</guid>
+      <description>Hello. My name is Ian Lienert. I am currently undergoing my fourth year of an Hon.B.Sc. in Computer Science: Foundations at University of Toronto. I am relatively new to programming, having only developed a deep interest in Computer Science during first year (during which I was enrolled as a math major). I am most interested in complexity and logic.
+This term, I will be continuing to work on Basie, since the project piqued my interest during the summer when I was writing a database migration tool for it.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs and Basie This Fall</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/markus-and-basie-this-fall/</link>
+      <pubDate>Wed, 02 Sep 2009 00:52:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/markus-and-basie-this-fall/</guid>
+      <description>Over on the MarkUs blog, Karen Reid has posted an introduction to the team for the fall, and promised to outline projects the students might take on. Meanwhile, Bill Konrad has posted some project ideas for Basie, and I&amp;#8217;ll follow up with an introduction to the team later this week. We should have all our students in place by the end of this week; things will start moving pretty quickly once Labor Day has come and gone.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter 2010 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/winter-2010/</link>
+    <description>Recent content in Winter 2010 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2010 19:38:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/winter-2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markus March 19th Punchlines</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-march-19th-punchlines/</link>
+      <pubDate>Fri, 19 Mar 2010 19:38:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-march-19th-punchlines/</guid>
+      <description>Victoria Status  Brainstormed ideas for the Dashboard. Went through draft Dashboard contents with Karen and Farah and got some good and constructive feedback  Next Steps  With the feedback I got back regarding the potential Dashboard contents, come up with a preliminary prototype &amp;#8212; one that we can take apart and help establish a better idea as to how we&amp;#8217;d like to design the Dashboard.  Roadblocks  Swamped with work (from my full-time position).</description>
+    </item>
+    
+    <item>
+      <title>Joseph&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/josephs-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 00:59:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/josephs-midterm-report/</guid>
+      <description>Summary:
+Things are going slower than expected. I thought I would be able to get so much more done. The first few weeks were spent on my first changelist. My expectation was to be done with the first week [8]. I have learned tons about Ruby, Rails, Rails plugins and javascript. I am currently working on replaced the AJAX pagination with serverside pagination on the submissions page. Afterwards, I will be working on the detailed view for the submissions page.</description>
+    </item>
+    
+    <item>
+      <title>Ingres/Geotools Lim&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 20:22:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</guid>
+      <description>The Ingres/Geotools team finally began work on actual implementation of classes and unit tests for the classes in Geotools at this halfway point. I personally feel that we are falling a little bit behind schedule, not beyond managable. We took our time in the initial phase afraid of making mistakes that compromises the quality of the output. The Ingres/Geotools team has have a lot to explore in the geospatial world as a toddler would have the world.</description>
+    </item>
+    
+    <item>
+      <title>Geotools Status Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/geotools-status-report/</link>
+      <pubDate>Tue, 09 Feb 2010 16:45:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/geotools-status-report/</guid>
+      <description>The Geotools team had been working on mostly getting oriented to Geospatial concepts, determining action items, etc.
+We are now ready to create a new unsupported jdbc-ingres module into Geotools. In the coming weeks, you will see rapid additions of new code in the Geotools source.</description>
+    </item>
+    
+    <item>
+      <title>&amp;quot;What we learnt&amp;quot; &#43; &amp;quot;Where we&amp;#039;ll go&amp;quot;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</link>
+      <pubDate>Tue, 19 Jan 2010 15:12:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</guid>
+      <description>The day before the sprint, I knew of nothing about what I should do and what I can do in this project. I woke up at 5 on Friday morning, took a taxi to the bus terminal, got onto Greyhound to Toronto, got lost on our way to Bahen Centre (we were on University and College, 5 minutes away from Bahen, lol) To my surprise, I arrived, and joined a team of people as lost as I was.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Aftermath</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-aftermath/</link>
+      <pubDate>Mon, 18 Jan 2010 05:20:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-aftermath/</guid>
+      <description>I&amp;#8217;d like to thank Greg, all the mentors/organisers and the nice people from IBM (especially Matthew) for everything they have done for us. They have obviously put lots of effort and their spare time into this and I think we should all give them a big round of aplause.
+So.. the code sprint is now officially over.. and here is what I think..
+What I liked:
+ Having the chance to meet everyone before we actually start coding turns out to be extremely valuable.</description>
+    </item>
+    
+    <item>
+      <title>Day 3: Database Flight Simulator</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/day-3-database-flight-simulator/</link>
+      <pubDate>Sun, 17 Jan 2010 20:56:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/day-3-database-flight-simulator/</guid>
+      <description>What we did today:
+ Assigned work to each team member, following the agile development style, we now have 10 small, measurable tickets here &amp;#8211; the goal of this sprint is to deliver 4 scenarios, and piloting graphical indicator for the next sprint. So we will have enough knowledge of the code in the team when the next sprint begins.  We have our first road blocker today &amp;#8211; the WMDServer does not work on either of our environments, whether it being Mac, Windows 7 or Windows Vista, and we have decided to work on the following items:</description>
+    </item>
+    
+    <item>
+      <title>Day 3 of the Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</link>
+      <pubDate>Sun, 17 Jan 2010 19:50:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</guid>
+      <description>This weekend, we focused on finding the main aspects of the program that we think need working on and deciding where to go with each one. Specifically, there was the simplification of toolbars and menus to cater to beginner programmers, comparing the Java versus Scheme parts of the project and approaching the open bugs that have already been identified. Also we experimented with the program from a first year student standpoint to determine what is and isn&amp;#8217;t necessary and went from there.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Day 1 &amp;amp;2 : Data Server Flight Simulator</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</link>
+      <pubDate>Sun, 17 Jan 2010 06:36:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</guid>
+      <description>Day 1 (At IBM Canada):
+Activities:
+ Welcome, Introductions, OSS Development talk, CLA Introduction to the TE by Peter Kohlmann IBM DB2, Technology Explorer (TE) &amp;amp; Workload Multiuser Driver (WMD) &amp;#8211; setup on your systems DB2 architecture overview Walk through &amp;#8211; basic tutorial &amp;amp; view creation &amp;#8211; Matthew Vandenbussche  Issues:
+ There is a bug in db2 driver on Macbook, 3 of the team members are using Mac and had to switch to Windows/Linux  Day 2: (At University of Toronton)</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #7: Basie</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/winter-2010-project-7-basie/</link>
+      <pubDate>Thu, 12 Nov 2009 21:06:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/11/winter-2010-project-7-basie/</guid>
+      <description>Basie is a web-based software project forge that integrates revision control, issue tracking, mailing lists, wikis, status dashboards, and other tools that developers need to work effectively in teams. It is simple enough for students to master in just a few minutes, but powerful enough to support large, distributed teams, and is freely distributed under an open source license.
+Basie is built on top of Django, a Python-based web application framework, and the jQuery Javascript library.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #6: GeoTools Support for Ingres</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/winter-2010-project-6-geotools-support-for-ingres/</link>
+      <pubDate>Thu, 12 Nov 2009 21:04:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/winter-2010-project-6-geotools-support-for-ingres/</guid>
+      <description>The Geospatial Information System industry is over $4B in size and growing rapidly. Perhaps more interesting is that geospatial (think maps) technology is being integrated into mainstream technology. For example, how may people have not used Google Maps or a GPS at some point? Technology change has made what was impossible a decade ago not only possible, but perhaps practical for firms that could not use geospatial technology in the past.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #5: Mercurial</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2009/11/winter-2010-project-5-mercurial/</link>
+      <pubDate>Thu, 12 Nov 2009 21:03:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2009/11/winter-2010-project-5-mercurial/</guid>
+      <description>The Mercurial distributed version control system is used by thousands of developers. NetBeans, OpenJDK, OpenOffice, and Python itself are just a few of the projects that have adopted Mercurial as their version control system. But as much as Mercurial has been making incredible inroads in the open-source community, it has some key deficiencies that make it a poor choice for real-life commercial development.
+Here at Fog Creek Software, we&amp;#8217;re about to release a brand-new source control management system called Kiln that&amp;#8217;s based on Mercurial.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #4: Thunderbird</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-4-thunderbird/</link>
+      <pubDate>Thu, 12 Nov 2009 02:06:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-4-thunderbird/</guid>
+      <description>Mozilla Thunderbird is the award winning email client created by Mozilla Messaging. Used by millions of people world wide, it is made available for Windows, Mac OS X, and Linux in over 40 different languages.
+Mozilla&amp;#8217;s aims for this term&amp;#8217;s project will be to introduce you to the technological, social, and pragmatic aspects of developing open source software through direct involvement in the project, and secondarily to work on features and bugs in Mozilla Thunderbird 3.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #3: Pony-Build</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-3-pony-build/</link>
+      <pubDate>Wed, 11 Nov 2009 20:14:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-3-pony-build/</guid>
+      <description>Pony-build is a simple system for gathering, managing, displaying, and integrating build and test results. It consists of two core components: a server (for gathering and managing results) and a client library for describing build and test processes.
+The project goals are pretty open, but we&amp;#8217;d like to enable features like &amp;#8220;phoning home&amp;#8221; from tests run during installation; integration with test-running frameworks; upload and storage of binary &amp;#8220;-latest&amp;#8221; packages; inclusion and display of code coverage; &amp;#8220;test swarms&amp;#8221; and a leaderboard for the Python community; integration with the Python Package Index; and configurable PubSubHubbub-based &amp;#8220;push&amp;#8221; notification of build events.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #2: Data Server Flight Simulator</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-2-data-server-flight-simulator/</link>
+      <pubDate>Wed, 11 Nov 2009 01:36:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-2-data-server-flight-simulator/</guid>
+      <description>One of the major long term goals for the Technology Explorer for IBM DB2 has been to provide an environment similar to a flight simulator for Database Administrators. Pilots used to learn to deal with potentially dangerous and stressful situations in a real plane. This was risky and expensive. Pilots today learn to deal with system failures and extreme conditions on flight simulators. DBAs still develop their experience on live multi-million dollar production systems.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #1: IDE4EDU</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-1-ide4edu/</link>
+      <pubDate>Wed, 11 Nov 2009 01:33:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-1-ide4edu/</guid>
+      <description>The Eclipse IDE for Education (IDE4EDU) is a version of Eclipse streamlined specifically for use by university and college students. The environment provides support for programming languages that are commonly used in university courses, including Java, Scheme, and Prolog.
+Our initial efforts were focused on providing a Java environment with reduced clutter that allows students to focus on their immediate requirement of getting classroom work done. This version provided a streamlined environment featuring stripped down versions of wizards for creating common elements.</description>
+    </item>
+    
+  </channel>
+</rss>

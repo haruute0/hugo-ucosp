@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcript on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/transcript/</link>
+    <description>Recent content in Transcript on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2009 22:03:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/transcript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The MarkUs Team Has Their First IRC Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</link>
+      <pubDate>Fri, 11 Sep 2009 22:03:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</guid>
+      <description>The MarkUs team had their first IRC meeting today.
+Check out the minutes on our blog, here.
+Or you can read the transcript here. (Meeting starts around 16:04)
+Cheers,
+-MarkUs Team</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drupal on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/drupal/</link>
+    <description>Recent content in Drupal on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2009 23:07:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One Step Backward</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/one-step-backward/</link>
+      <pubDate>Sun, 15 Nov 2009 23:07:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/one-step-backward/</guid>
+      <description>Sometimes it is hard to recognize when a problem can be best solved by starting over. Over the past few days I have been making a lot of configurations on Windows using something called &amp;#8216;Windows Configuration-By-Forms&amp;#8217;. You can start it by going to the command prompt(typing &amp;#8220;cmd&amp;#8221; in Start-&amp;gt;Run) and typing the command &amp;#8220;cbf&amp;#8221;.
+Well, after all was said and done I wasn&amp;#8217;t able to load php pages consistently. I previously was able to connect to an Ingres database, but not return any successful queries.</description>
+    </item>
+    
+  </channel>
+</rss>

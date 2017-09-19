@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikidev on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/wikidev/</link>
+    <description>Recent content in Wikidev on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2009 02:49:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/wikidev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The WikiDev meetings have also started</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/the-wikidev-meetings-have-also-started/</link>
+      <pubDate>Tue, 15 Sep 2009 02:49:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/the-wikidev-meetings-have-also-started/</guid>
+      <description>We are meeting every week at 1:30 Mountain time and today was our first meeting. The transcript is at http://www.cs.ualberta.ca/~stroulia/UCOSP_IRC/MonSep14_2009.html (please ignore the hyperlinks that appear in the transcript).</description>
+    </item>
+    
+  </channel>
+</rss>

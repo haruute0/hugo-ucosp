@@ -1,0 +1,166 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-team-progress-report-week-of-nov-2/" title="WikiDev Team Progress Report (week of Nov 2)">WikiDev Team Progress Report (week of Nov 2)</a></h1>
+  
+
+<h1 id="alex">Alex</h1>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Finish the UI part of history query</li>
+<li>The graph can handle multiple classes</li>
+</ul>
+
+<p><strong>Roadblocks</strong></p>
+
+<ul>
+<li>The server cannot generate XML including the method and fields info for the related class</li>
+</ul>
+
+<p><strong>Next Steps</strong></p>
+
+<ul>
+<li>Finish navigation part</li>
+<li>Change the PHP to accept our URL request</li>
+</ul>
+
+<h1 id="holly">Holly</h1>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Cleaned up UI and code some</li>
+<li>Added filter for Artifacts, set up structure to make it easier for later filters.</li>
+</ul>
+
+<p><strong>Roadblocks</strong></p>
+
+<ul>
+<li>Current visualization backend doesn&#8217;t easily support adding arrows on the lines, hindering making the graph look more UML-like. Looking for examples of how to override the default behavior, but not easily found.</li>
+</ul>
+
+<p><strong>Next Steps</strong></p>
+
+<ul>
+<li>Now that we have real data, make the graph look better with that &#8211; accommodate large numbers of field/methods, get them to fit on the screen better etc.</li>
+</ul>
+
+<h1 id="owen">Owen</h1>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Co-ordinated with Brendan to get the SchemaSpy-generated files web-accessible</li>
+<li>Read through both team SFU&#8217;s and Botlhale&#8217;s code in SVN to get up to speed on what they have done and prepare for switching teams</li>
+<li>Also read through previous IRC discussions regarding the interface between the front and back ends</li>
+<li>At our weekly meeting, I decided to join the front-end team.</li>
+</ul>
+
+<p><strong>Roadblocks</strong></p>
+
+<ul>
+<li>none</li>
+</ul>
+
+<p><strong>Next Steps</strong></p>
+
+<ul>
+<li>Discuss with Alex and Holly what our current tasks are, and how we will divide them up</li>
+<li>Start contributing code to the front-end</li>
+</ul>
+
+<h1 id="botlhale">Botlhale</h1>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>Cleaning up unnecessary code from the repository</li>
+<li>Synchronizing the code I have written with the rest of the project</li>
+<li>Devising queries to include more details such as methods and fields in Object Object Relationship objects in the returned XML to be used by the flash team</li>
+<li>Entered 3 bugs after analyzing the XML results returned</li>
+</ul>
+
+<p><strong>Next Steps</strong></p>
+
+<ul>
+<li>Do a research about the php get method in order to be able to use it without any security risks since the flash team prefers that it is used to pass the query values</li>
+<li>continue working on queries to return methods and fields for objects in the object object relationships tag</li>
+<li>resolve the bugs on the returned XML results</li>
+<li>Collaborate with a team member who will be joining my team to divide tasks</li>
+<li>Transforming the PHP code to have the methods getClasses() and getClassDetails(), initially designed the PHP code procedurally</li>
+<li>Write SQL statements to query by pjsnapshotid</li>
+<li>On verifying the SQL statement results, transform them into PHP to write the results in XML format that can be used by the flash team</li>
+<li>Resolve any interface issues that might arise when writing code</li>
+</ul>
+
+<p><strong>Roadblocks</strong></p>
+
+<ul>
+<li>Midterms</li>
+</ul>
+
+<h1 id="eric">Eric</h1>
+
+<p><strong>Status</strong></p>
+
+<ul>
+<li>I am moving to work on the back-end with Botlhale now.</li>
+<li>My first priority this week is to try to get his php code integrated with the mediaWiki software. After that I will be updating it to allow for querying package hierarchies.</li>
+</ul>
+
+<p><strong>Roadblocks</strong></p>
+
+<ul>
+<li>Setting up a local copy of the wiki software to develop against &#8211; I&#8217;m especially dreading setting up postgreSQL.</li>
+<li>With any luck, I can configure it to use the remote database.</li>
+</ul>
+
+<p><strong>Next Steps</strong></p>
+
+<ul>
+<li>Continue working on the parser in maintenance mode.</li>
+<li>Add hook so mediaWiki can call Botlhale&#8217;s php files, so the front-end team can start testing against it.</li>
+<li>Add ability for Botlhale&#8217;s script to report all the packages in the database. (From the most recent copy of each file? What happens for deleted files that have old versions in the database?)</li>
+</ul>
+
+  <p class="small gray"><time datetime="2009-11-07">Nov 07, 2009</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

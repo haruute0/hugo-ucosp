@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Status on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/status/</link>
+    <description>Recent content in Status on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Apr 2010 14:24:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/status/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pony-build Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/04/pony-build-updates/</link>
+      <pubDate>Wed, 07 Apr 2010 14:24:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/04/pony-build-updates/</guid>
+      <description>Khushboo:
+Khushboo has been wrestling with git and getting her branch(s) to push properly. Some very informative posts can be found on her blog. She also continues creating build scripts for other python packages.
+Fatima:
+Fatima has been working on getting branch support in for Mecurial checkouts in pony-build, to go along with the new changes, she has also been working on tests. You can read up on all her research into the subject as well as her progress over at her blog.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial: the end of the beginning</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/04/mercurial-the-end-of-the-beginning/</link>
+      <pubDate>Mon, 05 Apr 2010 15:33:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/04/mercurial-the-end-of-the-beginning/</guid>
+      <description>Today marks the last day of classes at the University of Waterloo, and so ends the official portion of the UCOSP project for Tessa, Wendy, and myself. During our last meeting on April 1st, we tied some loose ends on our patches and discussed our experiences in the project. I will save the details for the final reports, but we all agreed that we&amp;#8217;d like to continue contributing to Mercurial as time permits.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 29, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-29-2010/</link>
+      <pubDate>Wed, 31 Mar 2010 15:04:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-29-2010/</guid>
+      <description>Brenda
+Status  Looked further into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu. This may not actually be a task I can accomplish before the code freeze, taking into account the other things I had also intended to finish before then.  Final Steps  Look into Bug 303420: Simplify the user experience when renaming a type from the pop-up menu. Go back to Bug 299342: &amp;ldquo;New Java Package&amp;rdquo; option should automatically create a Java Project, to use the NewJavaProjectConstructor to create the default project.</description>
+    </item>
+    
+    <item>
+      <title>Basie Status Update (March 30, 2010)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-30-2010-2/</link>
+      <pubDate>Tue, 30 Mar 2010 17:50:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-30-2010-2/</guid>
+      <description>Status:   François Fournier : Selenium tests for Mail application (reviewed by AlexLe). Selenium tests for Dashboard application (reviewed by ChrisV). Selenium tests for Admin Manage page. Next step is to continue working on Admin Database.   Guillaume Simard : Selenium tests for About application (Reviewed by Nikita). Reviewed AlexLe tests for Timezones. Started tests for tickets application. Next step will be to start documentation on &amp;#8220;How to do Selenium Tests&amp;#8221; and work on review to commit Selenium tests on reviewBoard.</description>
+    </item>
+    
+    <item>
+      <title>mercurial # the end if nigh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-the-end-if-nigh/</link>
+      <pubDate>Fri, 26 Mar 2010 20:41:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-the-end-if-nigh/</guid>
+      <description>For some of us on the Mercurial crew next week is the closing chapter of the UCOSP adventure. Tessa, Wendy and Anton from Waterloo will be finishing their term, and with that their contributions to Mercurial as part of the program. That&amp;#8217;s not to say they&amp;#8217;ll be done with Mercurial for good—the general consensus is that we all had a great time. Paul and myself still have until mid-April to get the remainder of our work submitted.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 22, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-22-2010/</link>
+      <pubDate>Wed, 24 Mar 2010 13:28:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-22-2010/</guid>
+      <description>Brenda Status  Submitted a patch to Bug 301326 to handle the possibility of multiple source folders when creating a new class using the constructor. Reported Bug 306651 and submitted a patch for it that creates a package constructor like those for projects and classes, including tests. It also includes a rework of the Package Creation Wizard to use the constructor, along the lines of the project and class wizards.</description>
+    </item>
+    
+    <item>
+      <title>Basie Status Update (March 23, 2010)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-23-2010/</link>
+      <pubDate>Wed, 24 Mar 2010 05:34:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-update-march-23-2010/</guid>
+      <description>Road Blocks:
+ Alex &amp;#8211; Looking for some feedback on timezone tests, mainly for source app. (R723)  Guillaumes will review them and provide feedback.  Chris &amp;#8211; Awaiting review for Trac-2-Basie tool. (R718)  Nikita has been given the task as reviewer.  Chad &amp;#8211; Need some redirection from Veronica in terms of design.  Veronica and Chad will have discussion.   Status:
+ Guillaumes continues with Selenium testing.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/eclipse4edu-meeting-minutes-4/</link>
+      <pubDate>Fri, 19 Mar 2010 18:47:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/eclipse4edu-meeting-minutes-4/</guid>
+      <description>We had a brief meeting today and here is the summary.
+Present: Brenda, Cory
+Absent: Miles
+Drag and Drop
+&amp;#8211; Cory is still plugging away at implementing this, as it is not a small task. If anyone is interested in looking at it and providing feedback, it would be beneficial.
+&amp;#8211; He is also wondering if anyone has priorities or features in mind in regards to drag and drop.
+Class Wizard</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 15, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-15-2010/</link>
+      <pubDate>Wed, 17 Mar 2010 18:12:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-15-2010/</guid>
+      <description>Brenda Status  Reworked the patch for Bug 303426 to fix the problem Wayne noted. I found the solution to Bug 303581 and included it in this patch as the code greatly overlapped and the problems were related. Made note of this in Bug 303581. Started investigating into Bug 303420 (Simplify the user experience when renaming a type from the pop-up menu) to see how this should be done. I have the main outline coded, but I&amp;#8217;m still figuring out how to pull in the refactoring functionality to use in conjunction with this code.</description>
+    </item>
+    
+    <item>
+      <title>Basie Status Reports</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-reports-2/</link>
+      <pubDate>Tue, 16 Mar 2010 18:09:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/basie-status-reports-2/</guid>
+      <description>Here are status reports for this week (15th of March):
+ Veronica reviewed draft of the &amp;#8220;Getting Started&amp;#8221; document for the project and filed a ticket describing proper header behaviour (#116). She is planning to apply some of her magic to revamp ticket and global search UI design, and will start working on the UI/frontend style guide together with Chris. Jackie worked on improving error message reporting in milestones and tickets apps.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 8, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-8-2010/</link>
+      <pubDate>Wed, 10 Mar 2010 15:10:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-8-2010/</guid>
+      <description>Brenda Status  Submitted a patch for Bug 303426 that fixes the unresolved issues with the previous patch. The package dropdown menu should now list the packages in the currently selected project, and update when a different project is chosen. The patch also makes sure the default package is listed as &amp;ldquo;(default package)&amp;rdquo; rather than a blank line.  Next Steps  Look into issues with the NewJavaClassConstructor class. Specifically, address Bug 303581 and several of the TODOs and FIXMEs in the code where possible.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/thunderbird-update/</link>
+      <pubDate>Wed, 10 Mar 2010 04:01:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/thunderbird-update/</guid>
+      <description>Some quick updates from the Thunderbird team for weeks starting February 22nd and March 1st. (This is a point-form summary; see https://wiki.mozilla.org/Thunderbird/Students/StatusUpdates for each week&amp;#8217;s full report.)
+Tim (Bug: Windows 7 overlay icons &amp;#8211; https://bugzilla.mozilla.org/show_bug.cgi?id=515907)
+ Wrote a short guide on Mozilla&amp;#8217;s patch development process Corrected a few issues related to incorrect usage of data types in his XPCOM component Submitted a patch Investigated test frameworks appropriate for testing his Windows 7 overlay icons implementation &amp;#8211; this is tricky because Mozilla has A LOT of test frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial is still flowing</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-is-still-flowing/</link>
+      <pubDate>Fri, 05 Mar 2010 02:54:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-is-still-flowing/</guid>
+      <description>In Mercurial land, we&amp;#8217;ve made progress in closer integration between bfiles and core Mercurial commands, a tool to &amp;#8220;bfilesify&amp;#8221; a Mercurial repository, and further work on the caseguard extension. More details below.
+Due to various scheduling conflicts, we did not have a status meeting last week. This week the meeting happened on Wednesday at 9pm EST. We&amp;#8217;ll be back to Thursdays at 6:30pm EST starting next week.
+Chat transcript: https://ucosp.fogbugz.com/default.asp?W38</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Mar 1, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-1-2010/</link>
+      <pubDate>Wed, 03 Mar 2010 14:14:33 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/status-reports-mar-1-2010/</guid>
+      <description>Brenda Status  Worked with Cory on fixing the patch I submitted for Bug 299965 (updating the view when a class is made in the default package of a project with a source folder). He made the fix and submitted the patch. Submitted a patch for Bug 303426 (Class Creation Wizard lists projects in the package selection menu). It fixes the main problem, but is not complete yet.  Next Steps  Implement the second step for Bug 303426 so that the list of packages updates when the currently chosen project is changed.</description>
+    </item>
+    
+    <item>
+      <title>Veronica&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/veronicas-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 23:28:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/veronicas-midterm-report/</guid>
+      <description>I can&amp;#8217;t believe we&amp;#8217;re halfway through the term. Congratulations to all the progress you&amp;#8217;ve made, everyone!
+Initial expectations:
+ Apply what I&amp;#8217;ve learned from courses and work. Check. Explore techniques that I haven&amp;#8217;t had the chance to practice at work. E.g. Personas, but that&amp;#8217;s on the back-burner. Collaborate closely with the developers. See below.  What&amp;#8217;s going well:
+ I think the code sprint at the beginning of the term has been invaluable in terms of motivation.</description>
+    </item>
+    
+    <item>
+      <title>Evan&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/evans-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 20:25:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/evans-midterm-report/</guid>
+      <description>For many of the same reasons raised below, I haven&amp;#8217;t been as productive as I had expected; in particular, this has largely resulted from the intersection between front-heavy term workloads and the various bureaucratic demands of graduation/full-time employment.
+That said, I finally posted my vCard import patch for review this past week, along with some modifications as suggested by Standard8. This patch involves roughly 800 lines of code in the middle of the complex multi-threaded wonder that is Address Book; it even comes complete with xpcshell-based tests (which pass!</description>
+    </item>
+    
+    <item>
+      <title>Blake&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/blakes-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 03:37:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/blakes-midterm-report/</guid>
+      <description>As contrasted with some of my students, I&amp;#8217;m fairly happy with the amount of coding work they&amp;#8217;ve gotten done. I think this is largely because I had more realistic expectations coming in to the course. After 15 years in industry I&amp;#8217;ve come to realize that there&amp;#8217;s a whole lot more to fixing bugs than fixing the bug, and the other stuff is what takes the time. Stuff like figuring out what&amp;#8217;s going wrong, and how the code fits together, writing tests, getting it reviewed, fixing the things the reviewer points out, getting it committed, and (hopefully) writing up their weekly status reports.</description>
+    </item>
+    
+    <item>
+      <title>Wendy&amp;#039;s Midterm report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/wendys-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 19:20:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/wendys-midterm-report/</guid>
+      <description>It has been a very good learning experience for me to work with Mercurial team so far.
+What I learned:
+To be honest, I had no experience in python coding or Mercurial at the beginning of the semester. I was terrified that I had no idea how to start my worm-up project tagmerge extension at the code sprint. Thankfully, Benjamin was really patient with me and guided me where to start off.</description>
+    </item>
+    
+    <item>
+      <title>Dwight’s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/dwight%e2%80%99s-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 14:28:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/03/dwight%e2%80%99s-midterm-report/</guid>
+      <description>This term’s version of IDE4EDU is much the same as last terms. The output of our three students (Brenda, Cory and Miles) has been comparable to last term’s effort and Wayne and I are happy with their consistent progress. On the communication side, there has not been as much online traffic as last term, but that has not seemed to prevent the group from moving forward.
+Like last term, the main issue IDE4EDU faces is the action of committing code.</description>
+    </item>
+    
+    <item>
+      <title>Marcel&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/marcels-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 08:41:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/marcels-midterm-report/</guid>
+      <description>I have to say I&amp;#8217;m disappointed with my progress so far &amp;#8211; not so much in terms of understanding the code and bug fixing, but more in terms of turning my lines working code into accepted patches (and all the communication and time management that goes along with that).
+Code
+Toronto was a great opportunity to learn about the deep inner workings of the Mozilla codebase (an opportunity which, considering the size and scope of the code, was invaluable).</description>
+    </item>
+    
+    <item>
+      <title>Chad Cogar &amp;#8211; Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chad-cogar-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 06:50:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chad-cogar-midway-update/</guid>
+      <description>Wow, has this semester ever gone by fast &amp;#8212; I can&amp;#8217;t believe that we only have six weeks left until the end of term! Working on Basie has been quite the learning experience. I had never worked on an open-source project before starting on this project, and I knew very little about Django. Over the past two months I&amp;#8217;ve learned a tremendous amount about both. It&amp;#8217;s been great getting to know the tools of the trade (ticketing systems, the reviewboard, etc) and working as part of a team.</description>
+    </item>
+    
+    <item>
+      <title>Diane&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/dianes-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 04:12:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/dianes-midway-update/</guid>
+      <description>The term started off with an earlier Code Sprint kickoff than last term and this definitely helped get things in motion much quicker and allowed us to address problems much earlier on which I found was most helpful this term as our team ran into a series of dependent environment setup issues that delayed a lot of the work. The goals and requirements of the project were fairly vague at first, but despite these early setbacks, I found that the team I am working with this term (compared to my last term with UCOSP) is a lot more self-driven and willing to communicate, ask questions, keep each other updated and help each other out.</description>
+    </item>
+    
+    <item>
+      <title>Chris Van &amp;#8211; Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chris-van-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 03:25:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/chris-van-midway-update/</guid>
+      <description>Working on Basie has been a blast! And the team, they&amp;#8217;re really a first-class bunch. Well, to quote Greg, Basie has seen a &amp;ldquo;flurry of activity&amp;rdquo; in the recent weeks as we prepared to debut Basie 0.6. We have all done tremendous work fixing many outstanding bugs, discovering new issues and solutions, refactoring a bunch of code, and redesigning the interface.
+These past few months I&amp;#8217;ve worked mostly on fixing old issues and redesigning the Dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Henry&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/03/henrys-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 01:20:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/03/henrys-midway-update/</guid>
+      <description>Never worked on an open-source project before, it has proven to be challenging for me to run different scripts and commands in an open-source environment. It has been a huge learning curve for me to adjust to open-source programs when I was babied all these years by GUI applications and Windows. Although we are half-way through the term, we still have a lot of development work to do. The setup of the environment took awhile as there are so many configurations that are required for this project.</description>
+    </item>
+    
+    <item>
+      <title>Victoria Mui – Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/victoria-mui-%e2%80%93-midway-update/</link>
+      <pubDate>Sun, 28 Feb 2010 23:46:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/victoria-mui-%e2%80%93-midway-update/</guid>
+      <description>Expectations, Status &amp;amp; Progress
+Coming into this UCOSP project course, my ultimate goal was to be able to utilize the human-computer interaction (HCI) and user experience (UX) design knowledge that I’ve acquired from both school and work to enhance the usability of MarkUs. Through this experience, I’m hoping to solidify my understanding of various usability concepts and familiarize myself with more projects out there.
+Up until now, I feel that I’m on track with the work that I’m doing with MarkUs.</description>
+    </item>
+    
+    <item>
+      <title>Xiaoxiao&amp;#039;s Midway Update-Ingres</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/xiaoxiaos-midway-update-ingres/</link>
+      <pubDate>Sun, 28 Feb 2010 21:26:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/xiaoxiaos-midway-update-ingres/</guid>
+      <description>My overall progress is a bit slower than I expected, because environment setup took me too long in early February. But I have started implementing actual code and current progress seems good.
+The main difficulty I have had so far is setting up development and testing environment. A large scale open source project such as geotools requires me to install and configure a lot of programs before development starts. Therefore, this setup progress is time-consuming and requires attention to detail.</description>
+    </item>
+    
+    <item>
+      <title>Jackie Huynh &amp;#8211; Midterm Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/jackie-huynh-midterm-update/</link>
+      <pubDate>Sun, 28 Feb 2010 09:13:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/jackie-huynh-midterm-update/</guid>
+      <description>Wow, it&amp;#8217;s already half way through the term. Working with Greg and the Basie team has been a great experience. I am glad that I chose Basie as the project to work with, as I got to learn Django and Python. I feel that I&amp;#8217;m working at a pretty good pace with Basie, but sometimes I feel that I&amp;#8217;m not doing enough when compared to the more experienced members on the team.</description>
+    </item>
+    
+    <item>
+      <title>Bryan Shen&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/midterm-report/</link>
+      <pubDate>Sat, 27 Feb 2010 13:11:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/midterm-report/</guid>
+      <description>Two months have passed since I joined Markus in Undergraduate Capstone Open Source Project (UCOSP). I thought it was just another course, but it&amp;#8217;s a completely different than every other one I&amp;#8217;ve ever taken.
+The most noticeable difference is that no instructor is around! In a regular course, I am told how to do stuffs. I sit in a comfortable chair in the classroom, follow the instructions given by teachers and do best I to meet their expectation.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-3/</link>
+      <pubDate>Fri, 26 Feb 2010 22:05:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-3/</guid>
+      <description>We had a brief meeting today; here is what we discussed.
+Present: Miles, Cory and Brenda
+Absent: No one
+Naming
+&amp;#8211; Educlipse (or EduEclipse) is short, concise and demonstrates what it is – a version of Eclipse meant for education.
+&amp;#8211; Eclipse IDE for Education fits well with the naming schemes for other Eclipse products.
+&amp;#8211; The consensus between us still seems to be Educlipse or EduEclipse, however.
+Templates
+&amp;#8211; Discussed opening an extension point for the templates; we shouldn’t need more than 2-4 templates ourselves.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 22, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-22-2010/</link>
+      <pubDate>Fri, 26 Feb 2010 16:38:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-22-2010/</guid>
+      <description>Brenda Status  Looked further into the use of plugin_customization.ini for setting the default perspective and it seems this file is created when we compile a standalone RCP App. Cory posted details on its use in Bug 299869. Submitted bug reports 303425, 303426 and 303427, related to the Class and Package wizards. Submitted a patch that alters my previous patch for hiding packages and source folders so that all source folders are hidden, not just those named &amp;ldquo;src&amp;rdquo; Looked into the other issue Wayne found with this patch (project explorer view not always updating), but haven&amp;#8217;t come to a solution yet.</description>
+    </item>
+    
+    <item>
+      <title>alexandru&amp;#039;s Half-Time View</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/alexandrus-half-time-view/</link>
+      <pubDate>Fri, 26 Feb 2010 01:31:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/alexandrus-half-time-view/</guid>
+      <description>warm-up I&amp;#8217;ve used open-source software for the last 7 years (which is feels like a blip in Internet time). I was aware since the beginning that these projects thrive on contributions from people all over the world. And I knew that these tools had bugs and had roadmaps with desired features waiting on some developer to tackle. But before UCOSP I&amp;#8217;ve never made a solid contribution to anything. I always imagined expert programmers are the only ones that have a business getting involved in these projects and submitting patches and extensions.</description>
+    </item>
+    
+    <item>
+      <title>Farah&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/farahs-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 23:43:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/farahs-midway-update/</guid>
+      <description>The first half of the semester has flown by quickly. Like last semester, I&amp;#8217;m really enjoying being a part of the MarkUs team! It was nice to already have my development environment from last semester all set and ready to go for this semester. Since I didn&amp;#8217;t have to spend any time on setup, I was able to jump back into the code right away. I&amp;#8217;ve found that things make a lot more sense to me now than they did around the same time last semester.</description>
+    </item>
+    
+    <item>
+      <title>Brenda&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/brendas-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 04:25:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/brendas-midway-update/</guid>
+      <description>So far, Eclipse4Edu has been a very useful experience for me. It’s the first project I’ve worked on where the codebase wasn’t written entirely by myself or by my team of 2-3 students. This has definitely been difficult, but like I said, useful. That combined with the complex framework and abstraction of Eclipse has made tasks that seem relatively trivial suddenly much more time-consuming. I’ve spent a fair amount of time simply looking through the code to familiarize myself with how things were implemented by others that have worked on the project.</description>
+    </item>
+    
+    <item>
+      <title>So, we still have some time to come up with something working, right?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/so-we-still-have-some-time-to-come-up-with-something-working-right/</link>
+      <pubDate>Wed, 24 Feb 2010 19:30:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/so-we-still-have-some-time-to-come-up-with-something-working-right/</guid>
+      <description>We are half-way through the term and I am enjoying working on Basie a lot. I think in our team we didn&amp;#8217;t have much time to play around and get used to the project because 0.6 was planned soon. This gave a very energetic push in the beginning of the year, and 0.7 is something that pushes me to try my best and do work in time now, when 0.6 is out.</description>
+    </item>
+    
+    <item>
+      <title>Anton&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/antons-midway-update/</link>
+      <pubDate>Wed, 24 Feb 2010 18:16:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/antons-midway-update/</guid>
+      <description>It&amp;#8217;s hard to believe that we are already 1&amp;frasl;2 way through the UCOSP Mercurial project. It has been an amazing learning experience from both a technical and a social point of view.
+I started out this project with some limited experience of using Mercurial on my own system. Not only did I have to learn Mercurial in the context of a team, but I also had to put myself in the shoes of users very different from myself.</description>
+    </item>
+    
+    <item>
+      <title>Godfrey&amp;#039;s midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/godfreys-midway-update/</link>
+      <pubDate>Wed, 24 Feb 2010 08:54:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/godfreys-midway-update/</guid>
+      <description>We spent the first week or two setting things up and play around with DB2. Getting everything we need up and running was a bit tricky, because some major pieces of our toolkit is still in its infancy. Therefore, I spent quite a lot of time documenting my experience on the developer&amp;#8217;s wiki because I believe this would help students that are joining this project in future semesters (as well as our teamates).</description>
+    </item>
+    
+    <item>
+      <title>Anthony&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/anthonys-midway-update/</link>
+      <pubDate>Wed, 24 Feb 2010 06:15:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/anthonys-midway-update/</guid>
+      <description>Ingres support for Geotools has been progressing well. However, although we are already half way thru the term, we still have quite a ways to go, so we are beginning to pick up the pace a bit.
+Comments and Observations:
+&amp;#8211; It seems like there is a lot of overhead and learning compared to the actually size of the code being developed. This has been a great learning opportunity, although it seems like given the learning curve, it would have been more effective if this project was longer than just one term.</description>
+    </item>
+    
+    <item>
+      <title>Ingres/Geotools Lim&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 20:22:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</guid>
+      <description>The Ingres/Geotools team finally began work on actual implementation of classes and unit tests for the classes in Geotools at this halfway point. I personally feel that we are falling a little bit behind schedule, not beyond managable. We took our time in the initial phase afraid of making mistakes that compromises the quality of the output. The Ingres/Geotools team has have a lot to explore in the geospatial world as a toddler would have the world.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu &amp;#8211; Cory&amp;#039;s Midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-corys-midterm-update/</link>
+      <pubDate>Tue, 23 Feb 2010 00:27:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-corys-midterm-update/</guid>
+      <description>So I guess its that time &amp;#8211; reading week just finished, and we are halfway through the term &amp;#8211; yikes!
+In the Eclipse4Edu camp, we are starting to get into the thick of the project. I won&amp;#8217;t lie, it was a pretty slow start&amp;#8230; programming the Eclipse framework is large, complex, and has a layer of abstraction for everything. I like to consider myself fairly competent with Java, but the Eclipse framework almost always has a different (sometimes non-intuitive) alternative solution to everything.</description>
+    </item>
+    
+    <item>
+      <title>Eva&amp;#039;s midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/evas-midway-update/</link>
+      <pubDate>Sun, 21 Feb 2010 03:49:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/evas-midway-update/</guid>
+      <description>This is my second semester joining the UCOSP with Ingres. From the lessons that I have learnt last term, I have planned my schedule out at the start from reading off the requirements of this semester and so far I am sticking to it quite well. I have completed half of the required patches.
+Not only I found myself matured in how to co-operate with people working oversea, but also in self-monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-2/</link>
+      <pubDate>Fri, 19 Feb 2010 20:52:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-2/</guid>
+      <description>Meeting Minutes February 19th, 2010
+Present: Cory and Brenda
+Not present: Miles
+Brenda
+&amp;#8211; Fixed the patch to Bug 299965 to hide all source folders, not just those named “src”.
+&amp;#8211; Is looking into the issue with the project explorer view not updating under the circumstances that Wayne brought up in that bug. It could be that elements are being filtered out and the refresh code is looking at the same list of elements and thus doesn’t know the elements exist.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Weekly Report (Week 8)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-report-week-8/</link>
+      <pubDate>Fri, 19 Feb 2010 16:19:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-report-week-8/</guid>
+      <description>We continued our work on bfiles and improving our patches this week.
+Patches:
+ cedit (paulitex):
+ Submit unit test and rege fix for iniparse Documentation for credit  tagmerge(Wendy):
+ Use tag.py functions to read tags Changed the merge algorithm Debugging writing tags problem  convert (Tessa):
+ Tested standard mercurial matcher Refactored filemapper to use the mercurial match  caseguard (alexandru):
+ Removed the protection for `hg rm&amp;#8217; Code clean-up/polish   bfiles:</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/thunderbird-status-update-2/</link>
+      <pubDate>Fri, 19 Feb 2010 08:51:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/thunderbird-status-update-2/</guid>
+      <description>Progress is a bit slow in the Thunderbird camp this week. Zach is re-submitting his last patch after making the appropriate refinements and MozMill tests.Wei Xian Woo submitted his first patch and tests this week. He has already begun working on his second bug&amp;#8230;
+View this week&amp;#8217;s full status update here</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 15, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-15-2010/</link>
+      <pubDate>Thu, 18 Feb 2010 15:41:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-15-2010/</guid>
+      <description>Brenda Status  I didn&amp;#8217;t look as much into Scheme as I had intended because in our conference call, Wayne mentioned that the code provided likely can&amp;#8217;t be committed. I decided to look into some other bugs instead. Submitted a patch for Bug 301718 to update the Build Your First Program cheat sheet. Submitted a patch for Bug 299459 to allow the user to rename files (since refactoring has been removed).</description>
+    </item>
+    
+    <item>
+      <title>Basie 0.6 is out!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-0-6-is-out/</link>
+      <pubDate>Tue, 16 Feb 2010 18:30:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-0-6-is-out/</guid>
+      <description>You put your left leg in
+Your left leg out
+In, out, in, out,
+you shake it all about.
+You do the Hokey Cokey and you turn around
+That&amp;#8217;s what it&amp;#8217;s all about&amp;#8230;  If you are wondering why Basie team is very cheerful right now, it&amp;#8217;s because we are happy to announce that 0.6 has been released today, very much in time for PyCon. Everyone did her and his share to put this release out of the door and once we take a little break to catch up on our lives and other courses, we&amp;#8217;ll be back working hard to make 0.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Weekly Status Report (Week 7)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-status-report-week-7/</link>
+      <pubDate>Fri, 12 Feb 2010 03:51:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-status-report-week-7/</guid>
+      <description>Here is a summary of what we&amp;#8217;ve been up to this week. As usual, the IRC transcript of the meeting and our more detailed status report are posted.
+ Continued work on our our patches that were submitted last weeks Progress with bfiles:   Benjamin set up a Linode server for us to develop and test the network-related bfiles issues Continued discussion on the the mercurial-devel mailinglist with seasoned mercurial developers regarding our ideas for autorefresh and how to keep the bfiles in the respository in a consistant state  After we finished discussing UCOSP-specific issues, we move to the main Mercurial IRC channel where we further discussed getting rid of bfrefresh, and having the refresh happen automatically.</description>
+    </item>
+    
+    <item>
+      <title>Basie progress</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-progress/</link>
+      <pubDate>Thu, 11 Feb 2010 03:15:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/02/basie-progress/</guid>
+      <description>Basie team is working hard to make 0.6 happen; Greg Wilson will be presenting this release at the PyCon 2010 in Atlanta. We seem to inhabit our mailing list, with occasional posts to the Basie blog, where we collect our status reports. Besides fixing many general bugs, we are concentrating on the usability, compatibility, and appearance improvements. Here is a list of status reports that were filed on the Basie blog over the last three weeks, but were missing from the UCOSP blog:</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 8, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-8-2010/</link>
+      <pubDate>Wed, 10 Feb 2010 13:17:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-8-2010/</guid>
+      <description>Brenda Status  Submitted a patch for Bug 299965 so that the default package and src folder are hidden, but explicitly made packages and other source folders are not (for the sake of comparing different approaches to this problem). Submitted a patch for Bug 300388 to rename the Scheme interpreter extension point and schema.  Next Steps  Look into the Scheme perspective more and some of the bugs that have been opened in regards to that (for example, Bugs 299866, 299867 and 299868).</description>
+    </item>
+    
+    <item>
+      <title>Geotools Status Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/geotools-status-report/</link>
+      <pubDate>Tue, 09 Feb 2010 16:45:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/02/geotools-status-report/</guid>
+      <description>The Geotools team had been working on mostly getting oriented to Geospatial concepts, determining action items, etc.
+We are now ready to create a new unsupported jdbc-ingres module into Geotools. In the coming weeks, you will see rapid additions of new code in the Geotools source.</description>
+    </item>
+    
+    <item>
+      <title>Summary of the Week</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/summary-of-the-week/</link>
+      <pubDate>Fri, 05 Feb 2010 21:00:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/summary-of-the-week/</guid>
+      <description>We had a meeting today at 2:00 PM Eastern Time.
+Present: Cory and Brenda
+Not Present: Miles (his computer broke)
+Here&amp;#8217;s what&amp;#8217;s been going on:
+Brenda
+&amp;#8211; Discussed possibilities in regards to hiding packages from the user.
+&amp;#8211; Looked into different ways of showing/hiding packages and posted another patch for Bug 299965 for use in comparing the alternatives.
+Cory
+&amp;#8211; Discussed possibilities in regards to hiding packages from the user.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs Status Update &amp;#8211; Feb. 5th, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/markus-status-update-feb-5th-2010/</link>
+      <pubDate>Fri, 05 Feb 2010 05:46:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/02/markus-status-update-feb-5th-2010/</guid>
+      <description>The MarkUs team&amp;#8217;s status punchlines for this week can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial: Public Announcements</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-public-announcements/</link>
+      <pubDate>Thu, 04 Feb 2010 19:50:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-public-announcements/</guid>
+      <description>All of us on the Mercurial team have submitted extensions and patches to the devel mailing list this week:
+ Anton&amp;#8217;s cache annotations extension (list announcement) Paul&amp;#8217;s cedit configuration editor extension (list announcement) Tessa&amp;#8217;s convert patch, to support glob excludes (list announcement) Alexandru&amp;#8217;s caseguard case-fold collision prevention extension (list announcement | blog post) Wendy&amp;#8217;s tagmerge extension for merging .hgtags (list announcement)  The feedback&amp;#8217;s been great so far, as have the bug reports (which means at least a few people tried out what we made).</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Feb 1, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-1-2010/</link>
+      <pubDate>Wed, 03 Feb 2010 14:32:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/status-reports-feb-1-2010/</guid>
+      <description>Brenda Status  Submitted a patch for Bug 299965 so that projects made outside the Lite perspective will also hide packages (and the source folder). Explored and discussed other possibilities with respect to this bug (hiding all packages versus select ones, and making beginner, intermediate and advanced levels of Java Lite which determine whether or not packages are shown).  Next Steps  Try another angle for Bug 299965 based on Wayne&amp;#8217;s comments in the conference call and on the bug page.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Progress Report (Week 4)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-progress-report-week-4/</link>
+      <pubDate>Fri, 29 Jan 2010 16:09:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-progress-report-week-4/</guid>
+      <description>We have made substantial progress towards getting our initial contributions ready for submitting to the mercurial-devel mailing list. This has been a week of testing and code reviews where we all learned something new about Mercurial and writing python code in general.
+To summarize, you can expect the following extensions to be submitted to the mercurial mailing list in the next week:
+ tagmerge (wendyY): support smart merging of tag files (tags are labels for specific commits or heads)  some fixes and testing, testing, testing  cedit (paulitex): command line and interactive editing of mercurial configuration files with shortcuts for common setup operations  submitted iniparse (external lib) changes upstream documentation, bootstrapping, testing, testing, testing  convert (Tessa): modifying the convert extension to support wildcards in exclude statements  order/precedence of include vs.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Jan 25, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-25-2010/</link>
+      <pubDate>Wed, 27 Jan 2010 16:17:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-25-2010/</guid>
+      <description>Brenda Status  Worked on Bug 299965 to hide packages from the user and posted a patch for the bug. An outstanding issue with this however is that if a project is made outside of Java Lite, the src folder and any packages within it are visible (that is, the patch works for projects made through the Java Lite project wizard only).  Next Steps  Work on the issue mentioned above so that projects made outside the Lite perspective will also hide packages (and the src folder).</description>
+    </item>
+    
+    <item>
+      <title>Team Thunderbird says hello</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/01/team-thunderbird-says-hello/</link>
+      <pubDate>Fri, 22 Jan 2010 14:40:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/01/team-thunderbird-says-hello/</guid>
+      <description>We&amp;#8217;re all working on our bugs at Team Thunderbird. Tim&amp;#8217;s working on better integration with the Windows 7 taskbar. Kefu is getting the &amp;#8216;From&amp;#8217; address to be automatically determined when replying to a list. Lin is making sure the correct menu options are enabled at the right times. I&amp;#8217;ve also had to deal with this a bit while adding a &amp;#8220;Reopen last tab&amp;#8221; button. Evan is working on importing vCards for Address Book.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs Team Status Reports for Jan 22, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/01/markus-team-status-reports-for-jan-22-2010/</link>
+      <pubDate>Fri, 22 Jan 2010 05:57:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/01/markus-team-status-reports-for-jan-22-2010/</guid>
+      <description>It was a slam dunk code-sprint weekend for the MarkUs team. Lots of coding, learning, and getting to know one another.
+Click here to check out our punchline status reports for this week.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Meeting 1</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-meeting-1/</link>
+      <pubDate>Fri, 22 Jan 2010 05:22:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-meeting-1/</guid>
+      <description>Our team had our first remote meeting today (Thursday). We covered progress made this week, discussed obsticles, and plans for the near future. A quick summary follows. You can find the whole transcript at: https://ucosp.fogbugz.com/default.asp?W10
+Progress:
+ paulitex: a couple of new features/extensions for config-editor extension. Only a couple more TODOs left. Looking for code reviews. alexandru: worked on caseguard extension to support &amp;#8216;hg rm&amp;#8217;. Still needs to address code review feedback.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Jan 18, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-18-2010/</link>
+      <pubDate>Wed, 20 Jan 2010 15:40:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-18-2010/</guid>
+      <description>Brenda
+Status  Attended the Code Sprint Spent a lot of time looking through the code, getting an idea for the framework. Reported several bugs for the Java Lite perspective. Tested the patch for Bug 244645 (making a new class in an empty workspace). I agree with it and also posted a new bug (299342) with a patch that does the equivalent for making a new package. However, after the code sprint, we decided that packages should be done away with overall (that is, hidden).</description>
+    </item>
+    
+    <item>
+      <title>The pony-build Express</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/the-pony-build-express/</link>
+      <pubDate>Tue, 19 Jan 2010 12:44:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/the-pony-build-express/</guid>
+      <description>As the dust settles from this years Spring Code Sprint, I am left with some interesting reflections. One, coding for 9 hours straight sure gets hard without proper caffeine intake, maybe an IV drip will be a good investment for the next one. Two, ordering lots of food when someone else is paying is lots of fun, even if you end up walking (waddling?) out with some of it in a bag.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial &amp;#8211; Getting Into the Groove</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-getting-into-the-groove/</link>
+      <pubDate>Sun, 17 Jan 2010 22:37:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-getting-into-the-groove/</guid>
+      <description>The coding sprint is winding down here in Toronto, but the Mercurial UCOSP project is just getting into the groove. As people are making their way home &amp;#8211; across the street or across the country &amp;#8211; I want to take a few minutes to expand on Alex&amp;#8217;s post and summarize this weekend.
+Working on a mature project like Mercurial has its advantages and disadvantages. On the one hand, we have a real successful project to learn from, but at the same time, it is hard to find work that is both accessible to a newbie and has real impact on the project.</description>
+    </item>
+    
+    <item>
+      <title>First Push: Mercurial</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</link>
+      <pubDate>Sun, 17 Jan 2010 05:34:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</guid>
+      <description>During this Code Sprint we focused on a few improvements to Mercurial that make it easier and safer to use. Each of the tasks we worked on was scoped such that only one developer was needed, but this gave everyone a chance to dive head-first into the Mercurial codebase at their own pace. For some (myself included) this is also the first serious project in Python, and these two days were a great opportunity to ask lots of questions.</description>
+    </item>
+    
+    <item>
+      <title>Status updates for Robocup</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/status-updates-for-robocup/</link>
+      <pubDate>Thu, 26 Nov 2009 03:10:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/status-updates-for-robocup/</guid>
+      <description>We had our meeting on Sunday, November 22. Here is what the team had been up to:
+Alex
+&amp;#8211; worked on passing, now it takes into account players from the opposit team
+&amp;#8211; it is hard to make 100% accurate passing because of the noise added to the measurements
+Next task:
+&amp;#8211; work on interception as it is related to passing
+Chani
+&amp;#8211; fixed code so that now players are using data from the current tick</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Nov. 25, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-25-2009/</link>
+      <pubDate>Wed, 25 Nov 2009 21:49:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-25-2009/</guid>
+      <description>The Thunderbird team had its weekly meeting today. Our meeting notes and status updates can be found here.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs Weekly Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/11/markus-weekly-meeting/</link>
+      <pubDate>Sat, 21 Nov 2009 02:48:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/11/markus-weekly-meeting/</guid>
+      <description>The MarkUs team had its weekly meeting today. Have a look at the meeting minutes.</description>
+    </item>
+    
+    <item>
+      <title>Robocup status update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-update-2/</link>
+      <pubDate>Wed, 18 Nov 2009 06:07:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-update-2/</guid>
+      <description>alex:
+-has been trying to improve passing by having the kicker shout out where the ball is going, but the other players don&amp;#8217;t always hear it
+-will try other ways to improve passing
+chani:
+-implemented ball and player decay
+-found out that the code for updating object positions was never being called and fixed that
+-is working on vision optimization
+-improved the debug viewer a bit more
+-may also experiment with changing minimum-confidence values</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Nov. 11, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-11-2009/</link>
+      <pubDate>Wed, 11 Nov 2009 23:17:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-11-2009/</guid>
+      <description>The Thunderbird team had its weekly meeting today. Our meeting notes and status updates can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-status-updates/</link>
+      <pubDate>Wed, 11 Nov 2009 15:40:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-status-updates/</guid>
+      <description>Alex:
+Status:
+&amp;#8211; submitted a patch to the robocup_dt branch that makes server parameters no longer hardcoded but instead they can be read from the server messages
+Tasks for this week:
+&amp;#8211; finish up work on server parameters
+&amp;#8211; work on passing
+Roadblocks:
+-none
+Chani:
+Status:
+&amp;#8211; was away at a conference
+&amp;#8211; committed FindBall action
+Tasks for this week:
+&amp;#8211; implement compensating for ball decay today
+&amp;#8211; work on vision timing optimzation.</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Status Report for Nov 4th</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</link>
+      <pubDate>Thu, 05 Nov 2009 16:16:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</guid>
+      <description>Nikita
+Status:
++documenting and testing remote.py, batch.py (this leaves us with no &amp;#8220;big&amp;#8221; modules untested, rotate.py and event.py can
+be done quickly later on).
+ timezone had to be revisited and changed a bit (timezone_source, timezone_dest), and together with other little things   we officially announced the new features to the community
+Roadblocks:
+&amp;#8211; I&amp;#8217;ve been sick for the past couple of days, so things are moving a bit slower for me than usual.</description>
+    </item>
+    
+    <item>
+      <title>Status Report: Nov 04, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/status-report-nov-04-2009/</link>
+      <pubDate>Wed, 04 Nov 2009 16:15:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/status-report-nov-04-2009/</guid>
+      <description>Peter Status  Finished two tutorials on loops and iterators.  Next Steps  Team met up on IRC and decided that we&amp;#8217;ll have meetings twice weekly. Decided to switch gears and work as a team on the scheme perspective. Chosen to work on the help and code navigation Work Arounds Sent an email to our student union to see if they will pop the link to survey into the weekly newsletter.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Nov. 04, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-04-2009/</link>
+      <pubDate>Wed, 04 Nov 2009 08:14:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-04-2009/</guid>
+      <description>The Thunderbird team had its weekly meeting today. Our meeting notes and status updates can be found here.   ﻿</description>
+    </item>
+    
+    <item>
+      <title>Basie weekly meeting: Oct. 28, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-28-2009/</link>
+      <pubDate>Fri, 30 Oct 2009 05:23:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-28-2009/</guid>
+      <description>The Basie team had its meeting yesterday (chat log). The main topic of this week&amp;#8217;s meeting was coming up with a marking rubric for the UCOSP students.
+We spent some time going over one of the papers mentioned earlier &amp;#8211; Turning Student Groups into Effective Teams (PDF) &amp;#8211; focusing on the fourth section on peer ratings. Everyone seemed to agree with the second approach detailed on page 9 of the PDF (page 17 in the journal).</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Oct. 28, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-28-2009/</link>
+      <pubDate>Fri, 30 Oct 2009 02:37:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-28-2009/</guid>
+      <description>The Thunderbird team had it’s weekly meeting. Our meeting notes and status updates are here.</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Status Report for Oct 28th 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-report-for-oct-28th-2009/</link>
+      <pubDate>Thu, 29 Oct 2009 02:39:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-report-for-oct-28th-2009/</guid>
+      <description>Nikita
+Status:
+&amp;#8211; AM/PM problem for librarything fixed, tests added
+&amp;#8211; timezone, we have a solution and it has been implemented and is out there for testing, calling remote like this:
+http://elmcity.cs.toronto.edu/remote/?url=http://www.myspace.com/cartel&amp;amp;filter=Portland&amp;amp;tz=atlantic
+generates a VTIMEZONE in the calendar file. We support standard tzid from Olson db, and we map all the
+windows timezones that elmcity provides us with to the existing tzids.
+&amp;#8211; pluginFinder.py, icwWriter &amp;#8211; written documentation, unit tests</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Oct 20, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009-2/</link>
+      <pubDate>Wed, 28 Oct 2009 15:18:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009-2/</guid>
+      <description>Peter Status  Continuing creation of tutorials bug 290673. Tracking down in person professors for survey. Working to create a list of goals to achieve for grading scheme, due Oct 31. 09.  Next Steps  Work with Maciej to finish development on a composite collection of tutorials for beginner programmers. Link created content into the Educlipse introduction. Think of creating interesting content for introduction. Create bugs for Scheme work to be discussed at call-in on Oct 29.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/10/markus-status-update-2/</link>
+      <pubDate>Fri, 23 Oct 2009 02:21:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/10/markus-status-update-2/</guid>
+      <description>The weekly status report of the MarkUs team can be found here: http://blog.markusproject.org/?p=615</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Oct 20, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009/</link>
+      <pubDate>Thu, 22 Oct 2009 13:11:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/status-reports-oct-20-2009/</guid>
+      <description>Peter Status  Getting a hold of some first year professors at the University to distribute Dennis&amp;#8217; survey Working on a collection of cheatsheets that will teach the basics of programming step by step (https://bugs.eclipse.org/bugs/show_bug.cgi?id=290673 ) Created a tutorial for If-Else  Next Steps  Continuing with collection of cheatsheets and will make first submission for bug this week.  Roadblocks  Needs more contents on content of the intro page   Exams   Dennis Status  Published a usability survey Continuing work on Bug 290582, a lite debug perspective (https://bugs.</description>
+    </item>
+    
+    <item>
+      <title>Basie weekly meeting: Oct. 14, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-14-2009/</link>
+      <pubDate>Wed, 14 Oct 2009 22:03:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/basie-weekly-meeting-oct-14-2009/</guid>
+      <description>Despite Freenode doing its best to keep people from attending, the weekly Basie meeting happened today. You can read up on it on the Basie blog; an IRC transcript is also available.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Oct. 14, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-14-2009/</link>
+      <pubDate>Wed, 14 Oct 2009 20:53:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-14-2009/</guid>
+      <description>The Thunderbird team had it’s weekly meeting today. Our meeting notes and status updates are here.</description>
+    </item>
+    
+    <item>
+      <title>Elmcity Status Reports for 2009-10-14</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-reports-for-2009-10-14/</link>
+      <pubDate>Wed, 14 Oct 2009 15:43:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-reports-for-2009-10-14/</guid>
+      <description>I haven&amp;#8217;t heard back from the whole team, but here are the status reports I did receive:
+Jory
+Status:
+ Implemented the SQL layer in database.py by&amp;#8230; Restructuring and refactoring icsWriter.py and remote.py  Roadblocks:
+ We don&amp;#8217;t have any unit or integration tests, so it&amp;#8217;s impossible to be completely reassured with code changes.  Next Steps:
+ Write integration tests for database.py? Write unit tests for remote.py Further restructuring of remote.</description>
+    </item>
+    
+    <item>
+      <title>IDE4EDU Status Reports &amp;#8211; Oct 13, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide4edu-status-reports-oct-13-2009/</link>
+      <pubDate>Tue, 13 Oct 2009 14:39:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/10/ide4edu-status-reports-oct-13-2009/</guid>
+      <description>Here is the current status reports for the IDE4EDU team on Oct 13&amp;#8217;th, 2009.
+http://people.scs.carleton.ca/~deugo/ide4edu/blogs/13-10-09.pdf</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Team Weekly Meeting&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-team-weekly-meeting/</link>
+      <pubDate>Thu, 08 Oct 2009 01:41:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-team-weekly-meeting/</guid>
+      <description>The Thunderbird team had it&amp;#8217;s weekly meeting today. You can check our progress, on our wiki page here.</description>
+    </item>
+    
+    <item>
+      <title>Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</link>
+      <pubDate>Thu, 24 Sep 2009 15:30:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</guid>
+      <description>Here are the latest progress reports from the teams (with Ingres, Thunderbird, and WikiDev still to come):
+ Basie * Build a toy application in Django and check it into the Subversion repository to prove that they have started learning the framework.  Get Basie running on their development machine and send us a URL so that we can check it. Fix some of our broken test fixtures (long story) and put their changes up for code review.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Aboard</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/09/welcome-aboard/</link>
+      <pubDate>Thu, 03 Sep 2009 19:11:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/09/welcome-aboard/</guid>
+      <description>We officially kick off next week (though a lot has already happened), so:
+ If you have not yet signed up for the Google Group we&amp;#8217;re using for administrative matters, please do so. (Names of those who appear not to have signed up are at the bottom of this message.) If your spam filter ate the invite, please let me know and I&amp;#8217;ll re-issue. If you are a student, you should have received a welcoming message from your project lead with details about the project, how it&amp;#8217;s going to be managed, etc.</description>
+    </item>
+    
+    <item>
+      <title>Coast to Coast&amp;#8230; to Coast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/09/coast-to-coast-to-coast/</link>
+      <pubDate>Wed, 02 Sep 2009 18:08:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/09/coast-to-coast-to-coast/</guid>
+      <description>We&amp;#8217;re very pleased to welcome our first students from Carleton University in Ottawa, and Memorial University in Newfoundland&amp;#8212;and not just because this means we&amp;#8217;ll have students this term who can dabble their toes in three different oceans :-). Ah, if only there was a university that bordered the Arctic Ocean&amp;#8230;
+This brings the total number of students to 46, which is nearly double our original target of two dozen. The budget for bringing them together Sept 25-27 won&amp;#8217;t stretch much further, so we&amp;#8217;re going to close the door on enrolment for the fall in just a few days.</description>
+    </item>
+    
+    <item>
+      <title>Thirty Nine!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/thirty-nine/</link>
+      <pubDate>Wed, 26 Aug 2009 09:39:48 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/thirty-nine/</guid>
+      <description>More good news: Minnesota State and the University of the Virgin Islands are putting in two students each, and we&amp;#8217;ve had one more from Michigan State sign up (project yet to be determined). That means that Basie, ElmCity, MarkUs, RoboCup, and WikiDev are fully staffed for the fall; we just need to fill in the Eclipse4Edu, Ingres, and Thunderbird teams and we&amp;#8217;ll be ready to go (for some value of &amp;#8220;ready&amp;#8221;, of course 🙂 ).</description>
+    </item>
+    
+    <item>
+      <title>Three from Laval</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/three-from-laval/</link>
+      <pubDate>Tue, 25 Aug 2009 10:18:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/three-from-laval/</guid>
+      <description>We&amp;#8217;re pleased to welcome our first three students from Université Laval in Quebec, bringing the total to 33. There&amp;#8217;s just two weeks to go until projects start up!</description>
+    </item>
+    
+    <item>
+      <title>Hello Minnesota and the Virgin Islands</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/hello-minnesota/</link>
+      <pubDate>Sat, 22 Aug 2009 21:34:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/hello-minnesota/</guid>
+      <description>A big hello to the Computer Science departments at Minnesota State University and the University of the Virgin Islands, where Prof. Steven Case is now trying to recruit a few students to join us for the fall. Two weeks &amp;#8217;til we launch&amp;#8212;we have a lot of organizing to do, but it&amp;#8217;s going to be fun.</description>
+    </item>
+    
+    <item>
+      <title>Team Sizes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/team-sizes/</link>
+      <pubDate>Tue, 18 Aug 2009 16:54:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/team-sizes/</guid>
+      <description>The roster is filling up:
+   Affiliation     Project   UofA   MSU   SFU   UT   UT Scar   Waterloo   UBC   UVic   Total     Basie   1   .   2   2   .   .   .   .</description>
+    </item>
+    
+    <item>
+      <title>25 and Counting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/25-and-counting/</link>
+      <pubDate>Sat, 08 Aug 2009 15:20:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/25-and-counting/</guid>
+      <description>We&amp;#8217;re pleased to add three more students to our fall roster from the University of Alberta in Edmonton. That brings the number of participating schools to six, with four more in the wings. And Blake Winton, a freelance software developer in Toronto, is now on board to mentor our Thunderbird project.</description>
+    </item>
+    
+    <item>
+      <title>Going International</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/going-international/</link>
+      <pubDate>Thu, 06 Aug 2009 13:28:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/going-international/</guid>
+      <description>Hot on the heels of yesterday&amp;#8217;s news about students from Toronto, Waterloo, and Simon Fraser comes word that three students from Michigan State University will be joining us as well. That brings the total to 21, and it&amp;#8217;s still just the first week of August.</description>
+    </item>
+    
+    <item>
+      <title>Seven, Six, and Five</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/seven-six-and-five/</link>
+      <pubDate>Thu, 06 Aug 2009 02:11:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/seven-six-and-five/</guid>
+      <description>We&amp;#8217;re very pleased to welcome our first students: seven from the University of Toronto, six from Waterloo, and five from Simon Fraser. We&amp;#8217;re looking forward to adding more in the weeks to come, and to matching them all with projects.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to UCOSP</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/welcome-to-ucosp/</link>
+      <pubDate>Thu, 06 Aug 2009 01:57:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/08/welcome-to-ucosp/</guid>
+      <description>Welcome to the Undergraduate Capstone Open Source Projects blog. As the About page says, it is the home for a set of projects being done by computer science students from across Canada and the US. We&amp;#8217;ll post news here to keep you up to date with our progress.</description>
+    </item>
+    
+  </channel>
+</rss>

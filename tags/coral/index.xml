@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coral on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/coral/</link>
+    <description>Recent content in Coral on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2010 02:02:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/coral/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guest post: an update from the CoRAL team</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall2010/2010/10/guest-post-an-update-from-the-coral-team/</link>
+      <pubDate>Thu, 28 Oct 2010 02:02:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall2010/2010/10/guest-post-an-update-from-the-coral-team/</guid>
+      <description>The CoRAL team (formerly known as fab4) has been making great progress on our task.
+The task is to develop a visualization service for the fab4 browser project, whose objective is to support communities of readers by allowing them to share their comments on the documents they read. The original fab4 project simply provides a canvas on which to place and view annotations of different types on a document.
+In our work, we assume that the fab4 user community consists of researchers either reviewing papers for the purpose of writing surveys and related-research sections of new publications or for the purpose of accepting/rejecting papers submitted to a conference.</description>
+    </item>
+    
+  </channel>
+</rss>

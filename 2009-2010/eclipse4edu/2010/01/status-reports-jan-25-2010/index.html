@@ -1,0 +1,129 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-25-2010/" title="Status Reports: Jan 25, 2010">Status Reports: Jan 25, 2010</a></h1>
+  
+
+<h2 id="brenda"><strong>Brenda</strong></h2>
+
+<h3 id="status">Status</h3>
+
+<ul>
+<li>Worked on Bug 299965 to hide packages from the user and posted a patch for the bug.</li>
+<li>An outstanding issue with this however is that if a project is made outside of Java Lite, the src folder and any packages within it are visible (that is, the patch works for projects made through the Java Lite project wizard only).</li>
+</ul>
+
+<h3 id="next-steps">Next Steps</h3>
+
+<ul>
+<li>Work on the issue mentioned above so that projects made outside the Lite perspective will also hide packages (and the src folder).</li>
+</ul>
+
+<h3 id="roadblocks">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    None
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="cory"><strong>Cory</strong></h2>
+
+<h3 id="status-1">Status</h3>
+
+<ul>
+<li>Been trying to learn how to hide toolbars / menus.</li>
+<li>Looked at the links you sent miles (and many other links too), but I&#8217;ve been unsuccessful in getting the activity extension point to work on different plugin contributions.</li>
+<li>Been investigating if it would be better suited as part of an RCP app tailored to our purposes. I setup an rcp app for myself and I think it will be doable going this route as we can override the menu managers to not accept other plugin contributions. This is still in theory though&#8230;</li>
+<li>Updated the given bug patch to add line numbers to the editor by default. And posted another patch to fix a couple more warnings.</li>
+</ul>
+
+<h3 id="next-steps-1">Next Steps</h3>
+
+<ul>
+<li>Continuing to try and remove / block unwanted toolbars and menu items, most likely from an RCP app instead of inside our already created plugins.</li>
+</ul>
+
+<h3 id="roadblocks-1">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    Eclipse framework &#8211; The activity extension point seems to take additional, unmentioned magic.. Wish they had better tutorials / examples of how things work with one another.
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="miles"><strong>Miles</strong></h2>
+
+<h3 id="status-2">Status</h3>
+
+<ul>
+<li>On the weekend I mainly worked on creating a Java class constructor class as per Wayne’s bug for this.</li>
+<li>Currently this is done in a wizard called NewTypeWizardPage and all of the class creation code is intermingled with the wizard code.</li>
+<li>I also trried to wrap the NewTypeWizardPage to see if there was a way to leverage the 2500+ lines of code in that class. Wayne and I discussed it and the first option appears to be the best way forward.</li>
+</ul>
+
+<h3 id="next-steps-2">Next Steps</h3>
+
+<ul>
+<li>I am going to get the basic version cleaned up, write some more tests for it and try to get a simple class construction wizard up and running.</li>
+<li>I am going to continue working on this constructor class and make it a bit more full featured:
+
+<ul>
+<li>oAllow extending superclasses, implementing interfaces, initial templates, etc.</li>
+</ul></li>
+<li>I would like to also do some brainstorming of how we can make the new class wizard more useful to students.</li>
+</ul>
+
+<h3 id="roadblocks-2">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    No major roadblocks at this point. I think I need to figure out a bunch more stuff about the JDT Java Model.
+  </li>
+</ul>
+
+<hr />
+
+  <p class="small gray"><time datetime="2010-01-27">Jan 27, 2010</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

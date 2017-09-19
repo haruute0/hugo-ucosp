@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meeting Minutes on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/meeting-minutes/</link>
+    <description>Recent content in Meeting Minutes on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2010 19:38:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/meeting-minutes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markus March 19th Punchlines</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-march-19th-punchlines/</link>
+      <pubDate>Fri, 19 Mar 2010 19:38:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-march-19th-punchlines/</guid>
+      <description>Victoria Status  Brainstormed ideas for the Dashboard. Went through draft Dashboard contents with Karen and Farah and got some good and constructive feedback  Next Steps  With the feedback I got back regarding the potential Dashboard contents, come up with a preliminary prototype &amp;#8212; one that we can take apart and help establish a better idea as to how we&amp;#8217;d like to design the Dashboard.  Roadblocks  Swamped with work (from my full-time position).</description>
+    </item>
+    
+    <item>
+      <title>MarkUs Meeting Minutes for March 5th, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-meeting-minutes-for-march-5th-2010/</link>
+      <pubDate>Sat, 06 Mar 2010 17:06:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-meeting-minutes-for-march-5th-2010/</guid>
+      <description>The MarkUs team is plowing forward, fleshing out some fantastic new features, and kicking a bunch of bugs to the curb! You can read our meeting minutes here.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Meeting Minutes</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/eclipse4edu-meeting-minutes/</link>
+      <pubDate>Sat, 23 Jan 2010 01:35:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/eclipse4edu-meeting-minutes/</guid>
+      <description>The meeting was held at 2:00 EST today and all members were present.
+Brenda
+&amp;#8211; Working on hiding packages from the user
+&amp;#8211; Buttons are easily hidden
+&amp;#8211; Has been able to identify which elements of the package explorer are in fact packages, but is stuck on reworking the hierarchy so that the view skips over the package level
+Cory
+&amp;#8211; Working on hiding menus and toolbars
+&amp;#8211; Tried making his own RCP app because it seems this might be the best approach to get rid of unneeded menus and toolbars</description>
+    </item>
+    
+  </channel>
+</rss>

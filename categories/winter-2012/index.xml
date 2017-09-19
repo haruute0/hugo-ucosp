@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter 2012 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/winter-2012/</link>
+    <description>Recent content in Winter 2012 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2012 11:13:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/winter-2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting up to Speed with Review Board</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/11/getting-up-to-speed-with-review-board/</link>
+      <pubDate>Wed, 14 Nov 2012 11:13:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/11/getting-up-to-speed-with-review-board/</guid>
+      <description>Karl Leuschen from Dalhousie describes his experience getting up to speed with Review Board.</description>
+    </item>
+    
+    <item>
+      <title>Review Board Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/11/review-board-update-4/</link>
+      <pubDate>Tue, 06 Nov 2012 17:49:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/11/review-board-update-4/</guid>
+      <description>Wesley Ellis from McGill sends in the latest Review Board update.</description>
+    </item>
+    
+    <item>
+      <title>Review Board digs in</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/11/review-board-digs-in/</link>
+      <pubDate>Thu, 01 Nov 2012 21:25:57 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/11/review-board-digs-in/</guid>
+      <description>Michelle Chuang from UBC gives us an update on the menu this term for the Review Board project.</description>
+    </item>
+    
+    <item>
+      <title>Review Board and Sack</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/10/review-board-and-sack/</link>
+      <pubDate>Tue, 23 Oct 2012 21:39:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/10/review-board-and-sack/</guid>
+      <description>Sampson Chen details his work on sack for the Review Board team.</description>
+    </item>
+    
+    <item>
+      <title>UMPLE Progress</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/10/umple-progress/</link>
+      <pubDate>Thu, 18 Oct 2012 21:46:33 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/10/umple-progress/</guid>
+      <description>Stuart Erskine checks in from the UMPLE team.
+Umple is a powerful tool for Model-Oriented Programming. It allows the
+programmer to work on a more abstract level by generating code automatically for attributes, associations and state machines. This eliminates the writing of a lot of _boiler plate code_ when developing and speed up the development process. We are so confident in Umple&amp;#8217;s code generating capabilities that *we even write Umple using Umple* 🙂</description>
+    </item>
+    
+    <item>
+      <title>Review Board Final Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/04/review-board-final-update/</link>
+      <pubDate>Mon, 09 Apr 2012 08:58:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/04/review-board-final-update/</guid>
+      <description>Wilson Yeung from Review Board writes:
+Hi! I’m Wilson Yeung and I’m in my last semester at Simon Fraser University where I am pursuing a Bachelor of Science in Mathematics and Computing Science. I joined the Review Board team because an opportunity was presented to the computing undergrads at SFU to join UCOSP. Despite having high expectations, I am still surprised at how fulfilling this experience is. Being enclosed in a controlled learning environment at university, I was excited to work on something that had real life applications and meaning to the outside world.</description>
+    </item>
+    
+    <item>
+      <title>Review Board Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/03/review-board-update-2/</link>
+      <pubDate>Tue, 13 Mar 2012 09:46:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/03/review-board-update-2/</guid>
+      <description>Wei Lu Liu writes:
+My name is Wei Lu Liu. I joined the Review Board team this semester as an undergraduate computer science student from Simon Fraser University. Gaining some open source development experience is what drove me at first, but being part of Review Board is far more than this. Throughout our development, we employ
+&amp;#8211; Git for revision control
+&amp;#8211; Google Groups/Code/Wiki/Blog for administration and reporting
+&amp;#8211; IRC/PasteBin for instant Q&amp;amp;A and discussing</description>
+    </item>
+    
+    <item>
+      <title>Update on Umple</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/03/update-on-umple/</link>
+      <pubDate>Mon, 05 Mar 2012 17:14:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/03/update-on-umple/</guid>
+      <description>Jordan Johns writes:
+The second month of the UCOSP Winter 2012 Umple project has been quite a good experience for many involved. Everything from bug fixes, compiler enhancements and new features have been accomplished thus far.
+It has been a really good experience. I&amp;#8217;ll start off by mentioning what has been going on with the others students.
+To begin with we&amp;#8217;ve had James who has been diligent in working on enhancing the capabilities of the compiler, by enabling additional command line options.</description>
+    </item>
+    
+    <item>
+      <title>GitHub and ReviewBoard</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/02/github-and-reviewboard/</link>
+      <pubDate>Mon, 27 Feb 2012 17:16:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/02/github-and-reviewboard/</guid>
+      <description>Aimen Khan writes:
+Recently I have been introduced to two new development tools; GitHub and ReviewBoard. In this blog I am going to talk a little bit about each and my experience with using these tools.
+GitHub is one of the largest code hosting applications, which provides an ease of sharing codes online and allows other coders to contribute to different projects. GitHub has several advantages; it fuses the best features of a social networking site with a code-sharing forum.</description>
+    </item>
+    
+    <item>
+      <title>Review Board Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/02/review-board-update/</link>
+      <pubDate>Wed, 15 Feb 2012 12:40:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/02/review-board-update/</guid>
+      <description>Curtis Muller writes:
+We all know Review Board is great for allowing a distributed team to effectively ensure only high quality, standards complaint code is integrated into the end product. But what else makes Review Board great?
+From my experiences on the team I can safely say it gives new developers a leg up on the learning curve when starting. I was able to leverage Review Board to quickly learn exactly what I should, and should not be doing in my code.</description>
+    </item>
+    
+    <item>
+      <title>MediaWiki spins up</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/02/mediawiki-spins-up/</link>
+      <pubDate>Wed, 08 Feb 2012 17:19:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/02/mediawiki-spins-up/</guid>
+      <description>Shealen Clare writes:
+After a great kickoff weekend in Vancouver we’re back in our separate cities, ready to continue work on our selected project. We’ve chosen to adapt the existing Wikipedia Android app to a Wiktionary app. Our goal is to provide maximum functionality with minimal change to the code – especially restricting our changes to the Javascript wherever possible.
+As of the beginning of February, we’ve got a product that works but still requires some fine-tuning.</description>
+    </item>
+    
+    <item>
+      <title>UMPLE&amp;#8217;s first status update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/umples-first-status-update/</link>
+      <pubDate>Tue, 31 Jan 2012 14:43:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/umples-first-status-update/</guid>
+      <description>James Zhao writes:
+This is the first blog post from the UCOSP Umple Team for Winter 2012. We are working on Umple project, which is a modeling tool and programming language which allows one to perform model-oriented programming.
+My fellow USCOP colleagues have been working on some interesting projects. Adam Dzialoszynski has been working on SQL statement generation, which allows Umple to generate an SQL database schema. Sonya Adams has been working on adding a new feature to the Umple language which allows a class to be declared as immutable.</description>
+    </item>
+    
+    <item>
+      <title>MarkUS on the Code Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/markus-on-the-code-sprint/</link>
+      <pubDate>Tue, 31 Jan 2012 14:38:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/markus-on-the-code-sprint/</guid>
+      <description>Oloruntobi (Tobi) Ogunbiyi writes:
+The UCOSP code sprint for the winter 2012 semester was held at UBC, Vancouver between January 20th and 22nd. The MarkUs Canadian team for this semester is made up of 3 students from UBC, 4 students from University of Toronto, 1 from York, and 1 from SFU. MarkUs is an online marking tool that provides instructors with the ability to hand out assignments online, students with the ability to submit the assignments and graders with the ability to grade and give feedback to students.</description>
+    </item>
+    
+    <item>
+      <title>Review Board Checks in</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/review-board-checks-in/</link>
+      <pubDate>Mon, 23 Jan 2012 03:01:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/review-board-checks-in/</guid>
+      <description>I am Anthony Mok, and I am in my last term of the Computer Science program at the University of Waterloo. I picked the Review Board project for UCOSP due to favourable past experiences with the software and a desire to want to contribute to the community; it also felt like a good opportunity to learn new skills and technologies. I met the other students and Mike from the Review Board UCOSP team for the first time this weekend at the Code Sprint at UBC.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2012 UCOSP Under Way!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/winter-2012-ucosp-under-way/</link>
+      <pubDate>Sun, 22 Jan 2012 18:36:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2012/2012/01/winter-2012-ucosp-under-way/</guid>
+      <description>UCOSP Winter 2012 sprint was held at UBC in Vancouver January 20-22. 38 students from 10 Canadian universities met to work on six different open source projects. Special thanks go to our project mentors and to Neil Ernst for taking care of the local preparations!</description>
+    </item>
+    
+  </channel>
+</rss>

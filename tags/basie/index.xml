@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basie on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/basie/</link>
+    <description>Recent content in Basie on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2009 16:09:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/basie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[thumbUp, thumbDown].map{&amp;#124;thumb&amp;#124; thumb&#43;&#43;}</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thumbup-thumbdown-mapthumb-thumb/</link>
+      <pubDate>Tue, 24 Nov 2009 16:09:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thumbup-thumbdown-mapthumb-thumb/</guid>
+      <description>ThumbUp: peer reviews. Peer reviews, at least for the Basie team, was certainly a new type of experience in software development. It promoted communication between the team, getting into each other&amp;#8217;s code, writing code that is good enough for others to look at, and then still getting feedback on how to improve it. It creates a better &amp;#8220;team&amp;#8221; feeling, than simply having a group of people commit to the same source code repository.</description>
+    </item>
+    
+  </channel>
+</rss>

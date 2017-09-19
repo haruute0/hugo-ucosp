@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0.6.2 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/0.6.2/</link>
+    <description>Recent content in 0.6.2 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Mar 2010 23:30:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/0.6.2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MarkUs 0.6.2 is out!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-0-6-2-is-out/</link>
+      <pubDate>Sun, 07 Mar 2010 23:30:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2010/03/markus-0-6-2-is-out/</guid>
+      <description>The team is pleased to present 0.6.2! Full details here.</description>
+    </item>
+    
+  </channel>
+</rss>

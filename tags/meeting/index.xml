@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meeting on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/meeting/</link>
+    <description>Recent content in Meeting on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Sep 2009 21:56:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/meeting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ElmCity in-person meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcity-in-person-meeting/</link>
+      <pubDate>Sat, 19 Sep 2009 21:56:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcity-in-person-meeting/</guid>
+      <description>Torontonian part of the team had an in-person meeting today. Pending approval of our Michigan colleagues, we have outlined several important guidelines concerning our future work. A summary of the discussion can be found here. In meantime we are spending the time before the Code Sprint dissecting MySpace and LibraryThing. It&amp;#8217;s fun! </description>
+    </item>
+    
+    <item>
+      <title>MarkUs IRC Meeting, Week 2</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/markus-irc-meeting-week-2/</link>
+      <pubDate>Sat, 19 Sep 2009 00:33:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/markus-irc-meeting-week-2/</guid>
+      <description>The MarkUs team had their second IRC meeting earlier today.
+Read our meeting notes
+Looking forward to meeting all of you next week at the code sprint!
+The MarkUs Team</description>
+    </item>
+    
+    <item>
+      <title>Robocup team&amp;#039;s first meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-teams-first-meeting/</link>
+      <pubDate>Sun, 13 Sep 2009 02:56:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-teams-first-meeting/</guid>
+      <description>The robocup team had their first meeting sept 10th. Minutes are here.</description>
+    </item>
+    
+    <item>
+      <title>The MarkUs Team Has Their First IRC Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</link>
+      <pubDate>Fri, 11 Sep 2009 22:03:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/09/the-markus-team-has-their-first-irc-meeting/</guid>
+      <description>The MarkUs team had their first IRC meeting today.
+Check out the minutes on our blog, here.
+Or you can read the transcript here. (Meeting starts around 16:04)
+Cheers,
+-MarkUs Team</description>
+    </item>
+    
+  </channel>
+</rss>

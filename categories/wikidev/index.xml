@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikidev on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/wikidev/</link>
+    <description>Recent content in Wikidev on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 04:06:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/wikidev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WikiDev Screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/wikidev-screencast/</link>
+      <pubDate>Wed, 16 Dec 2009 04:06:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/wikidev-screencast/</guid>
+      <description>[youtube=http://www.youtube.com/watch?v=tpxxMrl_ufo]</description>
+    </item>
+    
+    <item>
+      <title>post mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/post-mortem-5/</link>
+      <pubDate>Sat, 28 Nov 2009 17:31:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/11/post-mortem-5/</guid>
+      <description>Good: I had a real good experience. It was a challenge still because we have not finished yet, but we learned how to solve problems that can apply to real world challenges in the computer science field. Talking with the Ingres community via email and IRC channel was real helpful.
+Bad: We should communicate more often via UCOSP. We all work in separate ways with the Ingress community. We should do a written report every week to reinforce the meetings.</description>
+    </item>
+    
+    <item>
+      <title>Another two thumbs</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/another-two-thumbs/</link>
+      <pubDate>Sat, 28 Nov 2009 17:24:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/another-two-thumbs/</guid>
+      <description>Thumbs Up: Getting to work on an exploratory project, and seeing what it ended up becoming. WikiDev didn&amp;#8217;t have as defined a goal at the start as most projects, but instead a framework to build on and ideas for where we could take things. After that, it was up to everyone to discuss every week and see where we wanted to go next. This was very enlightening and I enjoyed seeing how the project evolved as pieces were completed and we could see what our ideas were shaping up to look like.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Post-mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-post-mortem/</link>
+      <pubDate>Thu, 26 Nov 2009 20:34:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-post-mortem/</guid>
+      <description>The good: Quite unequivocally, the students. Each member of the team was eager to learn whatever new language we threw at them (PHP, SQL, Flex/MXML/ActionScript), research solutions to overcome problems they encountered, and ask for assistance when needed. With so many variables in this type of distributed course, including the different experiences and skill sets that comes with being from four separate institutions, having a strong team makes quite a difference.</description>
+    </item>
+    
+    <item>
+      <title>It was the best of times, it was the worst of times</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/it-was-the-best-of-times-it-was-the-worst-of-times/</link>
+      <pubDate>Tue, 24 Nov 2009 13:33:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/it-was-the-best-of-times-it-was-the-worst-of-times/</guid>
+      <description>I am impressed with how much was accomplished in the end. I must say that it is not more than I what was planning/hoping for but at the same time, throughout the course, I had this nagging feeling that things will not come together, and, in the end, we wouldn&amp;#8217;t have anything &amp;#8220;complete&amp;#8221; to show for it. Well we do, and that&amp;#8217;s great!
+In spite of notes and discussions and todos and tickets, we still managed to do a few things multiple times (stepping on each other&amp;#8217;s toes).</description>
+    </item>
+    
+    <item>
+      <title>November 23 meeting of WikiDev2.0</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/november-23-meeting-of-wikidev2-0/</link>
+      <pubDate>Tue, 24 Nov 2009 00:56:10 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/november-23-meeting-of-wikidev2-0/</guid>
+      <description>We are getting close to the end and during today&amp;#8217;s meeting we tried (successfully I think/hope) to specify the last few todos for our team. See http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_23_2009.
+cheers
+eleni</description>
+    </item>
+    
+    <item>
+      <title>Detailed Update from WikiDev 2.0</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/detailed-update-from-wikidev-2-0/</link>
+      <pubDate>Thu, 19 Nov 2009 15:39:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/detailed-update-from-wikidev-2-0/</guid>
+      <description>Holly Status  Got arrows drawing between the nodes in the graph, not just lines.  Roadblocks
+ Arrows draw to the center of the nodes, not the edges  Next Steps
+ Get arrows to draw to node edges Add documentation for the UI  Eric Status  Currently working on adding queries to the backend to support the information needs of the frontend.  Added support for querying all packages as well as by snapshot ID.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev2.0 meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev2-0-meeting-2/</link>
+      <pubDate>Tue, 17 Nov 2009 14:42:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev2-0-meeting-2/</guid>
+      <description>The log of Monday&amp;#8217;s meeting can be found at http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_16_2009.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 project #8: WikiDev in Wonderland</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-8-wikidev-in-wonderland/</link>
+      <pubDate>Sat, 14 Nov 2009 17:32:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-8-wikidev-in-wonderland/</guid>
+      <description>The objective of the team project is to develop a 3d visualization in Sun&amp;#8217;s Wonderland. The team will be given access to a WikiDev2.0 project with a set of data on multiple versions of a project developed collaboratively by a small team. The WikiDev repository includes data about classes their metrics and the relations among them. The task will be to implement 3D models and appropriate interactions for users to explore the data in WL, using a city metaphor, as discussed in the paper &amp;#8220;A 3D Metaphor for Software Production Visualization&amp;#8221; &amp;#8211; see http://ieeexplore.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev 2.0 meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-2-0-meeting/</link>
+      <pubDate>Tue, 10 Nov 2009 04:02:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-2-0-meeting/</guid>
+      <description>Today&amp;#8217;s meeting log can be found at http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_9_2009. It looks like we are getting indeed close to our deliverables! How exciting!</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Team Progress Report (week of Nov 2)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-team-progress-report-week-of-nov-2/</link>
+      <pubDate>Sat, 07 Nov 2009 16:39:10 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-team-progress-report-week-of-nov-2/</guid>
+      <description>Alex Status
+ Finish the UI part of history query The graph can handle multiple classes  Roadblocks
+ The server cannot generate XML including the method and fields info for the related class  Next Steps
+ Finish navigation part Change the PHP to accept our URL request  Holly Status
+ Cleaned up UI and code some Added filter for Artifacts, set up structure to make it easier for later filters.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev meeting this past week</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-meeting-this-past-week/</link>
+      <pubDate>Sat, 07 Nov 2009 16:31:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/11/wikidev-meeting-this-past-week/</guid>
+      <description>It was CASCON time, so we forgot to do our regular updates &amp;#8211; sorry for the delay. The IRC log (with Brendan and the team) is at http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Nov_2_2009</description>
+    </item>
+    
+    <item>
+      <title>WikiDev marking scheme</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-marking-scheme/</link>
+      <pubDate>Thu, 29 Oct 2009 18:52:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-marking-scheme/</guid>
+      <description>Mark Breakdown  10% Course Participation 15% Team Participation 45% Deliverables 30% Weekly Progress  
+Descriptions  Course Participation. Participation as marked by Greg for things like posting to the blog, responding to comments, attending code sprints, etc.  Rationale: This is an online, collaborative course. General communication certainly plays a part, and is integral to being a contributing member of the online community. It should not weigh too much, however; as a course, the focus must be on getting real work done.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev2.0 meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev2-0-meeting/</link>
+      <pubDate>Wed, 28 Oct 2009 15:06:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev2-0-meeting/</guid>
+      <description>The IRC log from our last meeting this Monday is http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Mon_Oct_26_2009.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Status Reports</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/1103/</link>
+      <pubDate>Wed, 28 Oct 2009 15:02:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/1103/</guid>
+      <description>Botlhale Status
+ Resolved the file permission issue that was encountered when running PHP on a local IIS server Had the first piece of code that could be queried using entity ids to return different XML&amp;#8217;s Held an online meeting with the Flash team to give them the first XML deliverable and to continue discussions about the interface Major discussions from the online meeting with the Flash team were that we could include more details in the Object Object Relationships like methods and fields for the objects related to the queried one and ids should be included alongside names of the Objects as names are not unique  Next Steps</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>weekly status/roadblocks/what&amp;#039;s next report from WikiDev</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/weekly-statusroadblockswhats-next-report-from-wikidev/</link>
+      <pubDate>Thu, 22 Oct 2009 01:20:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/weekly-statusroadblockswhats-next-report-from-wikidev/</guid>
+      <description>Eric Status
+ Just finished building a test suite for the xmi parser. See the testing plan for an overview of how it works. The main body of the code lives in xmi parser/src/testsuite/testsuite.sh. Roadblocks   Looking to the future, I&amp;#8217;m not sure how to get ramped up on what Bolthale is doing &amp;#8211; when the parser is done Team Waterloo is supposed to switch to helping him out.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev team meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-team-meeting/</link>
+      <pubDate>Tue, 20 Oct 2009 01:32:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-team-meeting/</guid>
+      <description>We resumed our regular meeting time today and the IRC log is at http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Tue_Oct_13_2009. We have a plan for what will be done by the end of the month and we are making good progress (fingers crossed) towards it.
+The interesting aspects of this week&amp;#8217;s and last week&amp;#8217;s discussion have been, in my view (and I welcome my team members to clarify refine and completely revise it), that
+ you need a specific scenario to figure out the details where the you-know-who hides, and pictures are worth a lot of words,  Also I am happy that we have subteams, especially the two pairs.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Status/Roadblocks/Next Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-statusroadblocksnext-update/</link>
+      <pubDate>Thu, 15 Oct 2009 16:05:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-statusroadblocksnext-update/</guid>
+      <description>Botlhale 
+Status  Discussed the way requests to the database are going to be made Agreed on the XML schema to be returned when requests are made Queried the database by use of entity id&amp;#8217;s and managed to get information on objects and object relationships Learnt about writing XML files in PHP Wrote PHP code (The code is not yet verified to work as expected) to perform SQL commands in the database and use the results of the SQL Commands to write an XML file according to the given XML schema Introductory discussions with the Flash team about an interface with my code in order for them to be able to use the XML file returned to draw graphics Discussed about designing an API for the queries performed, initial thoughts were to have an API for methods getClasses() and getClassDetails()</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Update October 13, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-update-october-13-2009/</link>
+      <pubDate>Thu, 15 Oct 2009 00:11:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-update-october-13-2009/</guid>
+      <description>The WikiDev team met on Tuesday after Thanksgiving and the IRC log is at http://hypatia.cs.ualberta.ca/ucosp/index.php/UCOSP_IRC:Tue_Oct_13_2009. All in all, everyone is making progress, we just addressed an interesting messy issue regarding IDs, and we have no major roadblocks (albeit there are several interesting technical complexities we have to address). The required student reports are forthcoming, later today.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev &amp;#8211; Code sprint replaced weekly meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-code-sprint-replaced-weekly-meeting/</link>
+      <pubDate>Thu, 01 Oct 2009 23:03:33 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/10/wikidev-code-sprint-replaced-weekly-meeting/</guid>
+      <description>Having just returned from the code sprint, we felt it superfluous to hold our regularly scheduled meeting on Monday. Rest assured Team WikiDev will be back next week with a riveting update about our activities since Toronto!</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Code Sprint Update (Day 2)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/wikidev-code-sprint-update-day-2/</link>
+      <pubDate>Sun, 27 Sep 2009 00:41:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/wikidev-code-sprint-update-day-2/</guid>
+      <description>Today, Eric and I (Owen) continued working together to modify the XMI parser to work for the eUML2 format. We were able to successfully parse a simple UML diagram with properties and inheritance.
+Botlhale continued learning PHP and how to connect to a database with it. He also worked on how to generate an XML file from existing data in a database.
+Holy and Alex continue digging into the way of visualization the Diagram.</description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>The Basie team posted their first-day report on their blog. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:
+Basie
+Eclipse4Edu
+
+ElmCity
+
+Ingres
+
+MarkUs
+
+Robocup
+
+Thunderbird
+
+**_WikiDev
+_**</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Code Sprint (Day 1)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/wikidev-code-sprint-day-1/</link>
+      <pubDate>Fri, 25 Sep 2009 20:56:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/wikidev-code-sprint-day-1/</guid>
+      <description>The WikiDev team met this morning for the first time, and did the usual round of introductions, learning everyone&amp;#8217;s names &amp;#8211; and, in Botlhale&amp;#8217;s case, pronunciations. Testing databases were setup, and the SVN repository was populated with existing code, giving us lots of stuff for playing around and testing. As a team, we decided on the architecture of the system, debating the virtues and vices of a couple of options.</description>
+    </item>
+    
+    <item>
+      <title>Eleni Stroulia (I must be the last one to introduce myself&amp;#8230;)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/eleni-stroulia-i-must-be-the-last-one-to-introduce-myself/</link>
+      <pubDate>Tue, 15 Sep 2009 04:09:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/eleni-stroulia-i-must-be-the-last-one-to-introduce-myself/</guid>
+      <description>hello all
+I am Eleni Stroulia, the very excited leader of the WikiDev team this term!
+I am Greek by birth and Canadian by choice. I started my research in AI, back when knowledge engineering and model-based systems were all the rage (the implied time period will be on the test:-). Since I joined the U of A, I have been working on software engineering solutions for industrially relevant problems. To these problems I usually apply AI methods to semi-automate human processes.</description>
+    </item>
+    
+    <item>
+      <title>The WikiDev meetings have also started</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/the-wikidev-meetings-have-also-started/</link>
+      <pubDate>Tue, 15 Sep 2009 02:49:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/wikidev/2009/09/the-wikidev-meetings-have-also-started/</guid>
+      <description>We are meeting every week at 1:30 Mountain time and today was our first meeting. The transcript is at http://www.cs.ualberta.ca/~stroulia/UCOSP_IRC/MonSep14_2009.html (please ignore the hyperlinks that appear in the transcript).</description>
+    </item>
+    
+    <item>
+      <title>Eric Burnett</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-burnett/</link>
+      <pubDate>Fri, 11 Sep 2009 19:16:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-burnett/</guid>
+      <description>Hi everyone. My name is Eric Burnett, and I&amp;#8217;m looking forward to working on WikiDev this term.
+I&amp;#8217;m a fourth year Computer Science student at the University of Waterloo, although with co-op and exchange this is actually my fifth calendar year. My focus tends to be on systems and infrastructure type programming, but I enjoy as much variety as I can get. I have done co-op terms as a developer with four companies in four different cities, the most recent being with Google in Seattle over this past summer.</description>
+    </item>
+    
+    <item>
+      <title>Holly Becker</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/holly-becker/</link>
+      <pubDate>Fri, 11 Sep 2009 17:16:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/holly-becker/</guid>
+      <description>Hey! I&amp;#8217;m Holly Becker and I&amp;#8217;m working on WikiDev.
+I&amp;#8217;m in my third year at SFU, majoring in Computer Science, like most of us here. My computer-related interests are mostly in operating systems, applications programming and networking, though most other aspects of computers interest me. It&amp;#8217;s very exciting to be getting into the interesting upper-division computer courses.
+This summer, I was a C++ programmer with a local games company, which was my first time programming in a production environment.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>Owen Matthews</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/owen-matthews/</link>
+      <pubDate>Fri, 04 Sep 2009 15:46:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/owen-matthews/</guid>
+      <description>Hi, I&amp;#8217;m Owen Matthews and will be working on the  WikiDev project.  I&amp;#8217;m a 4th year undergraduate student in Computer  Science at the University of Waterloo. I have a  variety of interests and experience, but with no  particular focus yet. I have had 5 co-op terms at  3 different Canadian companies, and just completed  an 11 month co-op term in Osaka, Japan.  I&amp;#8217;m looking forward to working with the WikiDev  team and meeting everyone in Toronto.</description>
+    </item>
+    
+  </channel>
+</rss>

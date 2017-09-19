@@ -1,0 +1,153 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/status-reports-jan-18-2010/" title="Status Reports: Jan 18, 2010">Status Reports: Jan 18, 2010</a></h1>
+  
+
+<p>Brenda</strong></h2></p>
+
+<h3 id="status">Status</h3>
+
+<ul>
+<li>Attended the Code Sprint</li>
+<li>Spent a lot of time looking through the code, getting an idea for the framework.</li>
+<li>Reported several bugs for the Java Lite perspective.</li>
+<li>Tested the patch for Bug 244645 (making a new class in an empty workspace). I agree with it and also posted a new bug (299342) with a patch that does the equivalent for making a new package. However, after the code sprint, we decided that packages should be done away with overall (that is, hidden).</li>
+</ul>
+
+<h3 id="next-steps">Next Steps</h3>
+
+<ul>
+<li>Submitting a bug for hiding the concept of packages from the student, and working on it.</li>
+</ul>
+
+<h3 id="roadblocks">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    None
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="cory"><strong>Cory</strong></h2>
+
+<h3 id="status-1">Status</h3>
+
+<ul>
+<li><p>Not much work done before code sprint &#8211; mainly attempting to setup environment, and emailed out some first impressions of the current state of the program.</p>
+
+<ul>
+<li><p>Code sprint:</p>
+
+<p>&#8211; Attempted to apply as many patches as possible, and test how they work.</p>
+
+<p>&#8211; Used both scheme and java lite for some basic coding &#8211; attempted to use a &ldquo;1st year / 1st time coding&rdquo; perspective while using the eclipse plugins.</p>
+
+<p>&#8211; Also looked into some competing plugins &#8211; namely pneumbra and how that tied into the eclipse framework.</p>
+
+<p>&#8211; Added a bunch of new bugs to bugzilla (8 or so) that I noticed with scheme and the java lite views.</p>
+
+<p>&#8211; Did a fair bit of work trying to learn the framework.</p>
+
+<p>&#8211; Added a patch to <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=288854">https://bugs.eclipse.org/bugs/show_bug.cgi?id=288854</a> to address about half the warnings (includes all of the arraylist ones though).</p>
+
+<p>&#8211; Also posted some additional comments wrt. that bug / patch.</p></li>
+</ul></li>
+</ul>
+
+<h3 id="next-steps-1">Next Steps</h3>
+
+<ul>
+<li>To put it bluntly, the eclipse UI needs a lot of work to be beginner programmer friendly. I&#8217;m going to try and work on reducing UI clutter, unneeded UI elements (including menus, toolbars, context menus, etc) for the java lite perspective.</li>
+<li>I think customizing the RCP app will take us a step in this direction.</li>
+</ul>
+
+<h3 id="roadblocks-1">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    The Repository. Having to constantly update the project set seems to be a hassle&#8230; Are there any of important files that we may need / should be aware of before getting into the thick of development?
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="miles"><strong>Miles</strong></h2>
+
+<h3 id="status-2">Status</h3>
+
+<ul>
+<li>On the weekend I mainly worked on figuring out how to simplify the menus. We made some progress by creating a perspective listener and removing all of the action sets from it.</li>
+<li>I managed to learn enough to actually fix a bug. When a project is created automagically on class creation in an empty workspace, src and bin folders were created. I found out how to turn this switch off so that the src and bin folders are not created.</li>
+<li>I figured out that when you create a patch you need to make sure you don’t have any other patches installed for other unrelated bugs so your patch doesn’t incorporate those changes.</li>
+</ul>
+
+<h3 id="next-steps-2">Next Steps</h3>
+
+<ul>
+<li>I would like to work on the menu and toolbar simplification but Cory has claimed that. I’ll let him work on that and chip in later if he needs help.</li>
+<li>I think I am going to take a look at one of 2 things:
+
+<ul>
+<li>A Java Lite debugging perspective that illuminates concepts like scope, static space, the stack and the heap</li>
+<li>The templates for class creation to distinguish between “programs” (classes with main methods) and “classes” (object oriented programming units)
+<br />
+<br />
+<br /></li>
+</ul></li>
+</ul>
+
+<h3 id="roadblocks-2">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    There are some menu items and tool bar items that do not appear to be ActionSets. I can’t figure out what they are and how to get rid of them.
+  </li>
+  <li>
+    Figure out how to get access to the debugging information and how to create and modify a Java Lite Debug perspective.
+  </li>
+</ul>
+
+<hr />
+
+  <p class="small gray"><time datetime="2010-01-20">Jan 20, 2010</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

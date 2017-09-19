@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posit on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/posit/</link>
+    <description>Recent content in Posit on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2010 02:13:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/posit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guest post: an update from the POSIT project</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall2010/2010/10/guest-post-an-update-from-the-posit-project/</link>
+      <pubDate>Thu, 28 Oct 2010 02:13:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall2010/2010/10/guest-post-an-update-from-the-posit-project/</guid>
+      <description>POSIT aims to create a portable, opensource tool for the Android platform to aid search and rescue efforts by allowing the transmission of data between users and to central servers. Mentor Ralph Morelli provided this update:
+Things are going very well with the POSIT group. The students have now all identified appropriate projects and each is making steady progress on their work. We have been meeting every Thursday for a brief Skype conference during which we discuss any issues that come up.</description>
+    </item>
+    
+  </channel>
+</rss>

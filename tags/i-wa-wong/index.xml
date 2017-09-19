@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Wa Wong on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/i-wa-wong/</link>
+    <description>Recent content in I Wa Wong on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2009 21:44:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/i-wa-wong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eva Wong</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/388/</link>
+      <pubDate>Fri, 04 Sep 2009 21:44:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/388/</guid>
+      <description>Here is a &amp;#8216;hello&amp;#8217; from Eva Wong for all the UCOSP buddies! I will be working with Ingres under Andrew Ross for this coming fall.
+I’m a fourth year computer science undergraduate student at University of Toronto, specializing in information system. I’m also doing a mathematics minor. For the previous summers in between school years, other than biking, I have been working on the GIS that I found with my team, Geokudo(2009), also I have completed a data visualization tool as a GSoC project(2008) for HackyStat.</description>
+    </item>
+    
+  </channel>
+</rss>

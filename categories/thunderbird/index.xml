@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thunderbird on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/thunderbird/</link>
+    <description>Recent content in Thunderbird on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2010 04:01:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/thunderbird/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thunderbird Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/thunderbird-update/</link>
+      <pubDate>Wed, 10 Mar 2010 04:01:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/thunderbird-update/</guid>
+      <description>Some quick updates from the Thunderbird team for weeks starting February 22nd and March 1st. (This is a point-form summary; see https://wiki.mozilla.org/Thunderbird/Students/StatusUpdates for each week&amp;#8217;s full report.)
+Tim (Bug: Windows 7 overlay icons &amp;#8211; https://bugzilla.mozilla.org/show_bug.cgi?id=515907)
+ Wrote a short guide on Mozilla&amp;#8217;s patch development process Corrected a few issues related to incorrect usage of data types in his XPCOM component Submitted a patch Investigated test frameworks appropriate for testing his Windows 7 overlay icons implementation &amp;#8211; this is tricky because Mozilla has A LOT of test frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Evan&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/evans-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 20:25:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/evans-midterm-report/</guid>
+      <description>For many of the same reasons raised below, I haven&amp;#8217;t been as productive as I had expected; in particular, this has largely resulted from the intersection between front-heavy term workloads and the various bureaucratic demands of graduation/full-time employment.
+That said, I finally posted my vCard import patch for review this past week, along with some modifications as suggested by Standard8. This patch involves roughly 800 lines of code in the middle of the complex multi-threaded wonder that is Address Book; it even comes complete with xpcshell-based tests (which pass!</description>
+    </item>
+    
+    <item>
+      <title>Blake&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/blakes-midterm-report/</link>
+      <pubDate>Tue, 02 Mar 2010 03:37:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/blakes-midterm-report/</guid>
+      <description>As contrasted with some of my students, I&amp;#8217;m fairly happy with the amount of coding work they&amp;#8217;ve gotten done. I think this is largely because I had more realistic expectations coming in to the course. After 15 years in industry I&amp;#8217;ve come to realize that there&amp;#8217;s a whole lot more to fixing bugs than fixing the bug, and the other stuff is what takes the time. Stuff like figuring out what&amp;#8217;s going wrong, and how the code fits together, writing tests, getting it reviewed, fixing the things the reviewer points out, getting it committed, and (hopefully) writing up their weekly status reports.</description>
+    </item>
+    
+    <item>
+      <title>Marcel&amp;#039;s Midterm Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/marcels-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 08:41:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/03/marcels-midterm-report/</guid>
+      <description>I have to say I&amp;#8217;m disappointed with my progress so far &amp;#8211; not so much in terms of understanding the code and bug fixing, but more in terms of turning my lines working code into accepted patches (and all the communication and time management that goes along with that).
+Code
+Toronto was a great opportunity to learn about the deep inner workings of the Mozilla codebase (an opportunity which, considering the size and scope of the code, was invaluable).</description>
+    </item>
+    
+    <item>
+      <title>Midway Update &amp;#8211; Wei Xian Woo (Thunderbird)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/02/midway-update-wei-xian-woo-thunderbird/</link>
+      <pubDate>Sun, 28 Feb 2010 14:53:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/02/midway-update-wei-xian-woo-thunderbird/</guid>
+      <description>I am not proud to say this, but my performance on Thunderbird could have been better.
+Am I behind?
+ Yes, I am at least three weeks behind the schedule I set for myself. I would have liked to submit my first patch by the end of January, but I ended up doing that only in the third week of February. At the start of the term, I broke down the feature I was responsible for implementing into reasonably sized pieces and estimated that each piece will take approximately 1-2 days to implement.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/thunderbird-status-update-2/</link>
+      <pubDate>Fri, 19 Feb 2010 08:51:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/thunderbird-status-update-2/</guid>
+      <description>Progress is a bit slow in the Thunderbird camp this week. Zach is re-submitting his last patch after making the appropriate refinements and MozMill tests.Wei Xian Woo submitted his first patch and tests this week. He has already begun working on his second bug&amp;#8230;
+View this week&amp;#8217;s full status update here</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/thunderbird-status-update/</link>
+      <pubDate>Sat, 30 Jan 2010 20:38:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/thunderbird-status-update/</guid>
+      <description>For the full update, check out our project blog.
+Everyone is starting to feel the pressure of their classes this semester, but despite this several of us are close to submitting our first patch. A common theme is difficulty understanding how to work with the Mozilla platform, but learning how to work with someone else&amp;#8217;s code is good experience for us all.</description>
+    </item>
+    
+    <item>
+      <title>Team Thunderbird says hello</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/01/team-thunderbird-says-hello/</link>
+      <pubDate>Fri, 22 Jan 2010 14:40:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/01/team-thunderbird-says-hello/</guid>
+      <description>We&amp;#8217;re all working on our bugs at Team Thunderbird. Tim&amp;#8217;s working on better integration with the Windows 7 taskbar. Kefu is getting the &amp;#8216;From&amp;#8217; address to be automatically determined when replying to a list. Lin is making sure the correct menu options are enabled at the right times. I&amp;#8217;ve also had to deal with this a bit while adding a &amp;#8220;Reopen last tab&amp;#8221; button. Evan is working on importing vCards for Address Book.</description>
+    </item>
+    
+    <item>
+      <title>Fingers of Fury</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/fingers-of-fur/</link>
+      <pubDate>Sun, 17 Jan 2010 20:15:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/fingers-of-fur/</guid>
+      <description>It&amp;#8217;s 2:30 pm on Sunday; a thick pallor persists over an unseasonably warm Toronto. For roughly 40 students from various Canadian and American universities, this marks the end of the UCOSP code sprint. Those of us working on Thunderbird have made progress on a number of bugs tagged with student-project:
+ Zach Church is tackling Thunderbird&amp;#8217;s handling of recently closed tabs as reported here and here. Tim Miller is working on better integration with Windows 7 as reported here and here.</description>
+    </item>
+    
+    <item>
+      <title>Marcel Guzman</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/marcel-guzman/</link>
+      <pubDate>Wed, 13 Jan 2010 07:11:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/marcel-guzman/</guid>
+      <description>Hi all! My name is Marcel Guzman and I&amp;#8217;m a 4th year student at SFU. My interests lie in online development of all kinds (from low-level networking to high-level web apps and everything in between!). I also enjoy esoteric languages as well as operating systems.
+This semester, I&amp;#8217;ll be working on Thunderbird. I&amp;#8217;m very interested in Mozilla projects as well as learning how to code desktop apps so I think it will be a great fit for me.</description>
+    </item>
+    
+    <item>
+      <title>Development Environment</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/development-environment/</link>
+      <pubDate>Sat, 09 Jan 2010 23:20:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/development-environment/</guid>
+      <description>I&amp;#8217;ve gone through the motions here and here, but that only gets you so far; comm-central is massive, so some additional tools are in order. Here&amp;#8217;s what I&amp;#8217;m using so far:
+ the MXR search tool (comm-central here) to perform rgrep-style queries on the codebase. (A REST API here would be useful, I suspect&amp;#8230;) exuberant-ctags in vim, following setup 3 as described here. (Building the tag files takes roughly 15 minutes on my laptop.</description>
+    </item>
+    
+    <item>
+      <title>Tim Miller</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/tim-miller/</link>
+      <pubDate>Wed, 06 Jan 2010 20:03:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/tim-miller/</guid>
+      <description>Hi everyone!
+I will be working on Thunderbird for the upcoming term. I am excited to be part of UCOSP and looking forward to my first open-source experience.
+I&amp;#8217;m currently a senior at Michigan State University studying Computer Science. I already have a degree in Japanese language, and I have taken enough other classes that I could probably have minors in physics and economics too. I have worked at the university computer help desk fixing viruses and other problems for the last four years or so, but I am starting a new job this semester programming for one of the departments on campus.</description>
+    </item>
+    
+    <item>
+      <title>Kefu Zhao</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/kefu_zhao/</link>
+      <pubDate>Mon, 04 Jan 2010 20:27:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2010/01/kefu_zhao/</guid>
+      <description>Hi guys,
+My name is Kefu Zhao and I am in the last year of my computing science Bachelor degree at SFU.
+I finished an 8 month coop at HSBC, where I mainly used Java to implement some automation tools. Also, VBScript was also used to automate some regression test cases.
+Then，I spent 4 month at IBM Victoria Lab, where JavaScript is the main language I used. Actually, I dealt with dojo web toolkit a lot and my tasks were to create customized widgets for IBM products.</description>
+    </item>
+    
+    <item>
+      <title>Wei Xian Woo</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wei-xian-woo/</link>
+      <pubDate>Sun, 20 Dec 2009 17:55:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wei-xian-woo/</guid>
+      <description>Hello. I&amp;#8217;m Wei Xian Woo and I will be working on Thunderbird next term.
+I&amp;#8217;m a fourth year CS/C&amp;amp;O co-op student at the University of Waterloo with some experience developing web and desktop applications. I started coding before high school and developed my first database-driven web app when I was 13. During the past four years in UW, I have had the chance to work with some amazing companies, including but not limited to a startup company in Toronto, NVIDIA, Microsoft and Sony.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Project Video</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/thunderbird-project-video/</link>
+      <pubDate>Tue, 15 Dec 2009 00:42:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/thunderbird-project-video/</guid>
+      <description>Enjoy:
+http://truevektordev.com/ucosp/ucosp-thunderbird-project-video.mov</description>
+    </item>
+    
+    <item>
+      <title>Evan Stratford</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/evan-stratford/</link>
+      <pubDate>Sat, 12 Dec 2009 22:10:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/evan-stratford/</guid>
+      <description>I&amp;#8217;m Evan Stratford, a fourth-year CS/C&amp;amp;O student at the University of Waterloo (who is usually slightly more clean-shaven than the above photo would suggest&amp;#8230;) Through my work terms with Google, Facebook, and the National Research Council&amp;#8217;s statistical machine translation group, I&amp;#8217;ve had the chance to pick up a little experience in applications and web development. See you at the upcoming code sprint in Toronto!</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Nov. 25, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-25-2009/</link>
+      <pubDate>Wed, 25 Nov 2009 21:49:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-25-2009/</guid>
+      <description>The Thunderbird team had its weekly meeting today. Our meeting notes and status updates can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #4: Thunderbird</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-4-thunderbird/</link>
+      <pubDate>Thu, 12 Nov 2009 02:06:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/proposals/2009/11/winter-2010-project-4-thunderbird/</guid>
+      <description>Mozilla Thunderbird is the award winning email client created by Mozilla Messaging. Used by millions of people world wide, it is made available for Windows, Mac OS X, and Linux in over 40 different languages.
+Mozilla&amp;#8217;s aims for this term&amp;#8217;s project will be to introduce you to the technological, social, and pragmatic aspects of developing open source software through direct involvement in the project, and secondarily to work on features and bugs in Mozilla Thunderbird 3.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Nov. 11, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-11-2009/</link>
+      <pubDate>Wed, 11 Nov 2009 23:17:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-11-2009/</guid>
+      <description>The Thunderbird team had its weekly meeting today. Our meeting notes and status updates can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Nov. 04, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-04-2009/</link>
+      <pubDate>Wed, 04 Nov 2009 08:14:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/11/thunderbird-weekly-meeting-nov-04-2009/</guid>
+      <description>The Thunderbird team had its weekly meeting today. Our meeting notes and status updates can be found here.   ﻿</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Oct. 28, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-28-2009/</link>
+      <pubDate>Fri, 30 Oct 2009 02:37:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-28-2009/</guid>
+      <description>The Thunderbird team had it’s weekly meeting. Our meeting notes and status updates are here.</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Oct. 21, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/10/thunderbird-weekly-meeting-oct-21-2009/</link>
+      <pubDate>Wed, 21 Oct 2009 21:19:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/10/thunderbird-weekly-meeting-oct-21-2009/</guid>
+      <description>The Thunderbird team had it’s weekly meeting today. Our meeting notes and status updates are here.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird weekly meeting: Oct. 14, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-14-2009/</link>
+      <pubDate>Wed, 14 Oct 2009 20:53:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-weekly-meeting-oct-14-2009/</guid>
+      <description>The Thunderbird team had it’s weekly meeting today. Our meeting notes and status updates are here.</description>
+    </item>
+    
+    <item>
+      <title>First Patch Ever.</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/first-patch-ever/</link>
+      <pubDate>Sun, 11 Oct 2009 20:22:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/first-patch-ever/</guid>
+      <description>First Patch Ever.
+Once my pending patch has been checked into the source tree, I will become a member of the open source community. It doesn&amp;#8217;t look like much but it does fix a problem. I take heart from Richard Feynman who said, &amp;#8221; No problem is too small or too trivial if we can really do something about it.&amp;#8221;. Here is a few things I learned:
+ Svn needs a better way to manage patches because pending ones causes a mess.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Team Weekly Meeting&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-team-weekly-meeting/</link>
+      <pubDate>Thu, 08 Oct 2009 01:41:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2009/10/thunderbird-team-weekly-meeting/</guid>
+      <description>The Thunderbird team had it&amp;#8217;s weekly meeting today. You can check our progress, on our wiki page here.</description>
+    </item>
+    
+    <item>
+      <title>distributed version control</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/10/distributed-version-control/</link>
+      <pubDate>Thu, 08 Oct 2009 01:13:33 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/10/distributed-version-control/</guid>
+      <description>My team has been using Mercurial as our version control system, and it is definitely pretty cool.
+We have run into some interesting &amp;#8220;problems&amp;#8221; though. Since the main Thunderbird repository is subversion, and we don&amp;#8217;t have commit access, we have to submit patches that are reviewed and then committed. The real problem comes with branching, merging, and committing.
+Long story made short (or the moral of the story) is that newbies shouldn&amp;#8217;t push/pull Mercurial repos from each other.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Thunderbird meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/10/weekly-thunderbird-meeting/</link>
+      <pubDate>Thu, 01 Oct 2009 13:01:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/10/weekly-thunderbird-meeting/</guid>
+      <description>We had our weekly meeting yesterday, and the notes/updates are located here.</description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>The Basie team posted their first-day report on their blog. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:
+Basie
+Eclipse4Edu
+
+ElmCity
+
+Ingres
+
+MarkUs
+
+Robocup
+
+Thunderbird
+
+**_WikiDev
+_**</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Team: Day 1</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/09/812/</link>
+      <pubDate>Fri, 25 Sep 2009 20:45:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/09/812/</guid>
+      <description>The Thunderbird team got off to a challenging start, with problems getting the Django framework initialized and running correctly. Eric discovered two major bugs in the setup: three directory errors in Django’s settings.py file. With the setup problems resolved, the Thunderbird team, started working on the initial problem of writing and testing unit tests. The Nose framework was chosen as the platform for the tests. Louie and Jay succeeded at creating the first fully functional test.</description>
+    </item>
+    
+    <item>
+      <title>Dana McDougal</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/634/</link>
+      <pubDate>Thu, 10 Sep 2009 16:10:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/634/</guid>
+      <description>Hello, my name is Dana McDougal and I am currently a senior majoring in computer science at the University of the Virgin Islands.
+I am a member of a prestige organization in U.V.I. called the Emerging Caribbean Scientists. The ECS consists of multiple programs that focus on increasing research training for science, technology, engineering, and mathematics students. While attending U.V.I., I got an opportunity to participate in a summer research experience with the RISE program.</description>
+    </item>
+    
+    <item>
+      <title>Jay Schmidek</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jay-schmidek/</link>
+      <pubDate>Wed, 09 Sep 2009 05:02:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jay-schmidek/</guid>
+      <description>Hey, I&amp;#8217;m Jay and I&amp;#8217;ll be working on the Thunderbird project this term.
+I&amp;#8217;m in my fourth and final year in computing science at the University of Alberta. I have yet to decide what to specialize in. This past summer I worked on a small team developing a web application using ASP.NET MVC (C#). Most of my experience in school here has been with java and I&amp;#8217;ve never done any work with python so this should be a lot of fun.</description>
+    </item>
+    
+    <item>
+      <title>Eric Henry</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-henry/</link>
+      <pubDate>Tue, 08 Sep 2009 18:41:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-henry/</guid>
+      <description>Hello, my name is Eric Henry, and I&amp;#8217;ll be working on the Thunderbird project.
+I am a computer science major in my last semester at Michigan State University. Between educational endeavors, I was a freelance web developer working mainly in PHP, with some old projects in ASP (with VB, yuck). I also have experience working with Flash and ActionScript. This last semester (Spring 2009) I worked on an open source project in python that was basically an automated build system.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>Lindauson Hazell</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/394/</link>
+      <pubDate>Sun, 06 Sep 2009 03:44:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/394/</guid>
+      <description>I am Lindauson Hazell. Originally from the island of St. Kitts, I am currently a senior in the Computer Science department at the University of the Virgin Islands. I transferred to the Computer Science division in my sophomore year from Journalism. What most interests me about computer science is its ability to simplify/solve many real-world problems.
+Early in my tenure in the Computer Science program, I was interested in data compression algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Louie Dinh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/louie-dinh/</link>
+      <pubDate>Sat, 05 Sep 2009 04:13:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/louie-dinh/</guid>
+      <description>Hi, I&amp;#8217;m Louie Dinh and I will be working on the ThunderBird Project.
+I&#39;m on the right  I&amp;#8217;m a third year Computer Science Major/Biology Minor at the University of British Columbia. Eventually I plan to attend graduate school in biology and teach them a thing or two about good software development practices (hence this course). The history of computing has always fascinated me and I still regret not being born 10 years earlier to be a part of the explosion of personal computing and the Internet.</description>
+    </item>
+    
+    <item>
+      <title>More Information on Thunderbird</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/08/more-information-on-thunderbird/</link>
+      <pubDate>Fri, 14 Aug 2009 12:58:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/thunderbird/2009/08/more-information-on-thunderbird/</guid>
+      <description>From Blake Winton, the main technical contact for the Thunderbird project:
+For this term, I think students will be working on a Django (Python) site to manage the ISP configuration information for Thunderbird. There may also be some Javascript work to hook in to whatever pieces need to be added to the database.
+To quote David Ascher (who&amp;#8217;s in charge of Mozilla Messaging):
+ From a student project POV, especially given the schedule (fall, when we&amp;#8217;ll be locking things down in TB3), I suspect getting them working on the Django site that powers the database that manages the autoconfig data would be an interesting idea.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter 2015 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/winter-2015/</link>
+    <description>Recent content in Winter 2015 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2015 13:18:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/winter-2015/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CodeIgniter checks in</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2015/2015/04/codeigniter-checks-in/</link>
+      <pubDate>Thu, 02 Apr 2015 13:18:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2015/2015/04/codeigniter-checks-in/</guid>
+      <description>Xing Zeng from UToronto who has been working on the CodeIgniter project checks in on this term. I am working on the CodeIgniter Project. More specifically, our team is spending most of our time in developing Netbeans plugin for CodeIgniter developers.
+CodeIgniter is a light-weight PHP framework, loosely based on the popular Model-View-Controller development pattern. It is the 4th most widely-used PHP framework throughout the Internet[1]. Despite this, there has been no IDE plugin for it on any major IDE, where lots of other PHP frameworks, including the famous Symphony and the not so famous Nette2, all have IDE plugins specifically designed to work with the features of their library.</description>
+    </item>
+    
+  </channel>
+</rss>

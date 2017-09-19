@@ -1,0 +1,83 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/02/eclipse4edu-meeting-minutes-2/" title="Eclipse4Edu Meeting Minutes">Eclipse4Edu Meeting Minutes</a></h1>
+  <p>Meeting Minutes February 19<sup>th</sup>, 2010</p>
+
+<p>Present: Cory and Brenda</p>
+
+<p>Not present: Miles</p>
+
+<p><strong>Brenda</strong></p>
+
+<p>&#8211;          Fixed the patch to Bug 299965 to hide all source folders, not just those named “src”.</p>
+
+<p>&#8211;          Is looking into the issue with the project explorer view not updating under the circumstances that Wayne brought up in that bug.  It could be that elements are being filtered out and the refresh code is looking at the same list of elements and thus doesn’t know the elements exist.</p>
+
+<p>&#8211;          Looked at adding Java Lite to the list of perspectives in the menu (as per Bug 299869).  Didn’t make much progress, but found PerspectiveSwitcher#addPerspectiveShortcut, which might be a good place to look further for this issue.</p>
+
+<p><strong>Cory</strong></p>
+
+<p>&#8211;          Got the delete handler logic set up.  Wayne made a new bug for refactoring the delete action from the package explorer so that both the handler and explorer can run the same code.</p>
+
+<p>&#8211;          We should be able to enable other global menu items doing something similar using XML.</p>
+
+<p>&#8211;          Found good reference material for implementing drag and drop, but wants to finish what he’s working on with the delete functionality first.</p>
+
+<p>&#8211;</p>
+
+<p><strong>Miles</strong></p>
+
+<p>&#8211;          Working on the creation wizards, in particular the templates.</p>
+
+<p><strong>Other</strong></p>
+
+<p>&#8211;          Cut, copy and paste: will need to create the logic to shuffle elements in the package explorer, which will tie in with drag and drop.</p>
+
+<p>&#8211;          Some useful links Cory found:</p>
+
+<ul>
+<li>Information on XML: <a href="http://wiki.eclipse.org/Command_Core_Expressions">http://wiki.eclipse.org/Command_Core_Expressions</a></li>
+<li>Information on drag and drop: <a href="http://www.eclipse.org/articles/Article-Workbench-DND/drag_drop.html">http://www.eclipse.org/articles/Article-Workbench-DND/drag_drop.html</a></li>
+<li>Reference that covers just about everything: <a href="http://wiki.eclipse.org/Eclipse_RCP_How-to">http://wiki.eclipse.org/Eclipse_RCP_How-to</a></li>
+</ul>
+
+  <p class="small gray"><time datetime="2010-02-19">Feb 19, 2010</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

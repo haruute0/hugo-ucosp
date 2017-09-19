@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robocup on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/robocup/</link>
+    <description>Recent content in Robocup on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2009 15:37:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/robocup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/12/screencast/</link>
+      <pubDate>Mon, 07 Dec 2009 15:37:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/12/screencast/</guid>
+      <description>Our screencast is posted here
+Links to a few other videos we&amp;#8217;ve made:
+Human controls
+Another demo
+Playing a game against last term&amp;#8217;s team</description>
+    </item>
+    
+    <item>
+      <title>One Positive, One Negative</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/12/one-positive-one-negative/</link>
+      <pubDate>Tue, 01 Dec 2009 21:15:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/12/one-positive-one-negative/</guid>
+      <description>Positive: Finally, I can experience working on a real, fully distributed team. Also, I learn a lot of technical stuff from this course. From programming in python to machine learning algorithms. I am also grateful to learn from my colleagues as this is more practical than learning from textbooks.
+Negative: I couldn&amp;#8217;t contribute to the team as much as I want to. There are various reasons for this but most notably is due to the complexity and difficulty of the project.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-update-3/</link>
+      <pubDate>Mon, 30 Nov 2009 17:17:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-update-3/</guid>
+      <description>For the most part we are all trying to wrap things up. Here&amp;#8217;s how we plan to divide the final work load.
+Yulia + Ioana: Look into fixing coordinate system.
+Chani: Will put together a skeleton of the document.
+Patrik: Will write up an overview of the source code by Tuesday.
+Alex: Plans to finish his passing improvements and contribute a write up of why we choose the python code.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting-3/</link>
+      <pubDate>Mon, 30 Nov 2009 17:13:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting-3/</guid>
+      <description>We had our weekly meeting yesterday (Nov 29th &amp;#8217;09). The minutes and transcript are available here (http://chani.ca/robocup/minutes/nov29.txt).
+Patrik</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on RoboCup</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts-on-robocup/</link>
+      <pubDate>Thu, 26 Nov 2009 03:12:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts-on-robocup/</guid>
+      <description>I worked on RoboCup and I have to say it didn&amp;#8217;t turn out to be what I expected in the beginning. But I really enjoyed it despite the problems we had (just like any other team this term).
+There isn&amp;#8217;t a whole lot of bad things I can say about the csc494 experience. We pretty much lost that month before the Code Sprint because we couldn&amp;#8217;t get an access to the repository.</description>
+    </item>
+    
+    <item>
+      <title>Status updates for Robocup</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/status-updates-for-robocup/</link>
+      <pubDate>Thu, 26 Nov 2009 03:10:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/status-updates-for-robocup/</guid>
+      <description>We had our meeting on Sunday, November 22. Here is what the team had been up to:
+Alex
+&amp;#8211; worked on passing, now it takes into account players from the opposit team
+&amp;#8211; it is hard to make 100% accurate passing because of the noise added to the measurements
+Next task:
+&amp;#8211; work on interception as it is related to passing
+Chani
+&amp;#8211; fixed code so that now players are using data from the current tick</description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts/</link>
+      <pubDate>Wed, 25 Nov 2009 04:13:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts/</guid>
+      <description>Being a part of the Robocup UCOSP project has been an interesting experience.
+First, I&amp;#8217;ll discusses some of the issues with this project. It&amp;#8217;s not actually an open source project, and it&amp;#8217;s not really under development by anyone other then my group members. This is an issue because we didn&amp;#8217;t really get to experience that side of an open source project (ie. being part of a larger picture and lending a hand).</description>
+    </item>
+    
+    <item>
+      <title>thumbs up, thumbs down</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/thumbs-up-thumbs-down/</link>
+      <pubDate>Wed, 25 Nov 2009 00:04:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/thumbs-up-thumbs-down/</guid>
+      <description>the good: Working with a good team. We&amp;#8217;ve all had those projects where half the team is asleep or incapable of communicating or just doesn&amp;#8217;t do their work. This was one of those rare group projects where I got to be in a group of students who *wanted* to be there. it&amp;#8217;s something I&amp;#8217;m more used to in the free software world but not in school.
+the bad: The chaos. Having our team drop to 5 people threw off a lot of the plans we&amp;#8217;d made at the sprint.</description>
+    </item>
+    
+    <item>
+      <title>Postmortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/postmortem/</link>
+      <pubDate>Tue, 24 Nov 2009 16:17:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/postmortem/</guid>
+      <description>ThumbUp: Having meetings every week and posting status reports helped keep us on track.
+ThumbDown: I think it would be good to have more variety in projects, in particular some that are less development-oriented and involve more research</description>
+    </item>
+    
+    <item>
+      <title>Robocup status update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-update-2/</link>
+      <pubDate>Wed, 18 Nov 2009 06:07:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-update-2/</guid>
+      <description>alex:
+-has been trying to improve passing by having the kicker shout out where the ball is going, but the other players don&amp;#8217;t always hear it
+-will try other ways to improve passing
+chani:
+-implemented ball and player decay
+-found out that the code for updating object positions was never being called and fixed that
+-is working on vision optimization
+-improved the debug viewer a bit more
+-may also experiment with changing minimum-confidence values</description>
+    </item>
+    
+    <item>
+      <title>Robocup meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting-2/</link>
+      <pubDate>Sun, 15 Nov 2009 23:21:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting-2/</guid>
+      <description>Minutes for Robocup&amp;#8217;s Nov. 15th meeting</description>
+    </item>
+    
+    <item>
+      <title>Robocup meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting/</link>
+      <pubDate>Fri, 13 Nov 2009 08:28:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting/</guid>
+      <description>The minutes from this week&amp;#8217;s Robocup meeting can be found here</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-status-updates/</link>
+      <pubDate>Wed, 11 Nov 2009 15:40:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-status-updates/</guid>
+      <description>Alex:
+Status:
+&amp;#8211; submitted a patch to the robocup_dt branch that makes server parameters no longer hardcoded but instead they can be read from the server messages
+Tasks for this week:
+&amp;#8211; finish up work on server parameters
+&amp;#8211; work on passing
+Roadblocks:
+-none
+Chani:
+Status:
+&amp;#8211; was away at a conference
+&amp;#8211; committed FindBall action
+Tasks for this week:
+&amp;#8211; implement compensating for ball decay today
+&amp;#8211; work on vision timing optimzation.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Updates for week of Nov 2nd</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-updates-for-week-of-nov-2nd/</link>
+      <pubDate>Thu, 05 Nov 2009 06:11:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-status-updates-for-week-of-nov-2nd/</guid>
+      <description>Ioana
+Status:
+&amp;#8211; did some reading on DT
+&amp;#8211; wrote a function that computes the last time a slice was seen (for
+neck rotation)
+Next steps:
+&amp;#8211; With Yulia, looking at the solution to body_angle bug
+Roadblock:
+None
+Alex
+Status:
+&amp;#8211; Looking at ways to improve passing
+Next steps:
+&amp;#8211; Reading server parameters at the beginning of the game instead of hardcoding them.
+&amp;#8211; Improving passing
+Roadblock:
+None
+Yulia
+Status:</description>
+    </item>
+    
+    <item>
+      <title>Robocup Meeting Minutes November 1st</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting-minutes-november-1st/</link>
+      <pubDate>Mon, 02 Nov 2009 08:29:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/11/robocup-meeting-minutes-november-1st/</guid>
+      <description>Available on:
+http://www.sfu.ca/~ann5/ucosp/meeting-minutes-nov1st.txt</description>
+    </item>
+    
+    <item>
+      <title>Robocup Marking Scheme Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-marking-scheme-meeting/</link>
+      <pubDate>Mon, 02 Nov 2009 02:24:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-marking-scheme-meeting/</guid>
+      <description>We had an extra meeting on Thursday October the 29th to finalize the marking scheme.
+The results of the meeting can be found in the blog, the minutes can be found here.
+Also note that most of our minutes have now been uploaded to one location at http://chani.ccdevnet.org/robocup/minutes/.
+Patrik</description>
+    </item>
+    
+    <item>
+      <title>Grading Scheme for RoboCup</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/grading-scheme-for-robocup/</link>
+      <pubDate>Sat, 31 Oct 2009 02:17:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/grading-scheme-for-robocup/</guid>
+      <description>Team Grade: 40%
+** Performance of soccer team &amp;#8211; 10%**
+ Fails to beat original team &amp;#8211; 0/10 Wins occasionally &amp;#8211; 4&amp;frasl;10 Consistently wins by narrow margin &amp;#8211; 8&amp;frasl;10 Consistently wins by large margin &amp;#8211; 10&amp;frasl;10  ** Report &amp;#8211; 10%**
+Written report explaining everything that was accomplished, remaining problems, TODO for people who might be working with our code. Mark should reflect completeness, justifications and clarity of writing.
+Documentation &amp;#8211; 10%</description>
+    </item>
+    
+    <item>
+      <title>Robocup Meeting Minutes Oct 25th</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-meeting-minutes-oct-25th/</link>
+      <pubDate>Mon, 26 Oct 2009 08:40:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-meeting-minutes-oct-25th/</guid>
+      <description>Available on:
+http://www.sfu.ca/~ann5/ucosp/meeting-minutes-oct25th.txt</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-status-update/</link>
+      <pubDate>Wed, 21 Oct 2009 16:10:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-status-update/</guid>
+      <description>Alex
+Status:
+&amp;#8211; Tried to tweak to Java client to produce data file for Decision Tree. However, it was cancelled since we might not need it due to Yulia&amp;#8217;s work to parse server log file.
+&amp;#8211; Training a goalie with the human controller to produce a convincing data file.
+Next tasks:
+&amp;#8211; Testing Yulia&amp;#8217;s log parser.
+&amp;#8211; Finding the right parameters to build Decision Tree.
+Roadblocks:
+&amp;#8211; It is very difficult to get a high-quality of training data for building a good Decision Tree.</description>
+    </item>
+    
+    <item>
+      <title>RoboCup weekly meeting on 11th of October</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-weekly-meeting-on-11th-of-october/</link>
+      <pubDate>Fri, 16 Oct 2009 02:21:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-weekly-meeting-on-11th-of-october/</guid>
+      <description>Summary of our weekly meeting and log from IRC channel #robocup.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Report for Oct 14, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-status-report-for-oct-14-2009/</link>
+      <pubDate>Thu, 15 Oct 2009 03:35:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/robocup-status-report-for-oct-14-2009/</guid>
+      <description>Ioana
+Status:
+ Working on the debug GUI  Next tasks:
+ When the ball is lost during dribbling, look towards where it was instead of spinning wildly.  Roadblocks:
+ None  Chani:
+Status:
+ Have been busy with other course assignments  Next Tasks:
+ Make multi-tick actions possible instead of always choosing an action from scratch every tick (which should make Ioana&amp;#8217;s next task easier too).  Roadblocks:</description>
+    </item>
+    
+    <item>
+      <title>Meeting Minutes Robocup Oct 3rd, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/meeting-minutes-robocup-oct-3rd-2009/</link>
+      <pubDate>Sat, 03 Oct 2009 23:19:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/10/meeting-minutes-robocup-oct-3rd-2009/</guid>
+      <description>Here is the meeting minutes for Robocup team on Oct 3rd, 2009.
+http://www.sfu.ca/~ann5/meeting-minutes-oct3rd.txt</description>
+    </item>
+    
+    <item>
+      <title>RoboCup &amp;#8212; Day 2</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-day-2/</link>
+      <pubDate>Sun, 27 Sep 2009 14:38:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-day-2/</guid>
+      <description>The RoboCup team achieved the following during day two of the code sprint weekend:
+ Decided on 7 tasks we plan to implement by the end of the term Began working on debugging and testing techniques Dealt with more technical issues  </description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>The Basie team posted their first-day report on their blog. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:
+Basie
+Eclipse4Edu
+
+ElmCity
+
+Ingres
+
+MarkUs
+
+Robocup
+
+Thunderbird
+
+**_WikiDev
+_**</description>
+    </item>
+    
+    <item>
+      <title>Robocup: Day 1</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-day-1/</link>
+      <pubDate>Sat, 26 Sep 2009 12:05:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-day-1/</guid>
+      <description>The Robocup team had their first in-person meeting yesterday. For the first couple of hours, we played around with some of the clients developed by the students who worked on this project over the summer. Then, we had a meeting with Steve Engles, where we decided on the language an code base we want to use. We decided to go with one of the Python clients, because the Java one was using a lot of third-party code and we felt that we wouldn&amp;#8217;t be able to improve on it from the beginning, and the other Python client was too basic.</description>
+    </item>
+    
+    <item>
+      <title>Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</link>
+      <pubDate>Thu, 24 Sep 2009 15:30:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</guid>
+      <description>Here are the latest progress reports from the teams (with Ingres, Thunderbird, and WikiDev still to come):
+ Basie * Build a toy application in Django and check it into the Subversion repository to prove that they have started learning the framework.  Get Basie running on their development machine and send us a URL so that we can check it. Fix some of our broken test fixtures (long story) and put their changes up for code review.</description>
+    </item>
+    
+    <item>
+      <title>Second Robocup meeting.</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/second-robocup-meeting/</link>
+      <pubDate>Mon, 21 Sep 2009 00:12:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/second-robocup-meeting/</guid>
+      <description>The Robocup team had their second meeting earlier this week. Minutes can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Robocup team&amp;#039;s first meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-teams-first-meeting/</link>
+      <pubDate>Sun, 13 Sep 2009 02:56:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-teams-first-meeting/</guid>
+      <description>The robocup team had their first meeting sept 10th. Minutes are here.</description>
+    </item>
+    
+    <item>
+      <title>Ioana Ivan</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/ioana-ivan/</link>
+      <pubDate>Fri, 11 Sep 2009 20:57:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/ioana-ivan/</guid>
+      <description>Hi, I&amp;#8217;m Ioana Ivan and I&amp;#8217;ll be working on the RoboCup project. I&amp;#8217;m in my forth year at UofT, doing a specialist in bioinformatics and computational biology, but I&amp;#8217;m thinking about staying for an extra year and switching into AI. I&amp;#8217;d like to go to graduate school after I graduate.
+Last year, I did an internship at Red Hat, working on the IcedTea/Openjdk team. I&amp;#8217;ve previously worked on a second year research project in bioinformatics at UofT, and a research project on medical imaging at Oxford.</description>
+    </item>
+    
+    <item>
+      <title>Brent Mombourquette</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/brent-mombourquette/</link>
+      <pubDate>Wed, 09 Sep 2009 18:26:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/brent-mombourquette/</guid>
+      <description>Hi, I&amp;#8217;m Brent Mombourquette. I&amp;#8217;m in my third year studying computer science at University of Toronto. I&amp;#8217;m aiming for a specialist in Artificial Intelligence, although so far I haven&amp;#8217;t taken any AI related courses.
+During this fall I&amp;#8217;ll be working on the RoboCup Soccer project. I spent this past summer working with Professor Steve Easterbrook, developing a Firefox plug-in to aid climate scientists in researching. It was a great experience, although I was working by myself.</description>
+    </item>
+    
+    <item>
+      <title>Chani Armitage</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/chani-armitage/</link>
+      <pubDate>Tue, 08 Sep 2009 03:22:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/chani-armitage/</guid>
+      <description>Hi, I&amp;#8217;m Chani Armitage. I&amp;#8217;m studying comp sci at Simon Fraser University, and previously studied at BCIT. I work on the KDE project in my free time. I&amp;#8217;ve done three Google Summer of Code projects with them now (it&amp;#8217;s awesome, you should apply next spring).
+This fall I&amp;#8217;ll be working on the Robocup project. My first programming experience was for an Artificial Life game (Creatures 3), so I&amp;#8217;m looking forward to doing some AI programming.</description>
+    </item>
+    
+    <item>
+      <title>Alex Nico Napitupulu</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/alex-nico-napitupulu/</link>
+      <pubDate>Mon, 07 Sep 2009 18:19:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/alex-nico-napitupulu/</guid>
+      <description>Hi everyone, my name is Alex Nico Napitupulu and I go to SFU studying computing science. This term, I&amp;#8217;ll be working on RoboCup project.
+I have done eight-month coop term at RIM, Mississauga and I am pretty excited to go back to the fabulous city of Toronto. I also did my coop terms at SAP Business Objects Division, where we developed a reporting software, namely Crystal Reports.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>Patrik Gornicz</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/patrik-gornicz/</link>
+      <pubDate>Sat, 05 Sep 2009 15:55:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/patrik-gornicz/</guid>
+      <description>Hello everyone. I&amp;#8217;m Patrik Gornicz who will be working on the RoboCup project.
+I am a third year student at the University of Waterloo in their Computer Science program. I have enjoyed their coop program by tutoring CS for two terms. My other two coop terms have been spent programming the MediaGo application for Sony Creative Software.
+As a hobby I&amp;#8217;ve been developing a personal C++ library that is currently being used by a simple 2D physics simulator.</description>
+    </item>
+    
+    <item>
+      <title>Yulia Kotseruba</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/yulia-kotseruba/</link>
+      <pubDate>Sat, 05 Sep 2009 04:06:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/yulia-kotseruba/</guid>
+      <description>Hi, my name is Yulia Kotseruba and I&amp;#8217;m going to be working on RoboCup project this term.  I&amp;#8217;m fairly new to Computer Science. Having completed a BA in Philosophy and Religious Studies 3 years ago I got into Specialist program in Artificial Intelligence at University of Toronto. Currently I&amp;#8217;m in my final fourth year.  This summer I got an amazing opportunity to work on volumetric projection system called Lighttwist as part of Google Summer of Code.</description>
+    </item>
+    
+  </channel>
+</rss>

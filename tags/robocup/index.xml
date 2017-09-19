@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robocup on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/robocup/</link>
+    <description>Recent content in Robocup on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2009 02:56:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/robocup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robocup team&amp;#039;s first meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-teams-first-meeting/</link>
+      <pubDate>Sun, 13 Sep 2009 02:56:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/09/robocup-teams-first-meeting/</guid>
+      <description>The robocup team had their first meeting sept 10th. Minutes are here.</description>
+    </item>
+    
+  </channel>
+</rss>

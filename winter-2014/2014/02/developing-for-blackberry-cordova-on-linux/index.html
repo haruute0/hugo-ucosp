@@ -1,0 +1,195 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/winter-2014/2014/02/developing-for-blackberry-cordova-on-linux/" title="Developing for Blackberry Cordova on Linux">Developing for Blackberry Cordova on Linux</a></h1>
+  
+
+<p>James Wood from Waterloo is working on Blackberry Cordova plugins on Linux and provides this reference for future developers who are trying to do the same.</p>
+
+<h3 id="history">History</h3>
+
+<p>As of this writing, Linux is not supported by Blackberry for development, which means if you are reading this, that you have chosen to walk the difficult path. The good news is that you won&#8217;t be alone, and hopefully this guide will help get you started. The bad news is that a similar guide was written about four months before this one that was already so far out of date by the time I began working the BB10 Cordova, that it was of no use whatsoever. As a consequence, I fear that portions of this guide may also be obsolete by the time you need it. If so, let&#8217;s hope that this is because Blackberry has decided to fully support Linux, and a guide like this is no longer needed at all.</p>
+
+<p>Let&#8217;s get down to business then.</p>
+
+<h3 id="preflight-checklist">Preflight Checklist</h3>
+
+<p>Before we begin, this guide makes some assumptions about you, the reader:</p>
+
+<ul>
+<li>You have some idea of what an extension is and does, and moreover, why you want to write one.</li>
+<li>You have a github account, and you have already forked the WebWorks-Community-APIs repository.</li>
+<li>I am using Ubuntu 12.10, and you are (obviously) using some version of linux. Where things might differ between us, you can handle yourself.</li>
+<li>You are working on a machine for which you have administrative rights.</li>
+<li>You have a BB10 device with which to work. I am using the Dev Alpha C model myself.</li>
+<li>Your device has the latest OS installed.
+
+<ul>
+<li>You can get that here: <a href="https://developer.blackberry.com/devzone/blackberry10devalpha/devalpha_update.html">https://developer.blackberry.com/devzone/blackberry10devalpha/devalpha_update.htm</a></li>
+<li>Note however that updating the device OS via the autoloader is only possible through a windows machine (at this time)</li>
+</ul></li>
+<li>You have a Blackberry ID set up already. If you don&#8217;t, you can do so from your device directly, although you&#8217;ll need an internet connection.</li>
+</ul>
+
+<h2 id="the-guide">The Guide</h2>
+
+<h3 id="step-1-momentics-installation">Step 1: Momentics Installation</h3>
+
+<ol>
+<li><p>Download and install Momentics SDK from</p>
+
+<p><a href="https://developer.blackberry.com/native/downloads/">https://developer.blackberry.com/native/downloads/</a></p></li>
+
+<li><p>Go to the directory where you saved the binary, chmod it to be executable, and run it (as yourself, not as root)</p></li>
+
+<li><p>I recommend you use all the default settings, unless you have a good reason not to.</p></li>
+
+<li><p>Allow Momentics to run after the installation is complete. If you don&#8217;t, you can always start it from the terminal: ~/bbndk/qde (assuming defaults)</p></li>
+
+<li><p>On startup, it will attempt to find your device. Let if fail, and see Step 2. If you don&#8217;t have one, you can ignore this and always deal with it later.</p></li>
+</ol>
+
+<h3 id="step-2-device-setup">Step 2: Device Setup</h3>
+
+<ol>
+<li>Turn on your device, and go to Settings-&gt;Storage and Access</li>
+<li>Set the USB connection to &#8220;Connect to Mac&#8221; (see image below)</li>
+<li>Go back to Settings-&gt;Security and Privacy</li>
+<li>Scroll all the way to the bottom and select Development Mode</li>
+<li>Turn on development mode (see image below)
+
+<ul>
+<li>This requires the device password, which I suggest setting to something very simple while you work</li>
+<li>Note that development mode automatically turns off when the device restarts, or after 2-3 days</li>
+</ul></li>
+<li>Connect the device via USB cable, and on Momentics click &#8220;Try Again&#8221;</li>
+<li>Enter the device password when prompted</li>
+<li>Install the recommended API level, and go get a coffee (this takes a while)</li>
+<li>If prompted about installing debug stuff, do so, but then <strong>do not</strong> click restart until it completes (see image below)</li>
+<li>Click restart, but don&#8217;t expect it to actually open again on it&#8217;s own.</li>
+</ol>
+
+<p><img alt="" src="http://ucosp.ca/wp-content/uploads/2014/02/jpw_USB.png" width="600" height="800" /><img alt="" src="http://ucosp.ca/wp-content/uploads/2014/02/jpw_DevMode.png" width="600" height="800" /></p>
+
+<p><img alt="" src="http://ucosp.ca/wp-content/uploads/2014/02/jpw_Wait_Here.png" width="800" height="600" /></p>
+
+<h3 id="step-3-more-momentics-setup">Step 3: More Momentics Setup</h3>
+
+<ol>
+<li>Open Momentics: ~/bbndk/qde</li>
+<li>Go to the menu: Window-&gt;Preferences</li>
+<li>Choose Blackberry-&gt;Signing from the panel on the left</li>
+<li>Enter your Blackberry ID password and click &#8220;Get Token&#8221; which will make you actually sign in with your Blackberry ID</li>
+<li>Once successful, click &#8220;Create Certificate&#8221;. You should no longer see a warning at the top of the page.</li>
+<li>Exit Momentics.</li>
+</ol>
+
+<h3 id="step-4-install-node-js">Step 4: Install Node.js</h3>
+
+<ol>
+<li>If you aleady have this, then go to step 5, otherwise enter the following commands from the terminal:</li>
+<li>sudo apt-get install python-software-properties python g++ make</li>
+<li>sudo add-apt-repository ppa:chris-lea/node.js</li>
+<li>sudo apt-get update</li>
+<li>sudo apt-get install nodejs</li>
+</ol>
+
+<h3 id="step-5-install-cordova">Step 5: Install Cordova</h3>
+
+<ol>
+<li>sudo npm install -g cordova</li>
+<li>You may need to add /usr/local/share/npm to your $PATH, but I had no issues without doing this.</li>
+</ol>
+
+<h3 id="step-6-clone-the-webworks-community-apis-repo-locally">Step 6: Clone the WebWorks-Community-APIs repo locally</h3>
+
+<ol>
+<li>Make a directory where you want to put it. I made ~/UCOSP since I was doing this for the UCOSP.</li>
+<li>cd ~/UCSOP</li>
+<li>git clone git@github.com:your-git-username/WebWorks-Community-APIs.git
+
+<ul>
+<li>where your-git-username is your username for github</li>
+<li>Permission Denied? You need to add an RSA key to github. Follow this helpful guide: <a href="https://help.github.com/articles/generating-ssh-keys">https://help.github.com/articles/generating-ssh-keys</a></li>
+</ul></li>
+</ol>
+
+<h3 id="step-7-environment-variables">Step 7: Environment Variables</h3>
+
+<ol>
+<li>cd ~/bbndk</li>
+<li>ls</li>
+<li>Notice the file &#8220;bbndk*.sh&#8221; (see image below). I found that actually running the script did not do as intended, but simply sourcing it was sufficient:</li>
+<li>source bbndk*.sh</li>
+<li>You <strong>must do this every time</strong> you open a terminal to work, so you might as well add line 4 to you .bash_profile or similar file.</li>
+</ol>
+
+<p><img alt="" src="http://ucosp.ca/wp-content/uploads/2014/02/jpw_bbndk_dir.png" width="800" height="600" /></p>
+
+<h3 id="step-8-running-the-template-sample-app">Step 8: Running the Template Sample App</h3>
+
+<ol>
+<li>cd ~/UCOSP/W*/BB10-*/T*</li>
+<li>cordova create sample2</li>
+<li>copy the www folder in /sample to /sample2, and overwrite anything there</li>
+<li>cd sample2</li>
+<li>cordova platform add blackberry10
+
+<ul>
+<li>This is most likely fail. If not, go buy a lotto ticket.</li>
+<li>The easiest solution is to change ownership of ~/tmp to yourself instead of root, then try again.</li>
+<li>If you find an alternative solution, please document it, and let us know.</li>
+</ul></li>
+<li>cordova plugin add ../plugin</li>
+<li>cordova run sample2</li>
+<li>Your device will eventually start and app called &#8220;Cordova3&#8221;</li>
+<li>Click &#8220;OK&#8221; on the Web Inspector popup</li>
+<li>Scroll down to see the test output from the app</li>
+<li>Congratulations, the hard part is over!</li>
+</ol>
+
+<p><img alt="" src="http://ucosp.ca/wp-content/uploads/2014/02/jpw_SampleApp.png" width="600" height="800" /></p>
+
+<h3 id="what-8217-s-next">What&#8217;s Next?</h3>
+
+<p>The sample app uses the Template plugin to make several different types of Javascript calls to the native-level C++ underneath. To make your own extension, copy the Template directory, and use it as a basis for your work. Read Template/README.md for more information. Good Luck, and Happy Coding.</p>
+
+  <p class="small gray"><time datetime="2014-02-25">Feb 25, 2014</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

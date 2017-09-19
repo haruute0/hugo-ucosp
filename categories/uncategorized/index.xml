@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fall Projects</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2017/08/22/fall-preparation/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2017/08/22/fall-preparation/</guid>
+      <description>The fall projects are now available. We are happy to welcome back six projects from recent years. These include two projects that have been with us since the beginning or nearly the beginning of UCOSP: Reviewboard and Umple. We are welcoming back Julian and the Formulize project as well as three projects from Mozilla: Firefox development tools, Code Coverage, and Task Cluster.
+Our new projects include another Firefox Development Tools project on the React debugger, and two new projects with a more analytic focus.</description>
+    </item>
+    
+    <item>
+      <title>Fall 2017 Preparation</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2017/08/04/fall-preparation/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2017/08/04/fall-preparation/</guid>
+      <description>Preparations for the next term are well underway. We are finalizing projects with our project mentors, including some exciting potential new projects. We haven&amp;rsquo;t updated the project list yet, so stay tuned.
+The code sprint will be at the Mozilla offices in downtown Toronto Sept 22-24. Students will be getting email shortly to start booking flights.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2017 UCOSP Projects</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2016/12/05/projects-confirmed/</link>
+      <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2016/12/05/projects-confirmed/</guid>
+      <description>Preparations for the winter term are well underway. We have 34 students signed up and ready to travel to Calgary in January for the code sprint. Thanks to our enthusiastic and generous mentors, we have 7 projects lined up.
+I encourage you to go read the project descriptions.</description>
+    </item>
+    
+    <item>
+      <title>Fall 2016 UCOSP Projects</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2016/08/18/projects-confirmed/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2016/08/18/projects-confirmed/</guid>
+      <description>The open source communities have no shortage of generous people! We have nine projects ready to go and 28 wonderful mentors to work with students. I&amp;rsquo;d like to welcome back returning mentors from Reviewboard, MarkUs, Umple, Mylyn, and Firefox Code Coverage. I&amp;rsquo;d especially like to welcome Greg Mierzwinski who is returning as a mentor for Firefox Code Coverage after working on it as a UCOSP student.
+We have four new projects from Mozilla: Firefox 3D Z-index Tool, TaskCluster-Pulse, Pontoon, and FlyWeb.</description>
+    </item>
+    
+    <item>
+      <title>Getting Ready for the Fall term</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2016/08/04/fall-planning/</link>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2016/08/04/fall-planning/</guid>
+      <description>Planning is in full swing for the fall term. Students and faculty are definitely thinking about September. Looking at our registration form we already have about half the number of students we expect signed up and more are starting to roll in.
+Our fall code sprint will be held at the Mozilla offices in downtown Toronto. Their community space is a great place to work, and Mike Hoye and his team are excellent hosts.</description>
+    </item>
+    
+    <item>
+      <title>New Look and Year in Review</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2016/05/30/new-look-and-year-in-review/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2016/05/30/new-look-and-year-in-review/</guid>
+      <description>Year in Review We had another great year with UCOSP, thanks to the generous sponsorship from Google and the support of the CACS/AIC.
+Thirty-five students attended the September code sprint in Vancouver at the beautiful UBC campus. Our wonderful long term project mentors once again created a great experience for our students. We welcomed back ReviewBoard, Formulize, BB 10/Phonegap, MarkUs, and Umple.
+We were thrilled to welcome back Dethe Elza with Waterbear, and Jim Parry with CodeIgniter.</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook – UCOSP 2016 – Recap</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2016/03/24/jupyter-notebook-recap/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2016/03/24/jupyter-notebook-recap/</guid>
+      <description>&amp;ndash; Adam Wong
+Hey everyone, now that I am halfway through my UCOSP project, I would like to take some time to reflect and share some of my experiences. I have had the honor of working with three other talented students from the University of British Columbia as well as with two friendly and intelligent Mozilla employees in the Jupyter Notebook project.
+So what exactly is a Jupyter Notebook, and why should you really care?</description>
+    </item>
+    
+    <item>
+      <title>How to Generate UML Diagram of Models in Django Project</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2016/01/12/how-to-generate-uml-diagram-of-models-in-django-project/</link>
+      <pubDate>Tue, 12 Jan 2016 11:05:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2016/01/12/how-to-generate-uml-diagram-of-models-in-django-project/</guid>
+      <description>(An experience report from Yorie Nakayama)
+If you are developing with python on Django, or on any frameworks that employ the MVC (Model-View-Controller) paradigm, you might come across whether there is a way to easily visualize all the models and their dependency relationships in your application as a diagram. Models are central to most applications using MVC, and being able to glance at the structure of models and their relationships to each other greatly helps any developer beginning to hack on the codebase.</description>
+    </item>
+    
+    <item>
+      <title>Getting Ready for the New Year</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2015/12/15/getting-ready-for-the-new-year/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2015/12/15/getting-ready-for-the-new-year/</guid>
+      <description>As we prepare for the next group of students who will start in January, we are seeing some turnover in the project offerings for UCOSP, so I&amp;#8217;d like to welcome the newcomers and thank the project mentors from the past term.
+The project mentors for Waterbear, CodeIgniter, and Mylyn are all based in Vancouver which makes it more difficult to attend a code sprint in Toronto. It has been great working with Dethe, James and Sam, and I hope we will have a chance to work with you again in the future!</description>
+    </item>
+    
+    <item>
+      <title>Review Board projects from the fall</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2014/02/review-board-projects-from-the-fall/</link>
+      <pubDate>Wed, 12 Feb 2014 10:58:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2014/02/review-board-projects-from-the-fall/</guid>
+      <description>Check out the demos that students working on ReviewBoard created in the fall term. Great work!</description>
+    </item>
+    
+    <item>
+      <title>Winter 2014 Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2014/02/winter-2014-sprint/</link>
+      <pubDate>Sat, 08 Feb 2014 11:06:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2014/02/winter-2014-sprint/</guid>
+      <description>The UCOSP sprint for Winter 2014 is underway. This term UCOSP is in rainy Palo Alto California at Facebook HQ. This term we have 48 Canadian students from 22 universities contributing to 27 open source projects. This term UCOSP has joined up with [](https://www.facebook.com/OpenAcademyProgram &amp;ldquo;Facebook Open Academy&amp;rdquo;) program which adds another 200 students from a dozen US, European, and Asian schools.
+Universities
+ Bishop&amp;#8217;s University Brock University Polytechnic school of Montreal Simon Fraser University Thompson Rivers University University of Alberta University of British Columbia University of Calgary University of Guelph University of Manitoba University of New Brunswick University of Ottawa University of Sherbrooke University of Toronto University of Toronto Mississauga University of Waterloo University of Western Ontario Wilfrid Laurier University York University  Projects</description>
+    </item>
+    
+    <item>
+      <title>Preparing for Fall 2013</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2013/05/preparing-for-fall-2013/</link>
+      <pubDate>Thu, 30 May 2013 15:35:10 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2013/05/preparing-for-fall-2013/</guid>
+      <description>While students are enjoying a summer away from school (or at least that&amp;#8217;s what I&amp;#8217;d like to think you are doing), we are putting all the pieces in place for UCOSP next year.
+We had a very successful year with students from 25 Canadian universities participating. The enthusiasm and energy that students and mentors brought to the code sprints in Waterloo and Menlo Park was fantastic.
+We recently learned that Google will once again be our primary sponsor.</description>
+    </item>
+    
+    <item>
+      <title>Review Board Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2012/03/review-board-update-3/</link>
+      <pubDate>Mon, 26 Mar 2012 21:58:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2012/03/review-board-update-3/</guid>
+      <description>Steven MacLeod writes:
+My experience with UCOSP has been very fulfilling thus far. I’ve met a lot of great people, and have enjoyed working on the Review Board project more than I ever would have expected. One of my favourite aspects of the program is the feeling that your contributions are significant; The code you write is distributed to and executed by real users. This is in stark contrast to the usual work which is done in university.</description>
+    </item>
+    
+    <item>
+      <title>UMPLE October 2011 Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/umple-october-2011-update/</link>
+      <pubDate>Tue, 25 Oct 2011 17:49:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/umple-october-2011-update/</guid>
+      <description>The Umple project is advancing rapidly this semester with three UCOSP students making major contributions in parallel with other contributors.
+UCOSP students are have tackled some smaller features and bugs, and are now working on a couple of long-standing major issues: Generating comprehensive and useful error messages, and getting rid of certain syntax oddities.
+Dr. Lethbridge, the project mentor, just posted a blog post that covers the recent work in technical detail:</description>
+    </item>
+    
+    <item>
+      <title>Review Board team climbs the learning curve</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/review-board-team-climbs-the-learning-curve/</link>
+      <pubDate>Tue, 04 Oct 2011 15:24:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/review-board-team-climbs-the-learning-curve/</guid>
+      <description>There is a great description of the steps students took to getting fully up to speed and moving forward on their projects on the Review Board blog.
+I&amp;#8217;m glad to hear that the code sprint was worthwhile!</description>
+    </item>
+    
+    <item>
+      <title>EOL wins the first blog of the term award</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/eol-wins-the-first-blog-of-the-term-award/</link>
+      <pubDate>Tue, 04 Oct 2011 15:23:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/10/eol-wins-the-first-blog-of-the-term-award/</guid>
+      <description>Hi everyone,
+Just a quick status update from the EOL team here: we have met each other at last at the fantastic UCOSP code sprint in Toronto!
+At the code sprint, we learned a lot of things. Our awesome mentors Dmitry and Lisa started off by teaching us how to use Git and instructing us on the proper commit workflow for the EOL project hosted on Github.
+We then spent the remainder of the code sprint setting up our development environments.</description>
+    </item>
+    
+    <item>
+      <title>UCOSP on the Google Open Source blog</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/07/ucosp-on-the-google-open-source-blog/</link>
+      <pubDate>Fri, 15 Jul 2011 12:36:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/07/ucosp-on-the-google-open-source-blog/</guid>
+      <description>There is a description of UCOSP on the Google Open Source blog.
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Getting ready for the fall term</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/07/2815/</link>
+      <pubDate>Fri, 08 Jul 2011 14:43:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/07/2815/</guid>
+      <description>Lots of things are happening behind the scenes as we gear up for UCOSP again this fall. Faculty across Canada are recruiting students, we are busy trying to collect a few more projects and finalize the ones we have tentatively arranged, and we are still looking for more sponsors.
+We are very grateful to Google for agreeing to be our major sponsor for the second year in a row. We are also grateful for the enthusiastic support of the CACS/AIC (the association of Canadain computer science chairs).</description>
+    </item>
+    
+    <item>
+      <title>POSIT UCOSP Winter 2011: Mid-Point</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/03/posit-ucosp-winter-2011-mid-point/</link>
+      <pubDate>Thu, 03 Mar 2011 16:01:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/03/posit-ucosp-winter-2011-mid-point/</guid>
+      <description>Now that we have reached the middle of the term it is a great time for a blog post in order to see where we stand.&amp;nbsp;
+ Since the beginning of the term, we got all introduced to the POSIT app and got familiar with it&amp;#8217;s components and architecture. In order to warm up, each of us started to look into some re-factoring and testing tasks. We identified few issues that were worth tackling but were also minor enough such that we could accomplish them in a short amount of time.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs at the midpoint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/03/markus-at-the-midpoint/</link>
+      <pubDate>Thu, 03 Mar 2011 11:10:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/03/markus-at-the-midpoint/</guid>
+      <description>It&amp;#8217;s been a while since the code sprint and everyone is settling down nicely. Apart from other courses, there haven&amp;#8217;t been any major road blocks the MarkUs team has faced. Everyone is using the resources they can to breeze through the problems with their various issues. Thanks to our amazing mentors, many of us have overcome the problems we&amp;#8217;ve encountered so far. The IRC channel provides a perfect place for efficient question and answer sprints while the mentors try to help everyone who&amp;#8217;s stuck.</description>
+    </item>
+    
+    <item>
+      <title>Dennis! There&amp;#8217;s some lovely filth down here!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/dennis-theres-some-lovely-filth-down-here/</link>
+      <pubDate>Fri, 25 Feb 2011 10:28:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/dennis-theres-some-lovely-filth-down-here/</guid>
+      <description>We are now well underway in our ReviewBoard projects, though, like everyone, its a challenge to balance both UCOSP and the rest of our courses/lives/commitments. In addition, for some of us it seems our progress is pretty slow for the moment as we are still trying to learn the languages &amp;amp; digging down to see all the nit &amp;amp; grit of ReviewBoard!
+I&amp;#8217;m currently working on the scalability testing for ReviewBoard &amp;amp; its quite an interesting process to say the least.</description>
+    </item>
+    
+    <item>
+      <title>CoRaL update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/coral-update/</link>
+      <pubDate>Thu, 24 Feb 2011 14:59:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/coral-update/</guid>
+      <description>From Feb 3rd to Feb 17th, we continued to work on implementing some of the core features of CoRAL, including searching, uploading and claiming publications, changing user profile settings. Except searching, only logged in user has access to these features.
+Most of our work is on the user&amp;#8217;s profile page, and we have made a lot of changes to both the user interface and functionality. In settings tab, user can change his/her information to be private or public, or modify some personal information, including password.</description>
+    </item>
+    
+    <item>
+      <title>Dive into Reviewboard</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/dive-into-reviewboard/</link>
+      <pubDate>Fri, 04 Feb 2011 18:06:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/dive-into-reviewboard/</guid>
+      <description>At the amazing code sprint, we became familiar with our teammates, git and Reviewboard and now after the kick-off, we begin to dive into Reviewboard.
+It is first step that costs troublesome, especially when there are quite a lot of new stuffs (e.g. python, django, git, Reviewboard, etc ) Sometimes we don’t know where to go and sometimes we mess up the code. Fortunately, there are people we know we can turn to for help—our mentors!</description>
+    </item>
+    
+    <item>
+      <title>FreeseeR at the code sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/freeseer-at-the-code-sprint/</link>
+      <pubDate>Fri, 04 Feb 2011 11:00:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/freeseer-at-the-code-sprint/</guid>
+      <description>Hi All!
+We are just beginning our tasks for our project &amp;#8211; FreeSeeR, an open-source video capture tool customized for academic and industrial conferences! After receiving our assignment to the project, we met traveled to Edmonton to meet each other:
+Alex Perelygin, 4th year Math &amp;amp; Computer Science (joint major)
+Simon Fraser University
+Dan Palmer, 4th year Computer Science
+Laurentian University
+Maggie Yu, Math &amp;amp; Computer Science
+University of British Columbia</description>
+    </item>
+    
+    <item>
+      <title>CoRAL progress this week</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/coral-progress-this-week/</link>
+      <pubDate>Fri, 04 Feb 2011 10:53:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/02/coral-progress-this-week/</guid>
+      <description>After the code sprint, from Jan 27-Feb 03, we continued to become more familiar with the code base, and began working on implementing some of the core features of CoRAL. These features include the authentication of users, and the uploading of publications. A new login page was created, which will allow users to log in and out of the site. Ultimately this will restrict the functionality on the website (such as uploads) until a user has logged in.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs at the Code Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/markus-at-the-code-sprint/</link>
+      <pubDate>Sun, 30 Jan 2011 21:51:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/markus-at-the-code-sprint/</guid>
+      <description>Last week, members of the MarkUs team, new and old from all over Canada had the opportunity to meet at the University of Alberta in Edmonton to get some work done at the January 2011 UCOSP Code Sprint. The group had a great time and I feel we&amp;#8217;ve really started out strong for the up-coming work term.
+One of the coolest parts of the Code Sprint was the chance to get together with MarkUs team members face-to-face.</description>
+    </item>
+    
+    <item>
+      <title>The Winter 2011 Review Board Team</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/the-winter-2011-review-board-team/</link>
+      <pubDate>Sat, 29 Jan 2011 09:26:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/the-winter-2011-review-board-team/</guid>
+      <description>The Review Board team is happy to welcome our new 2011 Winter UCOSP
+students! We&amp;#8217;re looking forward to another successful semester of
+Review Board development. So, without further ado, I&amp;#8217;d like to
+introduce the Winter 2011 Review Board Team:
+ Steve Sutcliffe Kahlil Amlani Mengyun Kong Crystal Lok Koo Teresa Hume Mark Striemer  So the UCOSP codesprint finished up last week, and a lot got
+accomplished. Students arrived with a Review Board development</description>
+    </item>
+    
+    <item>
+      <title>EOL team dives into testing</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/eol-team-dives-into-testing/</link>
+      <pubDate>Sat, 29 Jan 2011 09:24:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/eol-team-dives-into-testing/</guid>
+      <description>So we&amp;#8217;re the Encyclopedia of Life (EOL) team: Josh (University of
+Toronto), Jonathan (Ottawa University), Feng (York University), Tyler
+and Will (both at Laurentian University) and our mentor is Dmitry
+Mozzherin who is a programmer at Encyclopedia of Life.
+Our project is to develop a general testing framework for the EOL
+website &amp;#8211; a site that is attempting to catalog every species on the
+planet &amp;#8211; with the intent that this framework be general enough to use</description>
+    </item>
+    
+    <item>
+      <title>POSIT, UCOSP 2011</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/posit-ucosp-2011/</link>
+      <pubDate>Sat, 29 Jan 2011 09:21:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/posit-ucosp-2011/</guid>
+      <description>Sarah Strong introduces the POSIT team and summarizes the team&amp;#8217;s progress at the code sprint.</description>
+    </item>
+    
+    <item>
+      <title>CoRAL is on the move again</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/coral-is-on-the-move-again/</link>
+      <pubDate>Sat, 29 Jan 2011 09:09:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2011/01/coral-is-on-the-move-again/</guid>
+      <description>CoRAL (Collaborative Review Analysis of Literature) aims to support and to analyze collaborative review of research literature in science. CoRAL supports collaborative review by providing a multi-format document browser which enables users to create and share annotations (the CoRAL viewer). Annotations provide means for commenting, discussing, tagging, and highlighting. CoRAL also supports both analysis and reviewing by generating visualized reports about how users collaborate and how researchers show attention to various pieces of literature (CoRAL reporter).</description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/04/evaluation/</link>
+      <pubDate>Thu, 22 Apr 2010 12:25:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/04/evaluation/</guid>
+      <description>Almost all of this term&amp;#8217;s students have sent in their self-evaluations, and their evaluations of their mentors. Overall, people seem to have enjoyed working on things that are actually going to be used, and getting to know their peers and their industry mentors. There are a few things we need to do better next time&amp;#8212;clearer goals for some projects, some grades midway through term so that people know where they stand, etc.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Status Updates: April 02</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/04/thunderbird-status-updates-april-02/</link>
+      <pubDate>Sat, 10 Apr 2010 17:45:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/04/thunderbird-status-updates-april-02/</guid>
+      <description>This week is another productive week for Thunderbird Team in that most of us have finished most of their work!
+Wei Xian has resolved his bug (restore session) and his patch has been pushed to comm-central. Also, he is going to prepare a &amp;#8220;quick start guide&amp;#8221; for future students who are going to work on Thunderbird. For myself, I have posted my revised patch and get the review from Blake. Now I have submitted a secondary review request and hopefully everything is going all right.</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Status Updates: March 26</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/04/thunderbird-status-updates-march-26/</link>
+      <pubDate>Sat, 03 Apr 2010 01:11:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/04/thunderbird-status-updates-march-26/</guid>
+      <description>Apologies this is coming late, I didn&amp;#8217;t notice I was set as the blog poster for this week!
+It seems like several of us are having difficulties with unit tests, with myself and Zach having trouble getting working unit tests off the ground, and Wei Xian adding some polish to his previous unit tests.
+Also, Tim and I are feeling the crunch of other courses so haven&amp;#8217;t been productive over the last week.</description>
+    </item>
+    
+    <item>
+      <title>Productively Lost</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/productively-lost/</link>
+      <pubDate>Fri, 26 Mar 2010 09:51:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/productively-lost/</guid>
+      <description>From Greg DeKoenigsburg:
+ We are delighted to announce the release of version 0.8 of our textbook, &amp;#8220;Practical Open Source Software Exploration: How to be Productively Lost, the Open Source Way&amp;#8221;.
+The URL for the wiki release: http://teachingopensource.com/index.php/Textbook_Release_0.8
+We are already working on the 0.9 release. The work continues here: http://teachingopensource.com/index.php/Textbook_Roadmap
+My heartfelt thanks to my fellow contributors, who helped over the last weeks and months, and especially over the last few days: Karsten Wade, Max Spevack, Chris Tyler, Mel Chua, Jeff Sheltren, and Matt Jadud.</description>
+    </item>
+    
+    <item>
+      <title>This week in Pony-Build&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/this-week-in-pony-build/</link>
+      <pubDate>Fri, 26 Mar 2010 05:37:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/this-week-in-pony-build/</guid>
+      <description>During our last conference call we talked about where everybody was and what problems we were facing. Here are the notes from the last conversation.
+pony-build conference call notes / from, mar15, 2010; updated mar 22, 2010;****
+Khushboo:
+&amp;#8211; build-nose is still in a very old master that is incompatible with mine; could you copy just that file over to a clean checkout of my master, add/commit,
+push back to github, and let me know where?</description>
+    </item>
+    
+    <item>
+      <title>Pony-Build Spring Break Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/pony-build-spring-break-update/</link>
+      <pubDate>Sat, 13 Mar 2010 19:56:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/pony-build-spring-break-update/</guid>
+      <description>This Monday instead of our regular conference call over Skype, we decided to not to have a conference call. We did not have much to talk about. So we decided to take a break and just send our weekly updates in the mailing list. Here is the part of the email.
+Jack:
+“_I&amp;#8217;ve still been working on the parser for new build scripts, want to do a bit of cleanup on it tomorrow and then try integrating it into the pony-client script itself in the next few days.</description>
+    </item>
+    
+    <item>
+      <title>An Interesting Alternative</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/an-interesting-alternative/</link>
+      <pubDate>Sat, 13 Mar 2010 12:30:48 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/an-interesting-alternative/</guid>
+      <description>I posted a short note at Third Bit about the student projects that KSplice ran this winter. It&amp;#8217;s an interesting alternative to the UCOSP model; I&amp;#8217;m curious to hear what students think of it.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/mercurial-status-update/</link>
+      <pubDate>Sat, 13 Mar 2010 03:39:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/mercurial-status-update/</guid>
+      <description>This week in mercurial we all continued to make progress on our various bfiles features. I will let our This week in mercurial we all continued to make progress on our various bfiles features. I will let our speak for itself.
+In our meeting we discussed:
+ How Anton, Wendy and I will release auto* features to the mailing list: In three seperate patches, after we have verified that they work together and don&amp;#8217;t explode too badly when merged Alex discussed some of the details of how to implement hg serve Paul discussed how to approach bfilesify Benjamin will be on vacation next week, so we won&amp;#8217;t have a meet, but Benjamin expects to return to great progress on bfiles 🙂  The transcript of the meeting can be found here</description>
+    </item>
+    
+    <item>
+      <title>How This Program Has Grown</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/how-this-program-has-grown/</link>
+      <pubDate>Fri, 12 Mar 2010 11:17:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/how-this-program-has-grown/</guid>
+      <description>I did some stats on this program last night, and since we started in September 2008, 95 students have done projects with us (and 9 of those have taken part twice). 25% of participants have been women; the growth over time has been:
+[I did some stats on this program last night, and since we started in September 2008, 95 students have done projects with us (and 9 of those have taken part twice).</description>
+    </item>
+    
+    <item>
+      <title>Basie Status Summary</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/basie-status-summary/</link>
+      <pubDate>Wed, 10 Mar 2010 03:01:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/basie-status-summary/</guid>
+      <description>Well, Basie is back in full swing after a little dip from reading break and midterm season. After today&amp;#8217;s meeting it seems like everyone is on track for the 0.7 release.
+Here are the team&amp;#8217;s status reports for this week:
+Veronica
+Jackie
+Chad
+Nikita
+Chris
+Francois
+Guillaume
+Alex</description>
+    </item>
+    
+    <item>
+      <title>Final Dates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/final-dates/</link>
+      <pubDate>Thu, 04 Mar 2010 20:11:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/final-dates/</guid>
+      <description>The last dates on which work can be submitted for grading are:
+ Minnesota State University: April 30 Simon Fraser University: April 22 University of Alberta: April 12 University of British Columbia: April 15 University of Toronto: April 1 University of the Virgin Islands: April 30 University of Waterloo: April 5  </description>
+    </item>
+    
+    <item>
+      <title>RailsConf &amp;#039;10</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/railsconf-10/</link>
+      <pubDate>Thu, 04 Mar 2010 08:49:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/railsconf-10/</guid>
+      <description>For those who are interested, RailsConf &amp;#8217;10 has been announced. With the merge with Herb and the release of Rails 3 (now in beta), this year&amp;#8217;s RailsConf is going to be awesome. You can save $100 by registering before April. IN ADDITION to that, full time students can receive a 65% off discount using the promo code &amp;#8220;rc10fts&amp;#8221;.
+(I&amp;#8217;d love to be there this year, but I&amp;#8217;ll need to ask for permission from my employer.</description>
+    </item>
+    
+    <item>
+      <title>Summary of Greg&amp;#039;s PyCon Talk</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/summary-of-gregs-pycon-talk/</link>
+      <pubDate>Tue, 02 Mar 2010 14:20:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/summary-of-gregs-pycon-talk/</guid>
+      <description>I&amp;#8217;ve posted a summary of my PyCon talk that some of you may find interesting.</description>
+    </item>
+    
+    <item>
+      <title>François Fournier midterm update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/francois-fournier-midterm-update/</link>
+      <pubDate>Mon, 01 Mar 2010 19:02:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/francois-fournier-midterm-update/</guid>
+      <description>Hi everyone,
+this is my midterm report for Basie project.
+The first part of the project was to fix bugs to have a good representation for PyCon. Version 0.6 is now released and we can now work on 0.7 release.
+I&amp;#8217;m working with Guillaume Simard for 0.7, our goal is to add front-end test for the entire application. To do that, we will use Selenium. The setup to use Selenium is praticaly completed and we have 7 weeks left to write tests for every apps in Basie.</description>
+    </item>
+    
+    <item>
+      <title>Midterm Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/midterm-status-updates/</link>
+      <pubDate>Mon, 01 Mar 2010 15:06:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/midterm-status-updates/</guid>
+      <description>Please let me know if I missed yours. And if you haven&amp;#8217;t posted one yet, please do so.
+Mentors
+   Titus Brown   MichState   Pony-Build     Dwight Deugo   Carleton   IDE4Edu     Benjamin Pollack   Fog Creek   Mercurial     Karen Reid   Toronto   MarkUs     Matthew Vandenbussche   IBM   FlightSim     Greg Wilson   Toronto   Basie     Blake Winton   Mozilla   Thunderbird    Students</description>
+    </item>
+    
+    <item>
+      <title>Sylvain&amp;#039;s midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/sylvains-midway-update-2/</link>
+      <pubDate>Mon, 01 Mar 2010 05:22:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/sylvains-midway-update-2/</guid>
+      <description>Here is my midterm report for the Data Center Flight Simulator project.
+At first we were not sure about what we had to do and what IBM was waiting from us. Fortunately it became clearer by the end of the first week with the help of Matthew, from IBM.
+Since the beginning of this project we have mostly investigated how to detect and create saturations from different part of the system using the DB2 database.</description>
+    </item>
+    
+    <item>
+      <title>Kefu Zhao &amp;#8212; Midterm Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/kefu-zhao-midterm-update/</link>
+      <pubDate>Mon, 01 Mar 2010 00:56:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/kefu-zhao-midterm-update/</guid>
+      <description>My Goal and Expectation
+My work at Thunderbird is mainly to fix a bug regarding to the “Reply To List” feature. By working on this bug, I am expecting to get myself further exposed to real industrialized products based on my computing science knowledge gained from previous school and work experience.
+What I have done so far and What have I learned
+First of all, I have to say that my ability to analyze problems is greatly enhanced through working on Thunderbird, which is a complicated software comprising million lines of code.</description>
+    </item>
+    
+    <item>
+      <title>Jean&amp;#039;s Midway Update for FlightSim</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/jeans-midway-update-for-flightsim/</link>
+      <pubDate>Mon, 01 Mar 2010 00:45:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/jeans-midway-update-for-flightsim/</guid>
+      <description>Hi all,
+The first few weeks has been simply non-productive since we had to find a way to install everything on our machines. No useful documentation was available for us to make this quick so we had to tweak files to make everything works. What&amp;#8217;s nice about that is that now, documentation exists because we took the time to write some detailed tutorials for every OS (Windows/Linux/Mac). It&amp;#8217;s always nice of being able to work on his favorite OS and not having to reboot to do so.</description>
+    </item>
+    
+    <item>
+      <title>Fatima&amp;#039;s Midway Update (Pony-Build)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/fatimas-midway-update-pony-build/</link>
+      <pubDate>Sun, 28 Feb 2010 22:06:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/fatimas-midway-update-pony-build/</guid>
+      <description>Few months ago,when I first joined Pony-build, I was excited and eager to learn more about this project in particular and open-source in general. I knew my limited experience might make my progress slower than expected but I was determined to learn more no matter what.
+I couldn&amp;#8217;t join the UCOSP community for the &amp;#8220;Code Sprint&amp;#8221; in Canada; however, I started to communicate with the project lead Titus C. Brown and the rest of the group via Skype to make the initial system set ups.</description>
+    </item>
+    
+    <item>
+      <title>Midway Update- Khushboo Shakya</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/midway-update-khushboo-shakya/</link>
+      <pubDate>Sun, 28 Feb 2010 20:40:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/midway-update-khushboo-shakya/</guid>
+      <description>UCOSP has been an adventure for me. From the time I made my mind to participate in this program, I have had lot of different/ new experiences. Getting excited about attending the code sprint and then getting denied for the visa was the first one. For once, I thought I won’t be able to participate in UCOSP. But fortunately, I still could. With the help of Skype, we had a virtual code sprint for our group, Pony-Build.</description>
+    </item>
+    
+    <item>
+      <title>Guillaume&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/guillaumes-midway-update/</link>
+      <pubDate>Fri, 26 Feb 2010 21:05:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/guillaumes-midway-update/</guid>
+      <description>Hi everyone, this is my midway update.  Well.. technically this is my midway update. However, since I&amp;#8217;m a student at Université Laval we started our semester slightly later than the rest of Canada and it&amp;#8217;s going to be over by the end of April. I plan on working on Basie until the end of my term so that means that I still have more time in front of me to get things done.</description>
+    </item>
+    
+    <item>
+      <title>Paul’s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/paul%e2%80%99s-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 23:12:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/paul%e2%80%99s-midway-update/</guid>
+      <description>I&amp;#8217;m pretty happy with both my progress so far and the progress of our entire team (Mercurial). As Anton and Tessa have mentioned, we hit a bit of a slow period recently with bfiles but I think that&amp;#8217;s natural. We had an exceptionally productive first month and a bit (largely thanks to the code sprint!). Every person on our team contributed non-trivial extensions that tangibly increased the usability of Mercurial. I think that is something we should be very proud of.</description>
+    </item>
+    
+    <item>
+      <title>Zach&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/zachs-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 22:10:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/zachs-midway-update/</guid>
+      <description>I&amp;#8217;m definitely feeling better about working on projects with _huge_ codebases like Thunderbird. I&amp;#8217;m currently working on a patch to add a &amp;#8220;Reopen last tab&amp;#8221; button to Thunderbird. I&amp;#8217;m finally feeling like I know my way around Thunderbird&amp;#8217;s tab management code. I submitted a patch a couple weeks ago and got some feedback, and I&amp;#8217;ve done most of what the patch suggested. The only thing left to do before I submit my patch again is to figure out why the UI tests sometimes pass and sometimes fail on my computer (even without my patch applied!</description>
+    </item>
+    
+    <item>
+      <title>Tim&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/tims-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 21:05:33 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/tims-midway-update/</guid>
+      <description>This semester has not been as productive as I would have liked. I set out to fix a single bug in Thunderbird that I thought would be cool to do. Before I left code sprint I found I had to fix another bug first to add support to fix the original. Doing so would put my code in the base Mozilla library, which was used for Firefox also, so I thought this was exceptionally cool.</description>
+    </item>
+    
+    <item>
+      <title>Alex&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/alexs-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 19:02:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/alexs-midway-update/</guid>
+      <description>Working on Basie has been a great learning experience. There are always plenty of things to work on and learn from. The people are also great, I feel privileged to be able to work with a group of students who are so hard working and care so much about the project.
+Like any project the ramp up time is the most painful. I feel that the ramp up time for Basie has been longer than I had hoped.</description>
+    </item>
+    
+    <item>
+      <title>Tessa&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/tessas-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 00:15:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/tessas-midway-update/</guid>
+      <description>In General, I feel that I started the term out well, but I am presently falling behind my expectations, the “midterm slump” as Benjamin calls it. Within the first few weeks of the term had I submitted my bug fix to the Mercurial mailing list. I hoped that each week I would have completed some tangible amount of coding, whether it be implementing a small bit of functionality or fixing a bug in last week’s work.</description>
+    </item>
+    
+    <item>
+      <title>Data server flight simulator meeting minutes Feb 23</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/data-server-flight-simulator-meeting-minutes-feb-23/</link>
+      <pubDate>Wed, 24 Feb 2010 08:33:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/data-server-flight-simulator-meeting-minutes-feb-23/</guid>
+      <description>Time:
+Feb 23, 2010 1pm EST
+Attendance
+Diane, Michael, Lenny, Matthew, Sylvain, Godfrey
+Absence:
+Jean
+General Update
+ Diane’s code is ready in her branch, instructions here http://dianetam.com/dev/blog/2010/02/22/flightsim-ui-status-report-week-of-feb-22nd/ Input definition finished, ready for use, Ticket 2949836 Conference information Tuesday: Skype only Thursday: by phone: Conference ID: 4450146 Local Dial-in number: 416-343-2610 Toll-free Dial-in number: 1 866-251-2605 International Toll-free Dial-in number: 800-4444-9000  What we did
+Matthew:
+ Server shipped to UofT  Lenny&amp;amp; Diane</description>
+    </item>
+    
+    <item>
+      <title>Anthony&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/anthonys-midway-update/</link>
+      <pubDate>Wed, 24 Feb 2010 06:15:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/anthonys-midway-update/</guid>
+      <description>Ingres support for Geotools has been progressing well. However, although we are already half way thru the term, we still have quite a ways to go, so we are beginning to pick up the pace a bit.
+Comments and Observations:
+&amp;#8211; It seems like there is a lot of overhead and learning compared to the actually size of the code being developed. This has been a great learning opportunity, although it seems like given the learning curve, it would have been more effective if this project was longer than just one term.</description>
+    </item>
+    
+    <item>
+      <title>Ingres/Geotools Lim&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 20:22:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/ingresgeotools-lims-midway-update/</guid>
+      <description>The Ingres/Geotools team finally began work on actual implementation of classes and unit tests for the classes in Geotools at this halfway point. I personally feel that we are falling a little bit behind schedule, not beyond managable. We took our time in the initial phase afraid of making mistakes that compromises the quality of the output. The Ingres/Geotools team has have a lot to explore in the geospatial world as a toddler would have the world.</description>
+    </item>
+    
+    <item>
+      <title>Max&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/maxs-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 19:58:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/maxs-midway-update/</guid>
+      <description>Here is where you can find my thoughts on all this UCOSP and pony-build stuff so far.</description>
+    </item>
+    
+    <item>
+      <title>Indentation&amp;#8230;.Serious Business</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/indentation-serious-business/</link>
+      <pubDate>Sun, 21 Feb 2010 17:38:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/indentation-serious-business/</guid>
+      <description>The pony-build team just had our weekly meeting the other night and the following is what people have been working on:
+1) Jack has been working on some command line stuff. You can follow his thread here, for descriptions of his changes as well as what he is planning to tackle next.
+2) Fatima has been working on getting her coverage build script finished up and working, as well as refining the HgClone implementation in the pony-build client.</description>
+    </item>
+    
+    <item>
+      <title>Greg at PyCon</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/greg-at-pycon/</link>
+      <pubDate>Sun, 21 Feb 2010 14:42:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/greg-at-pycon/</guid>
+      <description>I&amp;#8217;m on my way home from the 2010 Python Conference in Atlanta, and have written two blog posts: one about my experiences in general, and the other about feedback I got on Basie. Long story short, they think that you kids rock, and I think a lot of them will want to be involved if we do this again in the fall. Thank you all for making me look so good&amp;#8212;I&amp;#8217;m proud to be working with you.</description>
+    </item>
+    
+    <item>
+      <title>What Should Greg Say At PyCon?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/what-should-greg-say-at-pycon/</link>
+      <pubDate>Mon, 15 Feb 2010 21:28:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/what-should-greg-say-at-pycon/</guid>
+      <description>I&amp;#8217;m speaking at PyCon on Saturday. The blurb I sent in says:
+ What We&amp;#8217;ve Learned From Building Basie
+Since September 2008, teams of undergraduates from half a dozen different universities have been building a Django-based replacement for Trac called Basie. This talk will present what they&amp;#8217;ve accomplished and discuss what we&amp;#8217;ve learned about getting junior developers who are juggling half a dozen projects at once to build production-quality code.</description>
+    </item>
+    
+    <item>
+      <title>We Got a Mention on Joel&amp;#039;s PodCast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/we-got-a-mention-on-joels-podcast/</link>
+      <pubDate>Mon, 15 Feb 2010 20:32:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/we-got-a-mention-on-joels-podcast/</guid>
+      <description>Thanks to a leading question from Pierre Lafayette, Joel Spolsky mentioned us in a recent postcast &amp;#8212; you can listen to the whole thing at http://itc.conversationsnetwork.org/shows/detail4403.html (around the 40-minute mark). Yay us! But I do have to correct one thing: in response to Pierre pointing out that $2000 is a bit pricey for most undergrads, Joel says, &amp;#8220;Just ask your university library to get it for you.&amp;#8221; In reality, university library budgets are being slashed left, right, and center; asking them to get anything that isn&amp;#8217;t obviously scholarly isn&amp;#8217;t going to go anywhere 🙁</description>
+    </item>
+    
+    <item>
+      <title>Pony-Build Awesomeness</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/pony-build-awesomeness/</link>
+      <pubDate>Sat, 13 Feb 2010 20:35:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/pony-build-awesomeness/</guid>
+      <description>During our last meeting past Monday, we discussed where everybody was and what they were doing. We also solved some problems during the conversation. This is what everyone is doing so far.
+Max is working on virtual environment and git clone.
+Fatima is working on build-coverage and hgClone.
+Jacob is working on improving the user interface.
+Khushboo is working on build-nose and svn.
+Fatima and I are still having some problems getting the builds running.</description>
+    </item>
+    
+    <item>
+      <title>Report week 01-25-10 to 01-30-10</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/report-week-01-25-10-to-01-30-10/</link>
+      <pubDate>Sat, 06 Feb 2010 16:49:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/report-week-01-25-10-to-01-30-10/</guid>
+      <description>  This week I checked the documentation where ingres is testing the SEP test cases. Also, I went to this specific files src/tst but i am still not clear of how this files are working with Ingres, hope today meeting 01-02-10 I can get some answers from Ingres community..  </description>
+    </item>
+    
+    <item>
+      <title>People You Don&amp;#039;t Want On Your Team</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/people-you-dont-want-on-your-team/</link>
+      <pubDate>Tue, 02 Feb 2010 13:11:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/people-you-dont-want-on-your-team/</guid>
+      <description>We&amp;#8217;ve all met them, and from time to time, we&amp;#8217;ve all been one of them&amp;#8230;
+Anna knows more about every subject than everyone else on the team put together&amp;#8212;at least, she thinks she does. No matter what you say, she&amp;#8217;ll correct you; no matter what you know, she knows better. Annas are pretty easy to spot: if you keep track in team meetings of how often people interrupt one another, her score is usually higher than everyone else&amp;#8217;s put together.</description>
+    </item>
+    
+    <item>
+      <title>GSoC 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/gsoc-2010/</link>
+      <pubDate>Wed, 27 Jan 2010 18:44:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/gsoc-2010/</guid>
+      <description>Our project, Mercurial, already announced their participation in Google&amp;#8217;s Summer of Code 2010 via the developer mailing list. I suspect many other projects are doing the same, so even though there&amp;#8217;s no official information on Google&amp;#8217;s own SoC page (yet), you might want to consider preparing your application. If you&amp;#8217;ve enjoyed UCOSP so far and want to continue the experience, GSoC looks like a great avenue to do so.</description>
+    </item>
+    
+    <item>
+      <title>Data server flight simulator meeting minutes Jan 26</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/data-server-flight-simulator-meeting-minutes-jan-26/</link>
+      <pubDate>Tue, 26 Jan 2010 18:45:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/data-server-flight-simulator-meeting-minutes-jan-26/</guid>
+      <description>Time:
+Jan 26, 2010 1pm EST
+Attendance
+Lenny, Jean , Godfrey, Diane, Sylvain, Matthew, Brian
+Absence:
+Michael
+General Update
+ Conference information  Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+International Toll-free Dial-in number: 800-4444-9000
+ Road blocker for WMD removed for 2 additional machines , Ticket 2933844  What we did
+Matthew:
+ Getting server setup &amp;#8211; currently working with the IBM IT department, Ticket 2935130  Michael (Absent):</description>
+    </item>
+    
+    <item>
+      <title>Getting up to speed with Pony-Build</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/getting-up-to-speed-with-pony-build/</link>
+      <pubDate>Mon, 25 Jan 2010 06:20:57 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/getting-up-to-speed-with-pony-build/</guid>
+      <description>Since we couldn’t all meet for the Sprint code in Toronto, the first steps into pony-build were to get to speed with the software layout and with working with Git. We were constantly communicating via Skype and our group lead Pr. Titus was very patient and helpful throughout the process.
+We first got the software running on Linux via Lyorn then on our own computer (on Windows and Mac). Then our next task was to write one of the client scripts for existing packages, commit it, and push it to Github.</description>
+    </item>
+    
+    <item>
+      <title>karma&#43;&#43;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/karmapp/</link>
+      <pubDate>Fri, 22 Jan 2010 01:14:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/karmapp/</guid>
+      <description>Spent two days out of commission this week after a botched attempt to improve the performance of my integrated Intel 945 chipset ended up freezing gdm on startup. Oops. Several failed attempts to rectify the fault by rolling back xorg.conf (this was not the problem, apparently), one careful repartitioning, a hasty install of Karmic, and countless apt-gets later, I&amp;#8217;m back in action. I note happily that the Karmic repos bundle mercurial 1.</description>
+    </item>
+    
+    <item>
+      <title>A Few Numbers to Play With</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/a-few-numbers-to-play-with/</link>
+      <pubDate>Wed, 20 Jan 2010 02:02:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/a-few-numbers-to-play-with/</guid>
+      <description>They say you can&amp;#8217;t manage what you don&amp;#8217;t measure. It&amp;#8217;s equally true of design: if you don&amp;#8217;t know who you&amp;#8217;re designing for, the odds are you&amp;#8217;re going to get something wrong. With that in mind, here are some stats from two universities on browser types:
+  School #1 CS department     Firefox   45.9%     IE   38.85%     Chrome   9.</description>
+    </item>
+    
+    <item>
+      <title>How Big Is Open Source</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/how-big-is-open-source/</link>
+      <pubDate>Mon, 18 Jan 2010 18:19:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/how-big-is-open-source/</guid>
+      <description>Amit Deshpande and Dirk Riehle think they have an answer.</description>
+    </item>
+    
+    <item>
+      <title>Introduction Tessa Starkey</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/introduction-tessa-starkey/</link>
+      <pubDate>Sun, 17 Jan 2010 18:28:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/introduction-tessa-starkey/</guid>
+      <description>I&amp;#8217;ve already met many of you in person, but I guess I should a bit about myself here too.
+I&amp;#8217;m in my final term of my computer science degree at University of Waterloo and I&amp;#8217;m working on Mercurial this term.
+At my last co-op job, I was feeling disheartened because the project I was working wouldn&amp;#8217;t have any impact on anything anyone would ever actually use. So, when I heard about UCOSP I was excited about the possibility of working on something real and useful for a change.</description>
+    </item>
+    
+    <item>
+      <title>Pushing beyond the limits &amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/2030/</link>
+      <pubDate>Sat, 16 Jan 2010 23:03:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/2030/</guid>
+      <description>C. Titus Brown wrote (on email, but I&amp;#8217;m transferring the discussion to the blog):
+ http://railstips.org/blog/archives/2010/01/12/i-have-no-talent/
+No, not my blog &amp;#8212; I&amp;#8217;m not that modest &amp;#8212; but good words nonetheless :).
+ And the post he cited included the lines:
+ The kind of practice where all of a sudden I realize that it is 2am and I’m exhausted physically so I should go to bed, but mentally I feel on fire so I let the code have me for another hour or two (I imagine this state to be like a marathon runner or ironman near the end of their race).</description>
+    </item>
+    
+    <item>
+      <title>Code Sprinting with MarkUs: Day 2</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/code-sprinting-with-markus-day-2/</link>
+      <pubDate>Sat, 16 Jan 2010 20:37:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/code-sprinting-with-markus-day-2/</guid>
+      <description>It&amp;#8217;s been a productive day for the MarkUs team. We had a meeting this morning to discuss our plans for the semester. Also, review requests have already started to come in! We&amp;#8217;re ready for a great semester!</description>
+    </item>
+    
+    <item>
+      <title>Note for SFU students taking CMPT 376 W</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/note-for-sfu-students-taking-cmpt-376-w/</link>
+      <pubDate>Thu, 14 Jan 2010 01:22:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/note-for-sfu-students-taking-cmpt-376-w/</guid>
+      <description>This message is for SFU students who are both in UCOSP and CMPT 376 W. Given that I&amp;#8217;m your instructor for both UCOSP and 376, I know there&amp;#8217;s a schedule conflict between the code sprint this weekend and Assignment 1 for 376, due Monday. I&amp;#8217;ll extend the A1 deadline for 376 students also participating in the code sprint: You have until Wednesday Jan 20 to turn in Assignment 1. That way you can focus single-mindedly on the sprint.</description>
+    </item>
+    
+    <item>
+      <title>Khushboo Shakya</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/khushboo-shakya/</link>
+      <pubDate>Wed, 06 Jan 2010 21:21:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/khushboo-shakya/</guid>
+      <description>Hello! My name is Khushboo Shakya and I am from Minnesota State University majoring in Software Engineering with a minor in Mathematics. I will be working with the Pony-Build team. I am pretty much a newbie! I have worked on small group projects for school and few outside school but not a huge one like this. So I am utterly nervous but excited at the same time to work on this project.</description>
+    </item>
+    
+    <item>
+      <title>Godfrey Chan</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/godfrey-chan/</link>
+      <pubDate>Tue, 05 Jan 2010 09:18:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/godfrey-chan/</guid>
+      <description>Hello guys! As you can see in the picture, I just returned from a ski trip which explained the lateness of this post, but finally, here it is!
+I&amp;#8217;m a third year CS student at SFU, with a concentration in computer systems and a minor in cognitive science. My programming experience began in the early 2000s when I first learned to create webpages with HTML and eventually dynamic websites with PHP and MySQL.</description>
+    </item>
+    
+    <item>
+      <title>Michael Man</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/michael-man/</link>
+      <pubDate>Tue, 05 Jan 2010 00:04:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/michael-man/</guid>
+      <description>Michael(Tong) Man
+Institution: Simon Fraser Unversity
+Email: mantong01@gmail.com
+I&amp;#8217;m a 4th year computer science student at SFU. The UCOSP&amp;#8217;s idea of working with a distributed team on an open source project has always been the experience I&amp;#8217;m looking for. I will be working on the DB2 Technology Explorer project in the Spring 2010 semester. I&amp;#8217;m looking forward to meeting my team mates and getting it started!</description>
+    </item>
+    
+    <item>
+      <title>Managing student expectations</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/managing-student-expectations/</link>
+      <pubDate>Sat, 02 Jan 2010 20:57:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/managing-student-expectations/</guid>
+      <description>Over at the pony-build wiki I&amp;#8217;ve started a page that outlines my expectations for students participating in the pony-build UCOSP project this term. These aren&amp;#8217;t set in stone &amp;#8212; I&amp;#8217;d appreciate comments, thoughts, links, etc.</description>
+    </item>
+    
+    <item>
+      <title>Alexandru Totolici</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</link>
+      <pubDate>Thu, 31 Dec 2009 13:37:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</guid>
+      <description>Hi, I&amp;#8217;m Alexandru Totolici. I hail from UBC, starting the 6th winter term of my Bachelor of Science program (majoring in Computer Science). I&amp;#8217;ll be working on Mercurial. I&amp;#8217;ve been fortunate enough to work with some great people during co-ops at WebCT (now Blackboard), MDA, Safe Software, and Kodak, as well as during my time with UBC&amp;#8217;s Office of Learning Technology. I&amp;#8217;ve touched on QA, GUI, server API testing, backend tool development, WordPress and MediaWiki plugin development, and I&amp;#8217;ve done it in everything from Bash to C#.</description>
+    </item>
+    
+    <item>
+      <title>Running Meetings</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/running-meetings/</link>
+      <pubDate>Wed, 30 Dec 2009 14:06:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/running-meetings/</guid>
+      <description>Want to know how Google runs meetings? It&amp;#8217;s one of the half-dozen skills every professional programmer (actually, every professional of any kind) needs to master.</description>
+    </item>
+    
+    <item>
+      <title>Some notes on &amp;quot;continuous integration&amp;quot;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/some-notes-on-continuous-integration/</link>
+      <pubDate>Wed, 23 Dec 2009 18:44:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/some-notes-on-continuous-integration/</guid>
+      <description>Hi all,
+a while ago, Greg asked me to post something about why &amp;#8220;continuous integration&amp;#8221; was important and useful and awesome and absolutely critical and &amp;#8230; whatever else. I finally wrote that up and I am interested in your thoughts.
+Note that the pony-build project (available this term!! as a UCOSP project!) is meant to address some of the deficiencies in the current CI options for (especially, but not limited to) Python projects.</description>
+    </item>
+    
+    <item>
+      <title>Thirty Six</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/thirty-six/</link>
+      <pubDate>Mon, 21 Dec 2009 14:24:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/thirty-six/</guid>
+      <description>We now have thirty-six students lined up for the Winter (see the Projects page for where they&amp;#8217;re from and what they&amp;#8217;re working on). We&amp;#8217;re also very pleased that Ingres and the Jonah Group have joined IBM, Fog Creek, and Cybera in sponsoring the program.</description>
+    </item>
+    
+    <item>
+      <title>Zach Church</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/zach-church/</link>
+      <pubDate>Sun, 20 Dec 2009 14:38:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/zach-church/</guid>
+      <description>Hi,  My name is Zach, and I&amp;#8217;m a second-year Computer Science student at Michigan State. I&amp;#8217;ll be working with the Thunderbird team this semester. I have experience with C, C++, Ruby, Python, and Javascript. I&amp;#8217;ve worked on several web applications, but haven&amp;#8217;t done much with desktop applications yet, so I&amp;#8217;m excited to work on Thunderbird!
+See you in Toronto!
+Zach</description>
+    </item>
+    
+    <item>
+      <title>Lenny Han</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/lenny-han/</link>
+      <pubDate>Sat, 19 Dec 2009 11:06:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/lenny-han/</guid>
+      <description>Hi everyone,
+my name is Lenny Han. I&amp;#8217;m a fourth year Computer Science student at the University of Toronto. I&amp;#8217;ve worked with Professor Greg Wilson and Diane Horton on several capstone projects in the last two years. In these projects, I dealt with a variety of topics, from Eclipse plugin development, algorithm design, to browser-based application. My main interests are Software Engineering and Computer Graphics. Recently, I&amp;#8217;m thinking of exploring in computer game design and development, since I find a passion in this area.</description>
+    </item>
+    
+    <item>
+      <title>How to avoid FAIL</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/how-to-avoid-fail/</link>
+      <pubDate>Fri, 18 Dec 2009 19:33:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/how-to-avoid-fail/</guid>
+      <description>Spurred by some of the MSU students&amp;#8217; experiences this term, here are some thoughts on how to manage expectations on team projects: be aggressively competent.</description>
+    </item>
+    
+    <item>
+      <title>Two and Two</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/two-and-two/</link>
+      <pubDate>Tue, 15 Dec 2009 02:07:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/two-and-two/</guid>
+      <description>The University of the Virgin Islands and Michigan State University have each added two students to next term&amp;#8217;s roster, bringing our total to 34. The Ingres, Mercurial, and Thunderbird projects are now fully staffed, but we&amp;#8217;re still accepting members for the others.</description>
+    </item>
+    
+    <item>
+      <title>Lineups for Next Term</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/lineups-for-next-term/</link>
+      <pubDate>Fri, 11 Dec 2009 01:19:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/lineups-for-next-term/</guid>
+      <description>We&amp;#8217;re still waiting for several schools to report in, but I&amp;#8217;ve started to update the roster for next term on the Projects page&amp;#8212;it now shows how many students from where are working on what.</description>
+    </item>
+    
+    <item>
+      <title>Two From Alberta</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/two-from-alberta/</link>
+      <pubDate>Thu, 10 Dec 2009 01:22:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/two-from-alberta/</guid>
+      <description>Two students from the University of Alberta have now signed up, bringing our total to 30. Keep &amp;#8217;em coming!</description>
+    </item>
+    
+    <item>
+      <title>Why Isn&amp;#039;t My School Listed?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/why-isnt-my-school-listed/</link>
+      <pubDate>Sun, 06 Dec 2009 23:45:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/why-isnt-my-school-listed/</guid>
+      <description>A couple of people have emailed to ask why their university isn&amp;#8217;t included in the list of who&amp;#8217;s taking part in Winter 2010. The answer is that we haven&amp;#8217;t been able to find a faculty member willing to anchor things there, or that no students have stepped forward (usually because they&amp;#8217;re already in year-long capstone projects). All hope is not yet lost, though: we&amp;#8217;d be happy to hear from anyone who&amp;#8217;d like to join us, even at this late date.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse 4 Edu Screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/eclipse-4-edu-screencast/</link>
+      <pubDate>Sat, 05 Dec 2009 05:55:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/eclipse-4-edu-screencast/</guid>
+      <description>Here is our screen cast of our Scheme 4 Edu. This is what we worked on for the semester. Hope you like it!</description>
+    </item>
+    
+    <item>
+      <title>Six from UBC</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/six-from-ubc/</link>
+      <pubDate>Fri, 04 Dec 2009 14:31:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/six-from-ubc/</guid>
+      <description>Six students from UBC came on board last night &amp;#8212; total is now 26 (but only 18.5% women, down from 28.5% this term). Still hoping to hear from UVic, Alberta, Ottawa, Carleton, Queen&amp;#8217;s, McGill, Laval, Sherbrooke, Memorial, MSU, and UVI.</description>
+    </item>
+    
+    <item>
+      <title>Waterloo Is Reporting In</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/waterloo-is-reporting-in/</link>
+      <pubDate>Thu, 03 Dec 2009 15:58:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/waterloo-is-reporting-in/</guid>
+      <description>Half a dozen students from the University of Waterloo have now sent us their project preferences for next term&amp;#8212;looks like it&amp;#8217;s going to be busy 🙂</description>
+    </item>
+    
+    <item>
+      <title>Last but not least (I hope)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/last-but-not-leas/</link>
+      <pubDate>Wed, 02 Dec 2009 10:54:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/last-but-not-leas/</guid>
+      <description>I&amp;#8217;m not the first to say I learned a lot in this course, which was the point. The most obvious thing I learned was that group projects aren&amp;#8217;t what I expected. Believe it or not, this is my first real group project for school. Working in a team with meetings and dividing up the work according to who volunteers, and trying to figure out other people&amp;#8217;s aptitudes and parse their code and figure out what check-in comments were referring to was an experience.</description>
+    </item>
+    
+    <item>
+      <title>People Can&amp;#039;t Read What You Don&amp;#039;t Write</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/people-cant-read-what-you-dont-write/</link>
+      <pubDate>Tue, 01 Dec 2009 20:54:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/people-cant-read-what-you-dont-write/</guid>
+      <description>Another good post from David Humphrey, which he himself neatly summarizes: &amp;#8220;When you do a search, and it comes back with no results, it’s a sign that you need to write something.&amp;#8221;</description>
+    </item>
+    
+    <item>
+      <title>Real programmers</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/real-programmers/</link>
+      <pubDate>Tue, 01 Dec 2009 18:45:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/real-programmers/</guid>
+      <description>I found an amusing story that I wanted to share (requires some basic low-level computing knowledge)
+http://www.pbm.com/~lindahl/mel.html</description>
+    </item>
+    
+    <item>
+      <title>Fifteen!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/fifteen/</link>
+      <pubDate>Mon, 30 Nov 2009 18:42:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/fifteen/</guid>
+      <description>We now have 15 students signed up to do UCOSP projects next term. There&amp;#8217;s plenty of room for more&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>The Good, the Bad and the Ugly (Minus the Ugly)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/the-good-the-bad-and-the-ugly-minus-the-ugly/</link>
+      <pubDate>Mon, 30 Nov 2009 16:08:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/the-good-the-bad-and-the-ugly-minus-the-ugly/</guid>
+      <description>The Good:
+It was nice to learn how people are using tools like FriendFeed to interact directly with their end-users. I know there are a lot of solutions to that specific problem, but my experience with large scale work in the past had only ever been internal projects.
+The Bad:
+Lack of direction. I understand that this wasn&amp;#8217;t really a problem for a lot of the projects, but I feel that ours suffered it in spades.</description>
+    </item>
+    
+    <item>
+      <title>One Good, One Bad</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/one-good-one-bad/</link>
+      <pubDate>Mon, 30 Nov 2009 06:19:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/one-good-one-bad/</guid>
+      <description>Good
+The code sprint. Hands down the most fun part of the course for me (as it was last year), I enjoyed meeting the smart people who make up the Basie team and solving a few key design problems. The Basie team came from all over, and it was a blast.
+The Bad
+Remote, remote, remote. I know that this business &amp;#8220;can be done from anywhere&amp;#8221;, but it&amp;#8217;s just not the same IMO.</description>
+    </item>
+    
+    <item>
+      <title>One up, one down</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/one-up-one-down/</link>
+      <pubDate>Mon, 30 Nov 2009 05:57:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/one-up-one-down/</guid>
+      <description>Whups, it appears I missed the original email on doing this writing assignment&amp;#8211;apologies for it being a bit late!
+I&amp;#8217;ll start with my thoughts on the positives for this course first. I really feel I&amp;#8217;ve learned a great deal about working with a distance group on a software project&amp;#8211;something normal CS coursework doesn&amp;#8217;t really prepare one for (and even precious little time is spent in the courses I&amp;#8217;ve taken on working with more or less random groups as well).</description>
+    </item>
+    
+    <item>
+      <title>for what it&amp;#039;s worth: my two cents</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/for-what-its-worth-my-two-cents/</link>
+      <pubDate>Sun, 29 Nov 2009 06:30:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/for-what-its-worth-my-two-cents/</guid>
+      <description>The good cent:
+I would definitely say that the best part of my UCOSP experience has been my project &amp;#8220;mentor&amp;#8221;, Blake Winton. I&amp;#8217;m not sure how he put up with my incessant IRC messages at all times of the day Sunday through Saturday. I learned a lot about Mercurial and distributed version control from him, and he was always so chill that I couldn&amp;#8217;t help but want to work on the ISPDB.</description>
+    </item>
+    
+    <item>
+      <title>post mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-7/</link>
+      <pubDate>Sun, 29 Nov 2009 04:39:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-7/</guid>
+      <description>Thumbs up: first of all, know a lot of new friends:) this is most valuable. Second, learn how to cooperation with each other, even we are far away from each other. We use IRC to hold and log team meeting, wiki page to schedule and record our process, bugzilla to keep track of everything. Those tools contribute a lot to the final success of the project. For the technical aspect, I learn the new language flex and use it to create the UI and animation for the front end.</description>
+    </item>
+    
+    <item>
+      <title>Up and Down</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/up-and-down-2/</link>
+      <pubDate>Sat, 28 Nov 2009 19:20:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/up-and-down-2/</guid>
+      <description>Up: One of the best parts for me was learning what a great thing constructive criticism is. I practically look forward to a denied patch because of the amount of feedback and the opportunity for improvement. This was refreshing after just getting a discouragingly low mark.
+Down: The delay of email sometimes causes all progress to halt because I just didn&amp;#8217;t know how to proceed. This would cause breaks and dry spells, something I found tough to deal with.</description>
+    </item>
+    
+    <item>
+      <title>post mortem (ie. &#43;&#43;&amp;amp;death)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-ie-death/</link>
+      <pubDate>Sat, 28 Nov 2009 08:39:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-ie-death/</guid>
+      <description>The Good: I, for one, really loved the grad school talk, I think that it was very insightful and I&amp;#8217;m really glad that we got the opportunity to attend it.
+The Bad: Can&amp;#8217;t do pair programming when team members are 500km away 🙁 This might be a personal preference but I&amp;#8217;m a huge fan of pair programming, I find development a lot smoother and it&amp;#8217;s also easy to stay motivated and on track.</description>
+    </item>
+    
+    <item>
+      <title>post mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-4/</link>
+      <pubDate>Sat, 28 Nov 2009 06:39:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-4/</guid>
+      <description>Thumbs up: Mozilla&amp;#8217;s strict coding standards and having to submit patches and get our code reviewed was very beneficial. It forces you to pay attention to details and you learn a lot more compared to projects that you hack together last minute and hand in whatever works 🙂
+Thumbs down: The tasks our team worked on were pretty individual and so there wasn&amp;#8217;t much collaboration between us.</description>
+    </item>
+    
+    <item>
+      <title>post mortem a.k.a. cacoethes scribendi ;)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-a-k-a-cacoethes-scribendi/</link>
+      <pubDate>Sat, 28 Nov 2009 02:29:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-a-k-a-cacoethes-scribendi/</guid>
+      <description>[disclaimer: my own opinion, others might not think the same]
+The good: the course itself, was a great experience. I think the most valuable thing is that it made me see the challenges software teams face in the real world and why those challenges can&amp;#8217;t be resolved easily sometimes. In addition, I got a chance to work on a great project, and this is the reason I took this course in the first place.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on RoboCup</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts-on-robocup/</link>
+      <pubDate>Thu, 26 Nov 2009 03:12:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts-on-robocup/</guid>
+      <description>I worked on RoboCup and I have to say it didn&amp;#8217;t turn out to be what I expected in the beginning. But I really enjoyed it despite the problems we had (just like any other team this term).
+There isn&amp;#8217;t a whole lot of bad things I can say about the csc494 experience. We pretty much lost that month before the Code Sprint because we couldn&amp;#8217;t get an access to the repository.</description>
+    </item>
+    
+    <item>
+      <title>Post Mortem: From a little doubful to I enjoyed doing this, like Bungy Jumping</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-from-a-little-doubful-to-i-enjoyed-doing-this-like-bungy-jumping/</link>
+      <pubDate>Wed, 25 Nov 2009 09:37:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-from-a-little-doubful-to-i-enjoyed-doing-this-like-bungy-jumping/</guid>
+      <description>Thumbs up: Learning skills and applying them to complete daily project tasks. Like the old saying goes, its like killing two birds with one stone, learning all these new technical/non technical skills that will look pretty good in a resume and completing a great project and getting credits for it, hence making progress in terms of school credits. This was a very rewarding experience, with a great team, if it was not for other school commitments I would do it again</description>
+    </item>
+    
+    <item>
+      <title>Did somebody say post-mortem?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/did-somebody-say-post-mortem/</link>
+      <pubDate>Wed, 25 Nov 2009 06:13:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/did-somebody-say-post-mortem/</guid>
+      <description>Can&amp;#8217;t believe this is coming to an end already. I&amp;#8217;ve read it before, but let it be the best experience of my undergraduate career too. 🙂
+Con : Setting-up
+Maybe it&amp;#8217;s just about me (but I don&amp;#8217;t think so), and I know that MarkUs was, by far, not the worst project for that concern, but I didn&amp;#8217;t enjoy the set-up time. One could argue that I never do. One would be right.</description>
+    </item>
+    
+    <item>
+      <title>Post-mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-2/</link>
+      <pubDate>Wed, 25 Nov 2009 05:19:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem-2/</guid>
+      <description>Thumbs up: Great experience working as part of a geographically dispersed team. In all my co-op terms, I&amp;#8217;ve always worked in an office where I could talk to people face-to-face. Now that my experience has broadened, I expect to be a better team player on future software development projects.
+Thumbs down: Sporadic time commitments. As a student with 4 other courses, contributing 8-10 hours a week means working sporadically throughout the week when time permits for 1-3 hour chunks at a time.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts/</link>
+      <pubDate>Wed, 25 Nov 2009 04:13:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thoughts/</guid>
+      <description>Being a part of the Robocup UCOSP project has been an interesting experience.
+First, I&amp;#8217;ll discusses some of the issues with this project. It&amp;#8217;s not actually an open source project, and it&amp;#8217;s not really under development by anyone other then my group members. This is an issue because we didn&amp;#8217;t really get to experience that side of an open source project (ie. being part of a larger picture and lending a hand).</description>
+    </item>
+    
+    <item>
+      <title>Some final thoughts&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/some-final-thoughts/</link>
+      <pubDate>Tue, 24 Nov 2009 22:38:10 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/some-final-thoughts/</guid>
+      <description>I have really enjoyed working on MarkUs this semester!
+One of the things I liked the best was that our TA and one of the students on our team had both already worked on our project before and they knew both MarkUs and Ruby on Rails inside and out. I think that everyone on the team benefited from their past experiences and it was great to be able to get advice from them and ask them questions throughout the semester.</description>
+    </item>
+    
+    <item>
+      <title>Post-mortem</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem/</link>
+      <pubDate>Tue, 24 Nov 2009 20:19:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/post-mortem/</guid>
+      <description>I think that this course was a great way to finish off my undergraduate computer science career. I am working on the MarkUs project.
+One of the things that I really like about MarkUs is that we have students working on developing a system that students will use to submit assignments. I really wish that we could use a similar methodology to develop a new course registration system (similar to the functionality that PeopleSoft&amp;#8217;s QUEST currently provides for us) and an online course system (similar to ANGEL or WebCT).</description>
+    </item>
+    
+    <item>
+      <title>good and the bad</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/good-and-the-bad/</link>
+      <pubDate>Tue, 24 Nov 2009 19:29:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/good-and-the-bad/</guid>
+      <description>Overall I really enjoyed this course. The one bad thing is that a lot was opened ended. This can be a good thing, however I things like have 2 deliverable dates throughout the semester so we know what we have to accomplish by these dates. Also, making code reviews a requirement and having to turn in a list of goals to accomplish by the end of the code sprint instead of half way through the semester.</description>
+    </item>
+    
+    <item>
+      <title>Bads and Goods</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/bads-and-goods/</link>
+      <pubDate>Tue, 24 Nov 2009 18:41:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/bads-and-goods/</guid>
+      <description>I guess since everyone else started with the goods and finished with the bads. I&amp;#8217;ll go in reverse, leave a better taste in your mouth.
+I definitely disliked the fact that I was the only one not in the Eastern time zone, it made it hard for us to get together(virtually). I also found it difficult to chat with the team. By the time I was finished my classes, it was already way late in the Eastern area.</description>
+    </item>
+    
+    <item>
+      <title>Up and down</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/up-and-down/</link>
+      <pubDate>Tue, 24 Nov 2009 17:02:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/up-and-down/</guid>
+      <description>Up : The great start we had during the code sprint. Wayne Beaton and Dwight Deugo took their time to travel to Toronto and to explain us some really useful concepts and tools. Without them, the team would have started later.
+Down : The lack of review from our supervisors. I know that they have a lot to do and that they can&amp;#8217;t hold our hands, but it would have been nice to know if our last submit was good/ok/bad and the reason why they think so.</description>
+    </item>
+    
+    <item>
+      <title>Yay! and nay</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/yay-and-nay/</link>
+      <pubDate>Tue, 24 Nov 2009 16:26:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/yay-and-nay/</guid>
+      <description>Thumbs up: I think code reviews really helped keep everyone on track and to maintain high standards. Mike did a great job reading and commenting on the reviews. It turned out to be a good form of communication between meetings.
+Thumbs not so up: As a supervisor, I just couldn&amp;#8217;t keep up, so it was hard to help steer the progress.
+Thumbs down: This is a hard format for a postmortem.</description>
+    </item>
+    
+    <item>
+      <title>[thumbUp, thumbDown].map{&amp;#124;thumb&amp;#124; thumb&#43;&#43;}</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thumbup-thumbdown-mapthumb-thumb/</link>
+      <pubDate>Tue, 24 Nov 2009 16:09:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thumbup-thumbdown-mapthumb-thumb/</guid>
+      <description>ThumbUp: peer reviews. Peer reviews, at least for the Basie team, was certainly a new type of experience in software development. It promoted communication between the team, getting into each other&amp;#8217;s code, writing code that is good enough for others to look at, and then still getting feedback on how to improve it. It creates a better &amp;#8220;team&amp;#8221; feeling, than simply having a group of people commit to the same source code repository.</description>
+    </item>
+    
+    <item>
+      <title>thumbUp&#43;&#43;; thumbDown&#43;&#43;;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thumbup-thumbdown/</link>
+      <pubDate>Tue, 24 Nov 2009 15:41:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/thumbup-thumbdown/</guid>
+      <description>Thumbs up: The code sprint where all students and participating parties gathering face to face provides a precious opportunity for them to know each other, especially on each others&amp;#8217; working style, which helped a lot during the course later on.
+Thumbs down: Difference between schools&amp;#8217; expectation from students leads to a significant difference in students&amp;#8217; motivation. If the students are grouped into sub teams working on the same smaller project, we should weight more on continuous communication.</description>
+    </item>
+    
+    <item>
+      <title>What went right, wrong this year</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/what-went-right-wrong-this-year/</link>
+      <pubDate>Tue, 24 Nov 2009 13:45:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/what-went-right-wrong-this-year/</guid>
+      <description>Thumbs up: Sponsors, I liked the fact that we were able to get further acquainted with large businesses in the computer science field such as Ingres, Tucows, Yahoo, and Rogers Communication. I also agree with Greg&amp;#8217;s point, and it was a good learning experience to work on projects in a different setting and environment.
+Thumbs down: Though this may have been expensive, I would&amp;#8217;ve liked to have a UCOSP meeting like the initial sprint at the end of this experience to wrap up the project.</description>
+    </item>
+    
+    <item>
+      <title>The Really Good Thing Was &amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/the-really-good-thing-was/</link>
+      <pubDate>Tue, 24 Nov 2009 13:16:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/the-really-good-thing-was/</guid>
+      <description>Thumbs up: Our great teamwork. Although we are working in a distributed setting, I do find it astonishing how well everything worked out. People are doing a great job in terms of communication.
+Thumbs down: Having a pretty tight schedule, I think there was hardly time for one or two developers to go for a spike (i.e. looking into an unknown technological area) and create an example solution to a problem.</description>
+    </item>
+    
+    <item>
+      <title>Two more thumbs for UCOSP</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/two-more-thumbs-for-ucosp/</link>
+      <pubDate>Tue, 24 Nov 2009 13:03:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/two-more-thumbs-for-ucosp/</guid>
+      <description>Following up on Greg Wilson&amp;#8217;s post, here&amp;#8217;s another pair of observations about the course; one good and one bad:
+Thumbs up: Gaining experience working in a distributed environment is invaluable, but when you add on top of that the fact that we are producing some great open source software, you have a winning combination. Some of us have experience in the industry through co-op and other programs at our universities, but at least for me working on open source was a completely different experience.</description>
+    </item>
+    
+    <item>
+      <title>One Thumb Up, One Thumb Down</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/one-thumb-up-one-thumb-down/</link>
+      <pubDate>Tue, 24 Nov 2009 11:47:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/one-thumb-up-one-thumb-down/</guid>
+      <description>We&amp;#8217;re coming up on the end of term, so it&amp;#8217;s time to start thinking about what went right and what went wrong. I&amp;#8217;ve asked the students and mentors to post their ideas here, but to lead off:
+Thumbs up: our broad geographic range. I was really pleased to have schools from three oceans (four if you count the Great Lakes) take part.
+Thumbs down: most projects weren&amp;#8217;t ready to roll on day one.</description>
+    </item>
+    
+    <item>
+      <title>Basie meeting: November 18/2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/basie-meeting-november-182009/</link>
+      <pubDate>Fri, 20 Nov 2009 04:40:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/basie-meeting-november-182009/</guid>
+      <description>The Basie team talked about getting into a feature-freeze mode, and the state of finishing all the planned features before the end of term. Details on Basie&amp;#8217;s blog.</description>
+    </item>
+    
+    <item>
+      <title>Status Reports: Nov 18</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/status-reports-nov-18/</link>
+      <pubDate>Thu, 19 Nov 2009 15:19:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/status-reports-nov-18/</guid>
+      <description>Peter Status  Started to create the Project Explorer for the scheme perspective. Everything was packed and posted to bugzilla for the tutorials I have done so far.  Next Steps  Working on Project Explorer, bug 294015, for code deadline Nov 29. Will build of the light version similar to what we have already for the java perspective.  Roadblocks  School   Dennis Status  Submitted 2 patches for Bug 293850 (checked into Google Code but not Bugzilla)  Next Steps  Working on Bug 293850, Adding a REPL View to the Scheme Presective.</description>
+    </item>
+    
+    <item>
+      <title>Press Releases</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/press-releases/</link>
+      <pubDate>Wed, 18 Nov 2009 02:33:48 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/press-releases/</guid>
+      <description>TUCOWS has just put up a press release about UCOSP &amp;#8212; cool! And the press release from Ingres has been picked up in several places.</description>
+    </item>
+    
+    <item>
+      <title>MarkUs meeting 13/11/09</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/markus-meeting-131109/</link>
+      <pubDate>Mon, 16 Nov 2009 23:23:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/markus-meeting-131109/</guid>
+      <description>The MarkUs team had its weekly meeting on friday. Our meeting minutes can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Some Ideas for Next Term</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/some-ideas-for-next-term/</link>
+      <pubDate>Mon, 16 Nov 2009 19:17:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/some-ideas-for-next-term/</guid>
+      <description>Here are three suggestions for improving UCOSP next term [1]; comments would be very welcome.
+ Have every mentoring project put together a list of 1 small task per week per student for the first four weeks of the project. The goal is to make sure that the mentors and the students are more organized and on the same page by the time the main work in the project starts. It will also serve as a weeding out period: students who can&amp;#8217;t get four small tasks done are unlikely to be able to hack the rest of the course.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at CUSEC 2010 in Montreal in January</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/speaking-at-cusec-2010-in-montreal-in-january/</link>
+      <pubDate>Mon, 16 Nov 2009 17:41:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/speaking-at-cusec-2010-in-montreal-in-january/</guid>
+      <description>As they just announced on their blog, I&amp;#8217;ll be speaking at CUSEC 2010 in Montreal in January on evidence-based software engineering (which is a lot more fun than you&amp;#8217;d guess from the title). Hope to see some of you there.</description>
+    </item>
+    
+    <item>
+      <title>What Would You Add?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/what-would-you-add/</link>
+      <pubDate>Mon, 16 Nov 2009 14:22:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/what-would-you-add/</guid>
+      <description>Here&amp;#8217;s a list of dumb things to check when debugging problems&amp;#8212;what would you add?</description>
+    </item>
+    
+    <item>
+      <title>Writing Great Documentation</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/writing-great-documentation/</link>
+      <pubDate>Mon, 16 Nov 2009 13:57:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/writing-great-documentation/</guid>
+      <description>Some of this term&amp;#8217;s students are planning to produce documentation as part of their final deliverables, so a link to Jacob Kaplan-Moss&amp;#8217;s ongoing series &amp;#8220;Writing Great Documentation&amp;#8221; seems in order. Hope it&amp;#8217;s useful.</description>
+    </item>
+    
+    <item>
+      <title>Project management lessons from the FreeDOS Project</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/project-management-lessons-from-the-freedos-project/</link>
+      <pubDate>Sat, 14 Nov 2009 01:34:29 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/project-management-lessons-from-the-freedos-project/</guid>
+      <description>Lately, I stumbled upon this interesting article of a former Debian project lead. He opens with this:
+ A lot of people seem to think that open source is a magic solution to project management and that open source projects will automatically attract a large and healthy community of contributors and users who will improve the software. This, of course, is not the case.
+ How can people believe that open source projects are automatically a success?</description>
+    </item>
+    
+    <item>
+      <title>Status Report: Nov 11, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/status-report-nov-11-2009/</link>
+      <pubDate>Wed, 11 Nov 2009 19:12:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/status-report-nov-11-2009/</guid>
+      <description>Peter Status  6 tutorials worked on with Maciej completed and submitted, bug 290673.  Next Steps  Working on Project Explorer, bug 294015.  Roadblocks  Operating System Class   Dennis Status  Compiled survey results and published to blog. Created a patch for Bug 293888, Adding line-numbers to the Scheme editor by default.  Next Steps  Working on Bug 293850, Adding a REPL View to the Scheme Presective.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-status-updates/</link>
+      <pubDate>Wed, 11 Nov 2009 15:40:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-status-updates/</guid>
+      <description>Alex:
+Status:
+&amp;#8211; submitted a patch to the robocup_dt branch that makes server parameters no longer hardcoded but instead they can be read from the server messages
+Tasks for this week:
+&amp;#8211; finish up work on server parameters
+&amp;#8211; work on passing
+Roadblocks:
+-none
+Chani:
+Status:
+&amp;#8211; was away at a conference
+&amp;#8211; committed FindBall action
+Tasks for this week:
+&amp;#8211; implement compensating for ball decay today
+&amp;#8211; work on vision timing optimzation.</description>
+    </item>
+    
+    <item>
+      <title>Robocup Marking Scheme Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-marking-scheme-meeting/</link>
+      <pubDate>Mon, 02 Nov 2009 02:24:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/robocup-marking-scheme-meeting/</guid>
+      <description>We had an extra meeting on Thursday October the 29th to finalize the marking scheme.
+The results of the meeting can be found in the blog, the minutes can be found here.
+Also note that most of our minutes have now been uploaded to one location at http://chani.ccdevnet.org/robocup/minutes/.
+Patrik</description>
+    </item>
+    
+    <item>
+      <title>Robocup Status Report for Oct 28th 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/robocup-status-report-for-oct-28th-2009/</link>
+      <pubDate>Wed, 28 Oct 2009 06:26:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/robocup-status-report-for-oct-28th-2009/</guid>
+      <description>Ioana
+Status:
+&amp;#8211; Has been busy with other midterms
+Next steps:
+&amp;#8211; Finishing neck rotator
+&amp;#8211; Improving other basic actions. Trying to look at Chani&amp;#8217;s code
+Roadblock:
+None
+Alex
+Status:
+&amp;#8211; Testing Yulia&amp;#8217;s log parser and adding few stuff on it
+&amp;#8211; Running experiment of Decision Tree with different parameters but the result is not very satisfying yet. The goalie (controlled by Decision Tree) barely made a move
+Next steps:</description>
+    </item>
+    
+    <item>
+      <title>Joel Spolsky on UCOSP</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/joel-spolsky-on-ucosp/</link>
+      <pubDate>Tue, 27 Oct 2009 01:01:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/joel-spolsky-on-ucosp/</guid>
+      <description>Three pieces of news:
+ Joel Spolsky has blogged about UCOSP. He&amp;#8217;s going to help sponsor us next term, and one of his employees will lead a Mercurial project. Being mentioned in &amp;#8220;Joel on Software&amp;#8221; has a noticeable impact on readership figures:  </description>
+    </item>
+    
+    <item>
+      <title>Yak-shaving: Investing in technology, or just self-distraction?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/yak-shaving-investing-in-technology-or-just-self-distraction/</link>
+      <pubDate>Mon, 26 Oct 2009 19:54:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/yak-shaving-investing-in-technology-or-just-self-distraction/</guid>
+      <description>[I sent this post to the mailing list last week. Greg suggested I re-post it here, where it would last longer than on the mailing list.]
+In his discussion of &amp;#8220;yak-shaving&amp;#8221;, Greg wrote: &amp;#8220;you very quickly lose sight of your original goal and wind up investing way too much time in things that aren&amp;#8217;t directly delivering value.&amp;#8221;
+True, but bear in mind that the whole notion of &amp;#8220;investment&amp;#8221; is spending resources on something that does not directly deliver present value, with the expectation of future value.</description>
+    </item>
+    
+    <item>
+      <title>Development in an distributed open-source environment</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/1067/</link>
+      <pubDate>Fri, 23 Oct 2009 19:44:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/1067/</guid>
+      <description>My QA teacher recently pointed us to the following interesting paper. It describes a process framework for development in a distributed (optionally open-source) context. They call it Community-Agile software guidance.
+Though no single process framework can apply to every projects, you&amp;#8217;ll find that many recommendations in that paper are nowadays must-follow rules (those regarding quality in particular). I also like the way the author presents growing software as compared to a living creature that ought to be surrounded by an appropriate community in order to fully blossom and how that software needs to be guided toward maturity as it grows.</description>
+    </item>
+    
+    <item>
+      <title>More on the evaluation process</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/more-on-the-evaluation-process/</link>
+      <pubDate>Fri, 23 Oct 2009 17:22:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/more-on-the-evaluation-process/</guid>
+      <description>On the MarkUs blog, I posted my advice to students when thinking about creating their evaluation scheme. It is also related to Greg&amp;#8217;s Rational Response post</description>
+    </item>
+    
+    <item>
+      <title>You Never, Never Want to Be the Person&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/you-never-never-want-to-be-the-person/</link>
+      <pubDate>Tue, 20 Oct 2009 22:14:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/you-never-never-want-to-be-the-person/</guid>
+      <description>&amp;#8230;who didn&amp;#8217;t test this script properly before running it.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse4Edu Project Call-in Oct. 15</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/eclipse4edu-project-call-in/</link>
+      <pubDate>Sun, 18 Oct 2009 17:35:43 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/eclipse4edu-project-call-in/</guid>
+      <description>The Eclipse4Edu team had a brief project call-in. Meeting minutes can be found here.</description>
+    </item>
+    
+    <item>
+      <title>It&amp;#039;s Never Too Early to Reflect</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/its-never-too-early-to-reflect/</link>
+      <pubDate>Fri, 16 Oct 2009 19:34:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/its-never-too-early-to-reflect/</guid>
+      <description>It&amp;#8217;s been an interesting week for blog posts:
+ The folks at Scout just threw away three months of development work, and improved their product by doing. The takeaway lesson is that you should continually ask yourself, &amp;#8220;Is the thing I&amp;#8217;m writing essential to satisfying the pressing needs of a particular user?&amp;#8221; If the answer is no, put it aside and work on something that is. Martin Fowler (author of Refactoring and many other must-read books) has an interesting post about technical debt; David Humphrey has an equally interesting reply.</description>
+    </item>
+    
+    <item>
+      <title>Importance of Code Comments</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/importance-of-code-comments/</link>
+      <pubDate>Thu, 15 Oct 2009 04:22:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/importance-of-code-comments/</guid>
+      <description>The further I go in my computing education, the more entertaining I find it to look back on previous assignments and projects that I have worked on. It&amp;#8217;s entertaining because the code that I wrote as a first year, is in my opinion terrible. It&amp;#8217;s not only the fact that my code was terribly inefficient, it&amp;#8217;s the fact that I have no clue what I was doing at all. I say to myself wow!</description>
+    </item>
+    
+    <item>
+      <title>Talkin&amp;#039; &amp;#039;bout my generation</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/talkin-bout-my-generation/</link>
+      <pubDate>Tue, 13 Oct 2009 15:37:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/talkin-bout-my-generation/</guid>
+      <description>While writing this blog post I&amp;#8217;ve managed to check my email several times, respond to a new wave, carry on 3 separate Twitter based conversations, update my Facebook status, and play a move in Lexulous against my girlfriend (she&amp;#8217;s beating me quite handily). In short, I think I&amp;#8217;m a pretty able communicator; but if that&amp;#8217;s the case, then why has it been so hard to communicate within my own team, and with the rest of you.</description>
+    </item>
+    
+    <item>
+      <title>First Patch Ever.</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/first-patch-ever/</link>
+      <pubDate>Sun, 11 Oct 2009 20:22:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/first-patch-ever/</guid>
+      <description>First Patch Ever.
+Once my pending patch has been checked into the source tree, I will become a member of the open source community. It doesn&amp;#8217;t look like much but it does fix a problem. I take heart from Richard Feynman who said, &amp;#8221; No problem is too small or too trivial if we can really do something about it.&amp;#8221;. Here is a few things I learned:
+ Svn needs a better way to manage patches because pending ones causes a mess.</description>
+    </item>
+    
+    <item>
+      <title>Interesting Summary of How One Open Source Project Manages Things</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/interesting-summary-of-how-one-open-source-project-manages-things/</link>
+      <pubDate>Fri, 09 Oct 2009 13:29:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/interesting-summary-of-how-one-open-source-project-manages-things/</guid>
+      <description>http://panospace.wordpress.com/2009/10/01/here-we-go-again/</description>
+    </item>
+    
+    <item>
+      <title>Things Programmers Have to Worry About Today&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/things-programmers-have-to-worry-about-today/</link>
+      <pubDate>Fri, 09 Oct 2009 12:46:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/things-programmers-have-to-worry-about-today/</guid>
+      <description>&amp;#8230;that I didn&amp;#8217;t have to worry about when I was your age: reputation management systems.</description>
+    </item>
+    
+    <item>
+      <title>Helping Each Other</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/helping-each-other/</link>
+      <pubDate>Wed, 07 Oct 2009 13:13:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/helping-each-other/</guid>
+      <description>Over on the Basie blog, JP Peters has asked how you would use tagging in a web-based project management tool,while Ted Tate has asked what you&amp;#8217;d like in such a tool&amp;#8217;s dashboard. Meanwhile, Farah Juma has been posting ideas for grade entry in MarkUs, and would probably also like to know your thoughts. Next time you&amp;#8217;re tired of staring at your linear algebra assignment, take a moment to give them some feedback, or post a question of your own here (or on your project&amp;#8217;s blog, with a link from here).</description>
+    </item>
+    
+    <item>
+      <title>The MarkUs Team Is Blogging Up a Storm</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/the-markus-team-is-blogging-up-a-storm/</link>
+      <pubDate>Wed, 07 Oct 2009 00:07:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/the-markus-team-is-blogging-up-a-storm/</guid>
+      <description>Check out their latest post, or the one before it, or&amp;#8212;but you get the picture. Once Canadian Thanksgiving is over, I&amp;#8217;m going to start insisting that each member of the Basie team post to our blog weekly, and I&amp;#8217;ll encourage other team leads to demand the same of their students.</description>
+    </item>
+    
+    <item>
+      <title>WikiDev Update October 5th, 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/wikidev-update-october-5th-2009/</link>
+      <pubDate>Tue, 06 Oct 2009 04:17:57 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/wikidev-update-october-5th-2009/</guid>
+      <description>We had our first meeting after the code sprint today. The main points from the meeting are that, the three subteams should develop a wiki page describing the incremental tests they want to accomplish with an initial deadline of October 7, 2009. These tests will be evolving over time as the teams accomplish their different tasks. Another major point was to create tickets for any non trivial changes required and how a single ticket can be assigned to multiple people.</description>
+    </item>
+    
+    <item>
+      <title>RoboCup &amp;#8211; Day 3</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/robocup-day-3/</link>
+      <pubDate>Thu, 01 Oct 2009 18:36:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/10/robocup-day-3/</guid>
+      <description>Better late then never!
+Day 3 was more productive than I expected it to be.
+ Alex and myself continued researching a third party monitor which provides extra information. Yulia and Patrik have been working on a script to allow someone to easily control a player, through the keyboard. Chani and Ioana have been working on a debugging tool.  We ended the day with a quick meeting to decide how our teams will split up.</description>
+    </item>
+    
+    <item>
+      <title>I Think A &amp;quot;Yee Hah!&amp;quot; Is In Order</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/i-think-a-yee-hah-is-in-order/</link>
+      <pubDate>Sun, 27 Sep 2009 20:29:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/i-think-a-yee-hah-is-in-order/</guid>
+      <description>We&amp;#8217;ve wrapped up our Fall 2009 code sprint, and I think a bit of self-congratulation is in order: things went very well. I&amp;#8217;d like to thank all the students for giving three good days, and everyone else who made it possible&amp;#8212;in no particular order:
+ Wayne Beaton (Eclipse Foundation) Steven Case (University of the Virgin Islands) Dwight Deugo (Carleton University) Karen Reid (University of Toronto) Andrew Ross (Ingres) Blake Winton (Thunderbird) Rick Yazwinski and Jody Stocks (TUCOWS) Mike Conley, Phil Patchin, Michael Reimer, and Zuzel Vera Pacheco (University of Toronto grad students)  Special thanks to Alan Rosenthal for setting up our computers and networks&amp;#8212;everything ran perfectly all weekend long&amp;#8212;and to our sponsors: Ingres, the Open Source Lab, Rogers, TUCOWS, and Yahoo!</description>
+    </item>
+    
+    <item>
+      <title>Aaaand They&amp;#039;re Off!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/aaaand-theyre-off/</link>
+      <pubDate>Fri, 25 Sep 2009 14:17:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/aaaand-theyre-off/</guid>
+      <description>Our code sprint has started: we have 45 students and 6 faculty on deck, everyone&amp;#8217;s plugged into the network, and code of various kinds is being written as we speak. I forgot the ground coffee at home, but pizza&amp;#8217;s arriving in just under two hours&amp;#8212;if you want to follow along, follow #ucosp on Twitter.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript, jQuery, and Testing</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/javascript-jquery-and-testing/</link>
+      <pubDate>Mon, 21 Sep 2009 13:53:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/javascript-jquery-and-testing/</guid>
+      <description>John Resig posted links to some of the talks given at the jQuery conference in Boston earlier this year. The most interesting one for me was the overview of how to test with JavaScript: there are several links in there I hadn&amp;#8217;t seen before that might be useful to many of you.</description>
+    </item>
+    
+    <item>
+      <title>Lost in a Twisty Maze of Little Subroutines, All Alike</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/lost-in-a-twisty-maze-of-little-subroutines-all-alike/</link>
+      <pubDate>Mon, 21 Sep 2009 13:50:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/lost-in-a-twisty-maze-of-little-subroutines-all-alike/</guid>
+      <description>Many great computer scientists and educators have observed that while we teach students to write code, we don&amp;#8217;t teach them to read it [1]. When you think about it, it&amp;#8217;s ridiculous: architects study hundreds of buildings before designing one of their own, novelist probably read thousands of books before trying to create their own masterpiece [2], and only mathematicians can count how many proofs they go through in detail during their training, so why don&amp;#8217;t programmers study great programs to improve their craft?</description>
+    </item>
+    
+    <item>
+      <title>Ask!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/ask/</link>
+      <pubDate>Mon, 21 Sep 2009 13:28:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/ask/</guid>
+      <description>A week ago, Jon Udell put up a post on his blog titled, &amp;#8220;Ask and ye may receive, don&amp;#8217;t ask and ye surely will not.&amp;#8221; Yes, there is such a thing as pestering, but in our experience, students are far more likely to ask too few questions than too many. So, if you don&amp;#8217;t know what you&amp;#8217;re supposed to be doing, don&amp;#8217;t know how you&amp;#8217;re supposed to do it, or feel like you&amp;#8217;re missing some crucial piece of information, please email your project lead and cc Greg&amp;#8212;we&amp;#8217;re here to make your lives better :-).</description>
+    </item>
+    
+    <item>
+      <title>Eleni Stroulia (I must be the last one to introduce myself&amp;#8230;)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/eleni-stroulia-i-must-be-the-last-one-to-introduce-myself/</link>
+      <pubDate>Tue, 15 Sep 2009 04:09:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/eleni-stroulia-i-must-be-the-last-one-to-introduce-myself/</guid>
+      <description>hello all
+I am Eleni Stroulia, the very excited leader of the WikiDev team this term!
+I am Greek by birth and Canadian by choice. I started my research in AI, back when knowledge engineering and model-based systems were all the rage (the implied time period will be on the test:-). Since I joined the U of A, I have been working on software engineering solutions for industrially relevant problems. To these problems I usually apply AI methods to semi-automate human processes.</description>
+    </item>
+    
+    <item>
+      <title>Sarah Strong (Elmcity) Bio</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/sarah-strong-elmcity-bio/</link>
+      <pubDate>Fri, 11 Sep 2009 21:28:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/sarah-strong-elmcity-bio/</guid>
+      <description>I&amp;#8217;m Sarah Strong, a third year undergraduate student at the University of Toronto, and I&amp;#8217;ll be working on the Elmcity project this semester.
+I spent the summer of 2008 working at The Centre for Global E-Health Innovation on their remote patient monitoring system. It&amp;#8217;s a rails app that listens for home recorded medical readings and sends out alerts to both doctor and patient if something&amp;#8217;s wrong. It was a fantastic crash course in agile methods and the practical side of software development.</description>
+    </item>
+    
+    <item>
+      <title>Botlhale Ntsimane</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/botlhale-ntsimane/</link>
+      <pubDate>Fri, 11 Sep 2009 02:26:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/botlhale-ntsimane/</guid>
+      <description>My name is Botlhale Ntsimane. I come from Botswana and have previously done part I of the Bachelor of Science program at University of Botswana which mostly covered Mathematics, Physics and Computer Science courses. I am now taking a Computer Engineering degree at University of Victoria with a Software specialization. My study at University of Victoria involves a mandatory cooperative program. Through the cooperative program, I have occupied Software Development (4 months) and Quality Assurance (12 months) roles.</description>
+    </item>
+    
+    <item>
+      <title>Functional Testing Tools &amp;#8211; Selenium</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/functional-testing-tools-selenium/</link>
+      <pubDate>Wed, 09 Sep 2009 18:44:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/functional-testing-tools-selenium/</guid>
+      <description>There are a number of tools available, both open-source and commercial which get lumped into the bucket of &amp;#8216;functional testing tools&amp;#8217;. Essentially they help you, well, test the functionality of your application.
+One of these tools for testing web-based applications is Selenium. Selenium has at its core three different components: a record/playback tool (Se-IDE), language bindings (Se-RC) and a distributed execution framework (Se-Grid).
+I put up a post on my blog called The Selenium Value Chain which briefly discusses each and the progression between them.</description>
+    </item>
+    
+    <item>
+      <title>Philip Patchin</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/philip-patchin/</link>
+      <pubDate>Fri, 04 Sep 2009 16:14:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/philip-patchin/</guid>
+      <description>Hi, I&amp;#8217;m Philip Patchin, one of the TAs for the Robocup project. I&amp;#8217;m a new MSc student at the University of Toronto, where I also did my bachelor&amp;#8217;s degree. My undergrad included a specialist in artificial intelligence and a major in linguistics, but I am now working in the systems area. I have a significant number of years of industry experience &amp;#8211; and the grey hairs to prove it!
+I was involved with the initial CSC49x Robocup course as a volunteer, and I look forward to continuing with the project.</description>
+    </item>
+    
+    <item>
+      <title>When Is Good?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/when-is-good/</link>
+      <pubDate>Fri, 04 Sep 2009 13:57:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/when-is-good/</guid>
+      <description>How should a group of people find a time for a meeting? If they all work for the same organization, their availability might already be in a shared system like Outlook (though that&amp;#8217;s by no means guaranteed). Ten years ago, Jon Udell pointed out that online tools were a good lightweight solution to this problem. The MarkUs team is already using WhenIsGood to figure out when they can get together; if your project hasn&amp;#8217;t already picked a meeting time, maybe you&amp;#8217;d like to give it a try too.</description>
+    </item>
+    
+    <item>
+      <title>Feature Branches</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/feature-branches/</link>
+      <pubDate>Thu, 03 Sep 2009 17:35:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/feature-branches/</guid>
+      <description>How do you manage development when two or more people (or teams) are making major incompatible changes at the same time? The answer is to create branches in your version control repository, but that can go sour in many ways. If you&amp;#8217;d like some advice on how to do it right, check out:
+ &amp;#8220;High-Level Best Practices in Software Configuration Management&amp;#8221; from the folks who make Perforce (which is still my favorite version control system).</description>
+    </item>
+    
+    <item>
+      <title>Where the Puck is Going to Be</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/08/where-the-puck-is-going-to-be/</link>
+      <pubDate>Wed, 19 Aug 2009 17:07:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/08/where-the-puck-is-going-to-be/</guid>
+      <description>One of the most interesting parts of this course for me is watching students decide what projects to work on. When answering their questions, I frequently find myself quoting something that Wayne Gretzky once said when asked what made him such a great player: &amp;#8220;A good hockey player goes where the puck is. A great hockey player goes where the puck is going to be.&amp;#8221; Five years ago, when Napster was making headlines, students typically wanted to write peer-to-peer filesharing tools; today, many of them want to do Ruby on Rails, social networking, or iPhone development.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Sept 25-27</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/08/code-sprint-sept-25-27/</link>
+      <pubDate>Tue, 18 Aug 2009 20:23:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/08/code-sprint-sept-25-27/</guid>
+      <description>Thanks to the generosity of our sponsors, we are going to bring all of the students taking part in these projects together in Toronto Sept 25-27 for a three-day code sprint. This will give teams a chance to get to know each other in person, and to firm up their goals for the term. I&amp;#8217;ll post more details about travel and accommodation arrangements as we have them.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sprint on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/sprint/</link>
+    <description>Recent content in Sprint on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jan 2010 15:12:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/sprint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&amp;quot;What we learnt&amp;quot; &#43; &amp;quot;Where we&amp;#039;ll go&amp;quot;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</link>
+      <pubDate>Tue, 19 Jan 2010 15:12:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2010/01/what-we-learnt-where-well-go/</guid>
+      <description>The day before the sprint, I knew of nothing about what I should do and what I can do in this project. I woke up at 5 on Friday morning, took a taxi to the bus terminal, got onto Greyhound to Toronto, got lost on our way to Bahen Centre (we were on University and College, 5 minutes away from Bahen, lol) To my surprise, I arrived, and joined a team of people as lost as I was.</description>
+    </item>
+    
+    <item>
+      <title>The pony-build Express</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/the-pony-build-express/</link>
+      <pubDate>Tue, 19 Jan 2010 12:44:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/the-pony-build-express/</guid>
+      <description>As the dust settles from this years Spring Code Sprint, I am left with some interesting reflections. One, coding for 9 hours straight sure gets hard without proper caffeine intake, maybe an IV drip will be a good investment for the next one. Two, ordering lots of food when someone else is paying is lots of fun, even if you end up walking (waddling?) out with some of it in a bag.</description>
+    </item>
+    
+    <item>
+      <title>And A Good Time Was Had By All</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/and-a-good-time-was-had-by-all/</link>
+      <pubDate>Mon, 18 Jan 2010 14:04:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/and-a-good-time-was-had-by-all/</guid>
+      <description>On Friday morning, 45 strangers sat down to work on this term&amp;#8217;s UCOSP projects. On Sunday, after three solid days of coding, talking, and learning, seven software development teams headed home. It was a long haul (especially for our visitors from the west coast and the Caribbean), but a lot of fun. I&amp;#8217;d like to thank everyone who took part, especially Alan Rosenthal, Carolyn Ursabia, Mike Conley, and Zuzel Vera Pacheco, who helped set everything up and run smoothly.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial &amp;#8211; Getting Into the Groove</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-getting-into-the-groove/</link>
+      <pubDate>Sun, 17 Jan 2010 22:37:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-getting-into-the-groove/</guid>
+      <description>The coding sprint is winding down here in Toronto, but the Mercurial UCOSP project is just getting into the groove. As people are making their way home &amp;#8211; across the street or across the country &amp;#8211; I want to take a few minutes to expand on Alex&amp;#8217;s post and summarize this weekend.
+Working on a mature project like Mercurial has its advantages and disadvantages. On the one hand, we have a real successful project to learn from, but at the same time, it is hard to find work that is both accessible to a newbie and has real impact on the project.</description>
+    </item>
+    
+    <item>
+      <title>Fingers of Fury</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/fingers-of-fur/</link>
+      <pubDate>Sun, 17 Jan 2010 20:15:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/fingers-of-fur/</guid>
+      <description>It&amp;#8217;s 2:30 pm on Sunday; a thick pallor persists over an unseasonably warm Toronto. For roughly 40 students from various Canadian and American universities, this marks the end of the UCOSP code sprint. Those of us working on Thunderbird have made progress on a number of bugs tagged with student-project:
+ Zach Church is tackling Thunderbird&amp;#8217;s handling of recently closed tabs as reported here and here. Tim Miller is working on better integration with Windows 7 as reported here and here.</description>
+    </item>
+    
+    <item>
+      <title>Day 3 of the Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</link>
+      <pubDate>Sun, 17 Jan 2010 19:50:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2010/01/day-3-of-the-sprint/</guid>
+      <description>This weekend, we focused on finding the main aspects of the program that we think need working on and deciding where to go with each one. Specifically, there was the simplification of toolbars and menus to cater to beginner programmers, comparing the Java versus Scheme parts of the project and approaching the open bugs that have already been identified. Also we experimented with the program from a first year student standpoint to determine what is and isn&amp;#8217;t necessary and went from there.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Day 1 &amp;amp;2 : Data Server Flight Simulator</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</link>
+      <pubDate>Sun, 17 Jan 2010 06:36:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</guid>
+      <description>Day 1 (At IBM Canada):
+Activities:
+ Welcome, Introductions, OSS Development talk, CLA Introduction to the TE by Peter Kohlmann IBM DB2, Technology Explorer (TE) &amp;amp; Workload Multiuser Driver (WMD) &amp;#8211; setup on your systems DB2 architecture overview Walk through &amp;#8211; basic tutorial &amp;amp; view creation &amp;#8211; Matthew Vandenbussche  Issues:
+ There is a bug in db2 driver on Macbook, 3 of the team members are using Mac and had to switch to Windows/Linux  Day 2: (At University of Toronton)</description>
+    </item>
+    
+    <item>
+      <title>First Push: Mercurial</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</link>
+      <pubDate>Sun, 17 Jan 2010 05:34:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</guid>
+      <description>During this Code Sprint we focused on a few improvements to Mercurial that make it easier and safer to use. Each of the tasks we worked on was scoped such that only one developer was needed, but this gave everyone a chance to dive head-first into the Mercurial codebase at their own pace. For some (myself included) this is also the first serious project in Python, and these two days were a great opportunity to ask lots of questions.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprinting with MarkUs: Day 2</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/code-sprinting-with-markus-day-2/</link>
+      <pubDate>Sat, 16 Jan 2010 20:37:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/code-sprinting-with-markus-day-2/</guid>
+      <description>It&amp;#8217;s been a productive day for the MarkUs team. We had a meeting this morning to discuss our plans for the semester. Also, review requests have already started to come in! We&amp;#8217;re ready for a great semester!</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint: Day 1</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/code-sprint-day-1/</link>
+      <pubDate>Sat, 16 Jan 2010 11:28:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/code-sprint-day-1/</guid>
+      <description>The first day of this term&amp;#8217;s code sprint has come and gone. Donuts and pizza were eaten, coffee was drunk, people who&amp;#8217;d only met virtually introduced themselves in person, and a whole lotta software was installed, explained, and fixed. (&amp;#8220;You want it to run on a Mac? I don&amp;#8217;t think it does that&amp;#8230;&amp;#8221;) Blake Winton (Thunderbird), Andrew Ross (Ingres), Karen Reid (University of Toronto), and Steven Case (Minnesota State University) spent most or all of the day with us, and we had a few other visitors as well:</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Jan 15-17 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/code-sprint-jan-15-17-2010/</link>
+      <pubDate>Tue, 05 Jan 2010 11:28:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/code-sprint-jan-15-17-2010/</guid>
+      <description>We&amp;#8217;re bringing this term&amp;#8217;s students together in Toronto January 15-17 for three days of discussion, coding, and fun. Some of the details are still being worked out, but here&amp;#8217;s what we know so far:
+ The sprint starts at 9:00 am on Friday, Jan 15, and will finish mid-afternoon on Sunday Jan 17. We&amp;#8217;ll be using Room 2200, Room 2230, and Room 2270 in the Bahen Centre at 40 St. George Street on the main campus of the University of Toronto.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/education/</link>
+    <description>Recent content in Education on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2010 09:48:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Test With Random Data?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/why-test-with-random-data/</link>
+      <pubDate>Thu, 18 Mar 2010 09:48:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/03/why-test-with-random-data/</guid>
+      <description>Guillaume Simard and François Fournier are writing Selenium tests for Basie. Over on the Basie blog, they explain why they&amp;#8217;re using random data in their tests, rather than testing against predefined fixtures. What is your group using? And why?</description>
+    </item>
+    
+    <item>
+      <title>The &amp;quot;Engineering&amp;quot; in Software Engineering</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/the-engineering-in-software-engineering/</link>
+      <pubDate>Sun, 28 Feb 2010 13:15:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/the-engineering-in-software-engineering/</guid>
+      <description>My first degree is in engineering, and while I&amp;#8217;m too clumsy to have ever actually practiced [1], the courses I took still shape the way I look at things. In particular, I still enjoy articles like this one,which reports parse and load times for Javascript on various platforms. I really wish that a course on systems performance was a standard part of every undergrad CS degree; I doubt that&amp;#8217;ll happen any time soon, but this stuff is out there if you look for it.</description>
+    </item>
+    
+    <item>
+      <title>Reuse, Reuse, Reuse</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/reuse-reuse-reuse/</link>
+      <pubDate>Wed, 24 Feb 2010 14:50:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/reuse-reuse-reuse/</guid>
+      <description>A former boss of mine had a sign on the wall in his office that said, &amp;#8220;Out there, right now, someone is writing a queue and getting it wrong.&amp;#8221; What he meant was that if you&amp;#8217;re using a mature language like Java or Python, you should never have to deal with textbook data structures, dates and times, currencies, and other things directly: someone else will always have been there first. So, if you find yourself wrestling with timezones or passwords, fire up your favorite search engine and see what it turns up.</description>
+    </item>
+    
+    <item>
+      <title>Fowler on Version Control</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/fowler-on-version-control/</link>
+      <pubDate>Wed, 24 Feb 2010 03:28:10 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/fowler-on-version-control/</guid>
+      <description>Martin Fowler has posted an article about version control systems &amp;#8212;I don&amp;#8217;t agree with everything he says, but it&amp;#8217;s still a good, thoughtful overview.</description>
+    </item>
+    
+    <item>
+      <title>I Guess I&amp;#039;m Unrealistic</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/i-guess-im-unrealistic/</link>
+      <pubDate>Tue, 02 Feb 2010 14:33:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/02/i-guess-im-unrealistic/</guid>
+      <description>I posted a link last week to Evan Robinson&amp;#8217;s article explaining why crunch mode doesn&amp;#8217;t work. Coincidentally, Ruben Ortega&amp;#8217;s latest post on the ACM site asks, Why Do Software Developers Tolerate &amp;#8220;Crunch Time&amp;#8221;? His answer is &amp;#8220;progress&amp;#8221;, or at least, developers&amp;#8217; need to feel like they&amp;#8217;re making progress. A couple of paragraphs later, though, he says:
+ It is unrealistic to deliver any project without going through some &amp;#8220;Crunch time.&amp;#8221;</description>
+    </item>
+    
+    <item>
+      <title>People You Don&amp;#039;t Want On Your Team</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/people-you-dont-want-on-your-team/</link>
+      <pubDate>Tue, 02 Feb 2010 13:11:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/people-you-dont-want-on-your-team/</guid>
+      <description>We&amp;#8217;ve all met them, and from time to time, we&amp;#8217;ve all been one of them&amp;#8230;
+Anna knows more about every subject than everyone else on the team put together&amp;#8212;at least, she thinks she does. No matter what you say, she&amp;#8217;ll correct you; no matter what you know, she knows better. Annas are pretty easy to spot: if you keep track in team meetings of how often people interrupt one another, her score is usually higher than everyone else&amp;#8217;s put together.</description>
+    </item>
+    
+    <item>
+      <title>All Nighters Lower Your Grades</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/all-nighters-lower-your-grades/</link>
+      <pubDate>Wed, 27 Jan 2010 10:48:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/all-nighters-lower-your-grades/</guid>
+      <description>I think every student should read Evan Robinson&amp;#8217;s article &amp;#8220;Why Crunch Mode Doesn&amp;#8217;t Work&amp;#8220;. It&amp;#8217;s a short, readable summary of research into the effects of sleep deprivation, and very relevant to anyone who&amp;#8217;s thinking about staying up until 3:30 a.m. to finish an assignment&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Adam on Selenium and HTTPS: Don&amp;#039;t</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/adam-on-selenium-and-https-dont/</link>
+      <pubDate>Sat, 23 Jan 2010 18:10:48 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/adam-on-selenium-and-https-dont/</guid>
+      <description>Adam Goucher (whom some of you met at the code sprint) has a new post up about the pain of testing with Selenium and HTTPS. I&amp;#8217;m sure he&amp;#8217;d be happy to answer questions&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Open Source Usability</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/open-source-usability/</link>
+      <pubDate>Fri, 22 Jan 2010 12:19:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/open-source-usability/</guid>
+      <description>Mark Guzdial&amp;#8217;s blog on computing education is always worth reading; today, he reports on work by Prof. Mike Terry at Waterloo on usability in open source. The good news is, there&amp;#8217;s lots of room to improve&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Free/Open Source Software Course in Australia</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/freeopen-source-software-course-in-australia/</link>
+      <pubDate>Wed, 20 Jan 2010 18:08:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/freeopen-source-software-course-in-australia/</guid>
+      <description>COMP8440 is a graduate-level course on free &amp;amp; open source software (FOSS). Lots of good material here; if you&amp;#8217;re interested, you should also look at Karl Fogel&amp;#8217;s Producing Open Source Software.
+And while I&amp;#8217;m posting links: Pierre Lafayette (a non-student working on Basie) sent a link to http://browsershots.org/, which will show you what your web pages look like in a bewildering variety of browsers on various platforms.</description>
+    </item>
+    
+    <item>
+      <title>Grading</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/grading/</link>
+      <pubDate>Mon, 18 Jan 2010 13:37:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/grading/</guid>
+      <description>A couple of students have asked how UCOSP projects are graded. The short answer is, you tell us. Seriously&amp;#8212;talk to your mentors and say, &amp;#8220;These are the things I want to tackle, here&amp;#8217;s why I think they&amp;#8217;d be valuable and how much effort they&amp;#8217;ll require, so please give me grades for X, Y, and Z.&amp;#8221; If your mentor thinks you&amp;#8217;ve chosen things that are too hard, too easy, or not particularly useful, the two of you can negotiate back and forth until you settle on something that makes you both happy.</description>
+    </item>
+    
+    <item>
+      <title>Rich, Famous, and Popular</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/rich-famous-and-popular/</link>
+      <pubDate>Sun, 17 Jan 2010 15:35:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/rich-famous-and-popular/</guid>
+      <description>Almost everyone who joins a new project says it sooner or later: &amp;#8220;More documentation, please.&amp;#8221; No one can make sense of 30,000 lines of code in one gulp: everyone wants an overview or roadmap to help them make sense of things. So why don&amp;#8217;t they exist?
+ Almost by definition, by the time you can write that document, you don&amp;#8217;t need it yourself. You probably also have a dozen tickets assigned to you by then too, all of which really, really need to be fixed for next week&amp;#8217;s release.</description>
+    </item>
+    
+    <item>
+      <title>What We Expect From Students This Term</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/what-we-expect-from-students-this-term/</link>
+      <pubDate>Mon, 11 Jan 2010 16:39:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2010/01/what-we-expect-from-students-this-term/</guid>
+      <description>Titus Brown has started a wiki page describing what&amp;#8217;s expected from the Pony-Build students this term, and I just posted to the Basie blog about what we didn&amp;#8217;t finish last term, and need to get done in this one. In brief, Titus&amp;#8217;s points are:
+ Communicate early and frequently. Make your work visible (if we can&amp;#8217;t see what you&amp;#8217;re doing, we can&amp;#8217;t help you). It&amp;#8217;s your responsibility to manage your time and make steady progress.</description>
+    </item>
+    
+    <item>
+      <title>Never Just One Lesson</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/never-just-one-lesson/</link>
+      <pubDate>Fri, 27 Nov 2009 22:45:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/never-just-one-lesson/</guid>
+      <description>The official goal of this course is to give students first-hand experience of working in distributed teams. There are lots of other lessons to be learned, though, lessons that can only be learned by working on real applications. Take the performance bug that we just found in Basie, or the seemingly-simple problem of deleting tags (1, 2, 3, 4, 5, 6, 7). Neither is a coding bug: in both cases, we&amp;#8217;re going to have to re-think a significant chunk of the system&amp;#8217;s design.</description>
+    </item>
+    
+    <item>
+      <title>What Grades Mean</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/what-grades-mean/</link>
+      <pubDate>Sat, 21 Nov 2009 11:51:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/what-grades-mean/</guid>
+      <description>We&amp;#8217;re getting close to that time, so here&amp;#8217;s the official definition of what grades mean in Arts &amp;amp; Science at the University of Toronto. If the scale at your school is significantly different, please let us know.
+  Percentage    Letter Grade   GPA Value  Grade Definition      90-100   A+   4.0  Excellent  Strong evidence of original thinking; good organization; capacity to analyze and synthesize; superior grasp of subject matter with sound critical evaluations; evidence of extensive knowledge base.</description>
+    </item>
+    
+    <item>
+      <title>Writing Great Documentation</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/writing-great-documentation/</link>
+      <pubDate>Mon, 16 Nov 2009 13:57:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/writing-great-documentation/</guid>
+      <description>Some of this term&amp;#8217;s students are planning to produce documentation as part of their final deliverables, so a link to Jacob Kaplan-Moss&amp;#8217;s ongoing series &amp;#8220;Writing Great Documentation&amp;#8221; seems in order. Hope it&amp;#8217;s useful.</description>
+    </item>
+    
+    <item>
+      <title>Phil Agre on Getting Help</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/phil-agre-on-getting-help/</link>
+      <pubDate>Fri, 13 Nov 2009 15:33:57 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/phil-agre-on-getting-help/</guid>
+      <description>Phil Agre&amp;#8217;s 1994 article &amp;#8220;The Art of Getting Help&amp;#8221; is still good advice&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Grading Schemes at a Glance</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/grading-schemes-at-a-glance/</link>
+      <pubDate>Thu, 05 Nov 2009 14:29:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/11/grading-schemes-at-a-glance/</guid>
+      <description>Here are links to each team&amp;#8217;s final grading scheme:
+ Basie: Diff, IRC, Tagging, Calendar, and Josh McCarthy Eclipse4Edu ElmCity Ingres MarkUs (in two parts) RoboCup Thunderbird WikiDev  I think that writing these is a more important part of the software engineering process than most students realize. A grading scheme is the academic equivalent of a contract of deliverables: it&amp;#8217;s the thing that you and I can put in front of a judge or some other third part if we disagree over whether you&amp;#8217;ve delivered what I thought was promised.</description>
+    </item>
+    
+    <item>
+      <title>How to Write Code That&amp;#039;s Hard to Test</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/how-to-write-code-thats-hard-to-test/</link>
+      <pubDate>Thu, 29 Oct 2009 13:05:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/how-to-write-code-thats-hard-to-test/</guid>
+      <description>Google&amp;#8217;s Misko Hevery has posted slides from the tutorial he gave at OOPSLA&amp;#8217;09 on how to write code that&amp;#8217;s hard to test. It includes a few hints on how to write code that isn&amp;#8217;t, too 🙂</description>
+    </item>
+    
+    <item>
+      <title>Theory AND Practice</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/theory-and-practice/</link>
+      <pubDate>Thu, 29 Oct 2009 10:33:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/theory-and-practice/</guid>
+      <description>There&amp;#8217;s nothing like a bit of controversy to push up readership&amp;#8212;and blood pressure. I inadvertently started it by describing UCOSP to Joel Spolsky at DevDays in Toronto last Friday. He thought that having undergrads work on capstone projects in distributed teams was cool&amp;#8212;cool enough that he&amp;#8217;s willing to sponsor the program and have one of his employees mentor a Mercurial project next term.
+Browsing our blog, he came across my post &amp;#8220;A Rational Response to an Irrational Environment&amp;#8220;.</description>
+    </item>
+    
+    <item>
+      <title>Forty Years After</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/forty-years-after/</link>
+      <pubDate>Tue, 27 Oct 2009 21:42:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/forty-years-after/</guid>
+      <description>Communications of the ACM has published a reflective article by Sir Tony Hoare in which he looks back forty years to one of the foundational articles in computer science. It includes a lot of interesting snippets, including this:
+ The phenomenon that triggered interest in software verification from the software industry was totally unpredicted and unpredictable. It was the attack of the hacker&amp;#8230;
+ Well worth reading&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>All Together Now (Or Not)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/all-together-now-or-not/</link>
+      <pubDate>Sun, 25 Oct 2009 15:28:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/all-together-now-or-not/</guid>
+      <description>By the end of this week (Oct 30), each of our teams has to propose a grading scheme they&amp;#8217;d like used for their term&amp;#8217;s work. To do this, they&amp;#8217;ll have to decide (a) what they&amp;#8217;re going to deliver by Friday December 4 (our target wrap-up date) and (b) how much of their grade will depend on the team&amp;#8217;s accomplishments, and how much will depend on individual contributions. Experience shows that the latter is much harder to decide than the former: most people want their grade to reflect what they&amp;#8217;ve done, but clients care about what&amp;#8217;s delivered as a whole.</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>A Rational Response to an Irrational Environment</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/a-rational-response-to-an-irrational-environment/</link>
+      <pubDate>Wed, 21 Oct 2009 01:27:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/a-rational-response-to-an-irrational-environment/</guid>
+      <description>Four years ago, I asked one of the best students I&amp;#8217;ve ever had why she always did her projects in one big burst of activity starting at the last possible minute. She explained to me that (a) she was more productive if she focused on one thing at a time, rather than trying to timeslice on three or four assignments at once, and (b) the later she left it, the more stable the assignment spec would be, because the keeners that started early would have pestered the prof into correcting the inevitable omissions, ambiguities, and what-not.</description>
+    </item>
+    
+    <item>
+      <title>A Lesson from &amp;quot;Coders at Work&amp;quot;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/a-lesson-from-coders-at-work/</link>
+      <pubDate>Wed, 21 Oct 2009 01:00:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/10/a-lesson-from-coders-at-work/</guid>
+      <description>Over the last four or five years, there&amp;#8217;s been a dramatic increase in the number of books about programming: not the specifics of this language or that framework, but the act of programming itself. Fogel&amp;#8217;s Producing Open Source Software, Spinellis&amp;#8217;s Code Reading, Ford&amp;#8217;s The Productive Programmer, Doar&amp;#8217;s Practical Development Environments, and multi-author collections like Beautiful Code and Beautiful Testing all discuss the things that separate people who can write code that compiles and runs from people who can build useful software.</description>
+    </item>
+    
+    <item>
+      <title>I Keep Quoting Jason Cohen&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/i-keep-quoting-jason-cohen/</link>
+      <pubDate>Tue, 29 Sep 2009 18:59:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/i-keep-quoting-jason-cohen/</guid>
+      <description>&amp;#8230;or at least referring to his articles. He recently posted twice about an important topic: getting feedback. Everyone who wants their software to be used should read both carefully (yes, that means you).</description>
+    </item>
+    
+    <item>
+      <title>It&amp;#039;s a Bit Early for a Post Mortem&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/its-a-bit-early-for-a-post-mortem/</link>
+      <pubDate>Mon, 28 Sep 2009 13:35:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/its-a-bit-early-for-a-post-mortem/</guid>
+      <description>&amp;#8230;but we did one anyway, since the code sprint marks the end of the startup phase of our projects.
+Good:
+ the code sprint was held early in term everyone got to the sprint, and got a much clearer idea of what their project is about effective initial training (for some projects) good collaboration a chance to learn how to use version control and other professional tools for real the talk about grad school was informative good workspace for the sprint, and the network ran flawlessly enjoyed pub night(s) 🙂  Bad:</description>
+    </item>
+    
+    <item>
+      <title>Why Teams Fail With Acceptance Testing</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/why-teams-fail-with-acceptance-testing/</link>
+      <pubDate>Sun, 27 Sep 2009 14:15:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/why-teams-fail-with-acceptance-testing/</guid>
+      <description>Good post from the author of a good book about why and how teams fail when using acceptance testing. Thanks, Adam.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Hack Oct 13-17</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/yahoo-hack-oct-13-17/</link>
+      <pubDate>Sun, 27 Sep 2009 14:09:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/yahoo-hack-oct-13-17/</guid>
+      <description>Yahoo! (one of the sponsors of UCOSP) is organizing Hack Days at several universities around the world, and you&amp;#8217;re invited. It&amp;#8217;s Toronto and Waterloo&amp;#8217;s turn October 13-17: guests will include Rasmus Lerdorf, creator of PHP, and Douglas Crockford, famous for JSON, JavaScript, and much else. Hope to see you there&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Overcoming Barriers to Self-Management in Software Teams</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/overcoming-barriers-to-self-management-in-software-teams/</link>
+      <pubDate>Sat, 26 Sep 2009 16:41:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/overcoming-barriers-to-self-management-in-software-teams/</guid>
+      <description>As I&amp;#8217;ve written earlier, an increasing amount of research in software engineering is focused on empirical studies of what actually works (or doesn&amp;#8217;t) in the real world. A new paper from Moe, Dingsøyr, and Dybå reports a multi-year study of teams in several companies implementing Scrum. Key problems they identified include:
+ Over-specialization: if each module &amp;#8220;belongs&amp;#8221; to one developer, it&amp;#8217;s hard for the group as a whole to design and plan, because no one knows enough to get a big picture view.</description>
+    </item>
+    
+    <item>
+      <title>Dave Humphrey on Responding to the Web</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/dave-humphrey-on-responding-to-the-web/</link>
+      <pubDate>Fri, 25 Sep 2009 01:05:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/dave-humphrey-on-responding-to-the-web/</guid>
+      <description>Another good post from Seneca&amp;#8217;s David Humphrey on why you should blog (and a few other things) &amp;#8212; recommended.</description>
+    </item>
+    
+    <item>
+      <title>Style Guides</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/style-guides/</link>
+      <pubDate>Tue, 22 Sep 2009 13:52:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/style-guides/</guid>
+      <description>Few topics in programming generate as much argument and as little value as wrangles over where the curly braces should go in C programs, or whether CamelCaseNames or pothole_case_names are better [1]. That said, consistency definitely matters&amp;#8212;plenty of studies have shown that MiXiNg styles disrupts comprehension&amp;#8212;so having a style guide and sticking to it is more important than what the style guide actually says.
+I&amp;#8217;m therefore grateful that Google has started posting its style guides for all to read.</description>
+    </item>
+    
+    <item>
+      <title>Lost in a Twisty Maze of Little Subroutines, All Alike</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/lost-in-a-twisty-maze-of-little-subroutines-all-alike/</link>
+      <pubDate>Mon, 21 Sep 2009 13:50:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/09/lost-in-a-twisty-maze-of-little-subroutines-all-alike/</guid>
+      <description>Many great computer scientists and educators have observed that while we teach students to write code, we don&amp;#8217;t teach them to read it [1]. When you think about it, it&amp;#8217;s ridiculous: architects study hundreds of buildings before designing one of their own, novelist probably read thousands of books before trying to create their own masterpiece [2], and only mathematicians can count how many proofs they go through in detail during their training, so why don&amp;#8217;t programmers study great programs to improve their craft?</description>
+    </item>
+    
+    <item>
+      <title>How to Do Code Reviews</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/how-to-do-code-reviews/</link>
+      <pubDate>Thu, 17 Sep 2009 15:34:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/how-to-do-code-reviews/</guid>
+      <description>It&amp;#8217;s a big topic, but this post on the MarkUs blog is a good start. The Basie team started using it last August, and it&amp;#8217;s made a tremendous difference to both how quickly we build things, and how good they are&amp;#8212;please check it out.</description>
+    </item>
+    
+    <item>
+      <title>Two Videos</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/two-videos/</link>
+      <pubDate>Sun, 13 Sep 2009 23:41:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/two-videos/</guid>
+      <description>Courtesy of Andrew Ross, two videos that students should watch:
+ Top reasons for success or failure in Google Summer of Code Same title (part 2)  Summary: communicate, communicate, communicate&amp;#8230;
+And while you&amp;#8217;re at it, you may want to check out some Ignite talks, like this one about restoring the Archimedes Palimpsest, or this one on how to win at Scrabble. If you haven&amp;#8217;t run into Ignite before, it&amp;#8217;s 20 slides on an automatic timer set for 15 seconds per slide, so the whole talk is over in 5 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Contributors&amp;#039; Agreements</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/contributors-agreements/</link>
+      <pubDate>Fri, 11 Sep 2009 12:57:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/contributors-agreements/</guid>
+      <description>Who owns open source software? The simple answer is &amp;#8220;everyone&amp;#8221;, but the reality is more complex. Take a look at these two documents:
+ http://www.mozilla.org/hacking/committer/committers-agreement.pdf http://www.canonical.com/contributors  In order to protect people who want to make contributions, many open source projects set up non-profit organizations. If you want to make a contribution, you have to agree to give that organization the right to use your code. That doesn&amp;#8217;t mean you lose your rights (read the second paragraph of the Canonical agreement, for example), but it does stop you from turning around next year and saying, &amp;#8220;I&amp;#8217;ve decided to start a company around this, so I&amp;#8217;d like you to take it out of your packages.</description>
+    </item>
+    
+    <item>
+      <title>What&amp;#039;s Popular Depends How You Ask</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/whats-popular-depends-how-you-ask/</link>
+      <pubDate>Wed, 09 Sep 2009 19:22:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/whats-popular-depends-how-you-ask/</guid>
+      <description>An ex-student of mine is trying to decide what web technology to use in the project he&amp;#8217;s about to start working on. The three choices are Java plus some kind of framework, Django and Python (which he knows very well), or Ruby on Rails (which he doesn&amp;#8217;t, but could pick up quickly). The argument in favor of Java plus whatever is that his employer is sure to be able to hire good Java programmers at a reasonable price for the next decade, but as he points out, doing small or medium-sized project in Java takes longer and hurts more than doing it in a dynamic language like Python or Ruby.</description>
+    </item>
+    
+    <item>
+      <title>The Great Reply-To Debate</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/the-great-reply-to-debate/</link>
+      <pubDate>Thu, 03 Sep 2009 21:49:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/the-great-reply-to-debate/</guid>
+      <description>Earlier today I used our Google Group to ask students for information for the very first time. Of the first dozen who replied, half mailed me back directly; the other half just hit &amp;#8220;reply&amp;#8221;, and wouldn&amp;#8217;t you know it, Google Groups sets message headers to send replies to the whole list by default.
+Oops.
+So, without further ado, here&amp;#8217;s my first apology of the term&amp;#8212;I should have checked what the default setting was, then changed it.</description>
+    </item>
+    
+    <item>
+      <title>Testing Rails</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/testing-rails/</link>
+      <pubDate>Thu, 03 Sep 2009 10:12:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/09/testing-rails/</guid>
+      <description>Adam Goucher taught me most of what I know about quality assurance. He&amp;#8217;s now in charge of the same at Zerofootprint, as well as a regular speaker at agile and testing conferences, and has kindly agreed to give the MarkUs team some guidance this fall. (Basie and Thunderbird teams take note: much of what he says applies to you too.) His thirty-second guide is a good place to start; I look forward to hearing more from him.</description>
+    </item>
+    
+    <item>
+      <title>Survivor Bias</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/survivor-bias/</link>
+      <pubDate>Tue, 25 Aug 2009 14:02:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/survivor-bias/</guid>
+      <description>Jason Cohen of SmartBear recently posted an article about &amp;#8220;survivor bias&amp;#8220;. His basic message is that you have to look at failures as well as successes in order to get a fair picture of what works and what doesn&amp;#8217;t. By some estimates, 95% or more of the projects on open source portals like SourceForge and Google Code are inactive; looking at why they didn&amp;#8217;t pan out is at least as informative as looking at the few that did.</description>
+    </item>
+    
+    <item>
+      <title>A Rough Guide to Programming (In)competence</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/a-rough-guide-to-programming-incompetence/</link>
+      <pubDate>Tue, 25 Aug 2009 13:55:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/a-rough-guide-to-programming-incompetence/</guid>
+      <description>This post titled &amp;#8220;Signs that you&amp;#8217;re a bad programmer&amp;#8221; isn&amp;#8217;t backed up by any empirical studies, but it still rings true. What do you think the author missed? What do you look for when deciding whether someone can or can&amp;#8217;t build usable software with reasonable effort?</description>
+    </item>
+    
+    <item>
+      <title>Contact Early, Contact Often</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/contact-early-contact-often/</link>
+      <pubDate>Mon, 24 Aug 2009 18:22:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/contact-early-contact-often/</guid>
+      <description>Ellen Ko&amp;#8217;s post on the Google Summer of Code blog is good advice for students doing cross-country projects as well: making contact with your project lead early, and staying in contact regularly during the term, greatly improves your chances of success. Gopal Kapur&amp;#8217;s advice on how to report status is worth reading too: the more direct you are, the more quickly your project lead and teammates can help you.</description>
+    </item>
+    
+    <item>
+      <title>Inspirations</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/inspirations/</link>
+      <pubDate>Sun, 23 Aug 2009 13:38:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/inspirations/</guid>
+      <description>The idea of running cross-country projects was inspired by the work of many other people. Looking at what they&amp;#8217;ve done might help students and faculty understand what we&amp;#8217;re likely to accomplish, and why we&amp;#8217;re doing things the way we are.
+First up is Google Summer of Code, &amp;#8220;&amp;#8230;a global program that offers student developers stipends to write code for various open source software projects.&amp;#8221; 2500 students have done GSoC since its inception in 2005; each student is matched with an existing open source project and a mentor, and works full-time for 12 weeks on something specific.</description>
+    </item>
+    
+    <item>
+      <title>Software Engineering as a Human Activity</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/software-engineering-as-a-human-activity/</link>
+      <pubDate>Sat, 15 Aug 2009 19:49:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/software-engineering-as-a-human-activity/</guid>
+      <description>The previous post touched on the need for more emphasis on evidence-based results in software engineering. This is a rapidly growing area of research&amp;#8212;many of the papers at this year&amp;#8217;s International Conference on Software Engineering (ICSE&amp;#8217;09) presented, included, or referenced experiments or field studies of one kind or another.
+Alongside this, there is growing interest in software engineering as a human activity, which has led many researchers to look at fields like social psychology.</description>
+    </item>
+    
+    <item>
+      <title>Bad Habits (and More Than a Little Marketing)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/bad-habits-and-more-than-a-little-marketing/</link>
+      <pubDate>Sat, 15 Aug 2009 12:22:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/bad-habits-and-more-than-a-little-marketing/</guid>
+      <description>Following up the theme of the previous post on habits, this article discusses ten habits developers have to break in order to be successful with Scrum (a popular agile development methodology). A lot of the author&amp;#8217;s points are good ones, but others are straw men set up just to be knocked over. For example, &amp;#8220;Traditional project management is very stubborn about setting the project plan and sticking to it no matter what,&amp;#8221; is a caricature of engineering-style project management.</description>
+    </item>
+    
+    <item>
+      <title>Why Good Has to be a Habit</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/why-good-has-to-be-a-habit/</link>
+      <pubDate>Sat, 15 Aug 2009 11:34:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/why-good-has-to-be-a-habit/</guid>
+      <description>A new study shows that the more stressed you are, the more likely you are to rely on habits instead of thinking through what&amp;#8217;s best for your actual situation. (OK, it actually shows that for rats, but it&amp;#8217;s easy to believe that the results apply to human beings as well.) As Dave Rooney explains in a recent blog post, this is why you have to drill and drill until doing the right thing is your habit: if you don&amp;#8217;t, then when the going gets rough, you&amp;#8217;ll revert to your earlier (and probably less productive) training, which will then increase your stress, and down you go.</description>
+    </item>
+    
+    <item>
+      <title>Are We Done Yet?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/are-we-done-yet/</link>
+      <pubDate>Sat, 15 Aug 2009 11:17:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/are-we-done-yet/</guid>
+      <description>One of the questions programmers often ask (and are often asked) is, &amp;#8220;Are we done yet?&amp;#8221; It&amp;#8217;s often hard to know: unlike spaghetti, you can&amp;#8217;t just throw software against the wall to see if it sticks. &amp;#8220;When we run out of time&amp;#8221; and &amp;#8220;when we run out of money&amp;#8221; are common answers in the real world, but there are better ways, and this page shows one of them. Each row represents a module in Firefox; the numbers show what percentage of the lines and functions in that module are exercised by tests.</description>
+    </item>
+    
+    <item>
+      <title>Recommended Reading</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/recommended-reading/</link>
+      <pubDate>Sat, 08 Aug 2009 16:07:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/education/2009/08/recommended-reading/</guid>
+      <description>We&amp;#8217;ve added a &amp;#8220;recommended reading&amp;#8221; page to this blog with pointers to books that participants might find useful.</description>
+    </item>
+    
+  </channel>
+</rss>

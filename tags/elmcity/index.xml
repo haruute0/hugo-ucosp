@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elmcity on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/elmcity/</link>
+    <description>Recent content in Elmcity on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 16:05:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/elmcity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>elmcity wrapup</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/12/elmcity-wrapup/</link>
+      <pubDate>Wed, 16 Dec 2009 16:05:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/12/elmcity-wrapup/</guid>
+      <description>First off, I just want to say it has been a pleasure working with everyone. I certainly learned a lot this term with respect to the project as well as working in a team environment. A few final blogs with respect to the generic plugin parser for the elmcity project are listed below and the latest versions of the code can be found in the code repository here:
+http://code.google.com/p/elmcity/
+I hope this is good start to recreating FuseCal!</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Status Report for Nov 4th</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</link>
+      <pubDate>Thu, 05 Nov 2009 16:16:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</guid>
+      <description>Nikita
+Status:
++documenting and testing remote.py, batch.py (this leaves us with no &amp;#8220;big&amp;#8221; modules untested, rotate.py and event.py can
+be done quickly later on).
+ timezone had to be revisited and changed a bit (timezone_source, timezone_dest), and together with other little things   we officially announced the new features to the community
+Roadblocks:
+&amp;#8211; I&amp;#8217;ve been sick for the past couple of days, so things are moving a bit slower for me than usual.</description>
+    </item>
+    
+  </channel>
+</rss>

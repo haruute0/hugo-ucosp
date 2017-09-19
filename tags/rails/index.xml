@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rails on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/rails/</link>
+    <description>Recent content in Rails on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Mar 2010 08:49:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/rails/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RailsConf &amp;#039;10</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/railsconf-10/</link>
+      <pubDate>Thu, 04 Mar 2010 08:49:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/railsconf-10/</guid>
+      <description>For those who are interested, RailsConf &amp;#8217;10 has been announced. With the merge with Herb and the release of Rails 3 (now in beta), this year&amp;#8217;s RailsConf is going to be awesome. You can save $100 by registering before April. IN ADDITION to that, full time students can receive a 65% off discount using the promo code &amp;#8220;rc10fts&amp;#8221;.
+(I&amp;#8217;d love to be there this year, but I&amp;#8217;ll need to ask for permission from my employer.</description>
+    </item>
+    
+  </channel>
+</rss>

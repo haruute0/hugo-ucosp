@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercurial on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/mercurial/</link>
+    <description>Recent content in Mercurial on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2010 03:39:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/mercurial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mercurial Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/mercurial-status-update/</link>
+      <pubDate>Sat, 13 Mar 2010 03:39:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/03/mercurial-status-update/</guid>
+      <description>This week in mercurial we all continued to make progress on our various bfiles features. I will let our This week in mercurial we all continued to make progress on our various bfiles features. I will let our speak for itself.
+In our meeting we discussed:
+ How Anton, Wendy and I will release auto* features to the mailing list: In three seperate patches, after we have verified that they work together and don&amp;#8217;t explode too badly when merged Alex discussed some of the details of how to implement hg serve Paul discussed how to approach bfilesify Benjamin will be on vacation next week, so we won&amp;#8217;t have a meet, but Benjamin expects to return to great progress on bfiles 🙂  The transcript of the meeting can be found here</description>
+    </item>
+    
+    <item>
+      <title>Tessa&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/tessas-midway-update/</link>
+      <pubDate>Thu, 25 Feb 2010 00:15:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/tessas-midway-update/</guid>
+      <description>In General, I feel that I started the term out well, but I am presently falling behind my expectations, the “midterm slump” as Benjamin calls it. Within the first few weeks of the term had I submitted my bug fix to the Mercurial mailing list. I hoped that each week I would have completed some tangible amount of coding, whether it be implementing a small bit of functionality or fixing a bug in last week’s work.</description>
+    </item>
+    
+    <item>
+      <title>First Push: Mercurial</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</link>
+      <pubDate>Sun, 17 Jan 2010 05:34:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</guid>
+      <description>During this Code Sprint we focused on a few improvements to Mercurial that make it easier and safer to use. Each of the tasks we worked on was scoped such that only one developer was needed, but this gave everyone a chance to dive head-first into the Mercurial codebase at their own pace. For some (myself included) this is also the first serious project in Python, and these two days were a great opportunity to ask lots of questions.</description>
+    </item>
+    
+  </channel>
+</rss>

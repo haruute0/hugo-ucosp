@@ -1,0 +1,207 @@
+<!doctype html> 
+<html lang="en-us"> 
+<head>
+  <meta charset="utf-8">
+  <title>UCOSP</title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="icon" href="//haruute0.github.io/hugo-ucosp/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//haruute0.github.io/hugo-ucosp/apple-touch-icon.png" />
+  
+  
+  <link rel="stylesheet" href="//haruute0.github.io/hugo-ucosp/style.css" />
+  
+  
+
+</head>
+
+<body class="">
+
+  
+
+  <div class="wrap">
+    <header class="mb">
+      <h1 class="h2 m-0"><a href="/">UCOSP</a></h1>
+      <p class="site-description"></p>
+    </header>
+
+
+<main>
+<article class="post">
+  <h1><a href="https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/11/status-report-nov-25-2009/" title="Status Report: Nov 25, 2009">Status Report: Nov 25, 2009</a></h1>
+  
+
+<h2 id="peter"><strong>Peter</strong></h2>
+
+<h3 id="status">Status</h3>
+
+<ul>
+<li>Good push to finished work on bug 294015.</li>
+<li>Decided to use the &ldquo;empty project&rdquo; wizard and the already created Kawa File wizard so that now they can be used to create a project and scheme files.</li>
+<li>Fixing NULL pointer exception when clicking a file in the explorer. I am pretty sure that it has to do with the fact that I used the Java Lite Explorer and it is looking for the java lite editor which doesn&#8217;t exist in Scheme.</li>
+<li>Dennis said that he would help me along with the explorer. I think that we should be able to get this done early next week.</li>
+</ul>
+
+<h3 id="next-steps">Next Steps</h3>
+
+<ul>
+<li>Work with Dennis to fix null pointer in explorer, that will finish bug 294015</li>
+<li>Help Maciej with Help view bug 298383</li>
+</ul>
+
+<h3 id="roadblocks">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    End of term crunch
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="dennis"><strong>Dennis</strong></h2>
+
+<h3 id="status-1">Status</h3>
+
+<ul>
+<li>Working on Bug 293838; will be completed by code freeze</li>
+<li>Working on Bug 294015; will be completed by code freeze (Nov 29)</li>
+</ul>
+
+<h3 id="next-steps-1">Next Steps</h3>
+
+<ul>
+<li></li>
+</ul>
+
+<h3 id="roadblocks-1">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    End of term crunch
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="nil"><strong>Nil</strong></h2>
+
+<h3 id="status-2">Status</h3>
+
+<ul>
+<li>I participated in the discussion on the following bugs: 294487,Scheme Play button, 295541 Scheme : parenthesis not matching</li>
+<li>Meeting on IRC with the team.</li>
+<li>Worked on the parser with Maxime.</li>
+<li>Created JUnit tests for the parser.</li>
+<li>Investicating how to color in green the matching parenthesis (295541).</li>
+<li>Removed the menu and two icons from Scheme4Edu (293093).</li>
+</ul>
+
+<h3 id="next-steps-2">Next Steps</h3>
+
+<ul>
+<li>By november 29, I want the non-matching parenthesis to be done.</li>
+<li>And, provide a set of tests for the parser.</li>
+</ul>
+
+<h3 id="roadblocks-2">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    End of term crunch
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="maxime"><strong>Maxime</strong></h2>
+
+<h3 id="status-3">Status</h3>
+
+<ul>
+<li>Helped Nil with issue we had with the REPL error message.</li>
+<li>Fixed the issues we had with the scheme perspective: the code outline and the &ldquo;Jump to Definition&rdquo; was broken.</li>
+
+<li><p>Changed the Scheme parser using the use the R6RS lexical syntax:</p>
+
+<p><a href="http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-7.html#node_sec_4.2.1">http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-7.html#node_sec_4.2.1</a></p>
+
+<p>and R6RS Datum syntax :</p>
+
+<p><a href="http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-7.html#node_sec_4.3.1">http://www.r6rs.org/final/html/r6rs/r6rs-Z-H-7.html#node_sec_4.3.1</a></p></li>
+
+<li><p>This parser is finished and seem to work fine</p></li>
+</ul>
+
+<h3 id="next-steps-3">Next Steps</h3>
+
+<ul>
+<li><p>Need to add Semantic support to parser to know which variable is visible in each <body></p>
+
+<p>Ex:</p>
+
+<p>(define <variable> <expression>)</p>
+
+<p>(define (<variable> <formals>) <body>)</p>
+
+<p>(lambda <formals> <body>)</p>
+
+<p>(let <bindings> <body>)</p>
+
+<p>(let* <bindings> <body>)</p>
+
+<p>(letrec <bindings> <body>)</p>
+
+<p>(letrec* <bindings> <body>)</p></li>
+</ul>
+
+<h3 id="roadblocks-3">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    End of term crunch
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="maciej"><strong>Maciej</strong></h2>
+
+<h3 id="status-4">Status</h3>
+
+<ul>
+<li>Still working on bug 293838 (Scheme help view), want to add scheme help to the IDE so that students can quickly look up functions, procedures, keywords, etc.</li>
+<li>Located and ripped out the help pages from the LambdaBeans project (as suggested by Nil).</li>
+<li>Added a dummy table of contents and an index to our plug-in.</li>
+<li>Currently, we can press F1 to bring up the help view where our help pages will be visible.</li>
+</ul>
+
+<h3 id="next-steps-4">Next Steps</h3>
+
+<ul>
+<li>Add all the help pages to the table of contents and index all the pages.</li>
+<li>After the indexing is done the user should be able to quickly search for the page they want.</li>
+</ul>
+
+<h3 id="roadblocks-4">Roadblocks</h3>
+
+<ul type="disc">
+  <li>
+    End of term crunch
+  </li>
+</ul>
+
+<hr />
+
+  <p class="small gray"><time datetime="2009-11-26">Nov 26, 2009</time></p>
+</article>
+</main>
+</div>
+
+
+
+</body>
+</html>

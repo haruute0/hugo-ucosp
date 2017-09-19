@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2014 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/fall-2014/</link>
+    <description>Recent content in Fall 2014 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2014 16:40:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/fall-2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UMPLE Experiences</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/umple-experiences/</link>
+      <pubDate>Wed, 10 Dec 2014 16:40:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/umple-experiences/</guid>
+      <description>Karin Ng from the University of Toronto gives us her experience working with UMPLE this term.
+Umple merges UML modeling and programming to facilitate Model-Oriented Programming. The models include class diagrams, state machines, and composite structures. My primary project is to create a generator that takes in current Umple semantics to produce GraphViz (open source graph visualization software) code of an entity-relationship diagram. After I have completed the generation, I hope to look into refactoring all the generators and extracting commonalities into a generation library.</description>
+    </item>
+    
+    <item>
+      <title>Reflecting on UCOSP</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/reflecting-on-ucosp/</link>
+      <pubDate>Sun, 07 Dec 2014 21:18:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/reflecting-on-ucosp/</guid>
+      <description>Andrew Hong from the University of Toronto gives us his impressions of the program.  It has been almost two full months in the Undergraduate Capstone Open Source Projects (UCOSP) program and now that I look back, it has been an amazing experience. If you are reading this, you probably have an idea of what the UCOSP program is about and are looking to find out more. UCOSP is basically where you get to work on a distributed open source project for a semester with a team of students and mentors.</description>
+    </item>
+    
+    <item>
+      <title>Sharing my UCOSP Experience</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/sharing-my-ucosp-experience/</link>
+      <pubDate>Thu, 04 Dec 2014 15:41:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/sharing-my-ucosp-experience/</guid>
+      <description>Yifan Ren from the University of Waterloo provides this overview of his UCOSP experience: I Participated in the BB10 PhoneGap team and was working on porting native plugins for BlackBerry10. I had an enjoyable and rewarding time working on the project, and experienced real-world software engineering practices and open source collaboration.
+One thing I really appreciate about the BB10 PhoneGap project is its tasks. It has a list of independent tasks, and each one requests to build a complete plugin project of a useful feature, for example, zip file extraction and compression, barcode scanner, and system dialog.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on UCOSP</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/thoughts-on-ucosp/</link>
+      <pubDate>Tue, 02 Dec 2014 12:59:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/12/thoughts-on-ucosp/</guid>
+      <description>Faraz Sherwani from the University of Waterloo shares his thoughts on the UCOSP program this term.  Why you may want to UCOSP     Meet, work with and be mentored by some really smart people in your field.   Learn a new language, or set of tools that a particular project uses, but that you are not too familiar or experienced with.   Learn the details of a particular source control workflow that you may not have used in the past.</description>
+    </item>
+    
+    <item>
+      <title>What I&amp;#8217;ve Learned From UCOSP</title>
+      <link>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/11/what-ive-learned-from-ucosp/</link>
+      <pubDate>Fri, 28 Nov 2014 13:06:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/fall-2014/2014/11/what-ive-learned-from-ucosp/</guid>
+      <description>Yanjia Xin from the University of Waterloo summarizes her UCOSP experience:
+I have grown quite a bit since I started working on Review Board. Prior to Review Board, I rarely did anything on web development, touched a little bit HTML and Javascript. I was a beginner in python, and never actually seen any Django projects before. Throughout this term, all those things have changed. Here are some tips I would like to share with all of you.</description>
+    </item>
+    
+  </channel>
+</rss>

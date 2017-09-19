@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thunderbird on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/thunderbird/</link>
+    <description>Recent content in Thunderbird on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Feb 2010 08:51:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/thunderbird/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thunderbird Status Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/thunderbird-status-update-2/</link>
+      <pubDate>Fri, 19 Feb 2010 08:51:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/02/thunderbird-status-update-2/</guid>
+      <description>Progress is a bit slow in the Thunderbird camp this week. Zach is re-submitting his last patch after making the appropriate refinements and MozMill tests.Wei Xian Woo submitted his first patch and tests this week. He has already begun working on his second bug&amp;#8230;
+View this week&amp;#8217;s full status update here</description>
+    </item>
+    
+    <item>
+      <title>Up and Down</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/up-and-down-2/</link>
+      <pubDate>Sat, 28 Nov 2009 19:20:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/11/up-and-down-2/</guid>
+      <description>Up: One of the best parts for me was learning what a great thing constructive criticism is. I practically look forward to a denied patch because of the amount of feedback and the opportunity for improvement. This was refreshing after just getting a discouragingly low mark.
+Down: The delay of email sometimes causes all progress to halt because I just didn&amp;#8217;t know how to proceed. This would cause breaks and dry spells, something I found tough to deal with.</description>
+    </item>
+    
+  </channel>
+</rss>

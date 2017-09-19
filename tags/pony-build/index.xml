@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pony Build on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/pony-build/</link>
+    <description>Recent content in Pony Build on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Apr 2010 14:24:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/pony-build/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pony-build Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/04/pony-build-updates/</link>
+      <pubDate>Wed, 07 Apr 2010 14:24:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/status/2010/04/pony-build-updates/</guid>
+      <description>Khushboo:
+Khushboo has been wrestling with git and getting her branch(s) to push properly. Some very informative posts can be found on her blog. She also continues creating build scripts for other python packages.
+Fatima:
+Fatima has been working on getting branch support in for Mecurial checkouts in pony-build, to go along with the new changes, she has also been working on tests. You can read up on all her research into the subject as well as her progress over at her blog.</description>
+    </item>
+    
+    <item>
+      <title>Max&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/maxs-midway-update/</link>
+      <pubDate>Tue, 23 Feb 2010 19:58:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/maxs-midway-update/</guid>
+      <description>Here is where you can find my thoughts on all this UCOSP and pony-build stuff so far.</description>
+    </item>
+    
+    <item>
+      <title>Indentation&amp;#8230;.Serious Business</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/indentation-serious-business/</link>
+      <pubDate>Sun, 21 Feb 2010 17:38:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/indentation-serious-business/</guid>
+      <description>The pony-build team just had our weekly meeting the other night and the following is what people have been working on:
+1) Jack has been working on some command line stuff. You can follow his thread here, for descriptions of his changes as well as what he is planning to tackle next.
+2) Fatima has been working on getting her coverage build script finished up and working, as well as refining the HgClone implementation in the pony-build client.</description>
+    </item>
+    
+    <item>
+      <title>Getting up to speed with Pony-Build</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/getting-up-to-speed-with-pony-build/</link>
+      <pubDate>Mon, 25 Jan 2010 06:20:57 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/getting-up-to-speed-with-pony-build/</guid>
+      <description>Since we couldn’t all meet for the Sprint code in Toronto, the first steps into pony-build were to get to speed with the software layout and with working with Git. We were constantly communicating via Skype and our group lead Pr. Titus was very patient and helpful throughout the process.
+We first got the software running on Linux via Lyorn then on our own computer (on Windows and Mac). Then our next task was to write one of the client scripts for existing packages, commit it, and push it to Github.</description>
+    </item>
+    
+    <item>
+      <title>The pony-build Express</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/the-pony-build-express/</link>
+      <pubDate>Tue, 19 Jan 2010 12:44:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/sprint/2010/01/the-pony-build-express/</guid>
+      <description>As the dust settles from this years Spring Code Sprint, I am left with some interesting reflections. One, coding for 9 hours straight sure gets hard without proper caffeine intake, maybe an IV drip will be a good investment for the next one. Two, ordering lots of food when someone else is paying is lots of fun, even if you end up walking (waddling?) out with some of it in a bag.</description>
+    </item>
+    
+  </channel>
+</rss>

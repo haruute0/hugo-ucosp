@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercurial on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/mercurial/</link>
+    <description>Recent content in Mercurial on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Apr 2010 15:33:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/mercurial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mercurial: the end of the beginning</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/04/mercurial-the-end-of-the-beginning/</link>
+      <pubDate>Mon, 05 Apr 2010 15:33:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/04/mercurial-the-end-of-the-beginning/</guid>
+      <description>Today marks the last day of classes at the University of Waterloo, and so ends the official portion of the UCOSP project for Tessa, Wendy, and myself. During our last meeting on April 1st, we tied some loose ends on our patches and discussed our experiences in the project. I will save the details for the final reports, but we all agreed that we&amp;#8217;d like to continue contributing to Mercurial as time permits.</description>
+    </item>
+    
+    <item>
+      <title>The Real Challenge of UCOSP</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/04/the-real-challenge-of-ucosp/</link>
+      <pubDate>Mon, 05 Apr 2010 15:08:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/04/the-real-challenge-of-ucosp/</guid>
+      <description>&amp;#8220;The real challenge of GSoC is not the coding, it&amp;#8217;s learning to work with a community,&amp;#8221; wrote Matt Mackall to the Mercurial mailing list a couple days ago with regard to the upcoming Google Summer of Code projects: http://selenic.com/pipermail/mercurial/2010-April/030996.html
+I believe this applies equally well to us: the real challenge of UCOSP is not the coding, it&amp;#8217;s learning to work with a community. This is especially true for the Mercurial team because we are working with such a large, established, global community of developers.</description>
+    </item>
+    
+    <item>
+      <title>mercurial # the end if nigh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-the-end-if-nigh/</link>
+      <pubDate>Fri, 26 Mar 2010 20:41:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-the-end-if-nigh/</guid>
+      <description>For some of us on the Mercurial crew next week is the closing chapter of the UCOSP adventure. Tessa, Wendy and Anton from Waterloo will be finishing their term, and with that their contributions to Mercurial as part of the program. That&amp;#8217;s not to say they&amp;#8217;ll be done with Mercurial for good—the general consensus is that we all had a great time. Paul and myself still have until mid-April to get the remainder of our work submitted.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial is still flowing</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-is-still-flowing/</link>
+      <pubDate>Fri, 05 Mar 2010 02:54:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/mercurial-is-still-flowing/</guid>
+      <description>In Mercurial land, we&amp;#8217;ve made progress in closer integration between bfiles and core Mercurial commands, a tool to &amp;#8220;bfilesify&amp;#8221; a Mercurial repository, and further work on the caseguard extension. More details below.
+Due to various scheduling conflicts, we did not have a status meeting last week. This week the meeting happened on Wednesday at 9pm EST. We&amp;#8217;ll be back to Thursdays at 6:30pm EST starting next week.
+Chat transcript: https://ucosp.fogbugz.com/default.asp?W38</description>
+    </item>
+    
+    <item>
+      <title>Wendy&amp;#039;s Midterm report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/wendys-midterm-report/</link>
+      <pubDate>Mon, 01 Mar 2010 19:20:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/03/wendys-midterm-report/</guid>
+      <description>It has been a very good learning experience for me to work with Mercurial team so far.
+What I learned:
+To be honest, I had no experience in python coding or Mercurial at the beginning of the semester. I was terrified that I had no idea how to start my worm-up project tagmerge extension at the code sprint. Thankfully, Benjamin was really patient with me and guided me where to start off.</description>
+    </item>
+    
+    <item>
+      <title>The Mercurial Team&amp;#039;s Midway Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/the-mercurial-teams-midway-report/</link>
+      <pubDate>Sun, 28 Feb 2010 04:33:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/the-mercurial-teams-midway-report/</guid>
+      <description>When we set out at the beginning of UCOSP, my goal was for us to contribute significantly to Mercurial by the end of the semester. How well have we accomplished that goal so far?
+At the beginning of the semester, all of the students were given small, self-contained bug fixes and features that we&amp;#8217;d discovered people wanted over the course of developing Kiln, mostly in the form of Mercurial extensions. Four of these were quickly completed: cedit, a command-line-based way to configure Mercurial; cache-annotations, which makes annotating files repeatedly ridiculously fast; globexclude, which allows you to exclude files based on their glob pattern when doing conversions to Mercurial; and caseguard, which warns you when you are committing files that have names that will prevent Mac and Windows users from using your repository.</description>
+    </item>
+    
+    <item>
+      <title>alexandru&amp;#039;s Half-Time View</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/alexandrus-half-time-view/</link>
+      <pubDate>Fri, 26 Feb 2010 01:31:35 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/alexandrus-half-time-view/</guid>
+      <description>warm-up I&amp;#8217;ve used open-source software for the last 7 years (which is feels like a blip in Internet time). I was aware since the beginning that these projects thrive on contributions from people all over the world. And I knew that these tools had bugs and had roadmaps with desired features waiting on some developer to tackle. But before UCOSP I&amp;#8217;ve never made a solid contribution to anything. I always imagined expert programmers are the only ones that have a business getting involved in these projects and submitting patches and extensions.</description>
+    </item>
+    
+    <item>
+      <title>Anton&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/antons-midway-update/</link>
+      <pubDate>Wed, 24 Feb 2010 18:16:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/antons-midway-update/</guid>
+      <description>It&amp;#8217;s hard to believe that we are already 1&amp;frasl;2 way through the UCOSP Mercurial project. It has been an amazing learning experience from both a technical and a social point of view.
+I started out this project with some limited experience of using Mercurial on my own system. Not only did I have to learn Mercurial in the context of a team, but I also had to put myself in the shoes of users very different from myself.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Weekly Report (Week 8)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-report-week-8/</link>
+      <pubDate>Fri, 19 Feb 2010 16:19:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-report-week-8/</guid>
+      <description>We continued our work on bfiles and improving our patches this week.
+Patches:
+ cedit (paulitex):
+ Submit unit test and rege fix for iniparse Documentation for credit  tagmerge(Wendy):
+ Use tag.py functions to read tags Changed the merge algorithm Debugging writing tags problem  convert (Tessa):
+ Tested standard mercurial matcher Refactored filemapper to use the mercurial match  caseguard (alexandru):
+ Removed the protection for `hg rm&amp;#8217; Code clean-up/polish   bfiles:</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Weekly Status Report (Week 7)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-status-report-week-7/</link>
+      <pubDate>Fri, 12 Feb 2010 03:51:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-weekly-status-report-week-7/</guid>
+      <description>Here is a summary of what we&amp;#8217;ve been up to this week. As usual, the IRC transcript of the meeting and our more detailed status report are posted.
+ Continued work on our our patches that were submitted last weeks Progress with bfiles:   Benjamin set up a Linode server for us to develop and test the network-related bfiles issues Continued discussion on the the mercurial-devel mailinglist with seasoned mercurial developers regarding our ideas for autorefresh and how to keep the bfiles in the respository in a consistant state  After we finished discussing UCOSP-specific issues, we move to the main Mercurial IRC channel where we further discussed getting rid of bfrefresh, and having the refresh happen automatically.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial: Public Announcements</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-public-announcements/</link>
+      <pubDate>Thu, 04 Feb 2010 19:50:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/02/mercurial-public-announcements/</guid>
+      <description>All of us on the Mercurial team have submitted extensions and patches to the devel mailing list this week:
+ Anton&amp;#8217;s cache annotations extension (list announcement) Paul&amp;#8217;s cedit configuration editor extension (list announcement) Tessa&amp;#8217;s convert patch, to support glob excludes (list announcement) Alexandru&amp;#8217;s caseguard case-fold collision prevention extension (list announcement | blog post) Wendy&amp;#8217;s tagmerge extension for merging .hgtags (list announcement)  The feedback&amp;#8217;s been great so far, as have the bug reports (which means at least a few people tried out what we made).</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Progress Report (Week 4)</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-progress-report-week-4/</link>
+      <pubDate>Fri, 29 Jan 2010 16:09:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-progress-report-week-4/</guid>
+      <description>We have made substantial progress towards getting our initial contributions ready for submitting to the mercurial-devel mailing list. This has been a week of testing and code reviews where we all learned something new about Mercurial and writing python code in general.
+To summarize, you can expect the following extensions to be submitted to the mercurial mailing list in the next week:
+ tagmerge (wendyY): support smart merging of tag files (tags are labels for specific commits or heads)  some fixes and testing, testing, testing  cedit (paulitex): command line and interactive editing of mercurial configuration files with shortcuts for common setup operations  submitted iniparse (external lib) changes upstream documentation, bootstrapping, testing, testing, testing  convert (Tessa): modifying the convert extension to support wildcards in exclude statements  order/precedence of include vs.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial Meeting 1</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-meeting-1/</link>
+      <pubDate>Fri, 22 Jan 2010 05:22:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-meeting-1/</guid>
+      <description>Our team had our first remote meeting today (Thursday). We covered progress made this week, discussed obsticles, and plans for the near future. A quick summary follows. You can find the whole transcript at: https://ucosp.fogbugz.com/default.asp?W10
+Progress:
+ paulitex: a couple of new features/extensions for config-editor extension. Only a couple more TODOs left. Looking for code reviews. alexandru: worked on caseguard extension to support &amp;#8216;hg rm&amp;#8217;. Still needs to address code review feedback.</description>
+    </item>
+    
+    <item>
+      <title>Mercurial &amp;#8211; Getting Into the Groove</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-getting-into-the-groove/</link>
+      <pubDate>Sun, 17 Jan 2010 22:37:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/mercurial-getting-into-the-groove/</guid>
+      <description>The coding sprint is winding down here in Toronto, but the Mercurial UCOSP project is just getting into the groove. As people are making their way home &amp;#8211; across the street or across the country &amp;#8211; I want to take a few minutes to expand on Alex&amp;#8217;s post and summarize this weekend.
+Working on a mature project like Mercurial has its advantages and disadvantages. On the one hand, we have a real successful project to learn from, but at the same time, it is hard to find work that is both accessible to a newbie and has real impact on the project.</description>
+    </item>
+    
+    <item>
+      <title>First Push: Mercurial</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</link>
+      <pubDate>Sun, 17 Jan 2010 05:34:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</guid>
+      <description>During this Code Sprint we focused on a few improvements to Mercurial that make it easier and safer to use. Each of the tasks we worked on was scoped such that only one developer was needed, but this gave everyone a chance to dive head-first into the Mercurial codebase at their own pace. For some (myself included) this is also the first serious project in Python, and these two days were a great opportunity to ask lots of questions.</description>
+    </item>
+    
+    <item>
+      <title>Denis Lila</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/denis-lila/</link>
+      <pubDate>Tue, 12 Jan 2010 03:02:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/denis-lila/</guid>
+      <description>Hello.
+My name is Denis. I&amp;#8217;m a third year computer science (AI) at the University of Toronto. I will be working with the Mercurial team.
+I chose the Mercurial project because I didn&amp;#8217;t want to be involved in any academia-related projects, and I wanted to work on something with a large number of users. Also, C and python are my favourite languages, and it is sponsored by Fog Creek Software, which seems like a great company, so it would be nice to get on their good side.</description>
+    </item>
+    
+    <item>
+      <title>Alexandru Totolici</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</link>
+      <pubDate>Thu, 31 Dec 2009 13:37:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</guid>
+      <description>Hi, I&amp;#8217;m Alexandru Totolici. I hail from UBC, starting the 6th winter term of my Bachelor of Science program (majoring in Computer Science). I&amp;#8217;ll be working on Mercurial. I&amp;#8217;ve been fortunate enough to work with some great people during co-ops at WebCT (now Blackboard), MDA, Safe Software, and Kodak, as well as during my time with UBC&amp;#8217;s Office of Learning Technology. I&amp;#8217;ve touched on QA, GUI, server API testing, backend tool development, WordPress and MediaWiki plugin development, and I&amp;#8217;ve done it in everything from Bash to C#.</description>
+    </item>
+    
+    <item>
+      <title>Wendy Yang</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wendy-yang/</link>
+      <pubDate>Mon, 28 Dec 2009 20:19:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wendy-yang/</guid>
+      <description>Wendy Yang&#39;s Picture  Hi, I&amp;#8217;m Wendy Yang. I&amp;#8217;m a 4th year Computer Science student in University of Waterloo. I will be working with the Mercurial team next term.
+I have software development experience using C, C++, Java, C#, VB through my co-op terms and school projects. I&amp;#8217;m very glad to have the opportunity to work with everyone in UCOSP. I&amp;#8217;m looking forward to meet everybody in the code sprint.</description>
+    </item>
+    
+    <item>
+      <title>Paul Lambert</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/paul-lambert/</link>
+      <pubDate>Wed, 23 Dec 2009 06:42:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/paul-lambert/</guid>
+      <description>My name is Paul Lambert, I&amp;#8217;m from UBC and will be on the Mercurial team.
+After graduating with a BA in 2006, I went back to school and started UBC&amp;#8217;s Bachelor of Computer Science program in the Fall of 2007. It has been awesome, one of the best choices I&amp;#8217;ve ever made. I just finished my degree requirements and am tying it all up by taking two more courses, doing this capstone project, and working on my startup, Matygo.</description>
+    </item>
+    
+    <item>
+      <title>Anton Markov</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anton-markov/</link>
+      <pubDate>Thu, 17 Dec 2009 08:09:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anton-markov/</guid>
+      <description>Hello everyone!
+My name is Anton Markov, and I am a fourth-year Math student at the University of Waterloo studying Computer Science and Combinatorics &amp;amp; Optimization. I will be working on the Mercurial project in the upcoming Winter 2010 term.
+ I am excited to be working on Mercurial for several reasons. First of all, Mercurial is a tool that I have personally used on a couple of co-op terms with great success.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2010 Project #5: Mercurial</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2009/11/winter-2010-project-5-mercurial/</link>
+      <pubDate>Thu, 12 Nov 2009 21:03:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2009/11/winter-2010-project-5-mercurial/</guid>
+      <description>The Mercurial distributed version control system is used by thousands of developers. NetBeans, OpenJDK, OpenOffice, and Python itself are just a few of the projects that have adopted Mercurial as their version control system. But as much as Mercurial has been making incredible inroads in the open-source community, it has some key deficiencies that make it a poor choice for real-life commercial development.
+Here at Fog Creek Software, we&amp;#8217;re about to release a brand-new source control management system called Kiln that&amp;#8217;s based on Mercurial.</description>
+    </item>
+    
+  </channel>
+</rss>

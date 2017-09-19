@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter 2014 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/winter-2014/</link>
+    <description>Recent content in Winter 2014 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 14:13:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/winter-2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UCOSP: How I learned to stop worrying and love open source development</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/04/ucosp-how-i-learned-to-stop-worrying-and-love-open-source-development/</link>
+      <pubDate>Wed, 09 Apr 2014 14:13:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/04/ucosp-how-i-learned-to-stop-worrying-and-love-open-source-development/</guid>
+      <description>Olessia Karpova from the University of Toronto summarizes her UCOSP experience:
+First steps
+The first step after being accepted into the program is picking the project. This year there were over 20 projects, how do you choose the right one? This is something you’ll be working on for a considerable amount of time – think about what your priorities are: is it to dive deeper into a topic you are already comfortable with?</description>
+    </item>
+    
+    <item>
+      <title>Extending MediaWiki using extensions and hooks</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/03/extending-mediawiki-using-extensions-and-hooks/</link>
+      <pubDate>Thu, 13 Mar 2014 13:51:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/03/extending-mediawiki-using-extensions-and-hooks/</guid>
+      <description>Wen-Chien Chen from Waterloo fills us in on his work with MediaWiki extensions:
+MediaWiki is a versatile wiki software package written in PHP that powers websites where users write collaboratively. It is used in a variety of applications, from Wikipedia to the online documentation of Arch Linux. The extension architecture of MediaWiki allows it to adapt to the needs of different applications: while the core portion of the software is already powerful, it can be augmented with modular extensions.</description>
+    </item>
+    
+    <item>
+      <title>Winter 2014 Code Sprint</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/03/winter-2014-code-sprint/</link>
+      <pubDate>Mon, 03 Mar 2014 17:23:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/03/winter-2014-code-sprint/</guid>
+      <description>Tim Windsor and Deric Cheng check in with their experiences at the code sprint at Facebook held in mid February.</description>
+    </item>
+    
+    <item>
+      <title>Developing for Blackberry Cordova on Linux</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/02/developing-for-blackberry-cordova-on-linux/</link>
+      <pubDate>Tue, 25 Feb 2014 15:17:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/02/developing-for-blackberry-cordova-on-linux/</guid>
+      <description>James Wood from Waterloo is working on Blackberry Cordova plugins on Linux and provides this reference for future developers who are trying to do the same.
+History As of this writing, Linux is not supported by Blackberry for development, which means if you are reading this, that you have chosen to walk the difficult path. The good news is that you won&amp;#8217;t be alone, and hopefully this guide will help get you started.</description>
+    </item>
+    
+    <item>
+      <title>Initial UCOSP Report</title>
+      <link>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/02/initial-ucosp-report/</link>
+      <pubDate>Fri, 21 Feb 2014 15:10:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/winter-2014/2014/02/initial-ucosp-report/</guid>
+      <description>Hi! My name is Brandon Noad, and I am a Computer Science student at the University of Waterloo. This term I was selected to participate in the UCOSP program where I get to work on an open source software project with other students from around the globe—for credit! The project I was assigned to is called GeoTrellis. GeoTrellis is a Scala library and framework for creating useful, high performing web services that load and manipulate raster data (visit the GeoTrellis documentation and GitHub pages for more information).</description>
+    </item>
+    
+  </channel>
+</rss>

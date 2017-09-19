@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flightsim on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/flightsim/</link>
+    <description>Recent content in Flightsim on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2010 19:59:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/flightsim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coming to a close&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/04/coming-to-a-close/</link>
+      <pubDate>Mon, 12 Apr 2010 19:59:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/04/coming-to-a-close/</guid>
+      <description>Our FlightSim project has come to a close last week, after posting our final delieverable. It&amp;#8217;s been a long ride, so I thought I should take my time to write down my experience and what I&amp;#8217;ve learned here.
+Different from most of you, our project started at IBM&amp;#8217;s lab, not at the St. George campus. On our first morning, all of us were invited to their lab at Markham. The lab itself is a really cool place, and the IBMers have treated us well.</description>
+    </item>
+    
+    <item>
+      <title>Final deliverables of Data Center Flight Simulator</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/final-deliverables-of-data-center-flight-simulator/</link>
+      <pubDate>Wed, 31 Mar 2010 18:04:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/final-deliverables-of-data-center-flight-simulator/</guid>
+      <description>List of deliverables:
+ Technology Explorer for IBM DB2: https://db2mc.svn.sourceforge.net/svnroot/db2mc/UCOSP/release/final WMD workload profiles: https://db2mc.svn.sourceforge.net/svnroot/db2mc/UCOSP/release/final/config_files%20in%20WMD/ Document on how to add new scenarios: https://sourceforge.net/apps/mediawiki/db2mc/index.php?title=Adding_new_Scenarios Document on how to use TE to test a person: https://sourceforge.net/apps/mediawiki/db2mc/index.php?title=Testing_a_person_DB2_diagnostic_knowledge_using_the_Technology_Explorer Document of graphical indicator: https://sourceforge.net/apps/mediawiki/db2mc/index.php?title=Action_-_indicator Final video of locklist tutorial:  URL1: http://vimeo.com/10569706 URL2: to be uploaded to sourceforge.net  Final video of IO tutorial:  URL1: http://reseau.twisto.ca/io.m4v URL2: http://www.youtube.com/watch?v=RLgOBTtMyvs URL3: to be uploaded to sourceforge.net  Individual reports:  Diane: http://dianetam.</description>
+    </item>
+    
+    <item>
+      <title>Data Server Flight Simulator meeting minutes March 30th, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/data-server-flight-simulator-meeting-minutes-march-30th-2010/</link>
+      <pubDate>Tue, 30 Mar 2010 17:58:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/data-server-flight-simulator-meeting-minutes-march-30th-2010/</guid>
+      <description>Time:
+Mar 30th, 2010 1pm EST
+Attendance
+Michael, Matthew, Sylvain, , Godfrey, Lenny ,Diane, Matthew
+Absence:
+Jean
+General Update
+Michael will send the final package to Matthew tomorrow, please send Michael an email with all the work you want to delivery for tomorrow before 1pm EST, March 31st
+Please update to the latest code sometime today, and make sure your portion runs without problem.
+Please check in your WMD profiles into the config_files folder under mainline2(check out the current code, add your changes, then check it back in)</description>
+    </item>
+    
+    <item>
+      <title>flight Simulator Meeting minutes March 25, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-25-2010/</link>
+      <pubDate>Thu, 25 Mar 2010 17:40:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-25-2010/</guid>
+      <description>Time:
+Mar 25th, 2010 1pm EST
+Attendance
+Michael, Matthew, Sylvain, Jean, Godfrey, Lenny ,Diane
+Absence:
+General Update
+Conference information
+ Tuesday: Skype only Thursday: by phone: Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+  Deliverables today:
+ New video of lock wait scenario uploaded to https://sourceforge.net/projects/db2mc/files/UCOSP%20-%20Data%20center%20flight%20simulator/lock_wait_march_23.mov/download Document of how to test a person uploaded to https://sourceforge.net/apps/mediawiki/db2mc/index.php?title=How_to_Use_TE_to_Test_a_Person**** Documentation of graphical indicator uploaded to http://dianetam.com/dev/blog/wp-content/uploads/2010/03/Documentation_on_graphical_indicators_in_TE.doc Documentation of adding new scenario uploaded to https://sourceforge.</description>
+    </item>
+    
+    <item>
+      <title>Flight simulator meeting minutes March 23rd, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-23rd-2010/</link>
+      <pubDate>Tue, 23 Mar 2010 17:59:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-23rd-2010/</guid>
+      <description>Time:
+Mar 23rd, 2010 1pm EST
+Attendance
+Michael, Matthew, Sylvain, Jean, Godfrey, Lenny ,Diane
+Absence:
+General Comments for tutorials:
+ The page of ugly columns can be shown in a better way in TE, Matthew will provide further information The ad-hoc is now split into 2 panels, this can be displayed in 2 panels instead of split panels The column rendering can be used to show the values on the dial, so dials can display a wider range  General Update</description>
+    </item>
+    
+    <item>
+      <title>Flight Simulator meeting minutes March 18, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-18-2010/</link>
+      <pubDate>Thu, 18 Mar 2010 17:41:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-18-2010/</guid>
+      <description>Time:
+Mar 18th, 2010 1pm EST
+Attendance
+Michael, Matthew, Sylvain, Jean, Godfrey, Lenny ,Diane
+Absence:
+General Comments for tutorials:
+ The page of ugly columns can be shown in a better way in TE, Matthew will provide further information The ad-hoc is now split into 2 panels, this can be displayed in 2 panels instead of split panels The column rendering can be used to show the values on the dial, so dials can display a wider range  General Update</description>
+    </item>
+    
+    <item>
+      <title>Flight Simulator meeting minutes March 16, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-16-2010/</link>
+      <pubDate>Tue, 16 Mar 2010 17:40:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-16-2010/</guid>
+      <description>Time:
+Mar 16th, 2010 1pm EST
+Attendance
+Michael, Matthew, Sylvain, Jean,
+Absence:
+Godfrey, Lenny ,Diane
+General Update
+ IO Saturation deliverable on track, will be delivered by Thursday Please create your tickets for Sprint 4 in the tracker  Conference information
+ Tuesday: Skype only Thursday: by phone: Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+  Tasks for Sprint 4:
+ · Deliver IO saturation tutorial with the best we can do by March 18th · Build a panel with dials we have · Stabilize your work · Document the work · Build lesson plan about how to test a person  Individual tasks:</description>
+    </item>
+    
+    <item>
+      <title>Flight Simulator meeting minutes March 11, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-11-2010/</link>
+      <pubDate>Thu, 11 Mar 2010 19:25:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-simulator-meeting-minutes-march-11-2010/</guid>
+      <description>Time:
+Mar 11th, 2010 1pm EST
+Attendance
+Michael, Lenny, Matthew, Sylvain, Jean, Diane
+Absence:
+Godfrey
+General Update
+ Deliverable partially accepted, we are blocked by the IO saturation scenario, brief problem specification as follows:  Variables to monitor are dependent on machines Variables are not feasible to be displayed on a dial Unexpected negative values appear on variables The plan for now is to keep working on the IO scenario for another week, deliver the video with the best we can do by next Thursday Draft deliverables have been postponed by a week, this will give everyone enough time to stabilize your work, fix everything you don’t feel good about, while working on the next deliverable Please create your tickets for Sprint 4 in the tracker    Conference information</description>
+    </item>
+    
+    <item>
+      <title>FlightSim meeting minutes March 9, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flightsim-meeting-minutes-march-9-2010/</link>
+      <pubDate>Tue, 09 Mar 2010 18:51:33 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flightsim-meeting-minutes-march-9-2010/</guid>
+      <description>Time:
+Mar 9th, 2010 1pm EST
+Attendance
+Michael, Lenny, Matthew, Sylvain, Godfrey, Jean, Diane
+Absence:
+General Update
+Conference information
+ Tuesday: Skype only Thursday: by phone: Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+  Goals for Sprint 3:
+The general goal is to create a tutorial, like many others on TE, with our graphical indicator.** __**
+The tutorial will have an entry to open up a page with dials just for that tutorial (in the same page of the tutorial).</description>
+    </item>
+    
+    <item>
+      <title>FlightSim meeting minutes March 4th, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flightsim-meeting-minutes-march-4th-2010/</link>
+      <pubDate>Thu, 04 Mar 2010 18:25:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flightsim-meeting-minutes-march-4th-2010/</guid>
+      <description>Time:
+Mar 4th, 2010 1pm EST
+Attendance
+Michael, Lenny, Matthew, Sylvain, Godfrey
+Absence:
+Diane, Jean
+General Update
+ The end of the term is April 15th We will need to check the status of WMD setup on the server Tuesday: Skype only Thursday: by phone: Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+  Goals for Sprint 3:
+The general goal is to create a tutorial, like many others on TE, with our graphical indicator.</description>
+    </item>
+    
+    <item>
+      <title>Flight Sim meeting minutes March 2nd</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-sim-meeting-minutes-march-2nd/</link>
+      <pubDate>Tue, 02 Mar 2010 18:28:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flight-sim-meeting-minutes-march-2nd/</guid>
+      <description>Time:
+Mar 2nd, 2010 1pm EST
+Attendance
+Michael, Lenny, Matthew, Sylvain, Godfrey, Jean
+Absence:
+Diane
+General Update
+ Diane and Lenny with try both breakdown bar and histogram to see which one works better  Conference information
+ Tuesday: Skype only Thursday: by phone: Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+  Goals for Sprint 3:
+The general goal is to create a tutorial, like many others on TE, with our graphical indicator.</description>
+    </item>
+    
+    <item>
+      <title>flightSim meeting minutes Feb 25</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flightsim-meeting-minutes-feb-25/</link>
+      <pubDate>Mon, 01 Mar 2010 20:51:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/flightsim-meeting-minutes-feb-25/</guid>
+      <description>Time:
+Feb 25, 2010 1pm EST
+Attendance
+Diane, Michael, Lenny, Matthew, Sylvain, Godfrey, Jean
+Absence:
+General Update
+ Deliverable Accepted Suggestions:
+ add text on dials change the background (details from Matthew) should be able to resize the dial through some config Create dials for anything you are watching Video need to be in smaller resolution For locklist scenario, a better way is to show a ratio of row lock vs.</description>
+    </item>
+    
+    <item>
+      <title>Matthew Vandenbussche &amp;#8211; Flight Sim &amp;#8211; Midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/matthew-vandenbussche-flight-sim-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 19:38:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/matthew-vandenbussche-flight-sim-midway-update/</guid>
+      <description>It had been a busy an productive month and a half. I&amp;#8217;ll start off by pointing to the first two prototypes delivered by group on Thursday February 25 2010:
+http://www.youtube.com/watch?v=Xrz1ph_4Nms
+http://dev.chancancode.com/users2.mov
+Quickly, you are looking at is a simulation of a specific problems what can occur within a database system. The problem is then identified using the SQL monitoring functionality available within DB2 and then that mass of information refined into some simple prototype indicators.</description>
+    </item>
+    
+    <item>
+      <title>Michael Man&amp;#039;s midterm update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/michael-mans-midterm-update/</link>
+      <pubDate>Mon, 01 Mar 2010 16:24:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/michael-mans-midterm-update/</guid>
+      <description>This is my midterm update of the Flight Simulator project
+As the team lead on the student side for the first time in my life, I can feel the responsibility and challenge from my role all the time. I am basically using agile methodology I experienced in my previous coop work team and it turned out that everything worked out quite well. Tickets are opened and closed on time, and deliverables are officially accepted by IBM on the delivering date, so we can tell that the team is well on-track.</description>
+    </item>
+    
+    <item>
+      <title>Lenny&amp;#039;s midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/lennys-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 14:58:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/lennys-midway-update/</guid>
+      <description>The progress of the term is going well since the deliverables are completed on time and the IBM folks are satisfied with them. The most important feeling in this project is that, although we are physically in three different cities, two different time zones, we are able to keep up the communication and plans. Each of us are assigned with a task, complete it on time, and merge all of our work into one deliverable, and this cycle goes on, even though all of us are busy with other things at the same time.</description>
+    </item>
+    
+    <item>
+      <title>Diane&amp;#039;s Midway Update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/dianes-midway-update/</link>
+      <pubDate>Mon, 01 Mar 2010 04:12:14 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/03/dianes-midway-update/</guid>
+      <description>The term started off with an earlier Code Sprint kickoff than last term and this definitely helped get things in motion much quicker and allowed us to address problems much earlier on which I found was most helpful this term as our team ran into a series of dependent environment setup issues that delayed a lot of the work. The goals and requirements of the project were fairly vague at first, but despite these early setbacks, I found that the team I am working with this term (compared to my last term with UCOSP) is a lot more self-driven and willing to communicate, ask questions, keep each other updated and help each other out.</description>
+    </item>
+    
+    <item>
+      <title>Godfrey&amp;#039;s midway update</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/godfreys-midway-update/</link>
+      <pubDate>Wed, 24 Feb 2010 08:54:03 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/godfreys-midway-update/</guid>
+      <description>We spent the first week or two setting things up and play around with DB2. Getting everything we need up and running was a bit tricky, because some major pieces of our toolkit is still in its infancy. Therefore, I spent quite a lot of time documenting my experience on the developer&amp;#8217;s wiki because I believe this would help students that are joining this project in future semesters (as well as our teamates).</description>
+    </item>
+    
+    <item>
+      <title>Data server flight simulator meeting minutes Feb 23</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/data-server-flight-simulator-meeting-minutes-feb-23/</link>
+      <pubDate>Wed, 24 Feb 2010 08:33:15 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/02/data-server-flight-simulator-meeting-minutes-feb-23/</guid>
+      <description>Time:
+Feb 23, 2010 1pm EST
+Attendance
+Diane, Michael, Lenny, Matthew, Sylvain, Godfrey
+Absence:
+Jean
+General Update
+ Diane’s code is ready in her branch, instructions here http://dianetam.com/dev/blog/2010/02/22/flightsim-ui-status-report-week-of-feb-22nd/ Input definition finished, ready for use, Ticket 2949836 Conference information Tuesday: Skype only Thursday: by phone: Conference ID: 4450146 Local Dial-in number: 416-343-2610 Toll-free Dial-in number: 1 866-251-2605 International Toll-free Dial-in number: 800-4444-9000  What we did
+Matthew:
+ Server shipped to UofT  Lenny&amp;amp; Diane</description>
+    </item>
+    
+    <item>
+      <title>Data server flight simulator meeting minutes Feb 18</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-feb-18/</link>
+      <pubDate>Fri, 19 Feb 2010 22:14:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-feb-18/</guid>
+      <description>Time:
+Feb 18, 2010 1pm EST
+Attendance:
+Diane, Michael, Jean , Godfrey
+Absence:
+Lenny, Matthew, Sylvain
+General Update
+ For Matthew’s convenience today , conference is skype only Input definition finished, ready for use, Ticket 2949836 Conference information Tuesday: Skype only Thursday: by phone: Conference ID: 4450146 Local Dial-in number: 416-343-2610 Toll-free Dial-in number: 1 866-251-2605 International Toll-free Dial-in number: 800-4444-9000  What we did****
+Matthew:
+Server will be shipped to UofT tomorrow</description>
+    </item>
+    
+    <item>
+      <title>Data Server Flight Simulator meeting minutes for Feb 16, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-16-2010/</link>
+      <pubDate>Wed, 17 Feb 2010 03:56:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-16-2010/</guid>
+      <description>Time:
+Feb 16, 2010 1pm EST
+Attendance
+Lenny, Diane, Sylvain, Jean, Michael, Matthew
+Absence:
+Godfrey
+General Update
+ Keep working on tasks Conference information Tuesday: Skype only Thursday: by phone: Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+International Toll-free Dial-in number: 800-4444-9000
+  What we did
+Lenny: Closed Ticket#2949836, creating input definition for the graphical indicator.
+Create a input definition file
+Diane: working on Ticket#2949863, integrating the graphical indicator in TE.</description>
+    </item>
+    
+    <item>
+      <title>Data Server Flight Simulator meeting minutes for Feb 11, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-11-2010/</link>
+      <pubDate>Thu, 11 Feb 2010 18:40:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-11-2010/</guid>
+      <description>Time:
+Feb 11, 2010 1pm EST
+Attendance
+ Godfrey, Lenny, Diane
+Absence:
+Sylvain, Michael, Jean, Matthew
+General Update
+ Keep working on tasks settled on Tuesday Conference information Tuesday: Skype only Thursday: by phone: Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+International Toll-free Dial-in number: 800-4444-9000
+  What we did
+Lenny: working on Ticket#2949836, creating input definition for the graphical indicator.
+Diane: working on Ticket#2949863, integrating the graphical indicator in TE.</description>
+    </item>
+    
+    <item>
+      <title>Data Server Flight Simulator meeting minutes for Feb 09, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-09-2010/</link>
+      <pubDate>Tue, 09 Feb 2010 19:04:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/data-server-flight-simulator-meeting-minutes-for-feb-09-2010/</guid>
+      <description>Time:
+Feb 09, 2010 1pm EST
+Attendance
+Sylvain, Michael, Godfrey, Lenny, Jean, Diane ,Matthew
+Absence:
+General Update
+ Next deliverable is delayed by a week Please create your tickets for Sprint 2 Godfrey and Mike will be working on locklist scenario Jean and Sylvain will work on IO scenario Please set your ticket status to ‘pending’ for the tickets you are working on, so other people will know where you are at Conference information Tuesday: Skype only Thursday: by phone: Conference ID: 4450146</description>
+    </item>
+    
+    <item>
+      <title>Flight simulator meeting minutes Feb 04,2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/flight-simulator-meeting-minutes-feb-042010/</link>
+      <pubDate>Thu, 04 Feb 2010 19:07:04 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/flight-simulator-meeting-minutes-feb-042010/</guid>
+      <description>Thanks everyone for your great work! Our project is so far still in healthy state, keep the passion and we will succeed in the end!
+Time:
+Feb 04, 2010 1pm EST
+Attendance
+Sylvain, Michael, Godfrey, Lenny, Jean, Diane ,Matthew
+Absence:
+General Update
+ Michael and Godfrey’s presentation http://280slides.com/Viewer/?user=35124&amp;amp;name=Locklist%20Scenario&amp;amp;fullscreen Sylvain’s presentation http://www.slideshare.net/tensorus/data-center-flight-simulator-user-problem-3071642 All videos have been uploaded to https://sourceforge.net/projects/db2mc/files/ Please set your ticket status to ‘pending’ for the tickets you are working on, so other people will know where you are at Conference information  Conference ID: 4450146</description>
+    </item>
+    
+    <item>
+      <title>FlightSim meeting minutes: Feb 02,2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/flightsim-meeting-minutes-feb-022010/</link>
+      <pubDate>Tue, 02 Feb 2010 18:34:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/02/flightsim-meeting-minutes-feb-022010/</guid>
+      <description>Time:
+Feb 02, 2010 1pm EST
+Attendance
+Sylvain, Michael, Godfrey, Lenny, Matthew
+Absence: Jean, Diane****
+General Update
+ Please set your ticket status to ‘pending’ for the tickets you are working on, so other people will know where you are at Please vote the video scenario once they’re ready, Ticket 2933853 Conference information  Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+International Toll-free Dial-in number: 800-4444-9000</description>
+    </item>
+    
+    <item>
+      <title>Technology Explorer Introduction</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/technology-explorer-introduction/</link>
+      <pubDate>Thu, 28 Jan 2010 19:52:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/technology-explorer-introduction/</guid>
+      <description>Technology Explorer for IBM DB2 &amp;#8220;Flight simulator&amp;#8221; Project
+Team:
+
+Brian Olynyk, team lead of Technology Explorer
+Peter Kohlmann, original creator of Technology Explorer
+Matthew Vandenbussche, core developer and architect of Technology Explorer
+_UCOSP Students:_
+Michael Man SFU &amp;lt;mantong01@gmail.com&amp;gt;
+Godfrey Chan SFU &amp;lt;godfreykfc@gmail.com&amp;gt;
+Lenny Han Toronto &amp;lt;fallingangeles@gmail.com&amp;gt;
+Diane Tam Toronto &amp;lt;diane.tam@gmail.com&amp;gt;
+Jean Lalande Laval &amp;lt;jeanlalande@gmail.com&amp;gt;
+Sylvain Petitclerc Laval &amp;lt;sylvain.petitclerc@gmail.com&amp;gt;
+UCOSP FlightSim Team Blog:
+http://ucosp.wordpress.com/category/flightsim/
+Weekly Team Meetings:
+Tues and/or Thurs 1-2pm (EST)</description>
+    </item>
+    
+    <item>
+      <title>Recursive SQL query goodness</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/recursive-sql-query-goodness/</link>
+      <pubDate>Thu, 28 Jan 2010 18:38:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/recursive-sql-query-goodness/</guid>
+      <description>So this week I&amp;#8217;m looking into resursive SQL queries. And my goa? To saturate the CPU with that 😀 So normally you&amp;#8217;d want to make your query fast and avoid O(n^2) queries as much as possible, but now I&amp;#8217;m doing the opposite and make it use as much CPU as possible. Kinda awesome you get to do that for a school project isn&amp;#8217;t it!</description>
+    </item>
+    
+    <item>
+      <title>Meeting minutes for FlightSim on Jan 28, 2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/meeting-minutes-for-flightsim-on-jan-28-2010/</link>
+      <pubDate>Thu, 28 Jan 2010 18:24:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/meeting-minutes-for-flightsim-on-jan-28-2010/</guid>
+      <description>Time:
+Jan 28, 2010 1pm EST
+Attendance
+Sylvain, Michael, Jean, Godfrey, Diane, Lenny, Matthew
+Absence:
+General Update
+ Please don’t be late for meetings Conference information  Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+International Toll-free Dial-in number: 800-4444-9000
+ Road blocker for WMD removed for 2 additional machines , Ticket 2933844 is now closed Status: we have 16 opening tickets out of a total of 24 – 2&amp;frasl;3 of work to do, but the team has decided to deliver on time.</description>
+    </item>
+    
+    <item>
+      <title>Skype outage lastweek; Amazon internship interview</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/skype-outage-lastweek-amazon-internship-interview/</link>
+      <pubDate>Mon, 25 Jan 2010 23:21:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/skype-outage-lastweek-amazon-internship-interview/</guid>
+      <description>In the flight sim team we relied on skype for all non-verbal communication. It so happened that there is a global skype outage last Thursday right which happed to collide with our weekly team meeting&amp;#8217;s time. (Good thing that we are using IBM&amp;#8217;s conferce call infrastructure for our meeting.) Twitter again proved to be the best way to look for outage information like these &amp;#8211; a quick search for the #Skype hash tag quickly revealed to me that a lot of people are having the same problem, and eventually leads me to the official @Skype Twitter account.</description>
+    </item>
+    
+    <item>
+      <title>Data server flight simulator meeting minutes Jan 21</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/data-server-flight-simulator-meeting-minutes-jan-21/</link>
+      <pubDate>Thu, 21 Jan 2010 18:45:45 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/data-server-flight-simulator-meeting-minutes-jan-21/</guid>
+      <description>Time:
+Jan 21, 2010 1pm EST
+Attendance
+Michael, Jean , Godfrey, Danie, Sylvain, Matthew, Paul, Brian
+Absence:
+Lenny
+General Update
+ Conference information  Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+International Toll-free Dial-in number: 800-4444-9000
+ Road blocker for WMD removed for 3 machines , Ticket 2933844  What we did
+Matthew:
+ Getting server setup, Ticket 2935130 Setting up Windows 7  Michael:</description>
+    </item>
+    
+    <item>
+      <title>Flightsim Meeting Minutes for Jan 19,2010</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/flightsim-meeting-minutes-for-jan-192010/</link>
+      <pubDate>Tue, 19 Jan 2010 19:13:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/flightsim-meeting-minutes-for-jan-192010/</guid>
+      <description>Attendance
+Michael, Jean, Lenny, Matthew, Paul,Brian
+Absence:
+Godfrey, Danie, Sylvain
+Time:
+Jan 19, 2010, 1pm EST
+Minute taker:
+Michael
+General Update
+ Conference information  Conference ID: 4450146
+Local Dial-in number: 416-343-2610
+Toll-free Dial-in number: 1 866-251-2605
+International Toll-free Dial-in number: 800-4444-9000
+ Danie has created a blog page summarizing all the information regarding this project http://dianetam.com/dev/blog/2010/01/19/technology-explorer-introduction/ Summary of all WMD setups are now in ticket 2933844  What we did</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Aftermath</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-aftermath/</link>
+      <pubDate>Mon, 18 Jan 2010 05:20:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-aftermath/</guid>
+      <description>I&amp;#8217;d like to thank Greg, all the mentors/organisers and the nice people from IBM (especially Matthew) for everything they have done for us. They have obviously put lots of effort and their spare time into this and I think we should all give them a big round of aplause.
+So.. the code sprint is now officially over.. and here is what I think..
+What I liked:
+ Having the chance to meet everyone before we actually start coding turns out to be extremely valuable.</description>
+    </item>
+    
+    <item>
+      <title>Day 3: Database Flight Simulator</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/day-3-database-flight-simulator/</link>
+      <pubDate>Sun, 17 Jan 2010 20:56:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/day-3-database-flight-simulator/</guid>
+      <description>What we did today:
+ Assigned work to each team member, following the agile development style, we now have 10 small, measurable tickets here &amp;#8211; the goal of this sprint is to deliver 4 scenarios, and piloting graphical indicator for the next sprint. So we will have enough knowledge of the code in the team when the next sprint begins.  We have our first road blocker today &amp;#8211; the WMDServer does not work on either of our environments, whether it being Mac, Windows 7 or Windows Vista, and we have decided to work on the following items:</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint Day 1 &amp;amp;2 : Data Server Flight Simulator</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</link>
+      <pubDate>Sun, 17 Jan 2010 06:36:39 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/flightsim/2010/01/code-sprint-day-1-2-data-server-flight-simulator4/</guid>
+      <description>Day 1 (At IBM Canada):
+Activities:
+ Welcome, Introductions, OSS Development talk, CLA Introduction to the TE by Peter Kohlmann IBM DB2, Technology Explorer (TE) &amp;amp; Workload Multiuser Driver (WMD) &amp;#8211; setup on your systems DB2 architecture overview Walk through &amp;#8211; basic tutorial &amp;amp; view creation &amp;#8211; Matthew Vandenbussche  Issues:
+ There is a bug in db2 driver on Macbook, 3 of the team members are using Mac and had to switch to Windows/Linux  Day 2: (At University of Toronton)</description>
+    </item>
+    
+  </channel>
+</rss>

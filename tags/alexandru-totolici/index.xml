@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandru Totolici on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/alexandru-totolici/</link>
+    <description>Recent content in Alexandru Totolici on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2009 13:37:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/alexandru-totolici/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alexandru Totolici</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</link>
+      <pubDate>Thu, 31 Dec 2009 13:37:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</guid>
+      <description>Hi, I&amp;#8217;m Alexandru Totolici. I hail from UBC, starting the 6th winter term of my Bachelor of Science program (majoring in Computer Science). I&amp;#8217;ll be working on Mercurial. I&amp;#8217;ve been fortunate enough to work with some great people during co-ops at WebCT (now Blackboard), MDA, Safe Software, and Kodak, as well as during my time with UBC&amp;#8217;s Office of Learning Technology. I&amp;#8217;ve touched on QA, GUI, server API testing, backend tool development, WordPress and MediaWiki plugin development, and I&amp;#8217;ve done it in everything from Bash to C#.</description>
+    </item>
+    
+  </channel>
+</rss>

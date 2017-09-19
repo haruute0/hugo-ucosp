@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screencast on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/screencast/</link>
+    <description>Recent content in Screencast on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 04:06:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/screencast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WikiDev Screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/wikidev-screencast/</link>
+      <pubDate>Wed, 16 Dec 2009 04:06:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/wikidev-screencast/</guid>
+      <description>[youtube=http://www.youtube.com/watch?v=tpxxMrl_ufo]</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Project Video</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/thunderbird-project-video/</link>
+      <pubDate>Tue, 15 Dec 2009 00:42:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/screencast/2009/12/thunderbird-project-video/</guid>
+      <description>Enjoy:
+http://truevektordev.com/ucosp/ucosp-thunderbird-project-video.mov</description>
+    </item>
+    
+    <item>
+      <title>Markus: Flexible Marking Scheme ScreenCasts&amp;#8230;</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/12/markus-flexible-marking-scheme-screencasts/</link>
+      <pubDate>Mon, 14 Dec 2009 18:23:18 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/markus/2009/12/markus-flexible-marking-scheme-screencasts/</guid>
+      <description>Eventhough it is published on our DrProject since December first, we forgot to let you know that our screencasts are done. Please follow this links:
+&amp;#8211; Select a marking scheme
+&amp;#8211; Add flexible criterion
+Enjoy watching theme 😉</description>
+    </item>
+    
+    <item>
+      <title>Screencast of showing building of Geospatial with GEOS as non root user on Linux</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</link>
+      <pubDate>Sat, 12 Dec 2009 04:33:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/ingres/2009/12/screencast-of-showing-building-of-geospatial-with-geos-as-non-root-user-on-linux/</guid>
+      <description>The following tutorial video is done with GEOS 3.2.0, compiled in gcc 4.3 and g++ 4.3 depending on Xerces C headers and libraries 2.8, pam-devel, pax, jam, on a Debian server as a non root user.
+[youtube=http://www.youtube.com/watch?v=7no3_39GNx0&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;]
+For more details, please visit: http://i-wa.blogspot.com</description>
+    </item>
+    
+    <item>
+      <title>screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/12/screencast/</link>
+      <pubDate>Mon, 07 Dec 2009 15:37:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/robocup/2009/12/screencast/</guid>
+      <description>Our screencast is posted here
+Links to a few other videos we&amp;#8217;ve made:
+Human controls
+Another demo
+Playing a game against last term&amp;#8217;s team</description>
+    </item>
+    
+    <item>
+      <title>Embedded Eclipse4Edu Screencast</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/12/embedded-eclipse4edu-screencast/</link>
+      <pubDate>Sun, 06 Dec 2009 23:00:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/eclipse4edu/2009/12/embedded-eclipse4edu-screencast/</guid>
+      <description>[youtube=http://www.youtube.com/watch?v=i1BJrptWPfA]
+I guess since I am in Computing Science I should be able to embed a video into a blog.</description>
+    </item>
+    
+  </channel>
+</rss>

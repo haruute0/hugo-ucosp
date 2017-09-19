@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bios on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/bios/</link>
+    <description>Recent content in Bios on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jan 2010 19:37:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/bios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basie Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/basie-status-updates/</link>
+      <pubDate>Thu, 28 Jan 2010 19:37:30 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/basie-status-updates/</guid>
+      <description>We&amp;#8217;re on track to release Version 0.6 in time for PyCon (which is three weeks away), though we may get there by slapping the word &amp;#8220;beta&amp;#8221; after the &amp;#8220;0.6&amp;#8221; :-). Lots of bugs are being fixed; the ticketing system and milestone display are seeing significant re-work; and we&amp;#8217;re cleaning up code (e.g., pulling Javascript out of HTML pages and putting it in separate files, doing better error reporting). More importantly (at least for me), our work now has a rhythm: stuff is going up on ReviewBoard, getting checked, and getting committed on a pretty regular basis.</description>
+    </item>
+    
+    <item>
+      <title>Jean Lalande</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/jean-lalande/</link>
+      <pubDate>Thu, 14 Jan 2010 03:10:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/jean-lalande/</guid>
+      <description>Hello everyone,
+I&amp;#8217;m Jean (or John, as you like) and I&amp;#8217;ll be working on the Data Center Flight Simulator. I&amp;#8217;m a 4th year student in software engineering at Université Laval and that&amp;#8217;s my last semester, which is great!
+Like several students here, that&amp;#8217;ll be my first experience in an open-source project and it&amp;#8217;ll certainly be a new challenge for me. The reason I&amp;#8217;m here is because I wanted to work on something different for my last school&amp;#8217;s project.</description>
+    </item>
+    
+    <item>
+      <title>Guillaume Simard</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/guillaume-simard/</link>
+      <pubDate>Wed, 13 Jan 2010 16:33:49 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/guillaume-simard/</guid>
+      <description>Hi everyone !
+My name is Guillaume Simard ( pronounced &amp;#8216; Giiyom &amp;#8216; ), I&amp;#8217;m currently doing my last semester at Université Laval in Software Engineering ( sounds much better than &amp;#8216; Génie Logiciel &amp;#8216; .. ! ). These last four years, I&amp;#8217;ve worked mostly on web applications and video game development ( a hobby of mine ). I like using Python, which is part of why I chose Basie as my last project for my degree.</description>
+    </item>
+    
+    <item>
+      <title>Marcel Guzman</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/marcel-guzman/</link>
+      <pubDate>Wed, 13 Jan 2010 07:11:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/marcel-guzman/</guid>
+      <description>Hi all! My name is Marcel Guzman and I&amp;#8217;m a 4th year student at SFU. My interests lie in online development of all kinds (from low-level networking to high-level web apps and everything in between!). I also enjoy esoteric languages as well as operating systems.
+This semester, I&amp;#8217;ll be working on Thunderbird. I&amp;#8217;m very interested in Mozilla projects as well as learning how to code desktop apps so I think it will be a great fit for me.</description>
+    </item>
+    
+    <item>
+      <title>Sylvain Petitclerc</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/sylvain-petitclerc/</link>
+      <pubDate>Wed, 13 Jan 2010 03:22:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/sylvain-petitclerc/</guid>
+      <description>Sylvain Petitclerc  Hi everyone,
+My name is Sylvain. I&amp;#8217;m from the Université Laval, Québec city. This is my last miles to graduate as a software engineer. I will work on Data Center Flight Simulator for this semester. I think that UCOSP will be a great experience to live. I&amp;#8217;m really interested to learn and ready to solve problems.
+I&amp;#8217;m excited to see everyone this week end in Toronto.</description>
+    </item>
+    
+    <item>
+      <title>Denis Lila</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/denis-lila/</link>
+      <pubDate>Tue, 12 Jan 2010 03:02:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/denis-lila/</guid>
+      <description>Hello.
+My name is Denis. I&amp;#8217;m a third year computer science (AI) at the University of Toronto. I will be working with the Mercurial team.
+I chose the Mercurial project because I didn&amp;#8217;t want to be involved in any academia-related projects, and I wanted to work on something with a large number of users. Also, C and python are my favourite languages, and it is sponsored by Fog Creek Software, which seems like a great company, so it would be nice to get on their good side.</description>
+    </item>
+    
+    <item>
+      <title>Chad Cogar</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/chad-cogar/</link>
+      <pubDate>Mon, 11 Jan 2010 20:15:28 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/chad-cogar/</guid>
+      <description>Hey Everyone!
+My name is Chad Cogar and I&amp;#8217;m a fourth (fifth? :S) year student at the University of Toronto. My interests lie primarily in systems programming and artificial intelligence, and my experience stems mostly from personal projects (video game and mod development, various web projects) and coursework (CSC369: Operating Systems &amp;#8211; best CS course ever?). My favorite languages are C++ and Python, but I&amp;#8217;ve worked extensively with others as well.</description>
+    </item>
+    
+    <item>
+      <title>Henry Chow</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/henry-chow/</link>
+      <pubDate>Mon, 11 Jan 2010 12:51:20 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/henry-chow/</guid>
+      <description>Hey all! My name is Henry. I&amp;#8217;m a 4th year computer science student at the University of British Columbia. I am also minoring in Commerce. My interests lies in the e-commerce field, such as creating bank applications and websites. I have a good knowledge in Java, SQL, VBA and HTML. I have worked at MDA, Nokia, Quartz Imaging, and HSBC in my previous co-op job placements.</description>
+    </item>
+    
+    <item>
+      <title>Joseph Mate</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/joseph-mate/</link>
+      <pubDate>Sun, 10 Jan 2010 17:59:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/joseph-mate/</guid>
+      <description>Hey everyone,
+ Joseph Mate  My name is Joseph. I am in 3B Computer Science at the University of Waterloo and will be working with MarkUs this term. I have not worked an open source project before; however, I am eager to start. I have lots of experience with Java from school and work. I have a little experience with C#, Python and Unix Shell Programming. I recently started playing around with Ruby and this term will be an excellent opportunity to extend what I already know.</description>
+    </item>
+    
+    <item>
+      <title>Miles Billsman</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/miles-billsman/</link>
+      <pubDate>Fri, 08 Jan 2010 16:11:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/miles-billsman/</guid>
+      <description>Hello there, I&amp;#8217;m Miles and I&amp;#8217;ll be working on Eclipse IDE for Education project. I&amp;#8217;m looking forward to learning about working on open-source projects and the Eclipse GUI framework.
+
+&amp;#8230; I feel like I&amp;#8217;m writing a dating profile &amp;#8211; &amp;#8220;I like moonlit walks on the beach and death metal bands that dress up like goblins.&amp;#8221; &amp;#8230;
+I&amp;#8217;m a 4th year student at University of Toronto so I&amp;#8217;ll be graduating and getting a jobby-job shortly.</description>
+    </item>
+    
+    <item>
+      <title>Fatima-Zohra Cherkaoui</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/fatima-zohra-cherkaoui/</link>
+      <pubDate>Thu, 07 Jan 2010 00:42:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/fatima-zohra-cherkaoui/</guid>
+      <description>Hello Everyone,
+My name is Fatima-Zohra Cherkaoui, I’m a junior (3rd year) from Minnesota State University, majoring in Software engineering. I will be working on the Pony-Build project for the upcoming semester.
+I’m very excited to take part in this open-source project which will be for sure an inspiring learning experience.
+So far, I have been using mostly C-related languages C++ and Java, but I have lately learned a functional language “Scala” (used in Twitter) and “Boo” (a Python-like language) which has given me the chance to broaden my view on programming from the traditional imperative style to the functional one.</description>
+    </item>
+    
+    <item>
+      <title>Max Laite</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/max-laite/</link>
+      <pubDate>Thu, 07 Jan 2010 00:41:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2010/01/max-laite/</guid>
+      <description>Hello everyone, Max here, I am a Senior in the Computer Science department at the University of the Virgin Islands. I will be working on pony-build for the Winter Semester. I dabble in bits and pieces of everything, hoping to get back into, and refine, my Python this semester while working on the Pony-Build project.
+I am looking forward to meeting everyone at the Code Sprint next week.</description>
+    </item>
+    
+    <item>
+      <title>Khushboo Shakya</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/khushboo-shakya/</link>
+      <pubDate>Wed, 06 Jan 2010 21:21:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2010/01/khushboo-shakya/</guid>
+      <description>Hello! My name is Khushboo Shakya and I am from Minnesota State University majoring in Software Engineering with a minor in Mathematics. I will be working with the Pony-Build team. I am pretty much a newbie! I have worked on small group projects for school and few outside school but not a huge one like this. So I am utterly nervous but excited at the same time to work on this project.</description>
+    </item>
+    
+    <item>
+      <title>Veronica Wong</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/veronica-wong/</link>
+      <pubDate>Tue, 05 Jan 2010 17:08:23 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/veronica-wong/</guid>
+      <description>Hello everyone!
+My name is Veronica, and I&amp;#8217;m a 4th year student at UofT finishing up my undergraduate degree in computer science (specializing in software engineering and minoring in economics). I&amp;#8217;ll be working on the usability and interface design aspect of Basie for the upcoming term.
+I was fortunate enough to work with Professor Karen Reid on MarkUs last Spring on its design, and with Khai Truong with his research project on upcycling and disposable technology the same summer.</description>
+    </item>
+    
+    <item>
+      <title>Nikita Pchelin</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/nikita-pchelin/</link>
+      <pubDate>Tue, 05 Jan 2010 00:52:42 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/nikita-pchelin/</guid>
+      <description>Hi guys, my name is Nikita Pchelin and this semester I will be working on Basie. Last semester I worked on ElmCity.
+I am a 3rd year CS and French student, at the University of Toronto (Mississauga campus). I am really excited about taking this course – partly because if the programming challenges, but also because I want to experience working in a large team.
+Working in a team where members live thousand miles away from each other is challenging; it forces the members to find new effective ways of interaction to get things done in time.</description>
+    </item>
+    
+    <item>
+      <title>Chris VanWiemeersch</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/chris-vanwiemeersch/</link>
+      <pubDate>Mon, 04 Jan 2010 18:25:48 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/chris-vanwiemeersch/</guid>
+      <description>Hi all &amp;#8212; I&amp;#8217;m Chris, a junior at Michigan State studying Computer Science and Film Studies. This spring, I&amp;#8217;ll be working with the Basie team. Since middle school, hiding my face behind the computer screen, I&amp;#8217;ve worked on a variety of freelance web development projects (many of which are related to film) and an assortment of contract gigs.
+This will mark my first venture into open-source development. I look forward to meeting everyone at the code sprint in Toronto!</description>
+    </item>
+    
+    <item>
+      <title>Maciej Kozlowski</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/maciej-kozlowski-2/</link>
+      <pubDate>Sun, 03 Jan 2010 18:58:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2010/01/maciej-kozlowski-2/</guid>
+      <description>Hello everyone. My name is Maciej and I&amp;#8217;ll be working on Basie this term.
+I&amp;#8217;m a fourth year computer science student at the University of Toronto specializing in Software Engineering. I haven&amp;#8217;t done any internship or co-op jobs but I have worked on many projects, academically and otherwise. These include: developing image differencing software, HCI research for a public washroom locating device, fixing bugs for the JFreeChart project, working on OS161, as well as some embedded systems programming.</description>
+    </item>
+    
+    <item>
+      <title>Alexandru Totolici</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</link>
+      <pubDate>Thu, 31 Dec 2009 13:37:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/uncategorized/2009/12/alexandru-totolici/</guid>
+      <description>Hi, I&amp;#8217;m Alexandru Totolici. I hail from UBC, starting the 6th winter term of my Bachelor of Science program (majoring in Computer Science). I&amp;#8217;ll be working on Mercurial. I&amp;#8217;ve been fortunate enough to work with some great people during co-ops at WebCT (now Blackboard), MDA, Safe Software, and Kodak, as well as during my time with UBC&amp;#8217;s Office of Learning Technology. I&amp;#8217;ve touched on QA, GUI, server API testing, backend tool development, WordPress and MediaWiki plugin development, and I&amp;#8217;ve done it in everything from Bash to C#.</description>
+    </item>
+    
+    <item>
+      <title>Jackie Huynh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/jackie-huynh/</link>
+      <pubDate>Thu, 31 Dec 2009 00:39:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/jackie-huynh/</guid>
+      <description>Hi Everyone,
+My name is Jackie Huynh, currently a 4th year B.Sc student majoring in Computer Science (software engineering). I&amp;#8217;ve worked with many different programming languages before, mainly C\C++, Java, Python, and PHP. This coming term, I&amp;#8217;ll be working in the Basie Project.
+I&amp;#8217;m also in the COOP program at UBC. I spent 8 months at HSBC, and another 8 months at Safe Software. I&amp;#8217;m really looking forward to this open-source development program, and also meeting with other students from other Universities at the Coding Sprint.</description>
+    </item>
+    
+    <item>
+      <title>Victoria Mui</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/victoria-mui/</link>
+      <pubDate>Wed, 30 Dec 2009 20:06:37 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/victoria-mui/</guid>
+      <description>My name is Victoria Mui, and I&amp;#8217;m a 4th year student currently completing my undergraduate specialist degree in Computer Science (Software Engineering) at the University of Toronto. This coming spring/winter term, I&amp;#8217;ll be working on the user interface design of the MarkUs online marking tool.
+I&amp;#8217;m primarily a Java programmer, and I&amp;#8217;ve made contributions to the Cytoscape open source community through the Google Summer of Code 2008 program under the mentorship of Professor Greg Wilson.</description>
+    </item>
+    
+    <item>
+      <title>Cory Matheson</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cory-matheson/</link>
+      <pubDate>Mon, 28 Dec 2009 23:54:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cory-matheson/</guid>
+      <description>Greetings from Edmonton! My name is Cory Matheson, and I will be working on the Eclipse4Edu project for the Winter 2010 term. A little about myself: I&amp;#8217;m currently in my 4th year as a Comp Sci student with the University of Alberta. I just finished an 8-month work-term with Research In Motion in Waterloo, Ontario; I worked with the BlackBerry Crypto / Security development team. I had a great time in Waterloo and did some really interesting work at RIM (and I can&amp;#8217;t live without a BlackBerry now!</description>
+    </item>
+    
+    <item>
+      <title>Wendy Yang</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wendy-yang/</link>
+      <pubDate>Mon, 28 Dec 2009 20:19:08 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wendy-yang/</guid>
+      <description>Wendy Yang&#39;s Picture  Hi, I&amp;#8217;m Wendy Yang. I&amp;#8217;m a 4th year Computer Science student in University of Waterloo. I will be working with the Mercurial team next term.
+I have software development experience using C, C++, Java, C#, VB through my co-op terms and school projects. I&amp;#8217;m very glad to have the opportunity to work with everyone in UCOSP. I&amp;#8217;m looking forward to meet everybody in the code sprint.</description>
+    </item>
+    
+    <item>
+      <title>Anthony McCallum</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anthony-mccallum/</link>
+      <pubDate>Mon, 28 Dec 2009 03:50:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anthony-mccallum/</guid>
+      <description>Hi, I&amp;#8217;m Anthony McCallum. I&amp;#8217;m in my final year of a computer science degree at the University of British Columbia. My language of choice is JAVA, but I also have experience with a variety of other languages. I will be working on the Ingres project this coming term. This will be my first opportunity to work on an open source project, and I am excited for the challenge! I&amp;#8217;ve previously done internships with RIM in Ottawa as well as a bioninformatics lab in Singapore.</description>
+    </item>
+    
+    <item>
+      <title>Alex Le</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/alex-le/</link>
+      <pubDate>Sat, 26 Dec 2009 00:34:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/12/alex-le/</guid>
+      <description>Hi my name is Alex Le, I am a 4 year student at UBC. I am working towards a bachelors in Computer Science and minor in Economics. I have previously worked at Business Objects and Macdonald Detwiller and Associates during Co-op and I am interested in web development.
+I am looking forward to working with the Basie Team next semester.
+ I hope everyone has a wonderful holiday season.</description>
+    </item>
+    
+    <item>
+      <title>Paul Lambert</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/paul-lambert/</link>
+      <pubDate>Wed, 23 Dec 2009 06:42:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/paul-lambert/</guid>
+      <description>My name is Paul Lambert, I&amp;#8217;m from UBC and will be on the Mercurial team.
+After graduating with a BA in 2006, I went back to school and started UBC&amp;#8217;s Bachelor of Computer Science program in the Fall of 2007. It has been awesome, one of the best choices I&amp;#8217;ve ever made. I just finished my degree requirements and am tying it all up by taking two more courses, doing this capstone project, and working on my startup, Matygo.</description>
+    </item>
+    
+    <item>
+      <title>Cheang Lim Goh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cheang-lim-goh/</link>
+      <pubDate>Tue, 22 Dec 2009 15:28:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/cheang-lim-goh/</guid>
+      <description>Hi I am Lim, a fourth year Computer Science/Business Option student from the University of Waterloo.
+I will be joining the Ingres team next term. My experience lies primarily with C++ but I also speak a little Java and C#. This will be my first time working on a open-source database project, with focus on managing geospatial data, moreover a team as unique as ours! I look forward to working with Prof.</description>
+    </item>
+    
+    <item>
+      <title>Brenda Sadoway</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/brenda-sadoway/</link>
+      <pubDate>Mon, 21 Dec 2009 03:48:56 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/brenda-sadoway/</guid>
+      <description>Hi, I&amp;#8217;m Brenda Sadoway and I&amp;#8217;m in my third year of Computing Science at the University of Alberta. I&amp;#8217;m excited to be working on Eclipse4Edu this semester, after having used Eclipse myself for the first time this fall. Outside of CS, I&amp;#8217;m also interested in languages (not the programming kind!), reading and playing the piano. I look forward to meeting you all in Toronto in January!
+-Brenda</description>
+    </item>
+    
+    <item>
+      <title>Wei Xian Woo</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wei-xian-woo/</link>
+      <pubDate>Sun, 20 Dec 2009 17:55:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/wei-xian-woo/</guid>
+      <description>Hello. I&amp;#8217;m Wei Xian Woo and I will be working on Thunderbird next term.
+I&amp;#8217;m a fourth year CS/C&amp;amp;O co-op student at the University of Waterloo with some experience developing web and desktop applications. I started coding before high school and developed my first database-driven web app when I was 13. During the past four years in UW, I have had the chance to work with some amazing companies, including but not limited to a startup company in Toronto, NVIDIA, Microsoft and Sony.</description>
+    </item>
+    
+    <item>
+      <title>Anton Markov</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anton-markov/</link>
+      <pubDate>Thu, 17 Dec 2009 08:09:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/anton-markov/</guid>
+      <description>Hello everyone!
+My name is Anton Markov, and I am a fourth-year Math student at the University of Waterloo studying Computer Science and Combinatorics &amp;amp; Optimization. I will be working on the Mercurial project in the upcoming Winter 2010 term.
+ I am excited to be working on Mercurial for several reasons. First of all, Mercurial is a tool that I have personally used on a couple of co-op terms with great success.</description>
+    </item>
+    
+    <item>
+      <title>Xiaoxiao Li</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/xiaoxiao-li/</link>
+      <pubDate>Thu, 17 Dec 2009 03:35:19 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/xiaoxiao-li/</guid>
+      <description>Hi, I am Xiaoxiao Li, a fourth year CS student at University of Waterloo. I will join the Ingres team in the coming term.
+I have done my work terms with three different companies. Through these work terms I developed my interest in database-related technology, including hierarchical data, spatial search, non-relational database, and scalable architecture . This project will be my first time participating in open source development. I hope I could do my best to contribute to the community.</description>
+    </item>
+    
+    <item>
+      <title>Evan Stratford</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/evan-stratford/</link>
+      <pubDate>Sat, 12 Dec 2009 22:10:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/12/evan-stratford/</guid>
+      <description>I&amp;#8217;m Evan Stratford, a fourth-year CS/C&amp;amp;O student at the University of Waterloo (who is usually slightly more clean-shaven than the above photo would suggest&amp;#8230;) Through my work terms with Google, Facebook, and the National Research Council&amp;#8217;s statistical machine translation group, I&amp;#8217;ve had the chance to pick up a little experience in applications and web development. See you at the upcoming code sprint in Toronto!</description>
+    </item>
+    
+    <item>
+      <title>One final hello</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/one-final-hello/</link>
+      <pubDate>Sat, 12 Sep 2009 02:54:40 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/one-final-hello/</guid>
+      <description>Hi all, I&amp;#8217;m Titus Brown, a professor at Michigan State University. I&amp;#8217;m participating vicariously in UCOSP through several MSU students, and I&amp;#8217;m looking forward to this being a great success (which, note, includes not actually driving Greg stark raving mad) so that I can join in as a project mentor the *next* time the program happens.
+You can find out more about me at my lab Web page, http://ged.msu.edu/; or my personal blog, http://ivory.</description>
+    </item>
+    
+    <item>
+      <title>Evan Bowling</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/evan-bowling/</link>
+      <pubDate>Fri, 11 Sep 2009 22:35:27 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/evan-bowling/</guid>
+      <description>my bro (on the left) and i (the other one)  I am a Computer Science senior at Michigan State University. I am excited to work with the Ingres team. I have had the chance to make use of open-source code and participate in the development conversations, but I am looking forward to actually contributing code.
+Through various study abroad trips I discovered the field of geographic information science, or GIS.</description>
+    </item>
+    
+    <item>
+      <title>Bill Konrad</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/bkonrad/</link>
+      <pubDate>Fri, 11 Sep 2009 20:46:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/bkonrad/</guid>
+      <description>Hi guys, I&amp;#8217;m the team leader for Basie this term and I look forward to meeting all of you!
+I started programming when I was 9 years old (true nerd roots) on an Apple II-E. The language at the time was BASIC. I graduated to QBASIC, then C, C++, HTML, JavaScript, C#, VB, SQL, etc, etc, etc. I used to think that software development is programming, and therefore languages mean everything, but I&amp;#8217;ve discovered that languages are simply tools that have strengths and weaknesses just like anything else.</description>
+    </item>
+    
+    <item>
+      <title>Simon Lavigne-Giroux</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/simon-lavigne-giroux/</link>
+      <pubDate>Fri, 11 Sep 2009 19:27:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/simon-lavigne-giroux/</guid>
+      <description>Hi, I am Simon Lavigne-Giroux. I&amp;#8217;m at my fourth year in software engineering at Université Laval. I&amp;#8217;m studying in this domain because I wanted to use my favourite tools, computers, completely. I also really like the logic and problem resolution in software programming. In the past year, I&amp;#8217;ve developed web applications in Java using Spring MVC and other frameworks. I&amp;#8217;m excited to learn Ruby on Rails on the MarkUs project. It is also my first experience on an open source project.</description>
+    </item>
+    
+    <item>
+      <title>Eric Burnett</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-burnett/</link>
+      <pubDate>Fri, 11 Sep 2009 19:16:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-burnett/</guid>
+      <description>Hi everyone. My name is Eric Burnett, and I&amp;#8217;m looking forward to working on WikiDev this term.
+I&amp;#8217;m a fourth year Computer Science student at the University of Waterloo, although with co-op and exchange this is actually my fifth calendar year. My focus tends to be on systems and infrastructure type programming, but I enjoy as much variety as I can get. I have done co-op terms as a developer with four companies in four different cities, the most recent being with Google in Seattle over this past summer.</description>
+    </item>
+    
+    <item>
+      <title>Holly Becker</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/holly-becker/</link>
+      <pubDate>Fri, 11 Sep 2009 17:16:53 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/holly-becker/</guid>
+      <description>Hey! I&amp;#8217;m Holly Becker and I&amp;#8217;m working on WikiDev.
+I&amp;#8217;m in my third year at SFU, majoring in Computer Science, like most of us here. My computer-related interests are mostly in operating systems, applications programming and networking, though most other aspects of computers interest me. It&amp;#8217;s very exciting to be getting into the interesting upper-division computer courses.
+This summer, I was a C++ programmer with a local games company, which was my first time programming in a production environment.</description>
+    </item>
+    
+    <item>
+      <title>Gabriel Roy-Lortie</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/669/</link>
+      <pubDate>Fri, 11 Sep 2009 15:46:26 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/669/</guid>
+      <description>Gabriel Roy-Lortie  Gabriel Roy-Lortie is a fourth year student in software engineering at Université Laval who just joined the MarkUs team. Beside his full-time studies, he&amp;#8217;s already had some part-time jobs in the CS field. He used to work for the Factulté de Science et de génie (Sc. and Eng. Faculty) on the design/maintenance/support of courses web sites and other IT-supported teaching material. Main technologies involved included PHP, MySQL, HTML, CSS, Javascript and the CMS Typo3.</description>
+    </item>
+    
+    <item>
+      <title>Scott Bishop</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/657/</link>
+      <pubDate>Fri, 11 Sep 2009 05:12:10 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/657/</guid>
+      <description>Scott Bishop is a student in his Senior year at Michigan State University studying for his Computer Science Degree with a minor in General Business. Scott&amp;#8217;s involvement in the Ingres Geospatial project is being coordinated as in Independent Study through C. Titus Brown in the Department of Computer Science in MSU&amp;#8217;s College of Engineering. Along with his work on the Ingres Geospatial project, he is also currently working as an Intern doing software development at the Okemos based Sircon Corp.</description>
+    </item>
+    
+    <item>
+      <title>Dana McDougal</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/634/</link>
+      <pubDate>Thu, 10 Sep 2009 16:10:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/634/</guid>
+      <description>Hello, my name is Dana McDougal and I am currently a senior majoring in computer science at the University of the Virgin Islands.
+I am a member of a prestige organization in U.V.I. called the Emerging Caribbean Scientists. The ECS consists of multiple programs that focus on increasing research training for science, technology, engineering, and mathematics students. While attending U.V.I., I got an opportunity to participate in a summer research experience with the RISE program.</description>
+    </item>
+    
+    <item>
+      <title>Elias Adum</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/elias-adum/</link>
+      <pubDate>Thu, 10 Sep 2009 13:46:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/elias-adum/</guid>
+      <description>Hi, my name is Elias Adum. I am currently in 3rd year Computer Science Software Engineering program at the University of Toronto and I will be working on the Ingres project.
+I started coding when I was in high school. Since then I developed a strong interest in web applications. I’ve worked with several Microsoft technologies but now I would like to change focus and do some open source programming, just to try a bit of both.</description>
+    </item>
+    
+    <item>
+      <title>Ted Tate</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ted-tate/</link>
+      <pubDate>Thu, 10 Sep 2009 09:56:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ted-tate/</guid>
+      <description>Ted Tate  Hi, I&amp;#8217;m Ted Tate and I will be working on the (Count?) Basie project.
+I&amp;#8217;m a fourth year Computing Science student at SFU focusing on programming languages and software engineering. In the past I have worked as a C++ developer including a co-op position at Safe Software working in the spatial data domain. I&amp;#8217;m excited to begin work on the Basie project so I can jump headfirst into the buzzword-laden zoo of web programming.</description>
+    </item>
+    
+    <item>
+      <title>Brent Mombourquette</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/brent-mombourquette/</link>
+      <pubDate>Wed, 09 Sep 2009 18:26:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/brent-mombourquette/</guid>
+      <description>Hi, I&amp;#8217;m Brent Mombourquette. I&amp;#8217;m in my third year studying computer science at University of Toronto. I&amp;#8217;m aiming for a specialist in Artificial Intelligence, although so far I haven&amp;#8217;t taken any AI related courses.
+During this fall I&amp;#8217;ll be working on the RoboCup Soccer project. I spent this past summer working with Professor Steve Easterbrook, developing a Firefox plug-in to aid climate scientists in researching. It was a great experience, although I was working by myself.</description>
+    </item>
+    
+    <item>
+      <title>Ainsley Lawson</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/581/</link>
+      <pubDate>Wed, 09 Sep 2009 17:09:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/581/</guid>
+      <description>ainsley_lawson  Hey, I&amp;#8217;m Ainsley, and I&amp;#8217;ll be working on MarkUs this semester.
+I&amp;#8217;m going into my final year at U of T Scarborough, where I am doing a double major in Computer Science and Psychology. The plan is to go to grad school (for CS) after I graduate.
+This summer, I worked for Professor Steve Easterbrook to develop a tool that helps software development teams understand improve their social networks (research blog here).</description>
+    </item>
+    
+    <item>
+      <title>Diane Tam</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/diane-tam/</link>
+      <pubDate>Wed, 09 Sep 2009 06:11:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/diane-tam/</guid>
+      <description>Hi Everyone,
+My name is Diane Tam and I&amp;#8217;ll be working on the ElmCity project. I graduated from the Computer Science program at UofT about 3 years ago but recently developed a great interest in pursuing graduate studies in Computer Science. As a result, I decided to come back to take some courses, specifically research related ones, to narrow down my field of interest and better prepare myself for graduate studies.</description>
+    </item>
+    
+    <item>
+      <title>Jay Schmidek</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jay-schmidek/</link>
+      <pubDate>Wed, 09 Sep 2009 05:02:02 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jay-schmidek/</guid>
+      <description>Hey, I&amp;#8217;m Jay and I&amp;#8217;ll be working on the Thunderbird project this term.
+I&amp;#8217;m in my fourth and final year in computing science at the University of Alberta. I have yet to decide what to specialize in. This past summer I worked on a small team developing a web application using ASP.NET MVC (C#). Most of my experience in school here has been with java and I&amp;#8217;ve never done any work with python so this should be a lot of fun.</description>
+    </item>
+    
+    <item>
+      <title>Meghan McNeil</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/meghan-mcneil/</link>
+      <pubDate>Wed, 09 Sep 2009 02:49:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/meghan-mcneil/</guid>
+      <description>Hi, I am Meghan McNeil and I am working on the ElmCity project.
+I am in my 4th year at Michigan State University, however I will not be graduating until next December. In classes I have worked on various amounts of projects using C++ and Python. While in school I have been working as a part time web developer where I work with PHP and JavaScript/AJAX on various sites. This past summer I was able to intern at Cobham, North America (formally known as Sparta Inc.</description>
+    </item>
+    
+    <item>
+      <title>Nil Goyette</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/nil-goyette/</link>
+      <pubDate>Tue, 08 Sep 2009 23:13:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/nil-goyette/</guid>
+      <description>Somewhere in the wood  Hi, my name is Nil Goyette and I&amp;#8217;m going to work on Eclipse4Edu.  I&amp;#8217;m currently studying at the Université de Sherbrooke in Québec. Sadly, it&amp;#8217;s my last year, it was starting to be fun.  Next year,  As for now, I think I&amp;#8217;m interested in hardware and assembly language. I hope to have some free time to play with the Arduino to see if I really like hardware.</description>
+    </item>
+    
+    <item>
+      <title>Eric Henry</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-henry/</link>
+      <pubDate>Tue, 08 Sep 2009 18:41:16 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/eric-henry/</guid>
+      <description>Hello, my name is Eric Henry, and I&amp;#8217;ll be working on the Thunderbird project.
+I am a computer science major in my last semester at Michigan State University. Between educational endeavors, I was a freelance web developer working mainly in PHP, with some old projects in ASP (with VB, yuck). I also have experience working with Flash and ActionScript. This last semester (Spring 2009) I worked on an open source project in python that was basically an automated build system.</description>
+    </item>
+    
+    <item>
+      <title>Maciej Kozlowski</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maciej-kozlowski/</link>
+      <pubDate>Tue, 08 Sep 2009 17:51:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maciej-kozlowski/</guid>
+      <description>Hello everyone. My name is Maciej and I&amp;#8217;ll be working on Eclipse4Edu this term.
+I&amp;#8217;m a fourth year computer science student at the University of Toronto specializing in Software Engineering. I haven&amp;#8217;t done any internship or co-op jobs but I have worked on many projects, academically and otherwise. These include: developing image differencing software, HCI research for a public washroom locating device, fixing bugs for the JFreeChart project, working on OS161, as well as some embedded systems programming.</description>
+    </item>
+    
+    <item>
+      <title>Chani Armitage</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/chani-armitage/</link>
+      <pubDate>Tue, 08 Sep 2009 03:22:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/chani-armitage/</guid>
+      <description>Hi, I&amp;#8217;m Chani Armitage. I&amp;#8217;m studying comp sci at Simon Fraser University, and previously studied at BCIT. I work on the KDE project in my free time. I&amp;#8217;ve done three Google Summer of Code projects with them now (it&amp;#8217;s awesome, you should apply next spring).
+This fall I&amp;#8217;ll be working on the Robocup project. My first programming experience was for an Artificial Life game (Creatures 3), so I&amp;#8217;m looking forward to doing some AI programming.</description>
+    </item>
+    
+    <item>
+      <title>Andrew Schurman</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/andrew-schurman/</link>
+      <pubDate>Tue, 08 Sep 2009 02:54:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/andrew-schurman/</guid>
+      <description>Hey, I&amp;#8217;m Andrew and will be joining the Basie team this semester. I&amp;#8217;m a fourth year SFU student pursuing an honours Computing Science degree with a minor in Mathematics. Having had a mixed background of courses under my belt, I&amp;#8217;ve decided to specialize in computing systems, namely operating systems and networks. I also enjoy web systems and databases as well. Having worked on web systems before with Elastic Path, I would enjoy the opportunity explore this avenue again.</description>
+    </item>
+    
+    <item>
+      <title>Maxime Caron</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maxime-caron/</link>
+      <pubDate>Tue, 08 Sep 2009 02:27:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/maxime-caron/</guid>
+      <description>Hi, everyone. My name is Maxime Caron and will be working on Eclipse4edu this semester.  i’m in my third and last year of my computer science degree at the University of Sherbrooke.  I haven’t yet decided where I want to specialize in Computer Science, but I am particularly interested in  computer language theory and parrallel programming.  I just coming back from a research internship at Bentley Systems inc in Quebec.</description>
+    </item>
+    
+    <item>
+      <title>Ning Yang</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/488/</link>
+      <pubDate>Tue, 08 Sep 2009 00:39:09 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/488/</guid>
+      <description>Hi I am Ning Yang and will be working on WikiDev this semester.
+I am forth year student in SFU and learning computing science. As you can see from my name, originally, I come from China and this&amp;#8217;s still my second year in North America. I have a English name Alex but most of my friends here prefer to call me Ning as it&amp;#8217;s very simple to pronounce and make me different from other people.</description>
+    </item>
+    
+    <item>
+      <title>Fernando Garces</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/479/</link>
+      <pubDate>Mon, 07 Sep 2009 22:08:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/479/</guid>
+      <description>Hi, everyone. My name is Fernando Garces and I&amp;#8217;ll be working MarkUs project
+I’m in my fourth and hopefully last year of my computer science degree with soft engineering option at the University of Waterloo. My primary areas of interests are databases, networks and OS, and the only think that I not very keen of are compilers. This is my first time working with Ruby on Rails so I hope it is not too painful to learn.</description>
+    </item>
+    
+    <item>
+      <title>Tony Targonski</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/tony-targonski/</link>
+      <pubDate>Mon, 07 Sep 2009 20:22:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/tony-targonski/</guid>
+      <description>Hello, my name is Tony Targonski, and after some quick life decisions and a rocky start in Engineering, I am now well on my way through the Computer Science program at the University of Waterloo.
+While the logistics of the academics were being sorted out, I&amp;#8217;ve administered CompSci.ca&amp;#8217;s forums, started a blog, and rocked out as one of 2.5 developers behind GigPark.com, helping to take the startup company from sketches to an acquisition.</description>
+    </item>
+    
+    <item>
+      <title>Kelvin Harry</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/kelvin-harry/</link>
+      <pubDate>Mon, 07 Sep 2009 03:48:06 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/kelvin-harry/</guid>
+      <description>Hello everyone, my name is Kelvin Harry, I was born and raised on the beautiful island of St Thomas in the Virgin Islands. I attend the university of the Virgin Islands. At first major was business, but now I am a senior Computer Science major.
+The field of study in computer science that I am most interested in is Bionformatics. This past summer I got the opportunity to participate in a research experience in computational biology at the University of Georgia.</description>
+    </item>
+    
+    <item>
+      <title>Sara Danaher</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/sara-danaher/</link>
+      <pubDate>Mon, 07 Sep 2009 03:17:44 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/sara-danaher/</guid>
+      <description>Hola, I am Sara Danaher. I am a senior computer science student at the University of the Virgin Islands (UVI) on the St. Croix Campus. I grew up in Guatemala and studied in an electrical program at a very competitive technical school. I had the opportunity to apply for the Cooperative Association of State Scholarships program offered in the United States. This marked the first time I would be away from my family and study in a foreign country whose language I could not speak.</description>
+    </item>
+    
+    <item>
+      <title>Josh McCarthy</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/josh-mccarthy/</link>
+      <pubDate>Sun, 06 Sep 2009 19:20:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/josh-mccarthy/</guid>
+      <description>Hi, I&amp;#8217;m Josh McCarthy and I&amp;#8217;ll be working on Basie this semester.
+I&amp;#8217;m a fourth year Computer Science student with a minor in Mathematics at Memorial University. I am just coming out of an eight month internship at ICAN, working on software for the marine industry. I haven&amp;#8217;t yet decided where I want to specialize in Computer Science, but I am particularly interested in human-computer interaction and I love programming.</description>
+    </item>
+    
+    <item>
+      <title>Mary Mootoo</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/408/</link>
+      <pubDate>Sun, 06 Sep 2009 17:15:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/408/</guid>
+      <description>Hi everyone. My name is Mary Mootoo and I will be working on the Ingres project this semester. I am a computer science senior at the University of the Virgin Islands on the St. Croix Campus.
+I have been exposed to different computer languages such as C++, Java, Perl, and Visual Basic. I have never worked in Python before but I’m sure I will have fun on this project. I am anxious about seeing how we will all cope with the distance between us.</description>
+    </item>
+    
+    <item>
+      <title>Lindauson Hazell</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/394/</link>
+      <pubDate>Sun, 06 Sep 2009 03:44:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/394/</guid>
+      <description>I am Lindauson Hazell. Originally from the island of St. Kitts, I am currently a senior in the Computer Science department at the University of the Virgin Islands. I transferred to the Computer Science division in my sophomore year from Journalism. What most interests me about computer science is its ability to simplify/solve many real-world problems.
+Early in my tenure in the Computer Science program, I was interested in data compression algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Jack Carlson</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jack-carlson/</link>
+      <pubDate>Sat, 05 Sep 2009 20:50:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jack-carlson/</guid>
+      <description>Hi, I&amp;#8217;m Jack Carlson. I&amp;#8217;m an undergraduate Computer Science senior at Michigan State University, and will be working on the ElmCity project this fall.
+Since this past summer, my recent coding experience includes an internship with TechSmith Corporation (software company in Okemos near MSU, using mostly C#/.NET), and am continuing that internship through the Fall. For coding in my spare time, I do web development for several projects and have been learning Objective-C/Cocoa for iPhone development.</description>
+    </item>
+    
+    <item>
+      <title>Patrik Gornicz</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/patrik-gornicz/</link>
+      <pubDate>Sat, 05 Sep 2009 15:55:21 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/patrik-gornicz/</guid>
+      <description>Hello everyone. I&amp;#8217;m Patrik Gornicz who will be working on the RoboCup project.
+I am a third year student at the University of Waterloo in their Computer Science program. I have enjoyed their coop program by tutoring CS for two terms. My other two coop terms have been spent programming the MediaGo application for Sony Creative Software.
+As a hobby I&amp;#8217;ve been developing a personal C++ library that is currently being used by a simple 2D physics simulator.</description>
+    </item>
+    
+    <item>
+      <title>Louie Dinh</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/louie-dinh/</link>
+      <pubDate>Sat, 05 Sep 2009 04:13:47 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/louie-dinh/</guid>
+      <description>Hi, I&amp;#8217;m Louie Dinh and I will be working on the ThunderBird Project.
+I&#39;m on the right  I&amp;#8217;m a third year Computer Science Major/Biology Minor at the University of British Columbia. Eventually I plan to attend graduate school in biology and teach them a thing or two about good software development practices (hence this course). The history of computing has always fascinated me and I still regret not being born 10 years earlier to be a part of the explosion of personal computing and the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Yulia Kotseruba</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/yulia-kotseruba/</link>
+      <pubDate>Sat, 05 Sep 2009 04:06:54 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/yulia-kotseruba/</guid>
+      <description>Hi, my name is Yulia Kotseruba and I&amp;#8217;m going to be working on RoboCup project this term.  I&amp;#8217;m fairly new to Computer Science. Having completed a BA in Philosophy and Religious Studies 3 years ago I got into Specialist program in Artificial Intelligence at University of Toronto. Currently I&amp;#8217;m in my final fourth year.  This summer I got an amazing opportunity to work on volumetric projection system called Lighttwist as part of Google Summer of Code.</description>
+    </item>
+    
+    <item>
+      <title>Farah Juma</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/farah-juma/</link>
+      <pubDate>Sat, 05 Sep 2009 01:30:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/farah-juma/</guid>
+      <description>Hi, I&amp;#8217;m Farah Juma and I&amp;#8217;m going to be working on MarkUs this fall.
+I&amp;#8217;m a fourth year computer science student at the University of Toronto. I&amp;#8217;m doing a specialist in artificial intelligence. I just completed a 16-month internship at Red Hat, as part of the Professional Experience Year program at U of T. I was on the JBoss Application Server team. It was an amazing experience and I learned a lot!</description>
+    </item>
+    
+    <item>
+      <title>Peter Lorimer</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/peter-lorimer/</link>
+      <pubDate>Sat, 05 Sep 2009 00:45:11 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/peter-lorimer/</guid>
+      <description>Hey all, My name is Peter Lorimer, I&amp;#8217;m a third/fourth year Computing Science w/ Business Minor student at the University of Alberta. I&amp;#8217;ll be working on the Eclipse4Edu project. I am really excited about this class because I have never really worked on any projects that aren&amp;#8217;t for school projects. I mean this is for school, but it will also be used outside of school. If that makes any sense. After my degree I hope to take my computing knowledge into the oilfield and work on data acquisition hardware and software for downhole tools.</description>
+    </item>
+    
+    <item>
+      <title>John Peters</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/john-peters/</link>
+      <pubDate>Fri, 04 Sep 2009 22:01:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/john-peters/</guid>
+      <description>(I&#39;m the one on the right.)  Hello, everyone. I&amp;#8217;m John Peters and I&amp;#8217;ll be working on Basie.
+I&amp;#8217;m in my fourth and final year of my computing science degree at the University of Alberta. In a way I&amp;#8217;m still readjusting to university life, having just come off a sixteen month internship between my third and fourth year working on plasma donation and management software. During a previous summer I worked for the University of Alberta GAMES Group on the ScriptEase project.</description>
+    </item>
+    
+    <item>
+      <title>Eva Wong</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/388/</link>
+      <pubDate>Fri, 04 Sep 2009 21:44:31 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/388/</guid>
+      <description>Here is a &amp;#8216;hello&amp;#8217; from Eva Wong for all the UCOSP buddies! I will be working with Ingres under Andrew Ross for this coming fall.
+I’m a fourth year computer science undergraduate student at University of Toronto, specializing in information system. I’m also doing a mathematics minor. For the previous summers in between school years, other than biking, I have been working on the GIS that I found with my team, Geokudo(2009), also I have completed a data visualization tool as a GSoC project(2008) for HackyStat.</description>
+    </item>
+    
+    <item>
+      <title>Ian Lienert</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ian-lienert/</link>
+      <pubDate>Fri, 04 Sep 2009 20:16:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/ian-lienert/</guid>
+      <description>Hello. My name is Ian Lienert. I am currently undergoing my fourth year of an Hon.B.Sc. in Computer Science: Foundations at University of Toronto. I am relatively new to programming, having only developed a deep interest in Computer Science during first year (during which I was enrolled as a math major). I am most interested in complexity and logic.
+This term, I will be continuing to work on Basie, since the project piqued my interest during the summer when I was writing a database migration tool for it.</description>
+    </item>
+    
+    <item>
+      <title>Dennis Acosta</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/dennis-acosta/</link>
+      <pubDate>Fri, 04 Sep 2009 19:34:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/dennis-acosta/</guid>
+      <description>Dennis Acosta  Hi. My name is Dennis Acosta. I’m a fourth year student of computer science and psychology at Carleton University, having previously studied computer programming at Seneca College. My primary areas of interests are in human-computer interaction, and more recently, location-based services. This Fall term I will be working on the Eclipse4Edu project. I look forward to the challenges ahead and am excited to get started on this incredible opportunity.</description>
+    </item>
+    
+    <item>
+      <title>Owen Matthews</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/owen-matthews/</link>
+      <pubDate>Fri, 04 Sep 2009 15:46:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/owen-matthews/</guid>
+      <description>Hi, I&amp;#8217;m Owen Matthews and will be working on the  WikiDev project.  I&amp;#8217;m a 4th year undergraduate student in Computer  Science at the University of Waterloo. I have a  variety of interests and experience, but with no  particular focus yet. I have had 5 co-op terms at  3 different Canadian companies, and just completed  an 11 month co-op term in Osaka, Japan.  I&amp;#8217;m looking forward to working with the WikiDev  team and meeting everyone in Toronto.</description>
+    </item>
+    
+    <item>
+      <title>Severin Gehwolf</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/severin/</link>
+      <pubDate>Fri, 04 Sep 2009 14:59:01 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/severin/</guid>
+      <description>Hi!
+I am Severin Gehwolf, a second/third year Computer Science student at University of Toronto. Before coming to Toronto &amp;#8211; starting my second degree &amp;#8211; I was working for almost 2 years. It was then when I realized what interests me most: Software and its very internals.
+I got involved with MarkUs and Ruby on Rails during winter term 2009, but really didn&amp;#8217;t do any Rails development until this summer when I started to work on MarkUs full-time.</description>
+    </item>
+    
+    <item>
+      <title>Melanie Gaudet</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/melanie-gaudet/</link>
+      <pubDate>Fri, 04 Sep 2009 14:40:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/melanie-gaudet/</guid>
+      <description>Hi All!
+My name is Melanie Gaudet and I am going to work on MarkUs project this fall. I have started my journey with computers by a 3 years study in computer science(CEGEP). I have been hired in a great company, first as Progress database’s administrator, and then as programmer-analyst and finally as project leader. The programming language I have been using the most so far is Progress, but I have tried many others so even though I have never worked with Rubby, I know that I will learn.</description>
+    </item>
+    
+    <item>
+      <title>Nikita Pchelin</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/253/</link>
+      <pubDate>Fri, 04 Sep 2009 07:19:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/253/</guid>
+      <description>Hi guys, my name is Nikita (to forestall any questions &amp;#8211; yes that&amp;#8217;s a male name in some countries, including Russia! :]) Pchelin and this semester I will be working on the ElmCity project.
+I am a 3rd year CS and French student, at the University of Toronto (Mississauga campus). I am really excited about taking this course – partly because if the programming challenges, but also because I want to experience working in a large team.</description>
+    </item>
+    
+    <item>
+      <title>Tara Clark</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/tara-clark/</link>
+      <pubDate>Fri, 04 Sep 2009 02:13:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/tara-clark/</guid>
+      <description>Mount St. Helens, WA  Hi, my name is Tara Clark and I&amp;#8217;m going to be working on the MarkUs project this fall.
+I am a 4th year Computer Science and French student at the University of Waterloo. I love web programming and learning new languages (both natural and programming!)
+I first started out with web programming about 6 years ago and this will be my first time working with Ruby on Rails.</description>
+    </item>
+    
+    <item>
+      <title>Jory Graham</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jory-graham/</link>
+      <pubDate>Fri, 04 Sep 2009 01:36:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jory-graham/</guid>
+      <description>Hi, my name is Jory Graham, and I&amp;#8217;m looking forward to working with some of you on the elmcity project.
+I&amp;#8217;m an undergraduate student at the University of Toronto, just finishing up my last few courses. I&amp;#8217;m primarily interested in natural language processing (which I plan on continuing to study), and calendar data is no exception. My underlying interests are the subconcious patterns that we all abide by without realizing.</description>
+    </item>
+    
+    <item>
+      <title>Mike Conley</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/mike-conley/</link>
+      <pubDate>Thu, 03 Sep 2009 20:56:50 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/mike-conley/</guid>
+      <description>Mike Conley  Hi, I&amp;#8217;m Mike Conley, and I&amp;#8217;m one of the TA&amp;#8217;s for this course. I will be helping Karen Reid manage the MarkUs Project this semester. I&amp;#8217;m a Masters student at the University of Toronto in the Software Engineering group, and I just finished my undergrad at UofT, doubling in Computer Science and Dramatic Arts.
+I&amp;#8217;ve been working on MarkUs since September, 2008. I&amp;#8217;ve been web programming in one form or another for over a decade, but MarkUs has been my first time working on a fairly sophisticated Ruby on Rails project.</description>
+    </item>
+    
+  </channel>
+</rss>

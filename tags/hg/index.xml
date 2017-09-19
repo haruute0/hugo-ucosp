@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hg on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/tags/hg/</link>
+    <description>Recent content in Hg on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jan 2010 05:34:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/tags/hg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Push: Mercurial</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</link>
+      <pubDate>Sun, 17 Jan 2010 05:34:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/mercurial/2010/01/first-push-mercurial-2/</guid>
+      <description>During this Code Sprint we focused on a few improvements to Mercurial that make it easier and safer to use. Each of the tasks we worked on was scoped such that only one developer was needed, but this gave everyone a chance to dive head-first into the Mercurial codebase at their own pace. For some (myself included) this is also the first serious project in Python, and these two days were a great opportunity to ask lots of questions.</description>
+    </item>
+    
+  </channel>
+</rss>

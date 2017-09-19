@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer 2014 on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/summer-2014/</link>
+    <description>Recent content in Summer 2014 on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jul 2014 13:55:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/summer-2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enhancing ReviewBoard with TogetherJS</title>
+      <link>https://haruute0.github.io/hugo-ucosp/summer-2014/2014/07/enhancing-reviewboard-with-togetherjs/</link>
+      <pubDate>Thu, 10 Jul 2014 13:55:22 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/summer-2014/2014/07/enhancing-reviewboard-with-togetherjs/</guid>
+      <description>Peter from UofT checks in:
+ReviewBoard is a web service which facilitates code review amongst developers
+within a repository (Git, SVN, etc). The project I am working on is an
+implementation of TogetherJS, an extension (or plugin) that organizations can
+choose to install within their instance of ReviewBoard. TogetherJS is a
+javascript library that allows multiple users to discuss a webpage through
+text and voice chat and live cursor interaction. A demo is available here.</description>
+    </item>
+    
+  </channel>
+</rss>

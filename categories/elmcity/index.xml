@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elmcity on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/elmcity/</link>
+    <description>Recent content in Elmcity on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 16:05:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/elmcity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>elmcity wrapup</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/12/elmcity-wrapup/</link>
+      <pubDate>Wed, 16 Dec 2009 16:05:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/12/elmcity-wrapup/</guid>
+      <description>First off, I just want to say it has been a pleasure working with everyone. I certainly learned a lot this term with respect to the project as well as working in a team environment. A few final blogs with respect to the generic plugin parser for the elmcity project are listed below and the latest versions of the code can be found in the code repository here:
+http://code.google.com/p/elmcity/
+I hope this is good start to recreating FuseCal!</description>
+    </item>
+    
+    <item>
+      <title>what worked and what needs work</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/12/what-worked-and-what-needs-work/</link>
+      <pubDate>Thu, 03 Dec 2009 12:23:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/12/what-worked-and-what-needs-work/</guid>
+      <description>First off, thank you to Greg and all the profs and TAs that made this project course possible. It was definitely a unique and invaluable experience that I believe all students should consider in their undergraduate years.
+What worked:
+I&amp;#8217;ve been working full-time as a programmer for 3 years now and I wish I had taken this course during my undergrad as this course is extremely applicable to real life work practices.</description>
+    </item>
+    
+    <item>
+      <title>Minutes for the 2009-11-20 Elmcity Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/minutes-for-the-2009-11-20-elmcity-meeting/</link>
+      <pubDate>Mon, 23 Nov 2009 04:34:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/minutes-for-the-2009-11-20-elmcity-meeting/</guid>
+      <description>The minutes themselves are available here.
+This week we tried to figure out what we&amp;#8217;ll try to have done for our deadline next week. The list we obtained by the end of the meeting was as follows:
+ Hooking up the dev database. Having all the external libraries situated under a single directory. Supporting more TABULAR sites. Supporting a few CALENDAR sites. Hooking up pluginFinder to the generic plugins. Supporting a query on a single url that tells you two things: if it&amp;#8217;s parsable, and which plugin handles the parsing.</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Status Report for Nov 4th</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</link>
+      <pubDate>Thu, 05 Nov 2009 16:16:38 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-status-report-for-nov-4th/</guid>
+      <description>Nikita
+Status:
++documenting and testing remote.py, batch.py (this leaves us with no &amp;#8220;big&amp;#8221; modules untested, rotate.py and event.py can
+be done quickly later on).
+ timezone had to be revisited and changed a bit (timezone_source, timezone_dest), and together with other little things   we officially announced the new features to the community
+Roadblocks:
+&amp;#8211; I&amp;#8217;ve been sick for the past couple of days, so things are moving a bit slower for me than usual.</description>
+    </item>
+    
+    <item>
+      <title>Elmcity Meeting Minutes for Oct 30 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-meeting-minutes-for-oct-30-2009/</link>
+      <pubDate>Sun, 01 Nov 2009 16:51:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/11/elmcity-meeting-minutes-for-oct-30-2009/</guid>
+      <description>On Friday, the Elmcity team had its weekly meeting, the minutes of which can be found here.
+A summary of the things we covered:
+We went over and finalized our grading scheme, including exactly what functionality we hope to have achieved by the 29th of November.
+In that vein, we&amp;#8217;ve decided that our functionality will primarily be dictated by the ability to parse the pages brought up by our users here, and secondarily by this list.</description>
+    </item>
+    
+    <item>
+      <title>Marking Scheme for ElmCity project</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/marking-scheme-for-elmcity-project/</link>
+      <pubDate>Fri, 30 Oct 2009 23:23:24 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/marking-scheme-for-elmcity-project/</guid>
+      <description>Mark Breakdown
+1. Individual (50%)
+a) 40% &amp;#8211; participation:
+ 20% code contributions 10% discussions on friendfeed and google code wiki throughout the term 10% weekly punchlines and how they were met (trackable through the &amp;#8220;status&amp;#8221; portion)  b) 10% &amp;#8211; written component
+2. Team (50%)
+a) 30% Features and Functionality:
+ all the existing functionality up-to-date (plugins, events filtering, timezones management) still works as expected (test don&amp;#8217;t fail), existing bookmarks on delicious produce valid iCal feeds generalized parser that can at least recognize a minimum set of information for the event (date &amp;amp; time, title, and a link) on each of the pages listed here.</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Status Report for Oct 28th 2009</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-report-for-oct-28th-2009/</link>
+      <pubDate>Thu, 29 Oct 2009 02:39:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-report-for-oct-28th-2009/</guid>
+      <description>Nikita
+Status:
+&amp;#8211; AM/PM problem for librarything fixed, tests added
+&amp;#8211; timezone, we have a solution and it has been implemented and is out there for testing, calling remote like this:
+http://elmcity.cs.toronto.edu/remote/?url=http://www.myspace.com/cartel&amp;amp;filter=Portland&amp;amp;tz=atlantic
+generates a VTIMEZONE in the calendar file. We support standard tzid from Olson db, and we map all the
+windows timezones that elmcity provides us with to the existing tzids.
+&amp;#8211; pluginFinder.py, icwWriter &amp;#8211; written documentation, unit tests</description>
+    </item>
+    
+    <item>
+      <title>My Tools of the Trade</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</link>
+      <pubDate>Thu, 22 Oct 2009 23:28:32 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/10/my-tools-of-the-trade/</guid>
+      <description>Here&amp;#8217;s a list of tools I cast essential for carrying out my day-to-day business or I find otherwise useful.
+Hardware (in no particular order)**
+**
+ My primary workstation is a HP Pavillion Slimline, a pretty much standard, off-the-shelf PC on which I installed Ubuntu Linux. The hardware works reasonable well under Linux, but at some point I wish hardware vendors would just offer some models which work seamlessly with any major OS.</description>
+    </item>
+    
+    <item>
+      <title>Punchlines Oct 19-25 ElmCity team</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/punchlines-oct-19-25-elmcity-team/</link>
+      <pubDate>Wed, 21 Oct 2009 16:59:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/punchlines-oct-19-25-elmcity-team/</guid>
+      <description>Sarah
+Status:
+&amp;#8211; The project I was working on got canned, so I&amp;#8217;m trying to get reacquainted with the core codebase
+&amp;#8211; Also trying to understand the intended goals and power structure of this project better so I don&amp;#8217;t waste more work. This entails some discussion, new use of the bug tracking system for laying out goals, and group formulation of user stories (to be finished at this Friday&amp;#8217;s meeting)</description>
+    </item>
+    
+    <item>
+      <title>Elmcity Status Reports for 2009-10-14</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-reports-for-2009-10-14/</link>
+      <pubDate>Wed, 14 Oct 2009 15:43:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-status-reports-for-2009-10-14/</guid>
+      <description>I haven&amp;#8217;t heard back from the whole team, but here are the status reports I did receive:
+Jory
+Status:
+ Implemented the SQL layer in database.py by&amp;#8230; Restructuring and refactoring icsWriter.py and remote.py  Roadblocks:
+ We don&amp;#8217;t have any unit or integration tests, so it&amp;#8217;s impossible to be completely reassured with code changes.  Next Steps:
+ Write integration tests for database.py? Write unit tests for remote.py Further restructuring of remote.</description>
+    </item>
+    
+    <item>
+      <title>ElmCity Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-updates/</link>
+      <pubDate>Fri, 02 Oct 2009 19:28:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/10/elmcity-updates/</guid>
+      <description>Following our wonderful progress during the code-sprint, the results of which can be seen here, we&amp;#8217;ve tried to regroup and set forth a list of goals we can achieve by the end of the semester.
+For our FuseCal replacement, we hope to make it a really robust service with even more bells and whistles than FuseCal had. Here is the list of goals we came up with on Sunday, and the discussion on who wants to tackle which parts.</description>
+    </item>
+    
+    <item>
+      <title>Code Sprint &amp;#8212; Day 2</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/code-sprint-day-2/</link>
+      <pubDate>Sat, 26 Sep 2009 21:08:17 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/code-sprint-day-2/</guid>
+      <description>…and the sun is setting on day 2 of the code sprint. Today we were able to combine the two plugins together and get a working front-end. Each of the plugins each returna list of events that is returned to the front end. Here is the link for the front end: http://elmcity.cs.toronto.edu/ As of now, we have only handled the two urls shown in the examples. It only intelligent enough to handle those two.</description>
+    </item>
+    
+    <item>
+      <title>Day 1 From Everyone Else</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</link>
+      <pubDate>Sat, 26 Sep 2009 12:55:12 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/day-1-from-everyone-else/</guid>
+      <description>The Basie team posted their first-day report on their blog. No word yet from Ingres or MarkUs, but we&amp;#8217;re hopeful 🙂 And just to prove we&amp;#8217;re all here:
+Basie
+Eclipse4Edu
+
+ElmCity
+
+Ingres
+
+MarkUs
+
+Robocup
+
+Thunderbird
+
+**_WikiDev
+_**</description>
+    </item>
+    
+    <item>
+      <title>Elmcity!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcity/</link>
+      <pubDate>Fri, 25 Sep 2009 20:57:46 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcity/</guid>
+      <description>As the first day draws to a close, the elmcity crew is putting the finishing touches on our project skeleton. A very productive day has been had by all, most of us were a little unsure about how to even begin when the day started, but by now everyone has assigned themselves a part of the project. We’re essentially re-creating the backend of the defunct FuseCal, hoping to have a solid (if limited) version of it operating by the end of the code sprint weekend.</description>
+    </item>
+    
+    <item>
+      <title>Status Updates</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</link>
+      <pubDate>Thu, 24 Sep 2009 15:30:58 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/798/</guid>
+      <description>Here are the latest progress reports from the teams (with Ingres, Thunderbird, and WikiDev still to come):
+ Basie * Build a toy application in Django and check it into the Subversion repository to prove that they have started learning the framework.  Get Basie running on their development machine and send us a URL so that we can check it. Fix some of our broken test fixtures (long story) and put their changes up for code review.</description>
+    </item>
+    
+    <item>
+      <title>ElmCity in-person meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcity-in-person-meeting/</link>
+      <pubDate>Sat, 19 Sep 2009 21:56:25 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcity-in-person-meeting/</guid>
+      <description>Torontonian part of the team had an in-person meeting today. Pending approval of our Michigan colleagues, we have outlined several important guidelines concerning our future work. A summary of the discussion can be found here. In meantime we are spending the time before the Code Sprint dissecting MySpace and LibraryThing. It&amp;#8217;s fun! </description>
+    </item>
+    
+    <item>
+      <title>Elmcity&amp;#039;s First Online Meeting</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcitys-first-online-meeting/</link>
+      <pubDate>Sun, 13 Sep 2009 11:01:51 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/09/elmcitys-first-online-meeting/</guid>
+      <description>The ElmCity team had their first online meeting on September 10, and decided to tackle the FuseCal challenge. Their warmup exercise is site-specific scrapers for MySpace and LibraryThing.</description>
+    </item>
+    
+    <item>
+      <title>Diane Tam</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/diane-tam/</link>
+      <pubDate>Wed, 09 Sep 2009 06:11:05 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/diane-tam/</guid>
+      <description>Hi Everyone,
+My name is Diane Tam and I&amp;#8217;ll be working on the ElmCity project. I graduated from the Computer Science program at UofT about 3 years ago but recently developed a great interest in pursuing graduate studies in Computer Science. As a result, I decided to come back to take some courses, specifically research related ones, to narrow down my field of interest and better prepare myself for graduate studies.</description>
+    </item>
+    
+    <item>
+      <title>Meghan McNeil</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/meghan-mcneil/</link>
+      <pubDate>Wed, 09 Sep 2009 02:49:07 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/meghan-mcneil/</guid>
+      <description>Hi, I am Meghan McNeil and I am working on the ElmCity project.
+I am in my 4th year at Michigan State University, however I will not be graduating until next December. In classes I have worked on various amounts of projects using C++ and Python. While in school I have been working as a part time web developer where I work with PHP and JavaScript/AJAX on various sites. This past summer I was able to intern at Cobham, North America (formally known as Sparta Inc.</description>
+    </item>
+    
+    <item>
+      <title>Enrolment Is Now Closed</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</link>
+      <pubDate>Sun, 06 Sep 2009 11:21:59 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/basie/2009/09/enrolment-is-now-closed/</guid>
+      <description>With the acceptance of two students from the Université de Sherbrooke, enrolment is now closed for the Fall 2009 term. Our teams stand like this:
+    Alberta   Carleton   Laval   MSU   MUN   SFU   Sherbrooke   UBC   UT   UTM   UTS   UVI   UVic   Waterloo   Total     Basie   1         1   2       2           1   7     Eclipse4Edu   1   1           2       1           5     ElmCity         2           2   1           5     Ingres         2           2       3       7     MarkUs       3             2     1       2   8     RoboCup             2       3           1   6     Thunderbird   1       1         1         2       5     WikiDev             2               2   2   6     Total   3   1   3   5   1   6   2   1   11   2   1   5   2   6   49    Groups will be having their first team meetings online this week, and will start arriving in Toronto for the code sprint in two and a half weeks.</description>
+    </item>
+    
+    <item>
+      <title>Jack Carlson</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jack-carlson/</link>
+      <pubDate>Sat, 05 Sep 2009 20:50:55 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jack-carlson/</guid>
+      <description>Hi, I&amp;#8217;m Jack Carlson. I&amp;#8217;m an undergraduate Computer Science senior at Michigan State University, and will be working on the ElmCity project this fall.
+Since this past summer, my recent coding experience includes an internship with TechSmith Corporation (software company in Okemos near MSU, using mostly C#/.NET), and am continuing that internship through the Fall. For coding in my spare time, I do web development for several projects and have been learning Objective-C/Cocoa for iPhone development.</description>
+    </item>
+    
+    <item>
+      <title>Nikita Pchelin</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/253/</link>
+      <pubDate>Fri, 04 Sep 2009 07:19:41 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/253/</guid>
+      <description>Hi guys, my name is Nikita (to forestall any questions &amp;#8211; yes that&amp;#8217;s a male name in some countries, including Russia! :]) Pchelin and this semester I will be working on the ElmCity project.
+I am a 3rd year CS and French student, at the University of Toronto (Mississauga campus). I am really excited about taking this course – partly because if the programming challenges, but also because I want to experience working in a large team.</description>
+    </item>
+    
+    <item>
+      <title>Jory Graham</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jory-graham/</link>
+      <pubDate>Fri, 04 Sep 2009 01:36:13 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/bios/2009/09/jory-graham/</guid>
+      <description>Hi, my name is Jory Graham, and I&amp;#8217;m looking forward to working with some of you on the elmcity project.
+I&amp;#8217;m an undergraduate student at the University of Toronto, just finishing up my last few courses. I&amp;#8217;m primarily interested in natural language processing (which I plan on continuing to study), and calendar data is no exception. My underlying interests are the subconcious patterns that we all abide by without realizing.</description>
+    </item>
+    
+    <item>
+      <title>Two Readings for ElmCity</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/08/200/</link>
+      <pubDate>Fri, 28 Aug 2009 10:09:52 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/08/200/</guid>
+      <description>I spoke yesterday with Jon Udell about goals for ElmCity for this fall. He has since posted two very cool things:
+ Using FriendFeed to manage a loosely-coupled team. Pulling project members&amp;#8217; own blog postings, Facebook status updates, tweets, and the like together in one place is probably as cost-effective a way to manage a team as the usual mailing list + IRC channel. A lengthy description of how to make elmcity and WordPress play nicely together.</description>
+    </item>
+    
+    <item>
+      <title>More Information on ElmCity</title>
+      <link>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/08/more-information-on-elmcity/</link>
+      <pubDate>Fri, 14 Aug 2009 12:54:34 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/2009-2010/elmcity/2009/08/more-information-on-elmcity/</guid>
+      <description>Jon Udell has put up a blog post with (much) more information about the ElmCity project. As he sees it, there&amp;#8217;s scope for both a general calendar data scraper, and a hybrid system for finding information about recurring events and making it explicit. Lots of room here to do a lot of creative things&amp;#8230;</description>
+    </item>
+    
+  </channel>
+</rss>

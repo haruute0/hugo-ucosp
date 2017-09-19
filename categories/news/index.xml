@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on UCOSP</title>
+    <link>https://haruute0.github.io/hugo-ucosp/categories/news/</link>
+    <description>Recent content in News on UCOSP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Aug 2010 00:12:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://haruute0.github.io/hugo-ucosp/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UCOSP goes to OSCON: how is open source doing in academia?</title>
+      <link>https://haruute0.github.io/hugo-ucosp/news/2010/08/oscon-open-source-in-academia/</link>
+      <pubDate>Wed, 04 Aug 2010 00:12:36 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/news/2010/08/oscon-open-source-in-academia/</guid>
+      <description>OSCON? What&amp;#8217;s OSCON?
+ A keynote talk at OSCON   OSCON brings together people like you from across the open source universe to learn, inspire each other, and collaborate.
+ If our mission is to get students working on cool open source projects, what better place to look for mentors?
+In addition, we were interested in how other people are teaching open source software in academia. Luckily, OSCON had lots of people with something to say on the topic.</description>
+    </item>
+    
+    <item>
+      <title>UCOSP is expanding, and we need you!</title>
+      <link>https://haruute0.github.io/hugo-ucosp/news/2010/06/ucosp-is-expanding/</link>
+      <pubDate>Tue, 22 Jun 2010 01:17:00 +0000</pubDate>
+      
+      <guid>https://haruute0.github.io/hugo-ucosp/news/2010/06/ucosp-is-expanding/</guid>
+      <description>UCOSP, the distributed undergraduate capstone course, is preparing for another year and we need your help!
+Forgot what UCOSP is? Here&amp;#8217;s a refresher.
+ Undergraduate Capstone Open Source Projects brings together students from coast to coast to work together on joint capstone projects. Students learn first-hand what distributed development is like. Each team has students from two or three schools, and uses a mix of agile and open source processes under the supervision of a faculty or industry lead.</description>
+    </item>
+    
+  </channel>
+</rss>
