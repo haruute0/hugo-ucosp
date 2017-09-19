@@ -1,4 +1,5 @@
-baseURL: //haruute0.github.io/hugo-ucosp/
+baseURL: "https://haruute0.github.io/hugo-ucosp/"
 disablePathToLower: true
 languageCode: en-us
 title: UCOSP
+theme: "heather-hugo-master"
